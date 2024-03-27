@@ -35,6 +35,9 @@ One (_small_) caveat is that when cloning your repository you have to tell Git t
 the submodules as well. Fortunately, this is easy!
 ```shell
 git clone --recurse-submodules <your git repo>
+
+# Or if you already cloned the repo and forgot to init the submodules:
+git submodule update --init <folder>
 ```
 
 ### Learn more
