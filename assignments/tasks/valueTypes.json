@@ -1,7 +1,5 @@
 {
-    "valueTypes": {
-        "0": "Unk",
-        "1": "Unk",
-        "2": "Unk"
-    }
+    "0": "Unknown",
+    "1": "Unknown",
+    "2": "Unknown"
 }

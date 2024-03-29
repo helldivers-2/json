@@ -1,7 +1,5 @@
 {
-    "values": {
-        "0": "Unk",
-        "1": "Unk",
-        "2": "Planet Index"
-    }
+    "0": "Unknown",
+    "1": "Unknown",
+    "2": "Planet Index"
 }
