@@ -1,0 +1,66 @@
+{
+	"1": {
+		"name": "P-2 Peacemaker",
+		"desc": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
+		"damage": 60,
+		"capacity": 15,
+		"recoil": 22,
+		"fire_rate": 900,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			0,
+			3
+		]
+	},
+	"3981773112": {
+		"name": "P-19 Redeemer",
+		"desc": "A fully-automatic pistol with an extremely high fire rate, allowing for efficient crowd control.",
+		"damage": 60,
+		"capacity": 31,
+		"recoil": 11,
+		"fire_rate": 1100,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			0,
+			3
+		]
+	},
+	"1374036584": {
+		"name": "P-4 Senator",
+		"desc": "A high-damage revolver, which can be reloaded with single rounds. A heavy-hitting and reliable sidearm.",
+		"damage": 150,
+		"capacity": 6,
+		"recoil": 43,
+		"fire_rate": 200,
+		"fire_mode": [
+			4
+		],
+		"traits": [
+			0,
+			3,
+			4
+		]
+	},
+	"2501707184": {
+		"name": "LAS-7 Dagger",
+		"desc": "",
+		"damage": 150,
+		"capacity": 5,
+		"recoil": 1,
+		"fire_rate": 0,
+		"fire_mode": [
+			2
+		],
+		"traits": [
+			0,
+			3,
+			7,
+			8
+		]
+	}
+}

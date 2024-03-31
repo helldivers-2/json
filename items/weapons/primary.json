@@ -1,0 +1,270 @@
+{
+	"1": {
+		"name": "AR-23 Liberator",
+		"desc": "The SEAF standard assault rifle, balancing power, fire rate, and weight for a reliable weapon against smaller targets.",
+		"types": 1,
+		"damage": 55,
+		"capacity": 45,
+		"recoil": 15,
+		"fire_rate": 640,
+		"fire_mode": [
+			0,
+			1,
+			2
+		],
+		"traits": [
+			0
+		]
+	},
+	"1676113140": {
+		"name": "AR-23P Liberator Penetrator",
+		"desc": "A modified Liberator featuring a scope and firing armor-piercing rounds, to help users take down armored targets.",
+		"types": 1,
+		"damage": 45,
+		"capacity": 30,
+		"recoil": 19,
+		"fire_rate": 640,
+		"fire_mode": [
+			0,
+			1
+		],
+		"traits": [
+			0,
+			1
+		]
+	},
+	"376039023": {
+		"name": "AR-23C Liberator Concussive",
+		"desc": "A modified Liberator featuring explosive rounds and a red-dot sight. Trades increased damage for increased recoil.",
+		"types": 1,
+		"damage": 55,
+		"capacity": 30,
+		"recoil": 28,
+		"fire_rate": 320,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			0,
+			5
+		]
+	},
+	"2088854385": {
+		"name": "SG-8 Punisher",
+		"desc": "A powerful dual magazine pump-action shotgun, with limited armor penetration. Ideal for small and fast targets.",
+		"types": 2,
+		"damage": 405,
+		"capacity": 16,
+		"recoil": 120,
+		"fire_rate": 80,
+		"fire_mode": [
+			3
+		],
+		"traits": [
+			0,
+			4
+		]
+	},
+	"3955657629": {
+		"name": "SG-8P Punisher Plasma",
+		"desc": "",
+		"types": 2,
+		"damage": 100,
+		"capacity": 8,
+		"recoil": 110,
+		"fire_rate": 80,
+		"fire_mode": [
+			3
+		],
+		"traits": [
+			5
+		]
+	},
+	"2246547985": {
+		"name": "SG-8S Slugger",
+		"desc": "A modified Punisher shotgun firing heavy, high-damage slug rounds. Perfect for punching holes in big targets.",
+		"types": 2,
+		"damage": 280,
+		"capacity": 16,
+		"recoil": 120,
+		"fire_rate": 80,
+		"fire_mode": [
+			3
+		],
+		"traits": [
+			0,
+			4
+		]
+	},
+	"1182300424": {
+		"name": "SG-225 Breaker",
+		"desc": "A fully-automatic shotgun with a high rate of fire, excellent for controlling crowds. Requires frequent reloading.",
+		"types": 2,
+		"damage": 330,
+		"capacity": 13,
+		"recoil": 55,
+		"fire_rate": 300,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			0
+		]
+	},
+	"3068666625": {
+		"name": "SG-225IE Breaker Incendiary",
+		"desc": "",
+		"types": 2,
+		"damage": 180,
+		"capacity": 25,
+		"recoil": 28,
+		"fire_rate": 300,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			0,
+			6
+		]
+	},
+	"3814689025": {
+		"name": "SG-225SP Breaker Spray&Pra",
+		"desc": "A modified Breaker shotgun firing birdshot, small pellets which saturate an area to clear up smaller targets.",
+		"types": 2,
+		"damage": 192,
+		"capacity": 26,
+		"recoil": 45,
+		"fire_rate": 330,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			0
+		]
+	},
+	"999487482": {
+		"name": "ARC-12 Blitzer",
+		"desc": "",
+		"types": 2,
+		"damage": 250,
+		"capacity": 999,
+		"recoil": 60,
+		"fire_rate": 30,
+		"fire_mode": [],
+		"traits": []
+	},
+	"2821209932": {
+		"name": "SMG-37 Defender",
+		"desc": "A high-caliber submachine gun which can be fired with one hand. Has a relatively low rate of fire.",
+		"types": 3,
+		"damage": 70,
+		"capacity": 45,
+		"recoil": 10,
+		"fire_rate": 520,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			0,
+			3
+		]
+	},
+	"2307301438": {
+		"name": "R-63 Diligence",
+		"desc": "This high-caliber marksman rifle trades magazine capacity and rate of fire for powerful, accurate shots.",
+		"types": 4,
+		"damage": 112,
+		"capacity": 20,
+		"recoil": 35,
+		"fire_rate": 350,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			0
+		]
+	},
+	"924530093": {
+		"name": "R-63CS Diligence Counter Sniper",
+		"desc": "A modified Diligence rifle offering increased damage, but a reduced rate of fire. Fires a single bullet at a time.",
+		"types": 4,
+		"damage": 128,
+		"capacity": 15,
+		"recoil": 53,
+		"fire_rate": 350,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			0
+		]
+	},
+	"3866352840": {
+		"name": "LAS-5 Scythe",
+		"desc": "A laser rifle firing a continuous beam. Does not need reloading, but if it overheats a new heat sink must be fitted.",
+		"types": 5,
+		"damage": 300,
+		"capacity": 8,
+		"recoil": 1,
+		"fire_rate": 0,
+		"fire_mode": [
+			2
+		],
+		"traits": [
+			0,
+			7,
+			8
+		]
+	},
+	"1794436168": {
+		"name": "LAS-16 Sickle",
+		"desc": "A laser rifle, firing in short bursts. Does not need reloading, but if it overheats a new heat sink must be fitted.",
+		"types": 5,
+		"damage": 55,
+		"capacity": 9,
+		"recoil": 2,
+		"fire_rate": 750,
+		"fire_mode": [
+			2
+		],
+		"traits": [
+			0,
+			8
+		]
+	},
+	"925809350": {
+		"name": "PLAS-1 Scorcher",
+		"desc": "",
+		"types": 5,
+		"damage": 100,
+		"capacity": 15,
+		"recoil": 20,
+		"fire_rate": 250,
+		"fire_mode": [],
+		"traits": [
+			0,
+			5
+		]
+	},
+	"2121387072": {
+		"name": "JAR-5 Dominator",
+		"desc": "Firing jet-propelled rounds, the Dominator trades fire rate and magazine capacity for increased damage per projectile.",
+		"types": 6,
+		"damage": 200,
+		"capacity": 15,
+		"recoil": 75,
+		"fire_rate": 250,
+		"fire_mode": [
+			0,
+			1
+		],
+		"traits": [
+			1
+		]
+	}
+}

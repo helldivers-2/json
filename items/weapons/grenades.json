@@ -1,0 +1,50 @@
+{
+	"1": {
+		"name": "G-12 High Explosive",
+		"desc": "A high explosive grenade which damages lightly armored targets. Creates high damage over a small area when detonated.",
+		"damage": 0,
+		"penetration": 6,
+		"outer_radius": 10,
+		"fuse_time": 1.8
+	},
+	"375014954": {
+		"name": "G-23 Stun",
+		"desc": "",
+		"damage": 400,
+		"penetration": 4,
+		"outer_radius": 7,
+		"fuse_time": 3.5
+	},
+	"2823164517": {
+		"name": "G-16 Impact",
+		"desc": "A high explosive grenade which detonates on first impact.",
+		"damage": 400,
+		"penetration": 4,
+		"outer_radius": 7,
+		"fuse_time": 0
+	},
+	"2877510587": {
+		"name": "G-3 Smoke",
+		"desc": "A 'compliance weapon' to modify enemy behaviour. Creates a thick smoke screen to block targets' line of sight",
+		"damage": 0,
+		"penetration": 0,
+		"outer_radius": 5,
+		"fuse_time": 2.4
+	},
+	"3295898003": {
+		"name": "G-6 Frag",
+		"desc": "An antipersonnel fragmentation grenade. Creates damage over a large area when detonated.",
+		"damage": 250,
+		"penetration": 3,
+		"outer_radius": 8,
+		"fuse_time": 2.4
+	},
+	"3748749890": {
+		"name": "G-10 Incendiary",
+		"desc": "",
+		"damage": 0,
+		"penetration": 0,
+		"outer_radius": 0,
+		"fuse_time": 0
+	}
+}
