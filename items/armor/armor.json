@@ -1,0 +1,434 @@
+{
+	"4111053667": {
+		"name": "Agent of Oblivion",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2653547055": {
+		"name": "Bastion of Integrity",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"4176085421": {
+		"name": "Blazing Samaritan",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"734807139": {
+		"name": "Botslayer",
+		"desc": "A cape that strikes a subroutine emulating fear into the CPUs of all Automatons who conduct visual scans of it.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"627197346": {
+		"name": "CE-35 Trench Engineer",
+		"desc": "After colonists of Hellmire recovered a lost shipment of this armor, the local pastime of fence-smashing was born.",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 6
+	},
+	"2137194125": {
+		"name": "CE-35 Trench Engineer",
+		"desc": "After colonists of Hellmire recovered a lost shipment of this armor, the local pastime of fence-smashing was born.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3598091569": {
+		"name": "Cloak of Posterity's Gratitude",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"726539469": {
+		"name": "CM-09 Bonesnapper",
+		"desc": "Based on a colonial surgeon's gown, where surgeries were often interrupted by a need to perform defensive duties",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 7
+	},
+	"3202051201": {
+		"name": "CM-09 Bonesnapper",
+		"desc": "Based on a colonial surgeon's gown, where surgeries were often interrupted by a need to perform defensive duties",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2255718673": {
+		"name": "CM-14 Physician",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3658884708": {
+		"name": "CM-14 Physician",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 7
+	},
+	"1404455928": {
+		"name": "Cresting Honor",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1533004132": {
+		"name": "DP-11 Champion of the People",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2948747084": {
+		"name": "DP-11 Champion of the People",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 9
+	},
+	"2076005753": {
+		"name": "DP-40 Hero of the Federation",
+		"desc": "Though originally intended solely for ceremonial use, its inspirational energy proved equally useful on the battlefield.",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 9
+	},
+	"2257162260": {
+		"name": "DP-40 Hero of the Federation",
+		"desc": "Though originally intended solely for ceremonial use, its inspirational energy proved equally useful on the battlefield.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"377236948": {
+		"name": "EX-00 Prototype X",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1853367679": {
+		"name": "EX-00 Prototype X",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 50,
+		"speed": 550,
+		"stamina_regen": 125,
+		"passive": 5
+	},
+	"1004735217": {
+		"name": "EX-03 Prototype 3",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3605514351": {
+		"name": "EX-03 Prototype 3",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 5
+	},
+	"1223759745": {
+		"name": "EX-16 Prototype 16",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 5
+	},
+	"3182289738": {
+		"name": "EX-16 Prototype 16",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2380729224": {
+		"name": "FS-05 Marksman",
+		"desc": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3377389763": {
+		"name": "FS-05 Marksman",
+		"desc": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes",
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 3
+	},
+	"1452909167": {
+		"name": "FS-23 Battle Master",
+		"desc": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2037274048": {
+		"name": "FS-23 Battle Master",
+		"desc": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 3
+	},
+	"752209840": {
+		"name": "Independence Bringer",
+		"desc": "This cape's cropped length symbolizes the brevity of galactic conflicts, thanks to the efficiency of the Helldivers.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3259725045": {
+		"name": "Judgement Day",
+		"desc": "The Helldiver Skull is said to strike fear in the hearts of foes attempting to sneak up on those wearing this cape.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3562998132": {
+		"name": "Liberty's Herald",
+		"desc": "The two stripes server as a reminder of the two pillars of successful military campaigns: attack, and further attack.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1853027475": {
+		"name": "Light of Eternal Liberty",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"843390517": {
+		"name": "Mantle of True Citizenship",
+		"desc": "The featherlight construction belies the heavy burden this cape entails - to live the Creed of the True Citizen",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3239075772": {
+		"name": "Martyris Rex",
+		"desc": "",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2396807401": {
+		"name": "SA-04 Combat Technician",
+		"desc": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 16
+	},
+	"4111545584": {
+		"name": "SA-04 Combat Technician",
+		"desc": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1675214662": {
+		"name": "SA-12 Servo Assisted",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2858087169": {
+		"name": "SA-12 Servo Assisted",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 8
+	},
+	"58483197": {
+		"name": "SA-25 Steel Trooper",
+		"desc": "For optimal performance, the manufacturer recommends avoiding immersing this armor in salt water for prolonged periods.",
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 8
+	},
+	"197210556": {
+		"name": "SA-25 Steel Trooper",
+		"desc": "For optimal performance, the manufacturer recommends avoiding immersing this armor in salt water for prolonged periods.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3108744452": {
+		"name": "SA-32 Dynamo",
+		"desc": "",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3247235347": {
+		"name": "SA-32 Dynamo",
+		"desc": "",
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 8
+	},
+	"161123434": {
+		"name": "SC-30 Trailblazer Scout",
+		"desc": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3884524834": {
+		"name": "SC-30 Trailblazer Scout",
+		"desc": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
+		"slot": 2,
+		"armor_rating": 50,
+		"speed": 550,
+		"stamina_regen": 125,
+		"passive": 16
+	},
+	"1494299745": {
+		"name": "SC-34 Infiltrator",
+		"desc": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2441344260": {
+		"name": "SC-34 Infiltrator",
+		"desc": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
+		"slot": 2,
+		"armor_rating": 70,
+		"speed": 530,
+		"stamina_regen": 115,
+		"passive": 16
+	},
+	"4000666917": {
+		"name": "The Cape of Stars and Suffrage",
+		"desc": "A symbol of Super Earth's Astral Promise: that every star shall one day illuminate throngs of joyous voters.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2321467216": {
+		"name": "Tideturner",
+		"desc": "Some say that a mere glimpse of this cape, fluttering majestically in the breeze, is enough to spur a squad to victory.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1090563915": {
+		"name": "Tyrant Hunter",
+		"desc": "The cape's shredded hem presages the unrelenting savagery its wielder will visit upon the nemeses of Freedom.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2779185355": {
+		"name": "Unblemished Allegiance",
+		"desc": "A choir of patriotic schoolchildren sings the Super Earth anthem to each cape as the final step in its production.",
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	}
+}
