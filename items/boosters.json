@@ -2,81 +2,41 @@
 	"684729784": {
 		"name": "Stamina Enhancement",
 		"description": "Increases all Helldivers' stamina capacity and recovery.",
-		"unlock": "Helldivers Mobilize Warbond",
-		"cost": {
-			"individual": 75,
-			"total": 495,
-			"page": 7
-		}
+		"unlock": "Helldivers Mobilize Warbond"
 	},
 	"876985512": {
 		"name": "Localisation Confusion",
 		"description": "Increases the time between enemy encounters.",
-		"unlock": "Cutting Edge Premium Warbond",
-		"cost": {
-			"individual": 18,
-			"total": 18,
-			"page": 1
-		}
+		"unlock": "Cutting Edge Premium Warbond"
 	},
 	"1110686504": {
 		"name": "Vitality Enhancement",
 		"description": "Allows all Helldivers to resist injury.",
-		"unlock": "Helldivers Mobilize Warbond",
-		"cost": {
-			"individual": 20,
-			"total": 95,
-			"page": 4
-		}
+		"unlock": "Helldivers Mobilize Warbond"
 	},
 	"1908198785": {
 		"name": "Hellpod Optimisation",
 		"description": "Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims.",
-		"unlock": "Helldivers Mobilize Warbond",
-		"cost": {
-			"individual": 15,
-			"total": 100,
-			"page": 1
-		}
+		"unlock": "Helldivers Mobilize Warbond"
 	},
 	"2776452811": {
 		"name": "Muscle Enhancement",
 		"description": "Allows Helldivers to traverse difficult terrain with ease.",
-		"unlock": "Helldivers Mobilize Warbond",
-		"cost": {
-			"individual": 70,
-			"total": 920,
-			"page": 9
-		}
+		"unlock": "Helldivers Mobilize Warbond"
 	},
 	"4066886572": {
 		"name": "Increased Reinforcement Budget",
 		"description": "Increases the number of available reinforcements.",
-		"unlock": "Helldivers Mobilize Warbond",
-		"cost": {
-			"individual": 150,
-			"total": 1350,
-			"page": 10
-		}
+		"unlock": "Helldivers Mobilize Warbond"
 	},
 	"4136928865": {
 		"name": "UAV Recon Booster",
 		"description": "Increases all Helldivers' effective radar range.",
-		"unlock": "Helldivers Mobilize Warbond",
-		"cost": {
-			"individual": 40,
-			"total": 300,
-			"page": 6
-		}
+		"unlock": "Helldivers Mobilize Warbond"
 	},
 	"4273318008": {
 		"name": "Flexible Reinforcement Budget",
 		"description": "Reduces time until new reinforcements are granted once they've been depleted.",
-		"unlock": "Steeled Veterans Premium Warbond",
-		"cost": {
-			"individual": 75,
-			"total": 275,
-			"page": 3
-		}
+		"unlock": "Steeled Veterans Premium Warbond"
 	}
 }
