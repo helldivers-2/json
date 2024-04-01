@@ -9,7 +9,7 @@
 	},
 	"375014954": {
 		"name": "G-23 Stun",
-		"desc": "",
+		"desc": "Temporarily stuns all targets within the effective radius.",
 		"damage": 400,
 		"penetration": 4,
 		"outer_radius": 7,
@@ -41,7 +41,7 @@
 	},
 	"3748749890": {
 		"name": "G-10 Incendiary",
-		"desc": "",
+		"desc": "An incendiary grenade designed for igniting intense fires upon detonation. Spreads burning material over a moderate area, causing burn damage.",
 		"damage": 0,
 		"penetration": 0,
 		"outer_radius": 0,
