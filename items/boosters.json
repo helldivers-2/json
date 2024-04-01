@@ -1,0 +1,34 @@
+{
+	"684729784": {
+		"name": "Stamina Enhancement",
+		"description": "Increases all Helldivers' stamina capacity and recovery."
+	},
+	"876985512": {
+		"name": "Localisation Confusion",
+		"description": "Increases the time between enemy encounters."
+	},
+	"1110686504": {
+		"name": "Vitality Enhancement",
+		"description": "Allows all Helldivers to resist injury."
+	},
+	"1908198785": {
+		"name": "Hellpod Optimisation",
+		"description": "Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims."
+	},
+	"2776452811": {
+		"name": "Muscle Enhancement",
+		"description": "Allows Helldivers to traverse difficult terrain with ease."
+	},
+	"4066886572": {
+		"name": "Increased Reinforcement Budget",
+		"description": "Increases the number of available reinforcements."
+	},
+	"4136928865": {
+		"name": "UAV Recon Booster",
+		"description": "Increases all Helldivers' effective radar range."
+	},
+	"4273318008": {
+		"name": "Flexible Reinforcement Budget",
+		"description": "Reduces time until new reinforcements are granted once they've been depleted."
+	}
+}

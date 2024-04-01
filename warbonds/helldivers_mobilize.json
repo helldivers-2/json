@@ -1,0 +1,372 @@
+{
+	"1": {
+		"medals_to_unlock": 0,
+		"items": [
+			{
+				"item_id": 1861407750,
+				"medal_cost": 1
+			},
+			{
+				"item_id": 1964594095,
+				"medal_cost": 1
+			},
+			{
+				"item_id": 3295898003,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 1
+			},
+			{
+				"item_id": 2441344260,
+				"medal_cost": 3
+			},
+			{
+				"item_id": 2088854385,
+				"medal_cost": 4
+			},
+			{
+				"item_id": 1494299745,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 752209840,
+				"medal_cost": 2
+			}
+		]
+	},
+	"2": {
+		"medals_to_unlock": 8,
+		"items": [
+			{
+				"item_id": 4053116626,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 3981773112,
+				"medal_cost": 5
+			},
+			{
+				"item_id": 3925525294,
+				"medal_cost": 1
+			},
+			{
+				"item_id": 3377389763,
+				"medal_cost": 6
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 2307301438,
+				"medal_cost": 8
+			},
+			{
+				"item_id": 2380729224,
+				"medal_cost": 5
+			},
+			{
+				"item_id": 3562998132,
+				"medal_cost": 3
+			}
+		]
+	},
+	"3": {
+		"medals_to_unlock": 35,
+		"items": [
+			{
+				"item_id": 1845984949,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 1200031688,
+				"medal_cost": 8
+			},
+			{
+				"item_id": 1908198785,
+				"medal_cost": 15
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 3
+			},
+			{
+				"item_id": 627197346,
+				"medal_cost": 10
+			},
+			{
+				"item_id": 2137194125,
+				"medal_cost": 7
+			},
+			{
+				"item_id": 2321467216,
+				"medal_cost": 5
+			},
+			{
+				"item_id": 2821209932,
+				"medal_cost": 15
+			}
+		]
+	},
+	"4": {
+		"medals_to_unlock": 75,
+		"items": [
+			{
+				"item_id": 2665206765,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 1460633236,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 1110686504,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 726539469,
+				"medal_cost": 15
+			},
+			{
+				"item_id": 1182300424,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 3202051201,
+				"medal_cost": 12
+			},
+			{
+				"item_id": 4000666917,
+				"medal_cost": 8
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 6
+			}
+		]
+	},
+	"5": {
+		"medals_to_unlock": 150,
+		"items": [
+			{
+				"item_id": 2823164517,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 198334139,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 4114132787,
+				"medal_cost": 4
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 10
+			},
+			{
+				"item_id": 2076005753,
+				"medal_cost": 25
+			},
+			{
+				"item_id": 3866352840,
+				"medal_cost": 30
+			},
+			{
+				"item_id": 2257162260,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 2779185355,
+				"medal_cost": 12
+			}
+		]
+	},
+	"6": {
+		"medals_to_unlock": 260,
+		"items": [
+			{
+				"item_id": 2786980659,
+				"medal_cost": 10
+			},
+			{
+				"item_id": 4136928865,
+				"medal_cost": 40
+			},
+			{
+				"item_id": 3566084877,
+				"medal_cost": 6
+			},
+			{
+				"item_id": 2037274048,
+				"medal_cost": 35
+			},
+			{
+				"item_id": 3889850488,
+				"medal_cost": 15
+			},
+			{
+				"item_id": 1676113140,
+				"medal_cost": 40
+			},
+			{
+				"item_id": 1452909167,
+				"medal_cost": 25
+			},
+			{
+				"item_id": 3259725045,
+				"medal_cost": 15
+			}
+		]
+	},
+	"7": {
+		"medals_to_unlock": 420,
+		"items": [
+			{
+				"item_id": 684729784,
+				"medal_cost": 75
+			},
+			{
+				"item_id": 1508758952,
+				"medal_cost": 35
+			},
+			{
+				"item_id": 4236565715,
+				"medal_cost": 7
+			},
+			{
+				"item_id": 3889850488,
+				"medal_cost": 15
+			},
+			{
+				"item_id": 924530093,
+				"medal_cost": 40
+			},
+			{
+				"item_id": 3884524834,
+				"medal_cost": 50
+			},
+			{
+				"item_id": 161123434,
+				"medal_cost": 35
+			},
+			{
+				"item_id": 1404455928,
+				"medal_cost": 15
+			}
+		]
+	},
+	"8": {
+		"medals_to_unlock": 650,
+		"items": [
+			{
+				"item_id": 836157113,
+				"medal_cost": 50
+			},
+			{
+				"item_id": 2877510587,
+				"medal_cost": 25
+			},
+			{
+				"item_id": 2396807401,
+				"medal_cost": 60
+			},
+			{
+				"item_id": 3889850488,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 2246547985,
+				"medal_cost": 60
+			},
+			{
+				"item_id": 2951759505,
+				"medal_cost": 10
+			},
+			{
+				"item_id": 843390517,
+				"medal_cost": 25
+			},
+			{
+				"item_id": 4111545584,
+				"medal_cost": 40
+			}
+		]
+	},
+	"9": {
+		"medals_to_unlock": 850,
+		"items": [
+			{
+				"item_id": 2776452811,
+				"medal_cost": 70
+			},
+			{
+				"item_id": 3748104941,
+				"medal_cost": 30
+			},
+			{
+				"item_id": 860720602,
+				"medal_cost": 15
+			},
+			{
+				"item_id": 3889850488,
+				"medal_cost": 25
+			},
+			{
+				"item_id": 3814689025,
+				"medal_cost": 60
+			},
+			{
+				"item_id": 3658884708,
+				"medal_cost": 70
+			},
+			{
+				"item_id": 2255718673,
+				"medal_cost": 50
+			},
+			{
+				"item_id": 4176085421,
+				"medal_cost": 30
+			}
+		]
+	},
+	"10": {
+		"medals_to_unlock": 1200,
+		"items": [
+			{
+				"item_id": 1680230884,
+				"medal_cost": 50
+			},
+			{
+				"item_id": 1067957260,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 2948747084,
+				"medal_cost": 100
+			},
+			{
+				"item_id": 1533004132,
+				"medal_cost": 75
+			},
+			{
+				"item_id": 1853027475,
+				"medal_cost": 40
+			},
+			{
+				"item_id": 925809350,
+				"medal_cost": 75
+			},
+			{
+				"item_id": 3889850488,
+				"medal_cost": 50
+			},
+			{
+				"item_id": 4066886572,
+				"medal_cost": 150
+			}
+		]
+	}
+}

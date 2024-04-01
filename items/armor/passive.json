@@ -1,0 +1,42 @@
+{
+	"0": {
+		"name": "Standard Issue",
+		"description": "No additional bonuses."
+	},
+	"1": {
+		"name": "Extra Padding",
+		"description": "Provides a higher armor rating."
+	},
+	"2": {
+		"name": "Scout",
+		"description": "Markers placed on the map will generate radar scans every #Ds. \n Reduces range at which enemies can detect the wearer by #I%."
+	},
+	"3": {
+		"name": "Fortified",
+		"description": "Further Reduces recoil when crouching or prone by #I%. \n Provides #I% resistance to explosive damage."
+	},
+	"4": {
+		"name": "Undiscovered",
+		"description": ""
+	},
+	"5": {
+		"name": "Electrical Conduit",
+		"description": "Provides #I% resistance to arc damage."
+	},
+	"6": {
+		"name": "Engineering Kit",
+		"description": "Further Reduces recoil when crouching or prone by #I%. \n Increases initial inventory and holding capacity of grenades by +#I."
+	},
+	"7": {
+		"name": "Med-Kit",
+		"description": "Increases initial inventory and holding capacity of stims by +#I. \n Increases stim effect duration by #Ds."
+	},
+	"8": {
+		"name": "Servo-Assisted",
+		"description": "Increases throwing range by #I%. \n Provides +#I% limb health."
+	},
+	"9": {
+		"name": "Democracy Protects",
+		"description": "#I% chance to not die when taking lethal damage. \n Prevents all damage from bleeding if chest hemorrhages."
+	}
+}
