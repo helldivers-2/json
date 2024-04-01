@@ -151,7 +151,7 @@
 		"description": "",
 		"type": 2,
 		"damage": 250,
-		"capacity": 999,
+		"capacity": null,
 		"recoil": 60,
 		"fire_rate": 30,
 		"fire_mode": [],
