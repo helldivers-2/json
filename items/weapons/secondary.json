@@ -41,14 +41,14 @@
 			4
 		],
 		"traits": [
-			1,
+			2,
 			4,
 			5
 		]
 	},
 	"2501707184": {
 		"name": "LAS-7 Dagger",
-		"desc": "A laser pistol that fires a continuous beam. Does not require ammo but can overheat and need to change batteries.",
+		"desc": "",
 		"damage": 150,
 		"capacity": 5,
 		"recoil": 1,
