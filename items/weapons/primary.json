@@ -26,7 +26,8 @@
 		"fire_rate": 640,
 		"fire_mode": [
 			0,
-			1
+			1,
+			2
 		],
 		"traits": [
 			1,
@@ -68,7 +69,7 @@
 	},
 	"3955657629": {
 		"name": "SG-8P Punisher Plasma",
-		"description": "",
+		"description": "A modified Punisher shotgun firing exploding plasma rounds. Fire carefully - exploding plasma can injure squadmates.",
 		"type": 2,
 		"damage": 100,
 		"capacity": 8,
@@ -85,7 +86,7 @@
 		"name": "SG-8S Slugger",
 		"description": "A modified Punisher shotgun firing heavy, high-damage slug rounds. Perfect for punching holes in big targets.",
 		"type": 2,
-		"damage": 280,
+		"damage": 250,
 		"capacity": 16,
 		"recoil": 120,
 		"fire_rate": 80,
@@ -93,7 +94,7 @@
 			3
 		],
 		"traits": [
-			1,
+			2,
 			5
 		]
 	},
@@ -115,9 +116,9 @@
 	},
 	"3068666625": {
 		"name": "SG-225IE Breaker Incendiary",
-		"description": "",
+		"description": "A modified Breaker shotgun firing incendiary projectiles. Generates heat during use, so limited to burst fire.",
 		"type": 2,
-		"damage": 180,
+		"damage": 240,
 		"capacity": 25,
 		"recoil": 28,
 		"fire_rate": 300,
@@ -148,10 +149,10 @@
 	},
 	"999487482": {
 		"name": "ARC-12 Blitzer",
-		"description": "",
+		"description": "This shotgun blasts a wide burst of high-voltage electricity that arcs between all units - enemy or otherwise - within range.",
 		"type": 2,
 		"damage": 250,
-		"capacity": null,
+		"capacity": 999,
 		"recoil": 60,
 		"fire_rate": 30,
 		"fire_mode": [],
@@ -203,7 +204,7 @@
 			0
 		],
 		"traits": [
-			1
+			2
 		]
 	},
 	"3866352840": {
@@ -241,7 +242,7 @@
 	},
 	"925809350": {
 		"name": "PLAS-1 Scorcher",
-		"description": "",
+		"description": "A plasma rifle, firing a bolt of superheated gas which explodes on impact. Avoid standing in proximity to the blast.",
 		"type": 5,
 		"damage": 100,
 		"capacity": 15,
@@ -257,7 +258,7 @@
 		"name": "JAR-5 Dominator",
 		"description": "Firing jet-propelled rounds, the Dominator trades fire rate and magazine capacity for increased damage per projectile.",
 		"type": 6,
-		"damage": 200,
+		"damage": 300,
 		"capacity": 15,
 		"recoil": 75,
 		"fire_rate": 250,
