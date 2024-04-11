@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Unknown",
+        "description": "This planet's biome is unknown at this time."
+    },
+    {
+        "name": "Rainforest",
+        "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+    },
+    {
+        "name": "Ethereal",
+        "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+    },
+    {
+        "name": "Jungle",
+        "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    {
+        "name": "Moon",
+        "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    {
+        "name": "Desert",
+        "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    {
+        "name": "Winter",
+        "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    {
+        "name": "Highlands",
+        "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    {
+        "name": "Icemoss",
+        "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    {
+        "name": "Icemoss Special",
+        "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    {
+        "name": "Tundra",
+        "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    {
+        "name": "Swamp",
+        "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    {
+        "name": "Desolate",
+        "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    {
+        "name": "Crimsonmoor",
+        "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    {
+        "name": "Canyon",
+        "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    {
+        "name": "Mesa",
+        "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    {
+        "name": "Toxic",
+        "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    }
+]

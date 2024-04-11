@@ -1,0 +1,2493 @@
+[
+	{
+		"name": "Super Earth",
+		"sector": "0",
+		"Sector Index": "0",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Klen Dahth II",
+		"sector": "1",
+		"Sector Index": "1",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Pathfinder V",
+		"sector": "1",
+		"Sector Index": "1",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Widow's Harbor",
+		"sector": "1",
+		"Sector Index": "1",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "New Haven",
+		"sector": "1",
+		"Sector Index": "1",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Pilen V",
+		"sector": "1",
+		"Sector Index": "1",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Hydrofall Prime",
+		"sector": "2",
+		"Sector Index": "2",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Zea Rugosia",
+		"sector": "3",
+		"Sector Index": "2",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Darrowsport",
+		"sector": "2",
+		"Sector Index": "2",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Fornskogur II",
+		"sector": "2",
+		"Sector Index": "2",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Midasburg",
+		"sector": "2",
+		"Sector Index": "2",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Cerberus IIIc",
+		"sector": "4",
+		"Sector Index": "3",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Prosperity Falls",
+		"sector": "4",
+		"Sector Index": "3",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Okul VI",
+		"sector": "5",
+		"Sector Index": "4",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Martyr's Bay",
+		"sector": "6",
+		"Sector Index": "5",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Freedom Peak",
+		"sector": "6",
+		"Sector Index": "5",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Fort Union",
+		"sector": "7",
+		"Sector Index": "5",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Kelvinor",
+		"sector": "6",
+		"Sector Index": "5",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Wraith",
+		"sector": "8",
+		"Sector Index": "6",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Igla",
+		"sector": "9",
+		"Sector Index": "7",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "New Kiruna",
+		"sector": "9",
+		"Sector Index": "7",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Fort Justice",
+		"sector": "9",
+		"Sector Index": "7",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Zegema Paradise",
+		"sector": "9",
+		"Sector Index": "7",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Providence",
+		"sector": "10",
+		"Sector Index": "8",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Primordia",
+		"sector": "10",
+		"Sector Index": "8",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Sulfura",
+		"sector": "11",
+		"Sector Index": "9",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Nublaria I",
+		"sector": "11",
+		"Sector Index": "9",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Krakatwo",
+		"sector": "11",
+		"Sector Index": "9",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Volterra",
+		"sector": "12",
+		"Sector Index": "9",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Crucible",
+		"sector": "12",
+		"Sector Index": "10",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Veil",
+		"sector": "2",
+		"Sector Index": "2",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Marre IV",
+		"sector": "2",
+		"Sector Index": "2",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Fort Sanctuary",
+		"sector": "4",
+		"Sector Index": "3",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Seyshel Beach",
+		"sector": "4",
+		"Sector Index": "3",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Hellmire",
+		"sector": "13",
+		"Sector Index": "3",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Effluvia",
+		"sector": "4",
+		"Sector Index": "3",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Solghast",
+		"sector": "5",
+		"Sector Index": "4",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Diluvia",
+		"sector": "5",
+		"Sector Index": "4",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Viridia Prime",
+		"sector": "6",
+		"Sector Index": "5",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Obari",
+		"sector": "6",
+		"Sector Index": "5",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Myradesh",
+		"sector": "8",
+		"Sector Index": "6",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Atrama",
+		"sector": "8",
+		"Sector Index": "6",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Emeria",
+		"sector": "9",
+		"Sector Index": "7",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Barabos",
+		"sector": "14",
+		"Sector Index": "18",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Fenmire",
+		"sector": "14",
+		"Sector Index": "18",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Mastia",
+		"sector": "14",
+		"Sector Index": "19",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Shallus",
+		"sector": "15",
+		"Sector Index": "19",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Krakabos",
+		"sector": "10",
+		"Sector Index": "8",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Iridica",
+		"sector": "10",
+		"Sector Index": "8",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Azterra",
+		"sector": "7",
+		"Sector Index": "20",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Azur Secundus",
+		"sector": "16",
+		"Sector Index": "20",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Ivis",
+		"sector": "11",
+		"Sector Index": "9",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Slif",
+		"sector": "11",
+		"Sector Index": "9",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Caramoor",
+		"sector": "12",
+		"Sector Index": "10",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Kharst",
+		"sector": "17",
+		"Sector Index": "11",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Eukoria",
+		"sector": "18",
+		"Sector Index": "12",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Myrium",
+		"sector": "18",
+		"Sector Index": "12",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Kerth Secundus",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Parsh",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Reaf",
+		"sector": "20",
+		"Sector Index": "14",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Irulta",
+		"sector": "20",
+		"Sector Index": "14",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Emorath",
+		"sector": "21",
+		"Sector Index": "15",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Ilduna Prime",
+		"sector": "21",
+		"Sector Index": "15",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Maw",
+		"sector": "8",
+		"Sector Index": "6",
+		"biome": "0",
+		"environmentals": [
+			4
+		]
+	},
+	{
+		"name": "Meridia",
+		"sector": "22",
+		"Sector Index": "17",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Borea",
+		"sector": "23",
+		"Sector Index": "17",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Curia",
+		"sector": "14",
+		"Sector Index": "18",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Tarsh",
+		"sector": "14",
+		"Sector Index": "18",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Shelt",
+		"sector": "15",
+		"Sector Index": "18",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Imber",
+		"sector": "15",
+		"Sector Index": "19",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Blistica",
+		"sector": "24",
+		"Sector Index": "8",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Ratch",
+		"sector": "10",
+		"Sector Index": "8",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Julheim",
+		"sector": "25",
+		"Sector Index": "8",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Valgaard",
+		"sector": "10",
+		"Sector Index": "8",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Arkturus",
+		"sector": "26",
+		"Sector Index": "20",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Esker",
+		"sector": "27",
+		"Sector Index": "20",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Terrek",
+		"sector": "7",
+		"Sector Index": "20",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Cirrus",
+		"sector": "7",
+		"Sector Index": "20",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Crimsica",
+		"sector": "28",
+		"Sector Index": "21",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Heeth",
+		"sector": "7",
+		"Sector Index": "21",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Veld",
+		"sector": "7",
+		"Sector Index": "22",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Alta V",
+		"sector": "12",
+		"Sector Index": "22",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Ursica XI",
+		"sector": "29",
+		"Sector Index": "10",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Inari",
+		"sector": "12",
+		"Sector Index": "10",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Skaash",
+		"sector": "30",
+		"Sector Index": "24",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Moradesh",
+		"sector": "11",
+		"Sector Index": "24",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Rasp",
+		"sector": "17",
+		"Sector Index": "11",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Bashyr",
+		"sector": "17",
+		"Sector Index": "11",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Regnus",
+		"sector": "18",
+		"Sector Index": "12",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Mog",
+		"sector": "18",
+		"Sector Index": "12",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Valmox",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Iro",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Grafmere",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "New Stockholm",
+		"sector": "31",
+		"Sector Index": "13",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Oasis",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Genesis Prime",
+		"sector": "19",
+		"Sector Index": "13",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Outpost 32",
+		"sector": "20",
+		"Sector Index": "14",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Calypso",
+		"sector": "20",
+		"Sector Index": "14",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Elysian Meadows",
+		"sector": "32",
+		"Sector Index": "28",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Alderidge Cove",
+		"sector": "32",
+		"Sector Index": "28",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Trandor",
+		"sector": "16",
+		"Sector Index": "29",
+		"biome": "10",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "East Iridium Trading Bay",
+		"sector": "33",
+		"Sector Index": "29",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Liberty Ridge",
+		"sector": "21",
+		"Sector Index": "15",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Baldrick Prime",
+		"sector": "21",
+		"Sector Index": "15",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "The Weir",
+		"sector": "34",
+		"Sector Index": "16",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Kuper",
+		"sector": "34",
+		"Sector Index": "16",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Oslo Station",
+		"sector": "23",
+		"Sector Index": "17",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Pöpli IX",
+		"sector": "35",
+		"Sector Index": "17",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Gunvald",
+		"sector": "23",
+		"Sector Index": "31",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Dolph",
+		"sector": "25",
+		"Sector Index": "31",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Bekvam III",
+		"sector": "25",
+		"Sector Index": "32",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Duma Tyr",
+		"sector": "25",
+		"Sector Index": "32",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Vernen Wells",
+		"sector": "36",
+		"Sector Index": "32",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Aesir Pass",
+		"sector": "36",
+		"Sector Index": "32",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Aurora Bay",
+		"sector": "37",
+		"Sector Index": "19",
+		"biome": "10",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Penta",
+		"sector": "38",
+		"Sector Index": "19",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Gaellivare",
+		"sector": "15",
+		"Sector Index": "19",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Vog-Sojoth",
+		"sector": "39",
+		"Sector Index": "19",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Kirrik",
+		"sector": "26",
+		"Sector Index": "36",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Mortax Prime",
+		"sector": "26",
+		"Sector Index": "36",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Wilford Station",
+		"sector": "26",
+		"Sector Index": "36",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Pioneer II",
+		"sector": "26",
+		"Sector Index": "36",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Erson Sands",
+		"sector": "27",
+		"Sector Index": "37",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Socorro III",
+		"sector": "27",
+		"Sector Index": "37",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Bore Rock",
+		"sector": "27",
+		"Sector Index": "20",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Fenrir III",
+		"sector": "22",
+		"Sector Index": "20",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Turing",
+		"sector": "22",
+		"Sector Index": "21",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Angel's Venture",
+		"sector": "7",
+		"Sector Index": "21",
+		"biome": "10",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Darius II",
+		"sector": "29",
+		"Sector Index": "22",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Acamar IV",
+		"sector": "40",
+		"Sector Index": "22",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Achernar Secundus",
+		"sector": "29",
+		"Sector Index": "23",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Achird III",
+		"sector": "29",
+		"Sector Index": "23",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Acrab XI",
+		"sector": "30",
+		"Sector Index": "24",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Acrux IX",
+		"sector": "30",
+		"Sector Index": "24",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Acubens Prime",
+		"sector": "17",
+		"Sector Index": "11",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Adhara",
+		"sector": "17",
+		"Sector Index": "11",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Afoyay Bay",
+		"sector": "17",
+		"Sector Index": "11",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Ain-5",
+		"sector": "31",
+		"Sector Index": "26",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Alairt III",
+		"sector": "31",
+		"Sector Index": "26",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Alamak VII",
+		"sector": "31",
+		"Sector Index": "26",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Alaraph",
+		"sector": "41",
+		"Sector Index": "27",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Alathfar XI",
+		"sector": "41",
+		"Sector Index": "27",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Andar",
+		"sector": "41",
+		"Sector Index": "27",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Asperoth Prime",
+		"sector": "41",
+		"Sector Index": "27",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Bellatrix",
+		"sector": "32",
+		"Sector Index": "28",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Botein",
+		"sector": "32",
+		"Sector Index": "28",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Osupsam",
+		"sector": "33",
+		"Sector Index": "29",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Brink-2",
+		"sector": "33",
+		"Sector Index": "29",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Bunda Secundus",
+		"sector": "33",
+		"Sector Index": "29",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Canopus",
+		"sector": "33",
+		"Sector Index": "29",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Caph",
+		"sector": "34",
+		"Sector Index": "16",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Castor",
+		"sector": "34",
+		"Sector Index": "16",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Durgen",
+		"sector": "42",
+		"Sector Index": "31",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Draupnir",
+		"sector": "35",
+		"Sector Index": "31",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Mort",
+		"sector": "35",
+		"Sector Index": "31",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Ingmar",
+		"sector": "35",
+		"Sector Index": "31",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Charbal-VII",
+		"sector": "43",
+		"Sector Index": "33",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Charon Prime",
+		"sector": "43",
+		"Sector Index": "32",
+		"biome": "0",
+		"environmentals": [
+			4
+		]
+	},
+	{
+		"name": "Choepessa IV",
+		"sector": "44",
+		"Sector Index": "32",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Choohe",
+		"sector": "38",
+		"Sector Index": "34",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Chort Bay",
+		"sector": "38",
+		"Sector Index": "34",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Claorell",
+		"sector": "39",
+		"Sector Index": "35",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Clasa",
+		"sector": "39",
+		"Sector Index": "35",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Demiurg",
+		"sector": "39",
+		"Sector Index": "35",
+		"biome": "10",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Deneb Secundus",
+		"sector": "26",
+		"Sector Index": "36",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Electra Bay",
+		"sector": "26",
+		"Sector Index": "36",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Enuliale",
+		"sector": "45",
+		"Sector Index": "37",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Epsilon Phoencis VI",
+		"sector": "45",
+		"Sector Index": "37",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Erata Prime",
+		"sector": "22",
+		"Sector Index": "38",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Estanu",
+		"sector": "28",
+		"Sector Index": "21",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Fori Prime",
+		"sector": "28",
+		"Sector Index": "21",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Gacrux",
+		"sector": "40",
+		"Sector Index": "39",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Gar Haren",
+		"sector": "40",
+		"Sector Index": "23",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Gatria",
+		"sector": "40",
+		"Sector Index": "23",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Gemma",
+		"sector": "30",
+		"Sector Index": "24",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Grand Errant",
+		"sector": "46",
+		"Sector Index": "24",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Hadar",
+		"sector": "3",
+		"Sector Index": "25",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Haka",
+		"sector": "47",
+		"Sector Index": "25",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Haldus",
+		"sector": "3",
+		"Sector Index": "25",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Halies Port",
+		"sector": "47",
+		"Sector Index": "25",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Herthon Secundus",
+		"sector": "3",
+		"Sector Index": "25",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Hesoe Prime",
+		"sector": "48",
+		"Sector Index": "25",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Heze Bay",
+		"sector": "31",
+		"Sector Index": "26",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Hort",
+		"sector": "48",
+		"Sector Index": "26",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Hydrobius",
+		"sector": "49",
+		"Sector Index": "43",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Karlia",
+		"sector": "49",
+		"Sector Index": "43",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Keid",
+		"sector": "41",
+		"Sector Index": "27",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Khandark",
+		"sector": "32",
+		"Sector Index": "28",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Klaka 5",
+		"sector": "50",
+		"Sector Index": "30",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Kneth Port",
+		"sector": "50",
+		"Sector Index": "30",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Kraz",
+		"sector": "50",
+		"Sector Index": "30",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Kuma",
+		"sector": "51",
+		"Sector Index": "30",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Lastofe",
+		"sector": "34",
+		"Sector Index": "16",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Leng Secundus",
+		"sector": "52",
+		"Sector Index": "16",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Lesath",
+		"sector": "38",
+		"Sector Index": "46",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Maia",
+		"sector": "42",
+		"Sector Index": "46",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Malevelon Creek",
+		"sector": "42",
+		"Sector Index": "33",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Mantes",
+		"sector": "35",
+		"Sector Index": "33",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Marfark",
+		"sector": "43",
+		"Sector Index": "33",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Martale",
+		"sector": "43",
+		"Sector Index": "33",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Matar Bay",
+		"sector": "43",
+		"Sector Index": "34",
+		"biome": "7",
+		"environmentals": [
+			3
+		]
+	},
+	{
+		"name": "Meissa",
+		"sector": "53",
+		"Sector Index": "34",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Mekbuda",
+		"sector": "37",
+		"Sector Index": "34",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Menkent",
+		"sector": "36",
+		"Sector Index": "34",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Merak",
+		"sector": "37",
+		"Sector Index": "35",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Merga IV",
+		"sector": "37",
+		"Sector Index": "35",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Minchir",
+		"sector": "24",
+		"Sector Index": "36",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Mintoria",
+		"sector": "24",
+		"Sector Index": "36",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Mordia 9",
+		"sector": "51",
+		"Sector Index": "36",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Nabatea Secundus",
+		"sector": "45",
+		"Sector Index": "37",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Navi VII",
+		"sector": "45",
+		"Sector Index": "37",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Nivel 43",
+		"sector": "13",
+		"Sector Index": "38",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Oshaune",
+		"sector": "13",
+		"Sector Index": "38",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Overgoe Prime",
+		"sector": "16",
+		"Sector Index": "38",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Pandion-XXIV",
+		"sector": "40",
+		"Sector Index": "39",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Partion",
+		"sector": "16",
+		"Sector Index": "39",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Peacock",
+		"sector": "16",
+		"Sector Index": "39",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Phact Bay",
+		"sector": "40",
+		"Sector Index": "39",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Pherkad Secundus",
+		"sector": "46",
+		"Sector Index": "40",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Polaris Prime",
+		"sector": "46",
+		"Sector Index": "40",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Pollux 31",
+		"sector": "46",
+		"Sector Index": "41",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Prasa",
+		"sector": "46",
+		"Sector Index": "41",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Propus",
+		"sector": "47",
+		"Sector Index": "41",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Ras Algethi",
+		"sector": "47",
+		"Sector Index": "41",
+		"biome": "0",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "RD-4",
+		"sector": "48",
+		"Sector Index": "42",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Rogue 5",
+		"sector": "48",
+		"Sector Index": "42",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Rirga Bay",
+		"sector": "48",
+		"Sector Index": "42",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Seasse",
+		"sector": "49",
+		"Sector Index": "42",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Senge 23",
+		"sector": "49",
+		"Sector Index": "43",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	},
+	{
+		"name": "Setia",
+		"sector": "49",
+		"Sector Index": "43",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Shete",
+		"sector": "54",
+		"Sector Index": "27",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Siemnot",
+		"sector": "54",
+		"Sector Index": "27",
+		"biome": "1",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Sirius",
+		"sector": "54",
+		"Sector Index": "44",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Skat Bay",
+		"sector": "54",
+		"Sector Index": "44",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Spherion",
+		"sector": "52",
+		"Sector Index": "45",
+		"biome": "3",
+		"environmentals": [
+			11,
+			3
+		]
+	},
+	{
+		"name": "Stor Tha Prime",
+		"sector": "52",
+		"Sector Index": "45",
+		"biome": "8",
+		"environmentals": [
+			1
+		]
+	},
+	{
+		"name": "Stout",
+		"sector": "52",
+		"Sector Index": "45",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Termadon",
+		"sector": "52",
+		"Sector Index": "45",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Tibit",
+		"sector": "42",
+		"Sector Index": "46",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Tien Kwan",
+		"sector": "34",
+		"Sector Index": "46",
+		"biome": "9",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Troost",
+		"sector": "44",
+		"Sector Index": "46",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Ubanea",
+		"sector": "42",
+		"Sector Index": "46",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Ustotu",
+		"sector": "44",
+		"Sector Index": "48",
+		"biome": "5",
+		"environmentals": [
+			4,
+			5
+		]
+	},
+	{
+		"name": "Vandalon IV",
+		"sector": "44",
+		"Sector Index": "48",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Varylia 5",
+		"sector": "44",
+		"Sector Index": "49",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Wasat",
+		"sector": "53",
+		"Sector Index": "49",
+		"biome": "16",
+		"environmentals": [
+			4,
+			10
+		]
+	},
+	{
+		"name": "Vega Bay",
+		"sector": "53",
+		"Sector Index": "50",
+		"biome": "6",
+		"environmentals": [
+			1,
+			6
+		]
+	},
+	{
+		"name": "Wezen",
+		"sector": "53",
+		"Sector Index": "50",
+		"biome": "12",
+		"environmentals": [
+			4,
+			12
+		]
+	},
+	{
+		"name": "Vindemitarix Prime",
+		"sector": "37",
+		"Sector Index": "50",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "X-45",
+		"sector": "53",
+		"Sector Index": "50",
+		"biome": "11",
+		"environmentals": [
+			2
+		]
+	},
+	{
+		"name": "Yed Prior",
+		"sector": "39",
+		"Sector Index": "35",
+		"biome": "13",
+		"environmentals": [
+			9
+		]
+	},
+	{
+		"name": "Zefia",
+		"sector": "39",
+		"Sector Index": "35",
+		"biome": "2",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Zosma",
+		"sector": "24",
+		"Sector Index": "51",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Zzaniah Prime",
+		"sector": "24",
+		"Sector Index": "51",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Skitter",
+		"sector": "51",
+		"Sector Index": "52",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Euphoria III",
+		"sector": "51",
+		"Sector Index": "52",
+		"biome": "4",
+		"environmentals": [
+			1,
+			7
+		]
+	},
+	{
+		"name": "Diaspora X",
+		"sector": "45",
+		"Sector Index": "53",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Gemstone Bluffs",
+		"sector": "45",
+		"Sector Index": "53",
+		"biome": "7",
+		"environmentals": [
+			2,
+			3
+		]
+	},
+	{
+		"name": "Zagon Prime",
+		"sector": "13",
+		"Sector Index": "53",
+		"biome": "15",
+		"environmentals": [
+			4,
+			8
+		]
+	},
+	{
+		"name": "Omicron",
+		"sector": "45",
+		"Sector Index": "53",
+		"biome": "10",
+		"environmentals": [
+			0
+		]
+	},
+	{
+		"name": "Cyberstan",
+		"sector": "37",
+		"Sector Index": "49",
+		"biome": "14",
+		"environmentals": [
+			5
+		]
+	}
+]
