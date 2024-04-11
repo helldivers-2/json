@@ -1,38 +1,38 @@
 {
 	"684729784": {
 		"name": "Stamina Enhancement",
-		"desc": "Increases all Helldivers' stamina capacity and recovery."
+		"description": "Increases all Helldivers' stamina capacity and recovery."
 	},
 	"876985512": {
 		"name": "Localization Confusion",
-		"desc": "Increases the time between enemy encounters."
+		"description": "Increases the time between enemy encounters."
 	},
 	"1110686504": {
 		"name": "Vitality Enhancement",
-		"desc": "Allows all Helldivers to resist injury."
+		"description": "Allows all Helldivers to resist injury."
 	},
 	"1908198785": {
 		"name": "Hellpod Space Optimization",
-		"desc": "Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims."
+		"description": "Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims."
 	},
 	"2776452811": {
 		"name": "Muscle Enhancement",
-		"desc": "Allows Helldivers to traverse difficult terrain with ease."
+		"description": "Allows Helldivers to traverse difficult terrain with ease."
 	},
 	"4066886572": {
 		"name": "Increased Reinforcement Budget",
-		"desc": "Increases the number of available reinforcements."
+		"description": "Increases the number of available reinforcements."
 	},
 	"4136928865": {
 		"name": "UAV Recon Booster",
-		"desc": "Increases all Helldivers' effective radar range."
+		"description": "Increases all Helldivers' effective radar range."
 	},
 	"4273318008": {
 		"name": "Flexible Reinforcement Budget",
-		"desc": "Reduces time until new reinforcements are granted once they've been depleted."
+		"description": "Reduces time until new reinforcements are granted once they've been depleted."
 	},
 	"3504405746": {
 		"name": "Expert Extraction Booster",
-		"desc": "Lowers the time it takes for the extraction shuttle to reach the extraction beacon."
+		"description": "Lowers the time it takes for the extraction shuttle to reach the extraction beacon."
 	}
 }
