@@ -1,2493 +1,2232 @@
-[
-	{
+{
+	"0": {
 		"name": "Super Earth",
-		"sector": "0",
-		"Sector Index": "0",
-		"Biome": "0",
+		"sector": "sol",
+		"biome": "unknown",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"1": {
 		"name": "Klen Dahth II",
-		"sector": "1",
-		"Sector Index": "1",
-		"Biome": "15",
+		"sector": "altus",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"2": {
 		"name": "Pathfinder V",
-		"sector": "1",
-		"Sector Index": "1",
-		"Biome": "7",
+		"sector": "altus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"3": {
 		"name": "Widow's Harbor",
-		"sector": "1",
-		"Sector Index": "1",
-		"Biome": "4",
+		"sector": "altus",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"4": {
 		"name": "New Haven",
-		"sector": "1",
-		"Sector Index": "1",
-		"Biome": "1",
+		"sector": "altus",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"5": {
 		"name": "Pilen V",
-		"sector": "1",
-		"Sector Index": "1",
-		"Biome": "5",
+		"sector": "altus",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"6": {
 		"name": "Hydrofall Prime",
-		"sector": "2",
-		"Sector Index": "2",
-		"Biome": "14",
+		"sector": "barnard",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"7": {
 		"name": "Zea Rugosia",
-		"sector": "3",
-		"Sector Index": "2",
-		"Biome": "5",
+		"sector": "ferris",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"8": {
 		"name": "Darrowsport",
-		"sector": "2",
-		"Sector Index": "2",
-		"Biome": "16",
+		"sector": "barnard",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"9": {
 		"name": "Fornskogur II",
-		"sector": "2",
-		"Sector Index": "2",
-		"Biome": "3",
+		"sector": "barnard",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"10": {
 		"name": "Midasburg",
-		"sector": "2",
-		"Sector Index": "2",
-		"Biome": "10",
+		"sector": "barnard",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"11": {
 		"name": "Cerberus IIIc",
-		"sector": "4",
-		"Sector Index": "3",
-		"Biome": "5",
+		"sector": "cancri",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"12": {
 		"name": "Prosperity Falls",
-		"sector": "4",
-		"Sector Index": "3",
-		"Biome": "1",
+		"sector": "cancri",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"13": {
 		"name": "Okul VI",
-		"sector": "5",
-		"Sector Index": "4",
-		"Biome": "6",
+		"sector": "gothmar",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"14": {
 		"name": "Martyr's Bay",
-		"sector": "6",
-		"Sector Index": "5",
-		"Biome": "8",
+		"sector": "cantolus",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"15": {
 		"name": "Freedom Peak",
-		"sector": "6",
-		"Sector Index": "5",
-		"Biome": "13",
+		"sector": "cantolus",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"16": {
 		"name": "Fort Union",
-		"sector": "7",
-		"Sector Index": "5",
-		"Biome": "7",
+		"sector": "orion",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"17": {
 		"name": "Kelvinor",
-		"sector": "6",
-		"Sector Index": "5",
-		"Biome": "6",
+		"sector": "cantolus",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"18": {
 		"name": "Wraith",
-		"sector": "8",
-		"Sector Index": "6",
-		"Biome": "16",
+		"sector": "idun",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"19": {
 		"name": "Igla",
-		"sector": "9",
-		"Sector Index": "7",
-		"Biome": "8",
+		"sector": "kelvin",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"20": {
 		"name": "New Kiruna",
-		"sector": "9",
-		"Sector Index": "7",
-		"Biome": "6",
+		"sector": "kelvin",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"21": {
 		"name": "Fort Justice",
-		"sector": "9",
-		"Sector Index": "7",
-		"Biome": "10",
+		"sector": "kelvin",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"22": {
 		"name": "Zegema Paradise",
-		"sector": "9",
-		"Sector Index": "7",
-		"Biome": "3",
+		"sector": "kelvin",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"23": {
 		"name": "Providence",
-		"sector": "10",
-		"Sector Index": "8",
-		"Biome": "13",
+		"sector": "iptus",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"24": {
 		"name": "Primordia",
-		"sector": "10",
-		"Sector Index": "8",
-		"Biome": "3",
+		"sector": "iptus",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"25": {
 		"name": "Sulfura",
-		"sector": "11",
-		"Sector Index": "9",
-		"Biome": "2",
+		"sector": "celeste",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"26": {
 		"name": "Nublaria I",
-		"sector": "11",
-		"Sector Index": "9",
-		"Biome": "3",
+		"sector": "celeste",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"27": {
 		"name": "Krakatwo",
-		"sector": "11",
-		"Sector Index": "9",
-		"Biome": "8",
+		"sector": "celeste",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"28": {
 		"name": "Volterra",
-		"sector": "12",
-		"Sector Index": "9",
-		"Biome": "7",
+		"sector": "korpus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"29": {
 		"name": "Crucible",
-		"sector": "12",
-		"Sector Index": "10",
-		"Biome": "10",
+		"sector": "korpus",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"30": {
 		"name": "Veil",
-		"sector": "2",
-		"Sector Index": "2",
-		"Biome": "11",
+		"sector": "barnard",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"31": {
 		"name": "Marre IV",
-		"sector": "2",
-		"Sector Index": "2",
-		"Biome": "12",
+		"sector": "barnard",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"32": {
 		"name": "Fort Sanctuary",
-		"sector": "4",
-		"Sector Index": "3",
-		"Biome": "13",
+		"sector": "cancri",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"33": {
 		"name": "Seyshel Beach",
-		"sector": "4",
-		"Sector Index": "3",
-		"Biome": "2",
+		"sector": "cancri",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"34": {
 		"name": "Hellmire",
-		"sector": "13",
-		"Sector Index": "3",
-		"Biome": "12",
+		"sector": "mirin",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"35": {
 		"name": "Effluvia",
-		"sector": "4",
-		"Sector Index": "3",
-		"Biome": "14",
+		"sector": "cancri",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"36": {
 		"name": "Solghast",
-		"sector": "5",
-		"Sector Index": "4",
-		"Biome": "11",
+		"sector": "gothmar",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"37": {
 		"name": "Diluvia",
-		"sector": "5",
-		"Sector Index": "4",
-		"Biome": "10",
+		"sector": "gothmar",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"38": {
 		"name": "Viridia Prime",
-		"sector": "6",
-		"Sector Index": "5",
-		"Biome": "15",
+		"sector": "cantolus",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"39": {
 		"name": "Obari",
-		"sector": "6",
-		"Sector Index": "5",
-		"Biome": "7",
+		"sector": "cantolus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"40": {
 		"name": "Myradesh",
-		"sector": "8",
-		"Sector Index": "6",
-		"Biome": "5",
+		"sector": "idun",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"41": {
 		"name": "Atrama",
-		"sector": "8",
-		"Sector Index": "6",
-		"Biome": "1",
+		"sector": "idun",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"42": {
 		"name": "Emeria",
-		"sector": "9",
-		"Sector Index": "7",
-		"Biome": "14",
+		"sector": "kelvin",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"43": {
 		"name": "Barabos",
-		"sector": "14",
-		"Sector Index": "18",
-		"Biome": "8",
+		"sector": "marspira",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"44": {
 		"name": "Fenmire",
-		"sector": "14",
-		"Sector Index": "18",
-		"Biome": "7",
+		"sector": "marspira",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"45": {
 		"name": "Mastia",
-		"sector": "14",
-		"Sector Index": "19",
-		"Biome": "15",
+		"sector": "marspira",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"46": {
 		"name": "Shallus",
-		"sector": "15",
-		"Sector Index": "19",
-		"Biome": "2",
+		"sector": "talus",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"47": {
 		"name": "Krakabos",
-		"sector": "10",
-		"Sector Index": "8",
-		"Biome": "8",
+		"sector": "iptus",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"48": {
 		"name": "Iridica",
-		"sector": "10",
-		"Sector Index": "8",
-		"Biome": "2",
+		"sector": "iptus",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"49": {
 		"name": "Azterra",
-		"sector": "7",
-		"Sector Index": "20",
-		"Biome": "14",
+		"sector": "orion",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"50": {
 		"name": "Azur Secundus",
-		"sector": "16",
-		"Sector Index": "20",
-		"Biome": "5",
+		"sector": "sten",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"51": {
 		"name": "Ivis",
-		"sector": "11",
-		"Sector Index": "9",
-		"Biome": "6",
+		"sector": "celeste",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"52": {
 		"name": "Slif",
-		"sector": "11",
-		"Sector Index": "9",
-		"Biome": "16",
+		"sector": "celeste",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"53": {
 		"name": "Caramoor",
-		"sector": "12",
-		"Sector Index": "10",
-		"Biome": "15",
+		"sector": "korpus",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"54": {
 		"name": "Kharst",
-		"sector": "17",
-		"Sector Index": "11",
-		"Biome": "13",
+		"sector": "gallux",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"55": {
 		"name": "Eukoria",
-		"sector": "18",
-		"Sector Index": "12",
-		"Biome": "8",
+		"sector": "morgon",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"56": {
 		"name": "Myrium",
-		"sector": "18",
-		"Sector Index": "12",
-		"Biome": "14",
+		"sector": "morgon",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"57": {
 		"name": "Kerth Secundus",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "10",
+		"sector": "rictus",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"58": {
 		"name": "Parsh",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "6",
+		"sector": "rictus",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"59": {
 		"name": "Reaf",
-		"sector": "20",
-		"Sector Index": "14",
-		"Biome": "7",
+		"sector": "saleria",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"60": {
 		"name": "Irulta",
-		"sector": "20",
-		"Sector Index": "14",
-		"Biome": "3",
+		"sector": "saleria",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"61": {
 		"name": "Emorath",
-		"sector": "21",
-		"Sector Index": "15",
-		"Biome": "2",
+		"sector": "meridian",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"62": {
 		"name": "Ilduna Prime",
-		"sector": "21",
-		"Sector Index": "15",
-		"Biome": "10",
+		"sector": "meridian",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"63": {
 		"name": "Maw",
-		"sector": "8",
-		"Sector Index": "6",
-		"Biome": "12",
+		"sector": "idun",
+		"biome": "desolate",
 		"environmentals": [
-			4
+			"intense_heat"
 		]
 	},
-	{
+	"64": {
 		"name": "Meridia",
-		"sector": "22",
-		"Sector Index": "17",
-		"Biome": "3",
+		"sector": "umlaut",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"65": {
 		"name": "Borea",
-		"sector": "23",
-		"Sector Index": "17",
-		"Biome": "6",
+		"sector": "sagan",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"66": {
 		"name": "Curia",
-		"sector": "14",
-		"Sector Index": "18",
-		"Biome": "4",
+		"sector": "marspira",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"67": {
 		"name": "Tarsh",
-		"sector": "14",
-		"Sector Index": "18",
-		"Biome": "6",
+		"sector": "marspira",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"68": {
 		"name": "Shelt",
-		"sector": "15",
-		"Sector Index": "18",
-		"Biome": "10",
+		"sector": "talus",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"69": {
 		"name": "Imber",
-		"sector": "15",
-		"Sector Index": "19",
-		"Biome": "12",
+		"sector": "talus",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"70": {
 		"name": "Blistica",
-		"sector": "24",
-		"Sector Index": "8",
-		"Biome": "12",
+		"sector": "gellert",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"71": {
 		"name": "Ratch",
-		"sector": "10",
-		"Sector Index": "8",
-		"Biome": "15",
+		"sector": "iptus",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"72": {
 		"name": "Julheim",
-		"sector": "25",
-		"Sector Index": "8",
-		"Biome": "6",
+		"sector": "nanos",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"73": {
 		"name": "Valgaard",
-		"sector": "10",
-		"Sector Index": "8",
-		"Biome": "13",
+		"sector": "iptus",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"74": {
 		"name": "Arkturus",
-		"sector": "26",
-		"Sector Index": "20",
-		"Biome": "6",
+		"sector": "arturion",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"75": {
 		"name": "Esker",
-		"sector": "27",
-		"Sector Index": "20",
-		"Biome": "16",
+		"sector": "falstaff",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"76": {
 		"name": "Terrek",
-		"sector": "7",
-		"Sector Index": "20",
-		"Biome": "4",
+		"sector": "orion",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"77": {
 		"name": "Cirrus",
-		"sector": "7",
-		"Sector Index": "20",
-		"Biome": "11",
+		"sector": "orion",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"78": {
 		"name": "Crimsica",
-		"sector": "28",
-		"Sector Index": "21",
-		"Biome": "13",
+		"sector": "draco",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"79": {
 		"name": "Heeth",
-		"sector": "7",
-		"Sector Index": "21",
-		"Biome": "6",
+		"sector": "orion",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"80": {
 		"name": "Veld",
-		"sector": "7",
-		"Sector Index": "22",
-		"Biome": "1",
+		"sector": "orion",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"81": {
 		"name": "Alta V",
-		"sector": "12",
-		"Sector Index": "22",
-		"Biome": "3",
+		"sector": "korpus",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"82": {
 		"name": "Ursica XI",
-		"sector": "29",
-		"Sector Index": "10",
-		"Biome": "2",
+		"sector": "borgus",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"83": {
 		"name": "Inari",
-		"sector": "12",
-		"Sector Index": "10",
-		"Biome": "8",
+		"sector": "korpus",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"84": {
 		"name": "Skaash",
-		"sector": "30",
-		"Sector Index": "24",
-		"Biome": "16",
+		"sector": "ursa",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"85": {
 		"name": "Moradesh",
-		"sector": "11",
-		"Sector Index": "24",
-		"Biome": "15",
+		"sector": "celeste",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"86": {
 		"name": "Rasp",
-		"sector": "17",
-		"Sector Index": "11",
-		"Biome": "4",
+		"sector": "gallux",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"87": {
 		"name": "Bashyr",
-		"sector": "17",
-		"Sector Index": "11",
-		"Biome": "11",
+		"sector": "gallux",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"88": {
 		"name": "Regnus",
-		"sector": "18",
-		"Sector Index": "12",
-		"Biome": "3",
+		"sector": "morgon",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"89": {
 		"name": "Mog",
-		"sector": "18",
-		"Sector Index": "12",
-		"Biome": "6",
+		"sector": "morgon",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"90": {
 		"name": "Valmox",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "13",
+		"sector": "rictus",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"91": {
 		"name": "Iro",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "7",
+		"sector": "rictus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"92": {
 		"name": "Grafmere",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "8",
+		"sector": "rictus",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"93": {
 		"name": "New Stockholm",
-		"sector": "31",
-		"Sector Index": "13",
-		"Biome": "6",
+		"sector": "hanzo",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"94": {
 		"name": "Oasis",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "3",
+		"sector": "rictus",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"95": {
 		"name": "Genesis Prime",
-		"sector": "19",
-		"Sector Index": "13",
-		"Biome": "1",
+		"sector": "rictus",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"96": {
 		"name": "Outpost 32",
-		"sector": "20",
-		"Sector Index": "14",
-		"Biome": "15",
+		"sector": "saleria",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"97": {
 		"name": "Calypso",
-		"sector": "20",
-		"Sector Index": "14",
-		"Biome": "14",
+		"sector": "saleria",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"98": {
 		"name": "Elysian Meadows",
-		"sector": "32",
-		"Sector Index": "28",
-		"Biome": "13",
+		"sector": "guang",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"99": {
 		"name": "Alderidge Cove",
-		"sector": "32",
-		"Sector Index": "28",
-		"Biome": "11",
+		"sector": "guang",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"100": {
 		"name": "Trandor",
-		"sector": "16",
-		"Sector Index": "29",
-		"Biome": "10",
+		"sector": "sten",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"101": {
 		"name": "East Iridium Trading Bay",
-		"sector": "33",
-		"Sector Index": "29",
-		"Biome": "3",
+		"sector": "tarragon",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"102": {
 		"name": "Liberty Ridge",
-		"sector": "21",
-		"Sector Index": "15",
-		"Biome": "13",
+		"sector": "meridian",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"103": {
 		"name": "Baldrick Prime",
-		"sector": "21",
-		"Sector Index": "15",
-		"Biome": "3",
+		"sector": "meridian",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"104": {
 		"name": "The Weir",
-		"sector": "34",
-		"Sector Index": "16",
-		"Biome": "7",
+		"sector": "theseus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"105": {
 		"name": "Kuper",
-		"sector": "34",
-		"Sector Index": "16",
-		"Biome": "1",
+		"sector": "theseus",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"106": {
 		"name": "Oslo Station",
-		"sector": "23",
-		"Sector Index": "17",
-		"Biome": "8",
+		"sector": "sagan",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"107": {
 		"name": "Pöpli IX",
-		"sector": "35",
-		"Sector Index": "17",
-		"Biome": "12",
+		"sector": "xzar",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"108": {
 		"name": "Gunvald",
-		"sector": "23",
-		"Sector Index": "31",
-		"Biome": "13",
+		"sector": "sagan",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"109": {
 		"name": "Dolph",
-		"sector": "25",
-		"Sector Index": "31",
-		"Biome": "4",
+		"sector": "nanos",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"110": {
 		"name": "Bekvam III",
-		"sector": "25",
-		"Sector Index": "32",
-		"Biome": "2",
+		"sector": "nanos",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"111": {
 		"name": "Duma Tyr",
-		"sector": "25",
-		"Sector Index": "32",
-		"Biome": "10",
+		"sector": "nanos",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"112": {
 		"name": "Vernen Wells",
-		"sector": "36",
-		"Sector Index": "32",
-		"Biome": "14",
+		"sector": "hydra",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"113": {
 		"name": "Aesir Pass",
-		"sector": "36",
-		"Sector Index": "32",
-		"Biome": "11",
+		"sector": "hydra",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"114": {
 		"name": "Aurora Bay",
-		"sector": "37",
-		"Sector Index": "19",
-		"Biome": "10",
+		"sector": "valdis",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"115": {
 		"name": "Penta",
-		"sector": "38",
-		"Sector Index": "19",
-		"Biome": "11",
+		"sector": "lacaille",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"116": {
 		"name": "Gaellivare",
-		"sector": "15",
-		"Sector Index": "19",
-		"Biome": "3",
+		"sector": "talus",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"117": {
 		"name": "Vog-Sojoth",
-		"sector": "39",
-		"Sector Index": "19",
-		"Biome": "6",
+		"sector": "tanis",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"118": {
 		"name": "Kirrik",
-		"sector": "26",
-		"Sector Index": "36",
-		"Biome": "3",
+		"sector": "arturion",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"119": {
 		"name": "Mortax Prime",
-		"sector": "26",
-		"Sector Index": "36",
-		"Biome": "5",
+		"sector": "arturion",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"120": {
 		"name": "Wilford Station",
-		"sector": "26",
-		"Sector Index": "36",
-		"Biome": "16",
+		"sector": "arturion",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"121": {
 		"name": "Pioneer II",
-		"sector": "26",
-		"Sector Index": "36",
-		"Biome": "14",
+		"sector": "arturion",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"122": {
 		"name": "Erson Sands",
-		"sector": "27",
-		"Sector Index": "37",
-		"Biome": "5",
+		"sector": "falstaff",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"123": {
 		"name": "Socorro III",
-		"sector": "27",
-		"Sector Index": "37",
-		"Biome": "2",
+		"sector": "falstaff",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"124": {
 		"name": "Bore Rock",
-		"sector": "27",
-		"Sector Index": "20",
-		"Biome": "12",
+		"sector": "falstaff",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"125": {
 		"name": "Fenrir III",
-		"sector": "22",
-		"Sector Index": "20",
-		"Biome": "4",
+		"sector": "umlaut",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"126": {
 		"name": "Turing",
-		"sector": "22",
-		"Sector Index": "21",
-		"Biome": "2",
+		"sector": "umlaut",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"127": {
 		"name": "Angel's Venture",
-		"sector": "7",
-		"Sector Index": "21",
-		"Biome": "10",
+		"sector": "orion",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"128": {
 		"name": "Darius II",
-		"sector": "29",
-		"Sector Index": "22",
-		"Biome": "16",
+		"sector": "borgus",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"129": {
 		"name": "Acamar IV",
-		"sector": "40",
-		"Sector Index": "22",
-		"Biome": "7",
+		"sector": "jin_xi",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"130": {
 		"name": "Achernar Secundus",
-		"sector": "29",
-		"Sector Index": "23",
-		"Biome": "7",
+		"sector": "borgus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"131": {
 		"name": "Achird III",
-		"sector": "29",
-		"Sector Index": "23",
-		"Biome": "14",
+		"sector": "borgus",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"132": {
 		"name": "Acrab XI",
-		"sector": "30",
-		"Sector Index": "24",
-		"Biome": "13",
+		"sector": "ursa",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"133": {
 		"name": "Acrux IX",
-		"sector": "30",
-		"Sector Index": "24",
-		"Biome": "8",
+		"sector": "ursa",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"134": {
 		"name": "Acubens Prime",
-		"sector": "17",
-		"Sector Index": "11",
-		"Biome": "2",
+		"sector": "gallux",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"135": {
 		"name": "Adhara",
-		"sector": "17",
-		"Sector Index": "11",
-		"Biome": "12",
+		"sector": "gallux",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"136": {
 		"name": "Afoyay Bay",
-		"sector": "17",
-		"Sector Index": "11",
-		"Biome": "7",
+		"sector": "gallux",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"137": {
 		"name": "Ain-5",
-		"sector": "31",
-		"Sector Index": "26",
-		"Biome": "11",
+		"sector": "hanzo",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"138": {
 		"name": "Alairt III",
-		"sector": "31",
-		"Sector Index": "26",
-		"Biome": "1",
+		"sector": "hanzo",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"139": {
 		"name": "Alamak VII",
-		"sector": "31",
-		"Sector Index": "26",
-		"Biome": "2",
+		"sector": "hanzo",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"140": {
 		"name": "Alaraph",
-		"sector": "41",
-		"Sector Index": "27",
-		"Biome": "11",
+		"sector": "akira",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"141": {
 		"name": "Alathfar XI",
-		"sector": "41",
-		"Sector Index": "27",
-		"Biome": "6",
+		"sector": "akira",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"142": {
 		"name": "Andar",
-		"sector": "41",
-		"Sector Index": "27",
-		"Biome": "10",
+		"sector": "akira",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"143": {
 		"name": "Asperoth Prime",
-		"sector": "41",
-		"Sector Index": "27",
-		"Biome": "12",
+		"sector": "akira",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"144": {
 		"name": "Bellatrix",
-		"sector": "32",
-		"Sector Index": "28",
-		"Biome": "7",
+		"sector": "guang",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"145": {
 		"name": "Botein",
-		"sector": "32",
-		"Sector Index": "28",
-		"Biome": "16",
+		"sector": "guang",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"146": {
 		"name": "Osupsam",
-		"sector": "33",
-		"Sector Index": "29",
-		"Biome": "15",
+		"sector": "tarragon",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"147": {
 		"name": "Brink-2",
-		"sector": "33",
-		"Sector Index": "29",
-		"Biome": "1",
+		"sector": "tarragon",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"148": {
 		"name": "Bunda Secundus",
-		"sector": "33",
-		"Sector Index": "29",
-		"Biome": "10",
+		"sector": "tarragon",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"149": {
 		"name": "Canopus",
-		"sector": "33",
-		"Sector Index": "29",
-		"Biome": "5",
+		"sector": "tarragon",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"150": {
 		"name": "Caph",
-		"sector": "34",
-		"Sector Index": "16",
-		"Biome": "3",
+		"sector": "theseus",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"151": {
 		"name": "Castor",
-		"sector": "34",
-		"Sector Index": "16",
-		"Biome": "14",
+		"sector": "theseus",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"152": {
 		"name": "Durgen",
-		"sector": "42",
-		"Sector Index": "31",
-		"Biome": "15",
+		"sector": "severin",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"153": {
 		"name": "Draupnir",
-		"sector": "35",
-		"Sector Index": "31",
-		"Biome": "7",
+		"sector": "xzar",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"154": {
 		"name": "Mort",
-		"sector": "35",
-		"Sector Index": "31",
-		"Biome": "11",
+		"sector": "xzar",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"155": {
 		"name": "Ingmar",
-		"sector": "35",
-		"Sector Index": "31",
-		"Biome": "13",
+		"sector": "xzar",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"156": {
 		"name": "Charbal-VII",
-		"sector": "43",
-		"Sector Index": "33",
-		"Biome": "16",
+		"sector": "andromeda",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"157": {
 		"name": "Charon Prime",
-		"sector": "43",
-		"Sector Index": "32",
-		"Biome": "13",
+		"sector": "andromeda",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			4
+			"intense_heat"
 		]
 	},
-	{
+	"158": {
 		"name": "Choepessa IV",
-		"sector": "44",
-		"Sector Index": "32",
-		"Biome": "8",
+		"sector": "trigon",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"159": {
 		"name": "Choohe",
-		"sector": "38",
-		"Sector Index": "34",
-		"Biome": "15",
+		"sector": "lacaille",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"160": {
 		"name": "Chort Bay",
-		"sector": "38",
-		"Sector Index": "34",
-		"Biome": "16",
+		"sector": "lacaille",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"161": {
 		"name": "Claorell",
-		"sector": "39",
-		"Sector Index": "35",
-		"Biome": "4",
+		"sector": "tanis",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"162": {
 		"name": "Clasa",
-		"sector": "39",
-		"Sector Index": "35",
-		"Biome": "3",
+		"sector": "tanis",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"163": {
 		"name": "Demiurg",
-		"sector": "39",
-		"Sector Index": "35",
-		"Biome": "10",
+		"sector": "tanis",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"164": {
 		"name": "Deneb Secundus",
-		"sector": "26",
-		"Sector Index": "36",
-		"Biome": "8",
+		"sector": "arturion",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"165": {
 		"name": "Electra Bay",
-		"sector": "26",
-		"Sector Index": "36",
-		"Biome": "7",
+		"sector": "arturion",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"166": {
 		"name": "Enuliale",
-		"sector": "45",
-		"Sector Index": "37",
-		"Biome": "13",
+		"sector": "le'strade",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"167": {
 		"name": "Epsilon Phoencis VI",
-		"sector": "45",
-		"Sector Index": "37",
-		"Biome": "6",
+		"sector": "le'strade",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"168": {
 		"name": "Erata Prime",
-		"sector": "22",
-		"Sector Index": "38",
-		"Biome": "5",
+		"sector": "umlaut",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"169": {
 		"name": "Estanu",
-		"sector": "28",
-		"Sector Index": "21",
-		"Biome": "8",
+		"sector": "draco",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"170": {
 		"name": "Fori Prime",
-		"sector": "28",
-		"Sector Index": "21",
-		"Biome": "14",
+		"sector": "draco",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"171": {
 		"name": "Gacrux",
-		"sector": "40",
-		"Sector Index": "39",
-		"Biome": "10",
+		"sector": "jin_xi",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"172": {
 		"name": "Gar Haren",
-		"sector": "40",
-		"Sector Index": "23",
-		"Biome": "3",
+		"sector": "jin_xi",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"173": {
 		"name": "Gatria",
-		"sector": "40",
-		"Sector Index": "23",
-		"Biome": "13",
+		"sector": "jin_xi",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"174": {
 		"name": "Gemma",
-		"sector": "30",
-		"Sector Index": "24",
-		"Biome": "1",
+		"sector": "ursa",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"175": {
 		"name": "Grand Errant",
-		"sector": "46",
-		"Sector Index": "24",
-		"Biome": "12",
+		"sector": "farsight",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"176": {
 		"name": "Hadar",
-		"sector": "3",
-		"Sector Index": "25",
-		"Biome": "6",
+		"sector": "ferris",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"177": {
 		"name": "Haka",
-		"sector": "47",
-		"Sector Index": "25",
-		"Biome": "11",
+		"sector": "leo",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"178": {
 		"name": "Haldus",
-		"sector": "3",
-		"Sector Index": "25",
-		"Biome": "4",
+		"sector": "ferris",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"179": {
 		"name": "Halies Port",
-		"sector": "47",
-		"Sector Index": "25",
-		"Biome": "8",
+		"sector": "leo",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"180": {
 		"name": "Herthon Secundus",
-		"sector": "3",
-		"Sector Index": "25",
-		"Biome": "12",
+		"sector": "ferris",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"181": {
 		"name": "Hesoe Prime",
-		"sector": "48",
-		"Sector Index": "25",
-		"Biome": "6",
+		"sector": "rigel",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"182": {
 		"name": "Heze Bay",
-		"sector": "31",
-		"Sector Index": "26",
-		"Biome": "15",
+		"sector": "hanzo",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"183": {
 		"name": "Hort",
-		"sector": "48",
-		"Sector Index": "26",
-		"Biome": "7",
+		"sector": "rigel",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"184": {
 		"name": "Hydrobius",
-		"sector": "49",
-		"Sector Index": "43",
-		"Biome": "5",
+		"sector": "omega",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"185": {
 		"name": "Karlia",
-		"sector": "49",
-		"Sector Index": "43",
-		"Biome": "12",
+		"sector": "omega",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"186": {
 		"name": "Keid",
-		"sector": "41",
-		"Sector Index": "27",
-		"Biome": "15",
+		"sector": "akira",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"187": {
 		"name": "Khandark",
-		"sector": "32",
-		"Sector Index": "28",
-		"Biome": "6",
+		"sector": "guang",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"188": {
 		"name": "Klaka 5",
-		"sector": "50",
-		"Sector Index": "30",
-		"Biome": "3",
+		"sector": "alstrad",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"189": {
 		"name": "Kneth Port",
-		"sector": "50",
-		"Sector Index": "30",
-		"Biome": "12",
+		"sector": "alstrad",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"190": {
 		"name": "Kraz",
-		"sector": "50",
-		"Sector Index": "30",
-		"Biome": "14",
+		"sector": "alstrad",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"191": {
 		"name": "Kuma",
-		"sector": "51",
-		"Sector Index": "30",
-		"Biome": "14",
+		"sector": "hawking",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"192": {
 		"name": "Lastofe",
-		"sector": "34",
-		"Sector Index": "16",
-		"Biome": "15",
+		"sector": "theseus",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"193": {
 		"name": "Leng Secundus",
-		"sector": "52",
-		"Sector Index": "16",
-		"Biome": "16",
+		"sector": "quintus",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"194": {
 		"name": "Lesath",
-		"sector": "38",
-		"Sector Index": "46",
-		"Biome": "8",
+		"sector": "lacaille",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"195": {
 		"name": "Maia",
-		"sector": "42",
-		"Sector Index": "46",
-		"Biome": "4",
+		"sector": "severin",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"196": {
 		"name": "Malevelon Creek",
-		"sector": "42",
-		"Sector Index": "33",
-		"Biome": "1",
+		"sector": "severin",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"197": {
 		"name": "Mantes",
-		"sector": "35",
-		"Sector Index": "33",
-		"Biome": "3",
+		"sector": "xzar",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"198": {
 		"name": "Marfark",
-		"sector": "43",
-		"Sector Index": "33",
-		"Biome": "6",
+		"sector": "andromeda",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"199": {
 		"name": "Martale",
-		"sector": "43",
-		"Sector Index": "33",
-		"Biome": "10",
+		"sector": "andromeda",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"200": {
 		"name": "Matar Bay",
-		"sector": "43",
-		"Sector Index": "34",
-		"Biome": "7",
+		"sector": "andromeda",
+		"biome": "highlands",
 		"environmentals": [
-			3
+			"rainstorms"
 		]
 	},
-	{
+	"201": {
 		"name": "Meissa",
-		"sector": "53",
-		"Sector Index": "34",
-		"Biome": "3",
+		"sector": "ymir",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"202": {
 		"name": "Mekbuda",
-		"sector": "37",
-		"Sector Index": "34",
-		"Biome": "14",
+		"sector": "valdis",
+		"biome": "canyon",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"203": {
 		"name": "Menkent",
-		"sector": "36",
-		"Sector Index": "34",
-		"Biome": "12",
+		"sector": "hydra",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"204": {
 		"name": "Merak",
-		"sector": "37",
-		"Sector Index": "35",
-		"Biome": "1",
+		"sector": "valdis",
+		"biome": "rainforest",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"205": {
 		"name": "Merga IV",
-		"sector": "37",
-		"Sector Index": "35",
-		"Biome": "6",
+		"sector": "valdis",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"206": {
 		"name": "Minchir",
-		"sector": "24",
-		"Sector Index": "36",
-		"Biome": "1",
+		"sector": "gellert",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"207": {
 		"name": "Mintoria",
-		"sector": "24",
-		"Sector Index": "36",
-		"Biome": "7",
+		"sector": "gellert",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"208": {
 		"name": "Mordia 9",
-		"sector": "51",
-		"Sector Index": "36",
-		"Biome": "2",
+		"sector": "hawking",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"209": {
 		"name": "Nabatea Secundus",
-		"sector": "45",
-		"Sector Index": "37",
-		"Biome": "1",
+		"sector": "le'strade",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"210": {
 		"name": "Navi VII",
-		"sector": "45",
-		"Sector Index": "37",
-		"Biome": "3",
+		"sector": "le'strade",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"211": {
 		"name": "Nivel 43",
-		"sector": "13",
-		"Sector Index": "38",
-		"Biome": "11",
+		"sector": "mirin",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"212": {
 		"name": "Oshaune",
-		"sector": "13",
-		"Sector Index": "38",
-		"Biome": "7",
+		"sector": "mirin",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"213": {
 		"name": "Overgoe Prime",
-		"sector": "16",
-		"Sector Index": "38",
-		"Biome": "13",
+		"sector": "sten",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"214": {
 		"name": "Pandion-XXIV",
-		"sector": "40",
-		"Sector Index": "39",
-		"Biome": "11",
+		"sector": "jin_xi",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"215": {
 		"name": "Partion",
-		"sector": "16",
-		"Sector Index": "39",
-		"Biome": "12",
+		"sector": "sten",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"216": {
 		"name": "Peacock",
-		"sector": "16",
-		"Sector Index": "39",
-		"Biome": "1",
+		"sector": "sten",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"217": {
 		"name": "Phact Bay",
-		"sector": "40",
-		"Sector Index": "39",
-		"Biome": "15",
+		"sector": "jin_xi",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"218": {
 		"name": "Pherkad Secundus",
-		"sector": "46",
-		"Sector Index": "40",
-		"Biome": "7",
+		"sector": "farsight",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"219": {
 		"name": "Polaris Prime",
-		"sector": "46",
-		"Sector Index": "40",
-		"Biome": "5",
+		"sector": "farsight",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"220": {
 		"name": "Pollux 31",
-		"sector": "46",
-		"Sector Index": "41",
-		"Biome": "3",
+		"sector": "farsight",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"221": {
 		"name": "Prasa",
-		"sector": "46",
-		"Sector Index": "41",
-		"Biome": "14",
+		"sector": "farsight",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"222": {
 		"name": "Propus",
-		"sector": "47",
-		"Sector Index": "41",
-		"Biome": "15",
+		"sector": "leo",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"223": {
 		"name": "Ras Algethi",
-		"sector": "47",
-		"Sector Index": "41",
-		"Biome": "10",
+		"sector": "leo",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"224": {
 		"name": "RD-4",
-		"sector": "48",
-		"Sector Index": "42",
-		"Biome": "4",
+		"sector": "rigel",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"225": {
 		"name": "Rogue 5",
-		"sector": "48",
-		"Sector Index": "42",
-		"Biome": "3",
+		"sector": "rigel",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"226": {
 		"name": "Rirga Bay",
-		"sector": "48",
-		"Sector Index": "42",
-		"Biome": "16",
+		"sector": "rigel",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"227": {
 		"name": "Seasse",
-		"sector": "49",
-		"Sector Index": "42",
-		"Biome": "1",
+		"sector": "omega",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"228": {
 		"name": "Senge 23",
-		"sector": "49",
-		"Sector Index": "43",
-		"Biome": "14",
+		"sector": "omega",
+		"biome": "canyon",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	},
-	{
+	"229": {
 		"name": "Setia",
-		"sector": "49",
-		"Sector Index": "43",
-		"Biome": "15",
+		"sector": "omega",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"230": {
 		"name": "Shete",
-		"sector": "54",
-		"Sector Index": "27",
-		"Biome": "16",
+		"sector": "xi_tauri",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"231": {
 		"name": "Siemnot",
-		"sector": "54",
-		"Sector Index": "27",
-		"Biome": "1",
+		"sector": "xi_tauri",
+		"biome": "rainforest",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"232": {
 		"name": "Sirius",
-		"sector": "54",
-		"Sector Index": "44",
-		"Biome": "4",
+		"sector": "xi_tauri",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"233": {
 		"name": "Skat Bay",
-		"sector": "54",
-		"Sector Index": "44",
-		"Biome": "11",
+		"sector": "xi_tauri",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"234": {
 		"name": "Spherion",
-		"sector": "52",
-		"Sector Index": "45",
-		"Biome": "3",
+		"sector": "quintus",
+		"biome": "jungle",
 		"environmentals": [
-			11,
-			3
+			"volcanic_activity",
+			"rainstorms"
 		]
 	},
-	{
+	"235": {
 		"name": "Stor Tha Prime",
-		"sector": "52",
-		"Sector Index": "45",
-		"Biome": "8",
+		"sector": "quintus",
+		"biome": "icemoss",
 		"environmentals": [
-			1
+			"extreme_cold"
 		]
 	},
-	{
+	"236": {
 		"name": "Stout",
-		"sector": "52",
-		"Sector Index": "45",
-		"Biome": "13",
+		"sector": "quintus",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"237": {
 		"name": "Termadon",
-		"sector": "52",
-		"Sector Index": "45",
-		"Biome": "7",
+		"sector": "quintus",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"238": {
 		"name": "Tibit",
-		"sector": "42",
-		"Sector Index": "46",
-		"Biome": "2",
+		"sector": "severin",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"239": {
 		"name": "Tien Kwan",
-		"sector": "34",
-		"Sector Index": "46",
-		"Biome": "9",
+		"sector": "theseus",
+		"biome": "icemoss_special",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"240": {
 		"name": "Troost",
-		"sector": "44",
-		"Sector Index": "46",
-		"Biome": "11",
+		"sector": "trigon",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"241": {
 		"name": "Ubanea",
-		"sector": "42",
-		"Sector Index": "46",
-		"Biome": "13",
+		"sector": "severin",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"242": {
 		"name": "Ustotu",
-		"sector": "44",
-		"Sector Index": "48",
-		"Biome": "5",
+		"sector": "trigon",
+		"biome": "desert",
 		"environmentals": [
-			4,
-			5
+			"intense_heat",
+			"tremors"
 		]
 	},
-	{
+	"243": {
 		"name": "Vandalon IV",
-		"sector": "44",
-		"Sector Index": "48",
-		"Biome": "6",
+		"sector": "trigon",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"244": {
 		"name": "Varylia 5",
-		"sector": "44",
-		"Sector Index": "49",
-		"Biome": "7",
+		"sector": "trigon",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"245": {
 		"name": "Wasat",
-		"sector": "53",
-		"Sector Index": "49",
-		"Biome": "16",
+		"sector": "ymir",
+		"biome": "toxic",
 		"environmentals": [
-			4,
-			10
+			"intense_heat",
+			"acid_storms"
 		]
 	},
-	{
+	"246": {
 		"name": "Vega Bay",
-		"sector": "53",
-		"Sector Index": "50",
-		"Biome": "6",
+		"sector": "ymir",
+		"biome": "winter",
 		"environmentals": [
-			1,
-			6
+			"extreme_cold",
+			"blizzards"
 		]
 	},
-	{
+	"247": {
 		"name": "Wezen",
-		"sector": "53",
-		"Sector Index": "50",
-		"Biome": "12",
+		"sector": "ymir",
+		"biome": "desolate",
 		"environmentals": [
-			4,
-			12
+			"intense_heat",
+			"fire_tornadoes"
 		]
 	},
-	{
+	"248": {
 		"name": "Vindemitarix Prime",
-		"sector": "37",
-		"Sector Index": "50",
-		"Biome": "2",
+		"sector": "valdis",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"249": {
 		"name": "X-45",
-		"sector": "53",
-		"Sector Index": "50",
-		"Biome": "11",
+		"sector": "ymir",
+		"biome": "swamp",
 		"environmentals": [
-			2
+			"thick_fog"
 		]
 	},
-	{
+	"250": {
 		"name": "Yed Prior",
-		"sector": "39",
-		"Sector Index": "35",
-		"Biome": "13",
+		"sector": "tanis",
+		"biome": "crimsonmoor",
 		"environmentals": [
-			9
+			"ion_storms"
 		]
 	},
-	{
+	"251": {
 		"name": "Zefia",
-		"sector": "39",
-		"Sector Index": "35",
-		"Biome": "2",
+		"sector": "tanis",
+		"biome": "ethereal",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"252": {
 		"name": "Zosma",
-		"sector": "24",
-		"Sector Index": "51",
-		"Biome": "4",
+		"sector": "gellert",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"253": {
 		"name": "Zzaniah Prime",
-		"sector": "24",
-		"Sector Index": "51",
-		"Biome": "15",
+		"sector": "gellert",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"254": {
 		"name": "Skitter",
-		"sector": "51",
-		"Sector Index": "52",
-		"Biome": "7",
+		"sector": "hawking",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"255": {
 		"name": "Euphoria III",
-		"sector": "51",
-		"Sector Index": "52",
-		"Biome": "4",
+		"sector": "hawking",
+		"biome": "moon",
 		"environmentals": [
-			1,
-			7
+			"extreme_cold",
+			"meteor_storms"
 		]
 	},
-	{
+	"256": {
 		"name": "Diaspora X",
-		"sector": "45",
-		"Sector Index": "53",
-		"Biome": "15",
+		"sector": "le'strade",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"257": {
 		"name": "Gemstone Bluffs",
-		"sector": "45",
-		"Sector Index": "53",
-		"Biome": "7",
+		"sector": "le'strade",
+		"biome": "highlands",
 		"environmentals": [
-			2,
-			3
+			"thick_fog",
+			"rainstorms"
 		]
 	},
-	{
+	"258": {
 		"name": "Zagon Prime",
-		"sector": "13",
-		"Sector Index": "53",
-		"Biome": "15",
+		"sector": "mirin",
+		"biome": "mesa",
 		"environmentals": [
-			4,
-			8
+			"intense_heat",
+			"sandstorms"
 		]
 	},
-	{
+	"259": {
 		"name": "Omicron",
-		"sector": "45",
-		"Sector Index": "53",
-		"Biome": "10",
+		"sector": "le'strade",
+		"biome": "tundra",
 		"environmentals": [
-			0
+			"none"
 		]
 	},
-	{
+	"260": {
 		"name": "Cyberstan",
-		"sector": "37",
-		"Sector Index": "49",
-		"Biome": "9",
+		"sector": "valdis",
+		"biome": "icemoss_special",
 		"environmentals": [
-			5
+			"tremors"
 		]
 	}
-]
+}

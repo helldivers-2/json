@@ -1,57 +1,167 @@
-[
-	"Sol",
-	"Altus",
-	"Barnard",
-	"Ferris",
-	"Cancri",
-	"Gothmar",
-	"Cantolus",
-	"Orion",
-	"Idun",
-	"Kelvin",
-	"Iptus",
-	"Celeste",
-	"Korpus",
-	"Mirin",
-	"Marspira",
-	"Talus",
-	"Sten",
-	"Gallux",
-	"Morgon",
-	"Rictus",
-	"Saleria",
-	"Meridian",
-	"Umlaut",
-	"Sagan",
-	"Gellert",
-	"Nanos",
-	"Arturion",
-	"Falstaff",
-	"Draco",
-	"Borgus",
-	"Ursa",
-	"Hanzo",
-	"Guang",
-	"Tarragon",
-	"Theseus",
-	"Xzar",
-	"Hydra",
-	"Valdis",
-	"Lacaille",
-	"Tanis",
-	"Jin Xi",
-	"Akira",
-	"Severin",
-	"Andromeda",
-	"Trigon",
-	"L'estrade",
-	"Farsight",
-	"Leo",
-	"Rigel",
-	"Omega",
-	"Alstrad",
-	"Hawking",
-	"Quintus",
-	"Ymir",
-	"Xi Tauri"	
-]
+{
+	"sol": {
+		"name": "Sol"
+	},
+	"altus": {
+		"name": "Altus"
+	},
+	"barnard": {
+		"name": "Barnard"
+	},
+	"ferris": {
+		"name": "Ferris"
+	},
+	"cancri": {
+		"name": "Cancri"
+	},
+	"gothmar": {
+		"name": "Gothmar"
+	},
+	"cantolus": {
+		"name": "Cantolus"
+	},
+	"orion": {
+		"name": "Orion"
+	},
+	"idun": {
+		"name": "Idun"
+	},
+	"kelvin": {
+		"name": "Kelvin"
+	},
+	"iptus": {
+		"name": "Iptus"
+	},
+	"celeste": {
+		"name": "Celeste"
+	},
+	"korpus": {
+		"name": "Korpus"
+	},
+	"mirin": {
+		"name": "Mirin"
+	},
+	"marspira": {
+		"name": "Marspira"
+	},
+	"talus": {
+		"name": "Talus"
+	},
+	"sten": {
+		"name": "Sten"
+	},
+	"gallux": {
+		"name": "Gallux"
+	},
+	"morgon": {
+		"name": "Morgon"
+	},
+	"rictus": {
+		"name": "Rictus"
+	},
+	"saleria": {
+		"name": "Saleria"
+	},
+	"meridian": {
+		"name": "Meridian"
+	},
+	"umlaut": {
+		"name": "Umlaut"
+	},
+	"sagan": {
+		"name": "Sagan"
+	},
+	"gellert": {
+		"name": "Gellert"
+	},
+	"nanos": {
+		"name": "Nanos"
+	},
+	"arturion": {
+		"name": "Arturion"
+	},
+	"falstaff": {
+		"name": "Falstaff"
+	},
+	"draco": {
+		"name": "Draco"
+	},
+	"borgus": {
+		"name": "Borgus"
+	},
+	"ursa": {
+		"name": "Ursa"
+	},
+	"hanzo": {
+		"name": "Hanzo"
+	},
+	"guang": {
+		"name": "Guang"
+	},
+	"tarragon": {
+		"name": "Tarragon"
+	},
+	"theseus": {
+		"name": "Theseus"
+	},
+	"xzar": {
+		"name": "Xzar"
+	},
+	"hydra": {
+		"name": "Hydra"
+	},
+	"valdis": {
+		"name": "Valdis"
+	},
+	"lacaille": {
+		"name": "Lacaille"
+	},
+	"tanis": {
+		"name": "Tanis"
+	},
+	"jin_xi": {
+		"name": "Jin Xi"
+	},
+	"akira": {
+		"name": "Akira"
+	},
+	"severin": {
+		"name": "Severin"
+	},
+	"andromed": {
+		"name": "Andromeda"
+	},
+	"trigon": {
+		"name": "Trigon"
+	},
+	"l'estrad": {
+		"name": "L'estrade"
+	},
+	"farsight": {
+		"name": "Farsight"
+	},
+	"leo": {
+		"name": "Leo"
+	},
+	"rigel": {
+		"name": "Rigel"
+	},
+	"omega": {
+		"name": "Omega"
+	},
+	"alstrad": {
+		"name": "Alstrad"
+	},
+	"hawking": {
+		"name": "Hawking"
+	},
+	"quintus": {
+		"name": "Quintus"
+	},
+	"ymir": {
+		"name": "Ymir"
+	},
+	"xi_tauri": {
+		"name": "Xi Tauri"
+	}
+}
