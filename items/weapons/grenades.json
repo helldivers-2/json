@@ -46,5 +46,13 @@
 		"penetration": 0,
 		"outer_radius": 0,
 		"fuse_time": 0
+	},
+	"3869545997": {
+		"name": "G-123 Thermite Grenade",
+		"desc": "A thermite grenade designed to adhere to surfaces before burning at 2000°C. Capable of burning through some armor",
+		"damage": 100,
+		"penetration": 7,
+		"outer_radius": 2,
+		"fuse_time": 2.9
 	}
 }

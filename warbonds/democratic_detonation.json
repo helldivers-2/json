@@ -1,0 +1,113 @@
+{
+    "0": {
+        "totalMedalsRequired": 0,
+        "items": [
+            {
+                "item_id": 4219002488,
+                "medal_cost": 7
+            },
+            {
+                "item_id": 1243352476,
+                "medal_cost": 18
+            },
+            {
+                "item_id": 1351560655,
+                "medal_cost": 8
+            },
+            {
+                "item_id": 4107448458,
+                "medal_cost": 12
+            },
+            {
+                "item_id": 308572558,
+                "medal_cost": 8
+            },
+            {
+                "item_id": 854794995,
+                "medal_cost": 2
+            },
+            {
+                "item_id": 3869545997,
+                "medal_cost": 15
+            },
+            {
+                "item_id": 2640366401,
+                "medal_cost": 20
+            }
+        ]
+    },
+    "1": {
+        "totalMedalsRequired": 60,
+        "items": [
+            {
+                "item_id": 2119654064,
+                "medal_cost": 5
+            },
+            {
+                "item_id": 339272294,
+                "medal_cost": 60
+            },
+            {
+                "item_id": 2090263706,
+                "medal_cost": 45
+            },
+            {
+                "item_id": 4219002488,
+                "medal_cost": 12
+            },
+            {
+                "item_id": 2038008847,
+                "medal_cost": 35
+            },
+            {
+                "item_id": 2040543168,
+                "medal_cost": 20
+            },
+            {
+                "item_id": 3504405746,
+                "medal_cost": 55
+            },
+            {
+                "item_id": 825115965,
+                "medal_cost": 15
+            }
+        ]
+    },
+    "2": {
+        "totalMedalsRequired": 230,
+        "items": [
+            {
+                "item_id": 482071040,
+                "medal_cost": 32
+            },
+            {
+                "item_id": 1745784928,
+                "medal_cost": 16
+            },
+            {
+                "item_id": 2797735596,
+                "medal_cost": 60
+            },
+            {
+                "item_id": 123640653,
+                "medal_cost": 64
+            },
+            {
+                "item_id": 4219002488,
+                "medal_cost": 32
+            },
+            {
+                "item_id": 3364088192,
+                "medal_cost": 48
+            },
+            {
+                "item_id": 2098201552,
+                "medal_cost": 30
+            },
+            {
+                "item_id": 1942567317,
+                "medal_cost": 80
+            }
+        ]
+    }
+}

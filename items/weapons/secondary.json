@@ -62,5 +62,18 @@
 			8,
 			9
 		]
+	},
+	"2797735596": {
+		"name": "GP-31 Grenade Pistol",
+		"description": "A pistol that fires grenades. Must be reloaded between shots.",
+		"damage": 600,
+		"capacity": 1,
+		"recoil": 43,
+		"fire_rate": 900,
+		"fire_mode": [0],
+		"traits": [
+			4,
+			6
+		]
 	}
 }

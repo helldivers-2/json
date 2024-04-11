@@ -4,7 +4,7 @@
 		"description": "Increases all Helldivers' stamina capacity and recovery."
 	},
 	"876985512": {
-		"name": "Localisation Confusion",
+		"name": "Localization Confusion",
 		"description": "Increases the time between enemy encounters."
 	},
 	"1110686504": {
@@ -12,7 +12,7 @@
 		"description": "Allows all Helldivers to resist injury."
 	},
 	"1908198785": {
-		"name": "Hellpod Optimisation",
+		"name": "Hellpod Space Optimization",
 		"description": "Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims."
 	},
 	"2776452811": {
@@ -30,5 +30,9 @@
 	"4273318008": {
 		"name": "Flexible Reinforcement Budget",
 		"description": "Reduces time until new reinforcements are granted once they've been depleted."
+	},
+	"3504405746": {
+		"name": "Expert Extraction Booster",
+		"description": "Lowers the time it takes for the extraction shuttle to reach the extraction beacon."
 	}
 }
