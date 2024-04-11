@@ -1,7 +1,7 @@
 {
 	"1": {
 		"name": "P-2 Peacemaker",
-		"description": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
+		"decription": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
 		"damage": 60,
 		"capacity": 15,
 		"recoil": 22,
@@ -16,7 +16,7 @@
 	},
 	"3981773112": {
 		"name": "P-19 Redeemer",
-		"description": "A fully-automatic pistol with an extremely high fire rate, allowing for efficient crowd control.",
+		"decription": "A fully-automatic pistol with an extremely high fire rate, allowing for efficient crowd control.",
 		"damage": 60,
 		"capacity": 31,
 		"recoil": 11,
@@ -32,7 +32,7 @@
 	},
 	"1374036584": {
 		"name": "P-4 Senator",
-		"description": "A high-damage revolver, which can be reloaded with single rounds. A heavy-hitting and reliable sidearm.",
+		"decription": "A high-damage revolver, which can be reloaded with single rounds. A heavy-hitting and reliable sidearm.",
 		"damage": 150,
 		"capacity": 6,
 		"recoil": 43,
@@ -48,7 +48,7 @@
 	},
 	"2501707184": {
 		"name": "LAS-7 Dagger",
-		"description": "A laser pistol that fires a continuous beam. Does not require ammo but can overheat and need to change batteries.",
+		"decription": "A laser pistol that fires a continuous beam. Does not require ammo but can overheat and need to change batteries.",
 		"damage": 150,
 		"capacity": 5,
 		"recoil": 1,
@@ -61,6 +61,19 @@
 			4,
 			8,
 			9
+		]
+	},
+	"2797735596": {
+		"name": "GP-31 Grenade Pistol",
+		"decription": "A pistol that fires grenades. Must be reloaded between shots.",
+		"damage": 600,
+		"capacity": 1,
+		"recoil": 43,
+		"fire_rate": 900,
+		"fire_mode": [],
+		"traits": [
+			4,
+			6
 		]
 	}
 }

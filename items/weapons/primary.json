@@ -155,7 +155,9 @@
 		"capacity": 999,
 		"recoil": 60,
 		"fire_rate": 30,
-		"fire_mode": [],
+		"fire_mode": [
+			0
+		],
 		"traits": [
 			0
 		]
@@ -248,7 +250,9 @@
 		"capacity": 15,
 		"recoil": 20,
 		"fire_rate": 250,
-		"fire_mode": [],
+		"fire_mode": [
+			0
+		],
 		"traits": [
 			1,
 			6
@@ -268,6 +272,53 @@
 		],
 		"traits": [
 			2
+		]
+	},
+	"2640366401": {
+		"name": "BR-14 Adjudicator Rifle",
+		"description": "An accurate, armor-penetrating rifle, the BR-14 Adjudicator delivers righteous judgement to medium-sized enemies, though its restrictive magazine limits its effectiveness against large groups.",
+		"type": 4,
+		"damage": 80,
+		"capacity": 25,
+		"recoil": 50,
+		"fire_rate": 550,
+		"fire_mode": [
+			0,
+			2
+		],
+		"traits": [
+			2
+		]
+	},
+	"339272294": {
+		"name": "R-36 Eruptor Rifle",
+		"description": "This bolt-action rifle fires jet-assisted shells that explode shrapnel in all directions upon impact. Not recommended for close-quarters use.",
+		"type": 6,
+		"damage": 380,
+		"capacity": 5,
+		"recoil": 75,
+		"fire_rate": 25,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			2,
+			6
+		]
+	},
+	"1942567317": {
+		"name": "CB-9 Exploding Crossbow",
+		"description": "Fires powerful exploding bolts that do maximum damage upon direct impact. Gravity must be accounted for when aiming.",
+		"type": 6,
+		"damage": 420,
+		"capacity": 5,
+		"recoil": 35,
+		"fire_rate": 50,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			6
 		]
 	}
 }
