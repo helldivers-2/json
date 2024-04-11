@@ -9,7 +9,7 @@
 		"names": {
 			"en-US": "SUPER EARTH",
 			"en-GB": "SUPER EARTH",
-			"bp": "SUPERTERRA",
+			"pt-BR": "SUPERTERRA",
 			"de-DE": "ÜBER-ERDE",
 			"es-ES": "SUPERTIERRA",
 			"fr-FR": "SUPER-TERRE",
@@ -18,7 +18,7 @@
 			"ko-KO": "슈퍼지구",
 			"ms-MY": "SUPERTIERRA",
 			"pl-PL": "SUPER ZIEMIA",
-			"pt-BR": "SUPER TERRA",
+			"pt-PT": "SUPER TERRA",
 			"ru-RU": "СУПЕР-ЗЕМЛЯ",
 			"zh-Hans": "超级地球",
 			"zh-Hant": "超級地球"
@@ -35,7 +35,7 @@
 		"names": {
 			"en-US": "KLEN DAHTH II",
 			"en-GB": "KLEN DAHTH II",
-			"bp": "KLEN DAHTH II",
+			"pt-BR": "KLEN DAHTH II",
 			"de-DE": "KLEN DAHTH II",
 			"es-ES": "KLEN DAHTH II",
 			"fr-FR": "KLEN DAHTH II",
@@ -44,7 +44,7 @@
 			"ko-KO": "클렌 다흐스 II",
 			"ms-MY": "KLEN DAHTH II",
 			"pl-PL": "KLEN DAHTH II",
-			"pt-BR": "KLEN DAHTH II",
+			"pt-PT": "KLEN DAHTH II",
 			"ru-RU": "КЛЕН ДАХТ II",
 			"zh-Hans": "克伦达斯II",
 			"zh-Hant": "克連達斯II"
@@ -61,7 +61,7 @@
 		"names": {
 			"en-US": "PATHFINDER V",
 			"en-GB": "PATHFINDER V",
-			"bp": "VANGUARDA V",
+			"pt-BR": "VANGUARDA V",
 			"de-DE": "PATHFINDER V",
 			"es-ES": "EXPLORADOR V",
 			"fr-FR": "CHERCHEVOIE V",
@@ -70,7 +70,7 @@
 			"ko-KO": "패스파인더 V",
 			"ms-MY": "PATHFINDER V",
 			"pl-PL": "TROPICIEL V",
-			"pt-BR": "PATHFINDER V",
+			"pt-PT": "PATHFINDER V",
 			"ru-RU": "СЛЕДОПЫТ V",
 			"zh-Hans": "开拓者V",
 			"zh-Hant": "探路者V"
@@ -87,7 +87,7 @@
 		"names": {
 			"en-US": "WIDOW'S HARBOR",
 			"en-GB": "WIDOW'S HARBOR",
-			"bp": "PORTO DA VIÚVA",
+			"pt-BR": "PORTO DA VIÚVA",
 			"de-DE": "WIDOW’S HARBOR",
 			"es-ES": "PUERTO DE LA VIUDA",
 			"fr-FR": "PORT-VEUVE",
@@ -96,7 +96,7 @@
 			"ko-KO": "위도우스 하버",
 			"ms-MY": "PUERTO DE LA VIUDA",
 			"pl-PL": "WDOWI PORT",
-			"pt-BR": "PORTO DA VIÚVA",
+			"pt-PT": "PORTO DA VIÚVA",
 			"ru-RU": "ВДОВЬЯ ГАВАНЬ",
 			"zh-Hans": "寡妇港",
 			"zh-Hant": "寡婦港"
@@ -112,7 +112,7 @@
 		"names": {
 			"en-US": "NEW HAVEN",
 			"en-GB": "NEW HAVEN",
-			"bp": "NEW HAVEN",
+			"pt-BR": "NEW HAVEN",
 			"de-DE": "NEW HAVEN",
 			"es-ES": "NUEVO SANTUARIO",
 			"fr-FR": "NOUVEAU HAVRE",
@@ -121,7 +121,7 @@
 			"ko-KO": "뉴 헤이븐",
 			"ms-MY": "NUEVA HAVEN",
 			"pl-PL": "NOWA PRZYSTAŃ",
-			"pt-BR": "NOVA HAVEN",
+			"pt-PT": "NOVA HAVEN",
 			"ru-RU": "НОВАЯ ГАВАНЬ",
 			"zh-Hans": "纽黑文",
 			"zh-Hant": "新避風港"
@@ -138,7 +138,7 @@
 		"names": {
 			"en-US": "PILEN V",
 			"en-GB": "PILEN V",
-			"bp": "PILEN V",
+			"pt-BR": "PILEN V",
 			"de-DE": "PILEN V",
 			"es-ES": "PILEN V",
 			"fr-FR": "PILEN V",
@@ -147,7 +147,7 @@
 			"ko-KO": "필렌 V",
 			"ms-MY": "PILEN V",
 			"pl-PL": "PILEN V",
-			"pt-BR": "PILEN V",
+			"pt-PT": "PILEN V",
 			"ru-RU": "ПИЛЕН V",
 			"zh-Hans": "皮伦V",
 			"zh-Hant": "皮倫V"
@@ -163,7 +163,7 @@
 		"names": {
 			"en-US": "HYDROFALL PRIME",
 			"en-GB": "HYDROFALL PRIME",
-			"bp": "HIDROQUEDA PRIME",
+			"pt-BR": "HIDROQUEDA PRIME",
 			"de-DE": "HYDROFALL PRIME",
 			"es-ES": "HYDROFALL PRIME",
 			"fr-FR": "HYDROFALL PRIME",
@@ -172,7 +172,7 @@
 			"ko-KO": "하이드로폴 프라임",
 			"ms-MY": "HIDROCAÍDA PRIME",
 			"pl-PL": "HYDROFALL PRIME",
-			"pt-BR": "HYDROFALL PRIME",
+			"pt-PT": "HYDROFALL PRIME",
 			"ru-RU": "ГИДРОПАД-ПРАЙМ",
 			"zh-Hans": "水瀑主星",
 			"zh-Hant": "瀑布主星"
@@ -189,7 +189,7 @@
 		"names": {
 			"en-US": "ZEA RUGOSIA",
 			"en-GB": "ZEA RUGOSIA",
-			"bp": "ZEA RUGOSIA",
+			"pt-BR": "ZEA RUGOSIA",
 			"de-DE": "ZEA RUGOSIA",
 			"es-ES": "ZEA RUGOSIA",
 			"fr-FR": "ZEA RUGOSIA",
@@ -198,7 +198,7 @@
 			"ko-KO": "제아 루고시아",
 			"ms-MY": "ZEA RUGOSIA",
 			"pl-PL": "ZEA RUGOSIA",
-			"pt-BR": "ZEA RUGOSIA",
+			"pt-PT": "ZEA RUGOSIA",
 			"ru-RU": "ЗЕЯ РУГОЗИЯ",
 			"zh-Hans": "泽亚鲁戈西亚",
 			"zh-Hant": "澤亞魯哥西亞"
@@ -215,7 +215,7 @@
 		"names": {
 			"en-US": "DARROWSPORT",
 			"en-GB": "DARROWSPORT",
-			"bp": "DARROWSPORT",
+			"pt-BR": "DARROWSPORT",
 			"de-DE": "DARROWSPORT",
 			"es-ES": "DARROWSPORT",
 			"fr-FR": "DARROWSPORT",
@@ -224,7 +224,7 @@
 			"ko-KO": "대로우스포트",
 			"ms-MY": "DARROWSPORT",
 			"pl-PL": "DARROWSPORT",
-			"pt-BR": "DARROWSPORT",
+			"pt-PT": "DARROWSPORT",
 			"ru-RU": "ДЕРРОУСПОРТ",
 			"zh-Hans": "达罗斯波特",
 			"zh-Hant": "達羅斯港"
@@ -241,7 +241,7 @@
 		"names": {
 			"en-US": "FORNSKOGUR II",
 			"en-GB": "FORNSKOGUR II",
-			"bp": "FORNSKOGUR II",
+			"pt-BR": "FORNSKOGUR II",
 			"de-DE": "FORNSKOGUR II",
 			"es-ES": "FORNSKOGUR II",
 			"fr-FR": "FORNSKOGUR II",
@@ -250,7 +250,7 @@
 			"ko-KO": "포렌스코구르 II",
 			"ms-MY": "FORNSKOGUR II",
 			"pl-PL": "FORNSKOGUR II",
-			"pt-BR": "FORNSKOGUR II",
+			"pt-PT": "FORNSKOGUR II",
 			"ru-RU": "ФОРНСКОГУР II",
 			"zh-Hans": "福恩斯科古尔II",
 			"zh-Hant": "佛恩斯科葛II"
@@ -266,7 +266,7 @@
 		"names": {
 			"en-US": "MIDASBURG",
 			"en-GB": "MIDASBURG",
-			"bp": "MIDASBURGO",
+			"pt-BR": "MIDASBURGO",
 			"de-DE": "MIDASBURG",
 			"es-ES": "MIDASBURG",
 			"fr-FR": "MIDASBOURG",
@@ -275,7 +275,7 @@
 			"ko-KO": "미다스버그",
 			"ms-MY": "MIDASBURG",
 			"pl-PL": "MIDASBURG",
-			"pt-BR": "MIDASBURG",
+			"pt-PT": "MIDASBURG",
 			"ru-RU": "МИДАСБУРГ",
 			"zh-Hans": "弥达斯堡",
 			"zh-Hant": "米達斯堡"
@@ -292,7 +292,7 @@
 		"names": {
 			"en-US": "CERBERUS IIIc",
 			"en-GB": "CERBERUS IIIc",
-			"bp": "CÉRBERO III-C",
+			"pt-BR": "CÉRBERO III-C",
 			"de-DE": "CERBERUS IIIc",
 			"es-ES": "CERBERUS IIIc",
 			"fr-FR": "CERBERUS IIIc",
@@ -301,7 +301,7 @@
 			"ko-KO": "세베루스 IIIc",
 			"ms-MY": "CERBERUS IIIc",
 			"pl-PL": "CERBER IIIc",
-			"pt-BR": "CERBERUS IIIc",
+			"pt-PT": "CERBERUS IIIc",
 			"ru-RU": "ЦЕРБЕР IIIc",
 			"zh-Hans": "刻耳柏洛斯IIIc",
 			"zh-Hant": "塞伯拉斯IIIc"
@@ -317,7 +317,7 @@
 		"names": {
 			"en-US": "PROSPERITY FALLS",
 			"en-GB": "PROSPERITY FALLS",
-			"bp": "CATARATAS DA FORTUNA",
+			"pt-BR": "CATARATAS DA FORTUNA",
 			"de-DE": "PROSPERITY FALLS",
 			"es-ES": "CASCADAS DE LA PROSPERIDAD",
 			"fr-FR": "PROSPERITY FALLS",
@@ -326,7 +326,7 @@
 			"ko-KO": "프로스퍼리티 폴스",
 			"ms-MY": "CASCADA DE LA PROSPERIDAD",
 			"pl-PL": "WODOGRZMOTY ROZWOJU",
-			"pt-BR": "PROSPERITY FALLS",
+			"pt-PT": "PROSPERITY FALLS",
 			"ru-RU": "ВОДОПАДЫ ПРОЦВЕТАНИЯ",
 			"zh-Hans": "繁荣瀑布",
 			"zh-Hant": "繁華瀑布"
@@ -343,7 +343,7 @@
 		"names": {
 			"en-US": "OKUL VI",
 			"en-GB": "OKUL VI",
-			"bp": "OKUL VI",
+			"pt-BR": "OKUL VI",
 			"de-DE": "OKUL VI",
 			"es-ES": "OKUL VI",
 			"fr-FR": "OKUL VI",
@@ -352,7 +352,7 @@
 			"ko-KO": "오쿨 VI",
 			"ms-MY": "OKUL VI",
 			"pl-PL": "OKUL VI",
-			"pt-BR": "OKUL VI",
+			"pt-PT": "OKUL VI",
 			"ru-RU": "ОКУЛ VI",
 			"zh-Hans": "欧库VI",
 			"zh-Hant": "歐庫爾VI"
@@ -368,7 +368,7 @@
 		"names": {
 			"en-US": "MARTYR'S BAY",
 			"en-GB": "MARTYR'S BAY",
-			"bp": "BAÍA DO MÁRTIR",
+			"pt-BR": "BAÍA DO MÁRTIR",
 			"de-DE": "MARTYR’S BAY",
 			"es-ES": "BAHÍA DEL MÁRTIR",
 			"fr-FR": "BAIE DU MARTYR",
@@ -377,7 +377,7 @@
 			"ko-KO": "마터스 베이",
 			"ms-MY": "BAHÍA DEL MÁRTIR",
 			"pl-PL": "ZATOKA MĘCZENNIKÓW",
-			"pt-BR": "BAÍA DO MÁRTIR",
+			"pt-PT": "BAÍA DO MÁRTIR",
 			"ru-RU": "ЗАЛИВ МУЧЕНИКОВ",
 			"zh-Hans": "烈士湾",
 			"zh-Hant": "烈士灣"
@@ -393,7 +393,7 @@
 		"names": {
 			"en-US": "FREEDOM PEAK",
 			"en-GB": "FREEDOM PEAK",
-			"bp": "PICO DA LIBERDADE",
+			"pt-BR": "PICO DA LIBERDADE",
 			"de-DE": "FREEDOM PEAK",
 			"es-ES": "PICO DE LA LIBERTAD",
 			"fr-FR": "PIC LIBERTÉ",
@@ -402,7 +402,7 @@
 			"ko-KO": "프리덤 피크",
 			"ms-MY": "PICO LIBERTAD",
 			"pl-PL": "WZGÓRZE WOLNOŚCI",
-			"pt-BR": "PICO DA LIBERDADE",
+			"pt-PT": "PICO DA LIBERDADE",
 			"ru-RU": "ПИК СВОБОДЫ",
 			"zh-Hans": "弗里敦峰",
 			"zh-Hant": "自由峰"
@@ -419,7 +419,7 @@
 		"names": {
 			"en-US": "FORT UNION",
 			"en-GB": "FORT UNION",
-			"bp": "FORTE DA UNIÃO",
+			"pt-BR": "FORTE DA UNIÃO",
 			"de-DE": "FORT UNION",
 			"es-ES": "FUERTE UNIÓN",
 			"fr-FR": "FORT UNION",
@@ -428,7 +428,7 @@
 			"ko-KO": "포트 유니언",
 			"ms-MY": "FUERTE DE LA UNIÓN",
 			"pl-PL": "FORT JEDNOŚCI",
-			"pt-BR": "FORTE UNIÃO",
+			"pt-PT": "FORTE UNIÃO",
 			"ru-RU": "ФОРТ ЕДИНЕНИЯ",
 			"zh-Hans": "联合堡",
 			"zh-Hant": "聯盟堡"
@@ -445,7 +445,7 @@
 		"names": {
 			"en-US": "KELVINOR",
 			"en-GB": "KELVINOR",
-			"bp": "KELVINOR",
+			"pt-BR": "KELVINOR",
 			"de-DE": "KELVINOR",
 			"es-ES": "KELVINOR",
 			"fr-FR": "KELVINOR",
@@ -454,7 +454,7 @@
 			"ko-KO": "켈비노르",
 			"ms-MY": "KELVINOR",
 			"pl-PL": "KELVINOR",
-			"pt-BR": "KELVINOR",
+			"pt-PT": "KELVINOR",
 			"ru-RU": "КЕЛЬВИНОР",
 			"zh-Hans": "开尔文奥尔",
 			"zh-Hant": "凱文諾"
@@ -471,7 +471,7 @@
 		"names": {
 			"en-US": "WRAITH",
 			"en-GB": "WRAITH",
-			"bp": "ESPECTRO",
+			"pt-BR": "ESPECTRO",
 			"de-DE": "WRAITH",
 			"es-ES": "ESPECTRO",
 			"fr-FR": "SPECTRE",
@@ -480,7 +480,7 @@
 			"ko-KO": "레이스",
 			"ms-MY": "ESPECTRO",
 			"pl-PL": "UPIÓR",
-			"pt-BR": "ESPETRO",
+			"pt-PT": "ESPETRO",
 			"ru-RU": "ПРИЗРАК",
 			"zh-Hans": "幽灵",
 			"zh-Hant": "幽靈"
@@ -496,7 +496,7 @@
 		"names": {
 			"en-US": "IGLA",
 			"en-GB": "IGLA",
-			"bp": "IGLA",
+			"pt-BR": "IGLA",
 			"de-DE": "IGLA",
 			"es-ES": "IGLA",
 			"fr-FR": "IGLA",
@@ -505,7 +505,7 @@
 			"ko-KO": "이글라",
 			"ms-MY": "IGLA",
 			"pl-PL": "IGLA",
-			"pt-BR": "IGLA",
+			"pt-PT": "IGLA",
 			"ru-RU": "ИГЛА",
 			"zh-Hans": "伊格勒",
 			"zh-Hant": "伊格拉"
@@ -522,7 +522,7 @@
 		"names": {
 			"en-US": "NEW KIRUNA",
 			"en-GB": "NEW KIRUNA",
-			"bp": "NOVA KIRUNA",
+			"pt-BR": "NOVA KIRUNA",
 			"de-DE": "NEW KIRUNA",
 			"es-ES": "NUEVA KIRUNA",
 			"fr-FR": "NÉO-KIRUNA",
@@ -531,7 +531,7 @@
 			"ko-KO": "뉴 키루나",
 			"ms-MY": "NUEVA KIRUNA",
 			"pl-PL": "NOWA KIRUNA",
-			"pt-BR": "NEW KIRUNA",
+			"pt-PT": "NEW KIRUNA",
 			"ru-RU": "НОВАЯ КИРУНА",
 			"zh-Hans": "新基鲁纳",
 			"zh-Hant": "新基魯納"
@@ -547,7 +547,7 @@
 		"names": {
 			"en-US": "FORT JUSTICE",
 			"en-GB": "FORT JUSTICE",
-			"bp": "FORTE DA JUSTIÇA",
+			"pt-BR": "FORTE DA JUSTIÇA",
 			"de-DE": "FORT JUSTICE",
 			"es-ES": "FUERTE JUSTICIA",
 			"fr-FR": "FORT JUSTICE",
@@ -556,7 +556,7 @@
 			"ko-KO": "포트 저스티스",
 			"ms-MY": "FUERTE DE LA JUSTICIA",
 			"pl-PL": "FORT SPRAWIEDLIWOŚCI",
-			"pt-BR": "FORT JUSTICE",
+			"pt-PT": "FORT JUSTICE",
 			"ru-RU": "ФОРТ ПРАВОСУДИЯ",
 			"zh-Hans": "正义堡",
 			"zh-Hant": "正義堡"
@@ -573,7 +573,7 @@
 		"names": {
 			"en-US": "ZEGEMA PARADISE",
 			"en-GB": "ZEGEMA PARADISE",
-			"bp": "PARAÍSO ZEGEMA",
+			"pt-BR": "PARAÍSO ZEGEMA",
 			"de-DE": "ZEGEMA PARADISE",
 			"es-ES": "PARAÍSO ZEGEMA",
 			"fr-FR": "ZEGEMA PARADISE",
@@ -582,7 +582,7 @@
 			"ko-KO": "제제마 패러다이스",
 			"ms-MY": "PARAÍSO ZEGEMA",
 			"pl-PL": "RAJ ZEGEMY",
-			"pt-BR": "ZEGEMA PARADISE",
+			"pt-PT": "ZEGEMA PARADISE",
 			"ru-RU": "ЗЕГЕМСКИЙ РАЙ",
 			"zh-Hans": "泽格马乐土",
 			"zh-Hant": "澤蓋瑪天堂"
@@ -598,7 +598,7 @@
 		"names": {
 			"en-US": "PROVIDENCE",
 			"en-GB": "PROVIDENCE",
-			"bp": "PROVIDENCE",
+			"pt-BR": "PROVIDENCE",
 			"de-DE": "PROVIDENCE",
 			"es-ES": "PROVIDENCIA",
 			"fr-FR": "PROVIDENCE",
@@ -607,7 +607,7 @@
 			"ko-KO": "프로비던스",
 			"ms-MY": "PROVIDENCE",
 			"pl-PL": "OPATRZNOŚĆ",
-			"pt-BR": "PROVIDENCE",
+			"pt-PT": "PROVIDENCE",
 			"ru-RU": "ПРОВИДЕНИЕ",
 			"zh-Hans": "普罗维登斯",
 			"zh-Hant": "普羅維登斯"
@@ -624,7 +624,7 @@
 		"names": {
 			"en-US": "PRIMORDIA",
 			"en-GB": "PRIMORDIA",
-			"bp": "PRIMÓRDIO",
+			"pt-BR": "PRIMÓRDIO",
 			"de-DE": "PRIMORDIA",
 			"es-ES": "PRIMORDIA",
 			"fr-FR": "PRIMORDIA",
@@ -633,7 +633,7 @@
 			"ko-KO": "프리모디아",
 			"ms-MY": "PRIMORDIA",
 			"pl-PL": "PRIMORDIA",
-			"pt-BR": "PRIMORDIA",
+			"pt-PT": "PRIMORDIA",
 			"ru-RU": "ПРИМОРТИЯ",
 			"zh-Hans": "普莱默迪亚",
 			"zh-Hant": "普里摩迪亞"
@@ -649,7 +649,7 @@
 		"names": {
 			"en-US": "SULFURA",
 			"en-GB": "SULFURA",
-			"bp": "SULFURA",
+			"pt-BR": "SULFURA",
 			"de-DE": "SULFURA",
 			"es-ES": "SULFURA",
 			"fr-FR": "SULFURA",
@@ -658,7 +658,7 @@
 			"ko-KO": "술푸라",
 			"ms-MY": "SULFURA",
 			"pl-PL": "SULFURA",
-			"pt-BR": "SULFURA",
+			"pt-PT": "SULFURA",
 			"ru-RU": "СУЛЬФУРА",
 			"zh-Hans": "萨尔弗拉",
 			"zh-Hant": "蘇福拉"
@@ -675,7 +675,7 @@
 		"names": {
 			"en-US": "NUBLARIA I",
 			"en-GB": "NUBLARIA I",
-			"bp": "NUBLÁRIA I",
+			"pt-BR": "NUBLÁRIA I",
 			"de-DE": "NUBLARIA I",
 			"es-ES": "NUBLARIA I",
 			"fr-FR": "NUBLARIA I",
@@ -684,7 +684,7 @@
 			"ko-KO": "누블라리아 I",
 			"ms-MY": "NUBLARIA I",
 			"pl-PL": "NUBLARIA I",
-			"pt-BR": "NUBLARIA I",
+			"pt-PT": "NUBLARIA I",
 			"ru-RU": "НУБЛАРИЯ I",
 			"zh-Hans": "努布拉里亚I",
 			"zh-Hant": "努布拉里亞I"
@@ -700,7 +700,7 @@
 		"names": {
 			"en-US": "KRAKATWO",
 			"en-GB": "KRAKATWO",
-			"bp": "KRAKADOIS",
+			"pt-BR": "KRAKADOIS",
 			"de-DE": "KRAKATWO",
 			"es-ES": "KRAKATWO",
 			"fr-FR": "KRAKUNDEU",
@@ -709,7 +709,7 @@
 			"ko-KO": "크라카투",
 			"ms-MY": "KRAKATWO",
 			"pl-PL": "KRAKATWO",
-			"pt-BR": "KRAKATWO",
+			"pt-PT": "KRAKATWO",
 			"ru-RU": "КРАКАТУ",
 			"zh-Hans": "克拉克图",
 			"zh-Hant": "克拉卡圖"
@@ -726,7 +726,7 @@
 		"names": {
 			"en-US": "VOLTERRA",
 			"en-GB": "VOLTERRA",
-			"bp": "VOLTERRA",
+			"pt-BR": "VOLTERRA",
 			"de-DE": "VOLTERRA",
 			"es-ES": "VOLTERRA",
 			"fr-FR": "VOLTERRA",
@@ -735,7 +735,7 @@
 			"ko-KO": "볼테라",
 			"ms-MY": "VOLTERRA",
 			"pl-PL": "VOLTERRA",
-			"pt-BR": "VOLTERRA",
+			"pt-PT": "VOLTERRA",
 			"ru-RU": "ВОЛЬТЕРРА",
 			"zh-Hans": "沃尔泰拉",
 			"zh-Hant": "佛泰惹"
@@ -751,7 +751,7 @@
 		"names": {
 			"en-US": "CRUCIBLE",
 			"en-GB": "CRUCIBLE",
-			"bp": "CRISOL",
+			"pt-BR": "CRISOL",
 			"de-DE": "CRUCIBLE",
 			"es-ES": "CRISOL",
 			"fr-FR": "CREUSET",
@@ -760,7 +760,7 @@
 			"ko-KO": "크루시블",
 			"ms-MY": "CRISOL",
 			"pl-PL": "TYGIEL",
-			"pt-BR": "CRUCIBLE",
+			"pt-PT": "CRUCIBLE",
 			"ru-RU": "ГОРН",
 			"zh-Hans": "熔炉",
 			"zh-Hant": "坩堝"
@@ -776,7 +776,7 @@
 		"names": {
 			"en-US": "VEIL",
 			"en-GB": "VEIL",
-			"bp": "VELADO",
+			"pt-BR": "VELADO",
 			"de-DE": "VEIL",
 			"es-ES": "VELO",
 			"fr-FR": "VEIL",
@@ -785,7 +785,7 @@
 			"ko-KO": "베일",
 			"ms-MY": "VELO",
 			"pl-PL": "ZASŁONA",
-			"pt-BR": "VEIL",
+			"pt-PT": "VEIL",
 			"ru-RU": "ВУАЛЬ",
 			"zh-Hans": "帷幕",
 			"zh-Hant": "帷幕"
@@ -802,7 +802,7 @@
 		"names": {
 			"en-US": "MARRE IV",
 			"en-GB": "MARRE IV",
-			"bp": "MARRE IV",
+			"pt-BR": "MARRE IV",
 			"de-DE": "MARRE IV",
 			"es-ES": "MARRE IV",
 			"fr-FR": "MARRE IV",
@@ -811,7 +811,7 @@
 			"ko-KO": "마레 IV",
 			"ms-MY": "MARRE IV",
 			"pl-PL": "MARRE IV",
-			"pt-BR": "MARRE IV",
+			"pt-PT": "MARRE IV",
 			"ru-RU": "МАРР IV",
 			"zh-Hans": "马尔IV",
 			"zh-Hant": "馬爾IV"
@@ -827,7 +827,7 @@
 		"names": {
 			"en-US": "FORT SANCTUARY",
 			"en-GB": "FORT SANCTUARY",
-			"bp": "FORTE DO SANTUÁRIO",
+			"pt-BR": "FORTE DO SANTUÁRIO",
 			"de-DE": "FORT SANCTUARY",
 			"es-ES": "FUERTE SANTUARIO",
 			"fr-FR": "FORT SANCTUAIRE",
@@ -836,7 +836,7 @@
 			"ko-KO": "포트 생츄어리",
 			"ms-MY": "FUERTE SANTUARIO",
 			"pl-PL": "FORT SCHRONIENIA",
-			"pt-BR": "FORTE SANTUÁRIO",
+			"pt-PT": "FORTE SANTUÁRIO",
 			"ru-RU": "ФОРТ БЕЗОПАСНОСТИ",
 			"zh-Hans": "庇护堡",
 			"zh-Hant": "聖所堡"
@@ -852,7 +852,7 @@
 		"names": {
 			"en-US": "SEYSHEL BEACH",
 			"en-GB": "SEYSHEL BEACH",
-			"bp": "PRAIA SEYSHEL",
+			"pt-BR": "PRAIA SEYSHEL",
 			"de-DE": "SEYSHEL BEACH",
 			"es-ES": "PLAYA SEYSHEL",
 			"fr-FR": "CÔTE SEYSHEL",
@@ -861,7 +861,7 @@
 			"ko-KO": "세이셸 비치",
 			"ms-MY": "PLAYA SEYSHEL",
 			"pl-PL": "PLAŻA SEYSHEL",
-			"pt-BR": "PRAIA SEICHELE",
+			"pt-PT": "PRAIA SEICHELE",
 			"ru-RU": "СЕЙШЕЛЬСКИЙ ПЛЯЖ",
 			"zh-Hans": "塞舌尔海滩",
 			"zh-Hant": "塞席爾灘"
@@ -878,7 +878,7 @@
 		"names": {
 			"en-US": "HELLMIRE",
 			"en-GB": "HELLMIRE",
-			"bp": "LODOFERNO",
+			"pt-BR": "LODOFERNO",
 			"de-DE": "HELLMIRE",
 			"es-ES": "LODAZAL INFERNAL",
 			"fr-FR": "BOURBEFEU",
@@ -887,7 +887,7 @@
 			"ko-KO": "헬마이어",
 			"ms-MY": "HELLMIRE",
 			"pl-PL": "HELLMIRE",
-			"pt-BR": "HELLMIRE",
+			"pt-PT": "HELLMIRE",
 			"ru-RU": "ХЕЛЛМЕЙР",
 			"zh-Hans": "海尔迈尔",
 			"zh-Hant": "黑麥爾"
@@ -903,7 +903,7 @@
 		"names": {
 			"en-US": "EFFLUVIA",
 			"en-GB": "EFFLUVIA",
-			"bp": "EFLÚVIO",
+			"pt-BR": "EFLÚVIO",
 			"de-DE": "EFFLUVIA",
 			"es-ES": "EFFLUVIA",
 			"fr-FR": "EFFLUVIA",
@@ -912,7 +912,7 @@
 			"ko-KO": "에플루비아",
 			"ms-MY": "EFFLUVIA",
 			"pl-PL": "EFFLUVIA",
-			"pt-BR": "EFFLUVIA",
+			"pt-PT": "EFFLUVIA",
 			"ru-RU": "ЭФФЛУВИЯ",
 			"zh-Hans": "艾芙鲁维亚",
 			"zh-Hant": "艾佛露維亞"
@@ -928,7 +928,7 @@
 		"names": {
 			"en-US": "SOLGHAST",
 			"en-GB": "SOLGHAST",
-			"bp": "MACABRO",
+			"pt-BR": "MACABRO",
 			"de-DE": "SOLGHAST",
 			"es-ES": "SOLGHAST",
 			"fr-FR": "SOLGHAST",
@@ -937,7 +937,7 @@
 			"ko-KO": "솔가스트",
 			"ms-MY": "SOLGHAST",
 			"pl-PL": "SOLGHAST",
-			"pt-BR": "SOLGHAST",
+			"pt-PT": "SOLGHAST",
 			"ru-RU": "СОЛГАСТ",
 			"zh-Hans": "索尔加斯特",
 			"zh-Hant": "索嘉斯特"
@@ -953,7 +953,7 @@
 		"names": {
 			"en-US": "DILUVIA",
 			"en-GB": "DILUVIA",
-			"bp": "DILÚVIA",
+			"pt-BR": "DILÚVIA",
 			"de-DE": "DILUVIA",
 			"es-ES": "DILUVIA",
 			"fr-FR": "DILUVIA",
@@ -962,7 +962,7 @@
 			"ko-KO": "딜루비아",
 			"ms-MY": "DILUVIA",
 			"pl-PL": "DILUVIA",
-			"pt-BR": "DILUVIA",
+			"pt-PT": "DILUVIA",
 			"ru-RU": "ДИЛУВИЯ",
 			"zh-Hans": "迪卢维亚",
 			"zh-Hant": "迪露維亞"
@@ -979,7 +979,7 @@
 		"names": {
 			"en-US": "VIRIDIA PRIME",
 			"en-GB": "VIRIDIA PRIME",
-			"bp": "VIRÍDIA PRIME",
+			"pt-BR": "VIRÍDIA PRIME",
 			"de-DE": "VIRIDIA PRIME",
 			"es-ES": "VIRIDIA PRIME",
 			"fr-FR": "VIRIDIA PRIME",
@@ -988,7 +988,7 @@
 			"ko-KO": "비리디아 프라임",
 			"ms-MY": "VIRIDIA PRIME",
 			"pl-PL": "VIRIDIA PRIME",
-			"pt-BR": "VIRIDIA PRIME",
+			"pt-PT": "VIRIDIA PRIME",
 			"ru-RU": "ВИРИДИЯ-ПРАЙМ",
 			"zh-Hans": "维尔伊迪亚主星",
 			"zh-Hant": "維里迪亞主星"
@@ -1005,7 +1005,7 @@
 		"names": {
 			"en-US": "OBARI",
 			"en-GB": "OBARI",
-			"bp": "OBARI",
+			"pt-BR": "OBARI",
 			"de-DE": "OBARI",
 			"es-ES": "OBARI",
 			"fr-FR": "OBARI",
@@ -1014,7 +1014,7 @@
 			"ko-KO": "오바리",
 			"ms-MY": "OBARI",
 			"pl-PL": "OBARI",
-			"pt-BR": "OBARI",
+			"pt-PT": "OBARI",
 			"ru-RU": "ОБАРИ",
 			"zh-Hans": "欧巴里",
 			"zh-Hant": "歐巴里"
@@ -1031,7 +1031,7 @@
 		"names": {
 			"en-US": "MYRADESH",
 			"en-GB": "MYRADESH",
-			"bp": "MYRADESH",
+			"pt-BR": "MYRADESH",
 			"de-DE": "MYRADESH",
 			"es-ES": "MYRADESH",
 			"fr-FR": "MYRADESH",
@@ -1040,7 +1040,7 @@
 			"ko-KO": "마이라데스",
 			"ms-MY": "MYRADESH",
 			"pl-PL": "MYRADESH",
-			"pt-BR": "MYRADESH",
+			"pt-PT": "MYRADESH",
 			"ru-RU": "МИРАДЕШ",
 			"zh-Hans": "米拉戴什",
 			"zh-Hant": "米拉德許"
@@ -1056,7 +1056,7 @@
 		"names": {
 			"en-US": "ATRAMA",
 			"en-GB": "ATRAMA",
-			"bp": "ATRAMA",
+			"pt-BR": "ATRAMA",
 			"de-DE": "ATRAMA",
 			"es-ES": "ATRAMA",
 			"fr-FR": "ATRAMA",
@@ -1065,7 +1065,7 @@
 			"ko-KO": "아트라마",
 			"ms-MY": "ATRAMA",
 			"pl-PL": "ATRAMA",
-			"pt-BR": "ATRAMA",
+			"pt-PT": "ATRAMA",
 			"ru-RU": "АТРАМА",
 			"zh-Hans": "阿特拉玛",
 			"zh-Hant": "阿卓瑪"
@@ -1081,7 +1081,7 @@
 		"names": {
 			"en-US": "EMERIA",
 			"en-GB": "EMERIA",
-			"bp": "EMÉRIA",
+			"pt-BR": "EMÉRIA",
 			"de-DE": "EMERIA",
 			"es-ES": "EMERIA",
 			"fr-FR": "EMÉRIA",
@@ -1090,7 +1090,7 @@
 			"ko-KO": "에메리아",
 			"ms-MY": "EMERIA",
 			"pl-PL": "EMERIA",
-			"pt-BR": "EMERIA",
+			"pt-PT": "EMERIA",
 			"ru-RU": "ЭМЕРИЯ",
 			"zh-Hans": "埃梅里亚",
 			"zh-Hant": "艾美里亞"
@@ -1106,7 +1106,7 @@
 		"names": {
 			"en-US": "BARABOS",
 			"en-GB": "BARABOS",
-			"bp": "BÁRABOS",
+			"pt-BR": "BÁRABOS",
 			"de-DE": "BARABOS",
 			"es-ES": "BARABOS",
 			"fr-FR": "BARABOS",
@@ -1115,7 +1115,7 @@
 			"ko-KO": "바라보스",
 			"ms-MY": "BARABOS",
 			"pl-PL": "BARABOS",
-			"pt-BR": "BARABOS",
+			"pt-PT": "BARABOS",
 			"ru-RU": "БАРАБОС",
 			"zh-Hans": "巴勒博斯",
 			"zh-Hant": "巴拉博斯"
@@ -1132,7 +1132,7 @@
 		"names": {
 			"en-US": "FENMIRE",
 			"en-GB": "FENMIRE",
-			"bp": "LODOCHARCO",
+			"pt-BR": "LODOCHARCO",
 			"de-DE": "FENMIRE",
 			"es-ES": "CIÉNAGA",
 			"fr-FR": "FENMIRE",
@@ -1141,7 +1141,7 @@
 			"ko-KO": "펜마이어",
 			"ms-MY": "FENMIRE",
 			"pl-PL": "FENMIRE",
-			"pt-BR": "PÂNTANO",
+			"pt-PT": "PÂNTANO",
 			"ru-RU": "ФЕНМЕЙР",
 			"zh-Hans": "范迈尔",
 			"zh-Hant": "芬麥爾"
@@ -1158,7 +1158,7 @@
 		"names": {
 			"en-US": "MASTIA",
 			"en-GB": "MASTIA",
-			"bp": "MÁSTIA",
+			"pt-BR": "MÁSTIA",
 			"de-DE": "MASTIA",
 			"es-ES": "MASTIA",
 			"fr-FR": "MASTIA",
@@ -1167,7 +1167,7 @@
 			"ko-KO": "마스티아",
 			"ms-MY": "MASTIA",
 			"pl-PL": "MASTIA",
-			"pt-BR": "MASTIA",
+			"pt-PT": "MASTIA",
 			"ru-RU": "МАСТИЯ",
 			"zh-Hans": "玛斯蒂亚",
 			"zh-Hant": "馬斯提亞"
@@ -1183,7 +1183,7 @@
 		"names": {
 			"en-US": "SHALLUS",
 			"en-GB": "SHALLUS",
-			"bp": "SHALLUS",
+			"pt-BR": "SHALLUS",
 			"de-DE": "SHALLUS",
 			"es-ES": "SHALLUS",
 			"fr-FR": "SHALLUS",
@@ -1192,7 +1192,7 @@
 			"ko-KO": "샬루스",
 			"ms-MY": "SHALLUS",
 			"pl-PL": "SHALLUS",
-			"pt-BR": "SHALLUS",
+			"pt-PT": "SHALLUS",
 			"ru-RU": "ШАЛЛУС",
 			"zh-Hans": "沙勒斯",
 			"zh-Hant": "沙露斯"
@@ -1208,7 +1208,7 @@
 		"names": {
 			"en-US": "KRAKABOS",
 			"en-GB": "KRAKABOS",
-			"bp": "KRAKABOS",
+			"pt-BR": "KRAKABOS",
 			"de-DE": "KRAKABOS",
 			"es-ES": "KRAKABOS",
 			"fr-FR": "KRAKABOS",
@@ -1217,7 +1217,7 @@
 			"ko-KO": "크라카보스",
 			"ms-MY": "KRAKABOS",
 			"pl-PL": "KRAKABOS",
-			"pt-BR": "KRAKABOS",
+			"pt-PT": "KRAKABOS",
 			"ru-RU": "КРАКАБОС",
 			"zh-Hans": "克拉克博斯",
 			"zh-Hant": "卡拉卡博"
@@ -1233,7 +1233,7 @@
 		"names": {
 			"en-US": "IRIDICA",
 			"en-GB": "IRIDICA",
-			"bp": "IRÍDICA",
+			"pt-BR": "IRÍDICA",
 			"de-DE": "IRIDICA",
 			"es-ES": "IRIDICA",
 			"fr-FR": "IRIDICA",
@@ -1242,7 +1242,7 @@
 			"ko-KO": "이리디카",
 			"ms-MY": "IRIDICA",
 			"pl-PL": "IRIDICA",
-			"pt-BR": "IRIDICA",
+			"pt-PT": "IRIDICA",
 			"ru-RU": "ИРИДИКА",
 			"zh-Hans": "艾丽迪卡",
 			"zh-Hant": "伊梨迪卡"
@@ -1258,7 +1258,7 @@
 		"names": {
 			"en-US": "AZTERRA",
 			"en-GB": "AZTERRA",
-			"bp": "AZTERRA",
+			"pt-BR": "AZTERRA",
 			"de-DE": "AZTERRA",
 			"es-ES": "AZTERRA",
 			"fr-FR": "AZTERRA",
@@ -1267,7 +1267,7 @@
 			"ko-KO": "아즈테라",
 			"ms-MY": "AZTERRA",
 			"pl-PL": "AZTERRA",
-			"pt-BR": "AZTERRA",
+			"pt-PT": "AZTERRA",
 			"ru-RU": "АСТЕРРА",
 			"zh-Hans": "艾孜泰拉",
 			"zh-Hant": "阿茲提拉"
@@ -1284,7 +1284,7 @@
 		"names": {
 			"en-US": "AZUR SECUNDUS",
 			"en-GB": "AZUR SECUNDUS",
-			"bp": "AZUR SECUNDUS",
+			"pt-BR": "AZUR SECUNDUS",
 			"de-DE": "AZUR SECUNDUS",
 			"es-ES": "AZUR SECUNDUS",
 			"fr-FR": "AZUR SECUNDUS",
@@ -1293,7 +1293,7 @@
 			"ko-KO": "아주르 세쿤두스",
 			"ms-MY": "AZUR SECUNDUS",
 			"pl-PL": "AZUR SECUNDUS",
-			"pt-BR": "AZUR SECUNDUS",
+			"pt-PT": "AZUR SECUNDUS",
 			"ru-RU": "АЗУР II",
 			"zh-Hans": "艾热尔次星",
 			"zh-Hant": "阿祖爾次星"
@@ -1310,7 +1310,7 @@
 		"names": {
 			"en-US": "IVIS",
 			"en-GB": "IVIS",
-			"bp": "ÍVIS",
+			"pt-BR": "ÍVIS",
 			"de-DE": "IVIS",
 			"es-ES": "IVIS",
 			"fr-FR": "IVIS",
@@ -1319,7 +1319,7 @@
 			"ko-KO": "이비스",
 			"ms-MY": "IVIS",
 			"pl-PL": "IVIS",
-			"pt-BR": "IVIS",
+			"pt-PT": "IVIS",
 			"ru-RU": "АЙВИС",
 			"zh-Hans": "艾维斯",
 			"zh-Hant": "艾維斯"
@@ -1336,7 +1336,7 @@
 		"names": {
 			"en-US": "SLIF",
 			"en-GB": "SLIF",
-			"bp": "SLIF",
+			"pt-BR": "SLIF",
 			"de-DE": "SLIF",
 			"es-ES": "SLIF",
 			"fr-FR": "SLIF",
@@ -1345,7 +1345,7 @@
 			"ko-KO": "슬리프",
 			"ms-MY": "SLIF",
 			"pl-PL": "SLIF",
-			"pt-BR": "SLIF",
+			"pt-PT": "SLIF",
 			"ru-RU": "СЛИФ",
 			"zh-Hans": "斯利夫",
 			"zh-Hant": "史里夫"
@@ -1362,7 +1362,7 @@
 		"names": {
 			"en-US": "CARAMOOR",
 			"en-GB": "CARAMOOR",
-			"bp": "CARAMOOR",
+			"pt-BR": "CARAMOOR",
 			"de-DE": "CARAMOOR",
 			"es-ES": "CARAMOOR",
 			"fr-FR": "CARAMOUR",
@@ -1371,7 +1371,7 @@
 			"ko-KO": "캐러모어",
 			"ms-MY": "CARAMOOR",
 			"pl-PL": "CARAMOOR",
-			"pt-BR": "CARAMOOR",
+			"pt-PT": "CARAMOOR",
 			"ru-RU": "КАРАМУР",
 			"zh-Hans": "开勒莫尔",
 			"zh-Hant": "凱拉穆"
@@ -1387,7 +1387,7 @@
 		"names": {
 			"en-US": "KHARST",
 			"en-GB": "KHARST",
-			"bp": "KHARST",
+			"pt-BR": "KHARST",
 			"de-DE": "KHARST",
 			"es-ES": "KHARST",
 			"fr-FR": "KHARST",
@@ -1396,7 +1396,7 @@
 			"ko-KO": "카르스트",
 			"ms-MY": "KHARST",
 			"pl-PL": "KHARST",
-			"pt-BR": "KHARST",
+			"pt-PT": "KHARST",
 			"ru-RU": "КХАРСТ",
 			"zh-Hans": "喀斯特",
 			"zh-Hant": "哈斯特"
@@ -1412,7 +1412,7 @@
 		"names": {
 			"en-US": "EUKORIA",
 			"en-GB": "EUKORIA",
-			"bp": "EUKÓRIA",
+			"pt-BR": "EUKÓRIA",
 			"de-DE": "EUKORIA",
 			"es-ES": "EUKORIA",
 			"fr-FR": "EUKORIA",
@@ -1421,7 +1421,7 @@
 			"ko-KO": "에우코리아",
 			"ms-MY": "EUKORIA",
 			"pl-PL": "EUKORIA",
-			"pt-BR": "EUKORIA",
+			"pt-PT": "EUKORIA",
 			"ru-RU": "ЮКОРИЯ",
 			"zh-Hans": "欧科里亚",
 			"zh-Hant": "攸科里亞"
@@ -1437,7 +1437,7 @@
 		"names": {
 			"en-US": "MYRIUM",
 			"en-GB": "MYRIUM",
-			"bp": "MYRIUM",
+			"pt-BR": "MYRIUM",
 			"de-DE": "MYRIUM",
 			"es-ES": "MYRIUM",
 			"fr-FR": "MYRIUM",
@@ -1446,7 +1446,7 @@
 			"ko-KO": "마이리움",
 			"ms-MY": "MYRIUM",
 			"pl-PL": "MYRIUM",
-			"pt-BR": "MYRIUM",
+			"pt-PT": "MYRIUM",
 			"ru-RU": "МИРИУМ",
 			"zh-Hans": "梅里翁",
 			"zh-Hant": "米里烏"
@@ -1462,7 +1462,7 @@
 		"names": {
 			"en-US": "KERTH SECUNDUS",
 			"en-GB": "KERTH SECUNDUS",
-			"bp": "KERTH SECUNDUS",
+			"pt-BR": "KERTH SECUNDUS",
 			"de-DE": "KERTH SECUNDUS",
 			"es-ES": "KERTH SECUNDUS",
 			"fr-FR": "KERTH SECUNDUS",
@@ -1471,7 +1471,7 @@
 			"ko-KO": "케르스 세쿤두스",
 			"ms-MY": "KERTH SECUNDUS",
 			"pl-PL": "KERTH SECUNDUS",
-			"pt-BR": "KERTH SECUNDUS",
+			"pt-PT": "KERTH SECUNDUS",
 			"ru-RU": "КЕРТ II",
 			"zh-Hans": "克斯次星",
 			"zh-Hant": "克斯次星"
@@ -1488,7 +1488,7 @@
 		"names": {
 			"en-US": "PARSH",
 			"en-GB": "PARSH",
-			"bp": "PARSH",
+			"pt-BR": "PARSH",
 			"de-DE": "PARSH",
 			"es-ES": "PARSH",
 			"fr-FR": "PARSH",
@@ -1497,7 +1497,7 @@
 			"ko-KO": "파시",
 			"ms-MY": "PARSH",
 			"pl-PL": "PARSH",
-			"pt-BR": "PARSH",
+			"pt-PT": "PARSH",
 			"ru-RU": "ПАРШ",
 			"zh-Hans": "帕尔什",
 			"zh-Hant": "帕許"
@@ -1514,7 +1514,7 @@
 		"names": {
 			"en-US": "REAF",
 			"en-GB": "REAF",
-			"bp": "REAF",
+			"pt-BR": "REAF",
 			"de-DE": "REAF",
 			"es-ES": "REAF",
 			"fr-FR": "RIIF",
@@ -1523,7 +1523,7 @@
 			"ko-KO": "리프",
 			"ms-MY": "REAF",
 			"pl-PL": "REAF",
-			"pt-BR": "REAF",
+			"pt-PT": "REAF",
 			"ru-RU": "РИФ",
 			"zh-Hans": "利夫",
 			"zh-Hant": "里夫"
@@ -1540,7 +1540,7 @@
 		"names": {
 			"en-US": "IRULTA",
 			"en-GB": "IRULTA",
-			"bp": "IRULTA",
+			"pt-BR": "IRULTA",
 			"de-DE": "IRULTA",
 			"es-ES": "IRULTA",
 			"fr-FR": "IRULTA",
@@ -1549,7 +1549,7 @@
 			"ko-KO": "이룰타",
 			"ms-MY": "IRULTA",
 			"pl-PL": "IRULTA",
-			"pt-BR": "IRULTA",
+			"pt-PT": "IRULTA",
 			"ru-RU": "ИРУЛТА",
 			"zh-Hans": "艾鲁尔塔",
 			"zh-Hant": "伊魯塔"
@@ -1565,7 +1565,7 @@
 		"names": {
 			"en-US": "EMORATH",
 			"en-GB": "EMORATH",
-			"bp": "EMORATH",
+			"pt-BR": "EMORATH",
 			"de-DE": "EMORATH",
 			"es-ES": "EMORATH",
 			"fr-FR": "EMORATH",
@@ -1574,7 +1574,7 @@
 			"ko-KO": "에모라스",
 			"ms-MY": "EMORATH",
 			"pl-PL": "EMORATH",
-			"pt-BR": "EMORATH",
+			"pt-PT": "EMORATH",
 			"ru-RU": "ЭМОРАТ",
 			"zh-Hans": "艾莫拉斯",
 			"zh-Hant": "埃摩拉"
@@ -1590,7 +1590,7 @@
 		"names": {
 			"en-US": "ILDUNA PRIME",
 			"en-GB": "ILDUNA PRIME",
-			"bp": "ILDUNA PRIME",
+			"pt-BR": "ILDUNA PRIME",
 			"de-DE": "ILDUNA PRIME",
 			"es-ES": "ILDUNA PRIME",
 			"fr-FR": "ILDUNA PRIME",
@@ -1599,7 +1599,7 @@
 			"ko-KO": "일두나 프라임",
 			"ms-MY": "ILDUNA PRIME",
 			"pl-PL": "ILDUNA PRIME",
-			"pt-BR": "ILDUNA PRIME",
+			"pt-PT": "ILDUNA PRIME",
 			"ru-RU": "ИЛДУНА-ПРАЙМ",
 			"zh-Hans": "伊尔都纳主星",
 			"zh-Hant": "伊杜納主星"
@@ -1615,7 +1615,7 @@
 		"names": {
 			"en-US": "MAW",
 			"en-GB": "MAW",
-			"bp": "VORAZ",
+			"pt-BR": "VORAZ",
 			"de-DE": "MAW",
 			"es-ES": "FAUCES",
 			"fr-FR": "MAW",
@@ -1624,7 +1624,7 @@
 			"ko-KO": "모",
 			"ms-MY": "MAW",
 			"pl-PL": "PASZCZA",
-			"pt-BR": "MAW",
+			"pt-PT": "MAW",
 			"ru-RU": "УТРОБА",
 			"zh-Hans": "深渊",
 			"zh-Hant": "巨嘴"
@@ -1641,7 +1641,7 @@
 		"names": {
 			"en-US": "MERIDIA",
 			"en-GB": "MERIDIA",
-			"bp": "MERÍDIA",
+			"pt-BR": "MERÍDIA",
 			"de-DE": "MERIDIA",
 			"es-ES": "MERIDIA",
 			"fr-FR": "MÉRIDIA",
@@ -1650,7 +1650,7 @@
 			"ko-KO": "메리디아",
 			"ms-MY": "MERIDIA",
 			"pl-PL": "MERIDIA",
-			"pt-BR": "MERIDIA",
+			"pt-PT": "MERIDIA",
 			"ru-RU": "МЕРИДИЯ",
 			"zh-Hans": "默里迪亚",
 			"zh-Hant": "梅里迪亞"
@@ -1667,7 +1667,7 @@
 		"names": {
 			"en-US": "BOREA",
 			"en-GB": "BOREA",
-			"bp": "BÓREA",
+			"pt-BR": "BÓREA",
 			"de-DE": "BOREA",
 			"es-ES": "BOREA",
 			"fr-FR": "BORÉA",
@@ -1676,7 +1676,7 @@
 			"ko-KO": "보레아",
 			"ms-MY": "BOREA",
 			"pl-PL": "BOREA",
-			"pt-BR": "BOREA",
+			"pt-PT": "BOREA",
 			"ru-RU": "БОРЕЯ",
 			"zh-Hans": "博瑞亚",
 			"zh-Hant": "博里亞"
@@ -1693,7 +1693,7 @@
 		"names": {
 			"en-US": "CURIA",
 			"en-GB": "CURIA",
-			"bp": "CÚRIA",
+			"pt-BR": "CÚRIA",
 			"de-DE": "CURIA",
 			"es-ES": "CURIA",
 			"fr-FR": "CURIA",
@@ -1702,7 +1702,7 @@
 			"ko-KO": "쿠리아",
 			"ms-MY": "CURIA",
 			"pl-PL": "CURIA",
-			"pt-BR": "CURIA",
+			"pt-PT": "CURIA",
 			"ru-RU": "КУРИЯ",
 			"zh-Hans": "居里亚",
 			"zh-Hant": "庫里亞"
@@ -1719,7 +1719,7 @@
 		"names": {
 			"en-US": "TARSH",
 			"en-GB": "TARSH",
-			"bp": "TARSH",
+			"pt-BR": "TARSH",
 			"de-DE": "TARSH",
 			"es-ES": "TARSH",
 			"fr-FR": "TARSH",
@@ -1728,7 +1728,7 @@
 			"ko-KO": "타시",
 			"ms-MY": "TARSH",
 			"pl-PL": "TARSH",
-			"pt-BR": "TARSH",
+			"pt-PT": "TARSH",
 			"ru-RU": "ТАРШ",
 			"zh-Hans": "塔尔什",
 			"zh-Hant": "塔許"
@@ -1744,7 +1744,7 @@
 		"names": {
 			"en-US": "SHELT",
 			"en-GB": "SHELT",
-			"bp": "SHELT",
+			"pt-BR": "SHELT",
 			"de-DE": "SHELT",
 			"es-ES": "SHELT",
 			"fr-FR": "SHELT",
@@ -1753,7 +1753,7 @@
 			"ko-KO": "셸트",
 			"ms-MY": "SHELT",
 			"pl-PL": "SHELT",
-			"pt-BR": "SHELT",
+			"pt-PT": "SHELT",
 			"ru-RU": "ШЕЛТ",
 			"zh-Hans": "谢尔特",
 			"zh-Hant": "雪爾特"
@@ -1770,7 +1770,7 @@
 		"names": {
 			"en-US": "IMBER",
 			"en-GB": "IMBER",
-			"bp": "IMBER",
+			"pt-BR": "IMBER",
 			"de-DE": "IMBER",
 			"es-ES": "IMBER",
 			"fr-FR": "IMBER",
@@ -1779,7 +1779,7 @@
 			"ko-KO": "임베르",
 			"ms-MY": "IMBER",
 			"pl-PL": "IMBER",
-			"pt-BR": "IMBER",
+			"pt-PT": "IMBER",
 			"ru-RU": "ИМБЕР",
 			"zh-Hans": "因博尔",
 			"zh-Hant": "印博"
@@ -1796,7 +1796,7 @@
 		"names": {
 			"en-US": "BLISTICA",
 			"en-GB": "BLISTICA",
-			"bp": "BLÍSTICA",
+			"pt-BR": "BLÍSTICA",
 			"de-DE": "BLISTICA",
 			"es-ES": "BLISTICA",
 			"fr-FR": "BLISTICA",
@@ -1805,7 +1805,7 @@
 			"ko-KO": "블리스티카",
 			"ms-MY": "BLISTICA",
 			"pl-PL": "BLISTICA",
-			"pt-BR": "BLISTICA",
+			"pt-PT": "BLISTICA",
 			"ru-RU": "БЛИСТИКА",
 			"zh-Hans": "布里斯提卡",
 			"zh-Hant": "布里斯提卡"
@@ -1822,7 +1822,7 @@
 		"names": {
 			"en-US": "RATCH",
 			"en-GB": "RATCH",
-			"bp": "RATCH",
+			"pt-BR": "RATCH",
 			"de-DE": "RATCH",
 			"es-ES": "RATCH",
 			"fr-FR": "RATCH",
@@ -1831,7 +1831,7 @@
 			"ko-KO": "래치",
 			"ms-MY": "RATCH",
 			"pl-PL": "RATCH",
-			"pt-BR": "RATCH",
+			"pt-PT": "RATCH",
 			"ru-RU": "РАТЧ",
 			"zh-Hans": "拉奇",
 			"zh-Hant": "列曲"
@@ -1848,7 +1848,7 @@
 		"names": {
 			"en-US": "JULHEIM",
 			"en-GB": "JULHEIM",
-			"bp": "JULHEIM",
+			"pt-BR": "JULHEIM",
 			"de-DE": "JULHEIM",
 			"es-ES": "JULHEIM",
 			"fr-FR": "JULHEIM",
@@ -1857,7 +1857,7 @@
 			"ko-KO": "줄하임",
 			"ms-MY": "JULHEIM",
 			"pl-PL": "JULHEIM",
-			"pt-BR": "JULHEIM",
+			"pt-PT": "JULHEIM",
 			"ru-RU": "ЮЛЬХЕЙМ",
 			"zh-Hans": "尤尔海姆",
 			"zh-Hant": "約海姆"
@@ -1873,7 +1873,7 @@
 		"names": {
 			"en-US": "VALGAARD",
 			"en-GB": "VALGAARD",
-			"bp": "VALGAARD",
+			"pt-BR": "VALGAARD",
 			"de-DE": "VALGAARD",
 			"es-ES": "VALGAARD",
 			"fr-FR": "VALGAARD",
@@ -1882,7 +1882,7 @@
 			"ko-KO": "발가르드",
 			"ms-MY": "VALGAARD",
 			"pl-PL": "VALGAARD",
-			"pt-BR": "VALGAARD",
+			"pt-PT": "VALGAARD",
 			"ru-RU": "ВАЛГААРД",
 			"zh-Hans": "瓦尔加德",
 			"zh-Hant": "瓦爾加德"
@@ -1899,7 +1899,7 @@
 		"names": {
 			"en-US": "ARKTURUS",
 			"en-GB": "ARKTURUS",
-			"bp": "ARKTURUS",
+			"pt-BR": "ARKTURUS",
 			"de-DE": "ARKTURUS",
 			"es-ES": "ARKTURUS",
 			"fr-FR": "ARKTURUS",
@@ -1908,7 +1908,7 @@
 			"ko-KO": "아크투루스",
 			"ms-MY": "ARKTURUS",
 			"pl-PL": "ARKTURUS",
-			"pt-BR": "ARKTURUS",
+			"pt-PT": "ARKTURUS",
 			"ru-RU": "АРКТУР",
 			"zh-Hans": "阿克图勒斯",
 			"zh-Hant": "亞克土魯斯"
@@ -1925,7 +1925,7 @@
 		"names": {
 			"en-US": "ESKER",
 			"en-GB": "ESKER",
-			"bp": "ESKER",
+			"pt-BR": "ESKER",
 			"de-DE": "ESKER",
 			"es-ES": "ESKER",
 			"fr-FR": "ESKER",
@@ -1934,7 +1934,7 @@
 			"ko-KO": "에스케르",
 			"ms-MY": "ESKER",
 			"pl-PL": "ESKER",
-			"pt-BR": "ESKER",
+			"pt-PT": "ESKER",
 			"ru-RU": "ЭСКЕР",
 			"zh-Hans": "艾斯克尔",
 			"zh-Hant": "埃斯科"
@@ -1951,7 +1951,7 @@
 		"names": {
 			"en-US": "TERREK",
 			"en-GB": "TERREK",
-			"bp": "TERREK",
+			"pt-BR": "TERREK",
 			"de-DE": "TERREK",
 			"es-ES": "TERREK",
 			"fr-FR": "TERREK",
@@ -1960,7 +1960,7 @@
 			"ko-KO": "테렉",
 			"ms-MY": "TERREK",
 			"pl-PL": "TERREK",
-			"pt-BR": "TERREK",
+			"pt-PT": "TERREK",
 			"ru-RU": "ТЕРРЕК",
 			"zh-Hans": "泰雷克",
 			"zh-Hant": "鐵瑞克"
@@ -1976,7 +1976,7 @@
 		"names": {
 			"en-US": "CIRRUS",
 			"en-GB": "CIRRUS",
-			"bp": "CIRRUS",
+			"pt-BR": "CIRRUS",
 			"de-DE": "CIRRUS",
 			"es-ES": "CIRRUS",
 			"fr-FR": "CIRRUS",
@@ -1985,7 +1985,7 @@
 			"ko-KO": "시루스",
 			"ms-MY": "CIRRUS",
 			"pl-PL": "CIRRUS",
-			"pt-BR": "CIRRUS",
+			"pt-PT": "CIRRUS",
 			"ru-RU": "СИРРУС",
 			"zh-Hans": "希勒斯",
 			"zh-Hant": "錫瑞斯"
@@ -2001,7 +2001,7 @@
 		"names": {
 			"en-US": "CRIMSICA",
 			"en-GB": "CRIMSICA",
-			"bp": "CRIMSICA",
+			"pt-BR": "CRIMSICA",
 			"de-DE": "CRIMSICA",
 			"es-ES": "CRIMSICA",
 			"fr-FR": "CRIMSICA",
@@ -2010,7 +2010,7 @@
 			"ko-KO": "크림시카",
 			"ms-MY": "CRIMSICA",
 			"pl-PL": "CRIMSICA",
-			"pt-BR": "CRIMSICA",
+			"pt-PT": "CRIMSICA",
 			"ru-RU": "КРИМСИКА",
 			"zh-Hans": "克里姆西卡",
 			"zh-Hant": "克里姆錫卡"
@@ -2027,7 +2027,7 @@
 		"names": {
 			"en-US": "HEETH",
 			"en-GB": "HEETH",
-			"bp": "HEETH",
+			"pt-BR": "HEETH",
 			"de-DE": "HEETH",
 			"es-ES": "HEETH",
 			"fr-FR": "HÏS",
@@ -2036,7 +2036,7 @@
 			"ko-KO": "히스",
 			"ms-MY": "HEETH",
 			"pl-PL": "HEETH",
-			"pt-BR": "HEETH",
+			"pt-PT": "HEETH",
 			"ru-RU": "ХИИТ",
 			"zh-Hans": "希斯",
 			"zh-Hant": "希斯"
@@ -2052,7 +2052,7 @@
 		"names": {
 			"en-US": "VELD",
 			"en-GB": "VELD",
-			"bp": "VELD",
+			"pt-BR": "VELD",
 			"de-DE": "VELD",
 			"es-ES": "VELD",
 			"fr-FR": "VELD",
@@ -2061,7 +2061,7 @@
 			"ko-KO": "벨드",
 			"ms-MY": "VELD",
 			"pl-PL": "VELD",
-			"pt-BR": "VELD",
+			"pt-PT": "VELD",
 			"ru-RU": "ВЕЛЬД",
 			"zh-Hans": "维尔德",
 			"zh-Hant": "威爾德"
@@ -2078,7 +2078,7 @@
 		"names": {
 			"en-US": "ALTA V",
 			"en-GB": "ALTA V",
-			"bp": "ALTA V",
+			"pt-BR": "ALTA V",
 			"de-DE": "ALTA V",
 			"es-ES": "ALTA V",
 			"fr-FR": "ALTA V",
@@ -2087,7 +2087,7 @@
 			"ko-KO": "알타 V",
 			"ms-MY": "ALTA V",
 			"pl-PL": "ALTA V",
-			"pt-BR": "ALTA V",
+			"pt-PT": "ALTA V",
 			"ru-RU": "АЛЬТА V",
 			"zh-Hans": "奥尔塔V",
 			"zh-Hant": "歐塔V"
@@ -2103,7 +2103,7 @@
 		"names": {
 			"en-US": "URSICA XI",
 			"en-GB": "URSICA XI",
-			"bp": "ÚRSICA XI",
+			"pt-BR": "ÚRSICA XI",
 			"de-DE": "URSICA XI",
 			"es-ES": "URSICA XI",
 			"fr-FR": "URSICA XI",
@@ -2112,7 +2112,7 @@
 			"ko-KO": "우르시카 XI",
 			"ms-MY": "ÚRSICA XI",
 			"pl-PL": "URSICA XI",
-			"pt-BR": "URSICA XI",
+			"pt-PT": "URSICA XI",
 			"ru-RU": "УРСИКА XI",
 			"zh-Hans": "厄西卡XI",
 			"zh-Hant": "爾西卡XI"
@@ -2128,7 +2128,7 @@
 		"names": {
 			"en-US": "INARI",
 			"en-GB": "INARI",
-			"bp": "INARI",
+			"pt-BR": "INARI",
 			"de-DE": "INARI",
 			"es-ES": "INARI",
 			"fr-FR": "INARI",
@@ -2137,7 +2137,7 @@
 			"ko-KO": "이나리",
 			"ms-MY": "INARI",
 			"pl-PL": "INARI",
-			"pt-BR": "INARI",
+			"pt-PT": "INARI",
 			"ru-RU": "ИНАРИ",
 			"zh-Hans": "伊纳里",
 			"zh-Hant": "伊那里"
@@ -2154,7 +2154,7 @@
 		"names": {
 			"en-US": "SKAASH",
 			"en-GB": "SKAASH",
-			"bp": "SKAASH",
+			"pt-BR": "SKAASH",
 			"de-DE": "SKAASH",
 			"es-ES": "SKAASH",
 			"fr-FR": "SKAASH",
@@ -2163,7 +2163,7 @@
 			"ko-KO": "스카시",
 			"ms-MY": "SKAASH",
 			"pl-PL": "SKAASH",
-			"pt-BR": "SKAASH",
+			"pt-PT": "SKAASH",
 			"ru-RU": "СКААШ",
 			"zh-Hans": "斯卡什",
 			"zh-Hant": "史卡什"
@@ -2180,7 +2180,7 @@
 		"names": {
 			"en-US": "MORADESH",
 			"en-GB": "MORADESH",
-			"bp": "MORADESH",
+			"pt-BR": "MORADESH",
 			"de-DE": "MORADESH",
 			"es-ES": "MORADESH",
 			"fr-FR": "MORADESH",
@@ -2189,7 +2189,7 @@
 			"ko-KO": "모라데시",
 			"ms-MY": "MORADESH",
 			"pl-PL": "MORADESH",
-			"pt-BR": "MORADESH",
+			"pt-PT": "MORADESH",
 			"ru-RU": "МОРАДЕШ",
 			"zh-Hans": "莫拉戴什",
 			"zh-Hant": "摩拉德許"
@@ -2206,7 +2206,7 @@
 		"names": {
 			"en-US": "RASP",
 			"en-GB": "RASP",
-			"bp": "RASP",
+			"pt-BR": "RASP",
 			"de-DE": "RASP",
 			"es-ES": "RASP",
 			"fr-FR": "RASP",
@@ -2215,7 +2215,7 @@
 			"ko-KO": "라스프",
 			"ms-MY": "RASP",
 			"pl-PL": "RASP",
-			"pt-BR": "RASP",
+			"pt-PT": "RASP",
 			"ru-RU": "РАСП",
 			"zh-Hans": "拉斯普",
 			"zh-Hant": "拉斯普"
@@ -2231,7 +2231,7 @@
 		"names": {
 			"en-US": "BASHYR",
 			"en-GB": "BASHYR",
-			"bp": "BASHYR",
+			"pt-BR": "BASHYR",
 			"de-DE": "BASHYR",
 			"es-ES": "BASHYR",
 			"fr-FR": "BASHYR",
@@ -2240,7 +2240,7 @@
 			"ko-KO": "바시르",
 			"ms-MY": "BASHYR",
 			"pl-PL": "BASHYR",
-			"pt-BR": "BASHYR",
+			"pt-PT": "BASHYR",
 			"ru-RU": "БАШИР",
 			"zh-Hans": "巴希尔",
 			"zh-Hant": "巴希爾"
@@ -2257,7 +2257,7 @@
 		"names": {
 			"en-US": "REGNUS",
 			"en-GB": "REGNUS",
-			"bp": "REGNUS",
+			"pt-BR": "REGNUS",
 			"de-DE": "REGNUS",
 			"es-ES": "REGNUS",
 			"fr-FR": "REGNUS",
@@ -2266,7 +2266,7 @@
 			"ko-KO": "레그누스",
 			"ms-MY": "REGNUS",
 			"pl-PL": "REGNUS",
-			"pt-BR": "REGNUS",
+			"pt-PT": "REGNUS",
 			"ru-RU": "РЕГНУС",
 			"zh-Hans": "雷格努斯",
 			"zh-Hant": "雷格納"
@@ -2283,7 +2283,7 @@
 		"names": {
 			"en-US": "MOG",
 			"en-GB": "MOG",
-			"bp": "MOG",
+			"pt-BR": "MOG",
 			"de-DE": "MOG",
 			"es-ES": "MOG",
 			"fr-FR": "MOG",
@@ -2292,7 +2292,7 @@
 			"ko-KO": "모그",
 			"ms-MY": "MOG",
 			"pl-PL": "MOG",
-			"pt-BR": "MOG",
+			"pt-PT": "MOG",
 			"ru-RU": "МОГ",
 			"zh-Hans": "莫格",
 			"zh-Hant": "莫格"
@@ -2308,7 +2308,7 @@
 		"names": {
 			"en-US": "VALMOX",
 			"en-GB": "VALMOX",
-			"bp": "VALMOX",
+			"pt-BR": "VALMOX",
 			"de-DE": "VALMOX",
 			"es-ES": "VALMOX",
 			"fr-FR": "VALMOX",
@@ -2317,7 +2317,7 @@
 			"ko-KO": "발목스",
 			"ms-MY": "VALMOX",
 			"pl-PL": "VALMOX",
-			"pt-BR": "VALMOX",
+			"pt-PT": "VALMOX",
 			"ru-RU": "ВАЛЬМОКС",
 			"zh-Hans": "瓦尔莫克斯",
 			"zh-Hant": "瓦爾摩斯"
@@ -2334,7 +2334,7 @@
 		"names": {
 			"en-US": "IRO",
 			"en-GB": "IRO",
-			"bp": "IRO",
+			"pt-BR": "IRO",
 			"de-DE": "IRO",
 			"es-ES": "IRO",
 			"fr-FR": "IRO",
@@ -2343,7 +2343,7 @@
 			"ko-KO": "이로",
 			"ms-MY": "IRO",
 			"pl-PL": "IRO",
-			"pt-BR": "IRO",
+			"pt-PT": "IRO",
 			"ru-RU": "ИРО",
 			"zh-Hans": "伊罗",
 			"zh-Hant": "伊羅"
@@ -2359,7 +2359,7 @@
 		"names": {
 			"en-US": "GRAFMERE",
 			"en-GB": "GRAFMERE",
-			"bp": "GRAFMERE",
+			"pt-BR": "GRAFMERE",
 			"de-DE": "GRAFMERE",
 			"es-ES": "GRAFMERE",
 			"fr-FR": "GRAFMERE",
@@ -2368,7 +2368,7 @@
 			"ko-KO": "그라프미어",
 			"ms-MY": "GRAFMERE",
 			"pl-PL": "GRAFMERE",
-			"pt-BR": "GRAFMERE",
+			"pt-PT": "GRAFMERE",
 			"ru-RU": "ГРАФМЕР",
 			"zh-Hans": "格拉夫米尔",
 			"zh-Hant": "格列夫米爾"
@@ -2385,7 +2385,7 @@
 		"names": {
 			"en-US": "NEW STOCKHOLM",
 			"en-GB": "NEW STOCKHOLM",
-			"bp": "NOVA ESTOCOLMO",
+			"pt-BR": "NOVA ESTOCOLMO",
 			"de-DE": "NEW STOCKHOLM",
 			"es-ES": "NUEVO ESTOCOLMO",
 			"fr-FR": "NÉO-STOCKHOLM",
@@ -2394,7 +2394,7 @@
 			"ko-KO": "뉴 스톡홀름",
 			"ms-MY": "NUEVA ESTOCOLMO",
 			"pl-PL": "NOWY SZTOKHOLM",
-			"pt-BR": "NOVA ESTOCOLMO",
+			"pt-PT": "NOVA ESTOCOLMO",
 			"ru-RU": "НОВЫЙ СТОКГОЛЬМ",
 			"zh-Hans": "新斯德哥尔摩",
 			"zh-Hant": "新斯德哥爾摩"
@@ -2411,7 +2411,7 @@
 		"names": {
 			"en-US": "OASIS",
 			"en-GB": "OASIS",
-			"bp": "OÁSIS",
+			"pt-BR": "OÁSIS",
 			"de-DE": "OASIS",
 			"es-ES": "OASIS",
 			"fr-FR": "OASIS",
@@ -2420,7 +2420,7 @@
 			"ko-KO": "오아시스",
 			"ms-MY": "OASIS",
 			"pl-PL": "OAZA",
-			"pt-BR": "OASIS",
+			"pt-PT": "OASIS",
 			"ru-RU": "ОАЗИС",
 			"zh-Hans": "绿洲",
 			"zh-Hant": "綠洲"
@@ -2436,7 +2436,7 @@
 		"names": {
 			"en-US": "GENESIS PRIME",
 			"en-GB": "GENESIS PRIME",
-			"bp": "GÊNESE PRIME",
+			"pt-BR": "GÊNESE PRIME",
 			"de-DE": "GENESIS PRIME",
 			"es-ES": "GÉNESIS PRIME",
 			"fr-FR": "GÉNÉSIS PRIME",
@@ -2445,7 +2445,7 @@
 			"ko-KO": "제네시스 프라임",
 			"ms-MY": "GÉNESIS PRIME",
 			"pl-PL": "GENESIS PRIME",
-			"pt-BR": "GENESIS PRIME",
+			"pt-PT": "GENESIS PRIME",
 			"ru-RU": "ГЕНЕЗИС-ПРАЙМ",
 			"zh-Hans": "创世主星",
 			"zh-Hant": "創世紀主星"
@@ -2462,7 +2462,7 @@
 		"names": {
 			"en-US": "OUTPOST 32",
 			"en-GB": "OUTPOST 32",
-			"bp": "POSTO AVANÇADO 32",
+			"pt-BR": "POSTO AVANÇADO 32",
 			"de-DE": "AUSSENPOSTEN 32",
 			"es-ES": "PUESTO DE AVANZADA 32",
 			"fr-FR": "AVANT-POSTE 32",
@@ -2471,7 +2471,7 @@
 			"ko-KO": "아웃포스트 32",
 			"ms-MY": "AVANZADA 32",
 			"pl-PL": "POSTERUNEK 32",
-			"pt-BR": "OUTPOST 32",
+			"pt-PT": "OUTPOST 32",
 			"ru-RU": "АВАНПОСТ 32",
 			"zh-Hans": "32号哨站",
 			"zh-Hant": "32號哨站"
@@ -2487,7 +2487,7 @@
 		"names": {
 			"en-US": "CALYPSO",
 			"en-GB": "CALYPSO",
-			"bp": "CALIPSO",
+			"pt-BR": "CALIPSO",
 			"de-DE": "CALYPSO",
 			"es-ES": "CALIPSO",
 			"fr-FR": "CALYPSO",
@@ -2496,7 +2496,7 @@
 			"ko-KO": "칼립소",
 			"ms-MY": "CALYPSO",
 			"pl-PL": "KALIPSO",
-			"pt-BR": "CALYPSO",
+			"pt-PT": "CALYPSO",
 			"ru-RU": "КАЛИПСО",
 			"zh-Hans": "卡利普索",
 			"zh-Hant": "卡呂普索"
@@ -2512,7 +2512,7 @@
 		"names": {
 			"en-US": "ELYSIAN MEADOWS",
 			"en-GB": "ELYSIAN MEADOWS",
-			"bp": "PRADOS ELÍSIOS",
+			"pt-BR": "PRADOS ELÍSIOS",
 			"de-DE": "ELYSIAN MEADOWS",
 			"es-ES": "CAMPOS ELÍSEOS",
 			"fr-FR": "PRÉ-ÉLYSIEN",
@@ -2521,7 +2521,7 @@
 			"ko-KO": "엘리시안 메도우스",
 			"ms-MY": "PRADOS ELÍSEOS",
 			"pl-PL": "ŁĄKI ELIZEJSKIE",
-			"pt-BR": "CAMPOS ELÍSIOS",
+			"pt-PT": "CAMPOS ELÍSIOS",
 			"ru-RU": "ЛУГА ЭЛИЗИЯ",
 			"zh-Hans": "埃律西昂草原",
 			"zh-Hant": "伊黎西亞草原"
@@ -2537,7 +2537,7 @@
 		"names": {
 			"en-US": "ALDERIDGE COVE",
 			"en-GB": "ALDERIDGE COVE",
-			"bp": "ANGRA DE ALDERIDGE",
+			"pt-BR": "ANGRA DE ALDERIDGE",
 			"de-DE": "ALDERIDGE COVE",
 			"es-ES": "GRUTA ALDERIDGE",
 			"fr-FR": "CRIQUE D'ALDERIDGE",
@@ -2546,7 +2546,7 @@
 			"ko-KO": "알데리지 코브",
 			"ms-MY": "ENSENADA ALDERIDGE",
 			"pl-PL": "ZATOKA ALDERIDGE",
-			"pt-BR": "ENSEADA DE ALDERIDGE",
+			"pt-PT": "ENSEADA DE ALDERIDGE",
 			"ru-RU": "ПЕЩЕРА АЛЬДЕРИДЖ",
 			"zh-Hans": "阿尔德里奇湾",
 			"zh-Hant": "阿得里治灣"
@@ -2562,7 +2562,7 @@
 		"names": {
 			"en-US": "TRANDOR",
 			"en-GB": "TRANDOR",
-			"bp": "TRANDOR",
+			"pt-BR": "TRANDOR",
 			"de-DE": "TRANDOR",
 			"es-ES": "TRANDOR",
 			"fr-FR": "TRANDOR",
@@ -2571,7 +2571,7 @@
 			"ko-KO": "트란도르",
 			"ms-MY": "TRANDOR",
 			"pl-PL": "TRANDOR",
-			"pt-BR": "TRANDOR",
+			"pt-PT": "TRANDOR",
 			"ru-RU": "ТРАНДОР",
 			"zh-Hans": "特兰道尔",
 			"zh-Hant": "川鐸"
@@ -2588,7 +2588,7 @@
 		"names": {
 			"en-US": "EAST IRIDIUM TRADING BAY",
 			"en-GB": "EAST IRIDIUM TRADING BAY",
-			"bp": "BAÍA COMERCIAL DE IRÍDIO ORIENTAL",
+			"pt-BR": "BAÍA COMERCIAL DE IRÍDIO ORIENTAL",
 			"de-DE": "EAST-IRIDIUM-HANDELSPOSTEN",
 			"es-ES": "PUERTO COMERCIAL DE IRIDIO ORIENTAL",
 			"fr-FR": "COMPTOIR EST D'IRIDIUM",
@@ -2597,7 +2597,7 @@
 			"ko-KO": "이스트 이리듐 트레이딩 베이",
 			"ms-MY": "BAHÍA MERCANTIL IRIDIUM ESTE",
 			"pl-PL": "WSCHODNIA ZATOKA HANDLOWA IRYDU",
-			"pt-BR": "PORTO COMERCIAL IRÍDIO ORIENTAL",
+			"pt-PT": "PORTO COMERCIAL IRÍDIO ORIENTAL",
 			"ru-RU": "ВОСТОЧНЫЙ ИРИДИЕВЫЙ ТОРГОВЫЙ ЗАЛИВ",
 			"zh-Hans": "东铱贸易湾",
 			"zh-Hant": "東銥貿易灣"
@@ -2613,7 +2613,7 @@
 		"names": {
 			"en-US": "LIBERTY RIDGE",
 			"en-GB": "LIBERTY RIDGE",
-			"bp": "CUME DA LIBERDADE",
+			"pt-BR": "CUME DA LIBERDADE",
 			"de-DE": "LIBERTY RIDGE",
 			"es-ES": "CUMBRE DE LA LIBERTAD",
 			"fr-FR": "CRÊTE LIBERTÉ",
@@ -2622,7 +2622,7 @@
 			"ko-KO": "리버티 리지",
 			"ms-MY": "CRESTA DE LA LIBERTAD",
 			"pl-PL": "KRAWĘDŹ WOLNOŚCI",
-			"pt-BR": "LIBERTY RIDGE",
+			"pt-PT": "LIBERTY RIDGE",
 			"ru-RU": "ХРЕБЕТ СВОБОДЫ",
 			"zh-Hans": "解放岭",
 			"zh-Hant": "自由山脊"
@@ -2639,7 +2639,7 @@
 		"names": {
 			"en-US": "BALDRICK PRIME",
 			"en-GB": "BALDRICK PRIME",
-			"bp": "BALDRICK PRIME",
+			"pt-BR": "BALDRICK PRIME",
 			"de-DE": "BALDRICK PRIME",
 			"es-ES": "BALDRICK PRIME",
 			"fr-FR": "BALDRICK PRIME",
@@ -2648,7 +2648,7 @@
 			"ko-KO": "발드릭 프라임",
 			"ms-MY": "BALDRICK PRIME",
 			"pl-PL": "BALDRICK PRIME",
-			"pt-BR": "BALDRICK PRIME",
+			"pt-PT": "BALDRICK PRIME",
 			"ru-RU": "БОЛДРИК-ПРАЙМ",
 			"zh-Hans": "巴尔德里克主星",
 			"zh-Hant": "柏德里克主星"
@@ -2665,7 +2665,7 @@
 		"names": {
 			"en-US": "THE WEIR",
 			"en-GB": "THE WEIR",
-			"bp": "WEIR",
+			"pt-BR": "WEIR",
 			"de-DE": "WEIR",
 			"es-ES": "WEIR",
 			"fr-FR": "WEIR",
@@ -2674,7 +2674,7 @@
 			"ko-KO": "더 위어",
 			"ms-MY": "WEIR",
 			"pl-PL": "WEIR",
-			"pt-BR": "A BARRAGEM",
+			"pt-PT": "A BARRAGEM",
 			"ru-RU": "ВИР",
 			"zh-Hans": "维尔",
 			"zh-Hant": "威爾"
@@ -2690,7 +2690,7 @@
 		"names": {
 			"en-US": "KUPER",
 			"en-GB": "KUPER",
-			"bp": "KUPER",
+			"pt-BR": "KUPER",
 			"de-DE": "KUPER",
 			"es-ES": "KUPER",
 			"fr-FR": "KUPER",
@@ -2699,7 +2699,7 @@
 			"ko-KO": "쿠퍼",
 			"ms-MY": "KUPER",
 			"pl-PL": "KUPER",
-			"pt-BR": "KUPER",
+			"pt-PT": "KUPER",
 			"ru-RU": "КУПЕР",
 			"zh-Hans": "库珀",
 			"zh-Hant": "庫柏"
@@ -2715,7 +2715,7 @@
 		"names": {
 			"en-US": "OSLO STATION",
 			"en-GB": "OSLO STATION",
-			"bp": "ESTAÇÃO OSLO",
+			"pt-BR": "ESTAÇÃO OSLO",
 			"de-DE": "OSLO STATION",
 			"es-ES": "ESTACIÓN DE OSLO",
 			"fr-FR": "STATION OSLO",
@@ -2724,7 +2724,7 @@
 			"ko-KO": "오슬로 스테이션",
 			"ms-MY": "ESTACIÓN DE OSLO",
 			"pl-PL": "STACJA OSLO",
-			"pt-BR": "OSLO STATION",
+			"pt-PT": "OSLO STATION",
 			"ru-RU": "СТАНЦИЯ «ОСЛО»",
 			"zh-Hans": "奥斯陆站",
 			"zh-Hant": "奧斯陸太空站"
@@ -2741,7 +2741,7 @@
 		"names": {
 			"en-US": "PÖPLI IX",
 			"en-GB": "PÖPLI IX",
-			"bp": "PÖPLI IX",
+			"pt-BR": "PÖPLI IX",
 			"de-DE": "PÖPLI IX",
 			"es-ES": "PÖPLI IX",
 			"fr-FR": "PÖPLI IX",
@@ -2750,7 +2750,7 @@
 			"ko-KO": "푀플리 IX",
 			"ms-MY": "PÖPLI IX",
 			"pl-PL": "PÖPLI IX",
-			"pt-BR": "PÖPLI IX",
+			"pt-PT": "PÖPLI IX",
 			"ru-RU": "ПЕПЛИ IX",
 			"zh-Hans": "珀普利IX",
 			"zh-Hant": "波普里IX"
@@ -2766,7 +2766,7 @@
 		"names": {
 			"en-US": "GUNVALD",
 			"en-GB": "GUNVALD",
-			"bp": "GUNVALD",
+			"pt-BR": "GUNVALD",
 			"de-DE": "GUNVALD",
 			"es-ES": "GUNVALD",
 			"fr-FR": "GUNVALD",
@@ -2775,7 +2775,7 @@
 			"ko-KO": "군발드",
 			"ms-MY": "GUNVALD",
 			"pl-PL": "GUNVALD",
-			"pt-BR": "GUNVALD",
+			"pt-PT": "GUNVALD",
 			"ru-RU": "ГЮНВАЛЬД",
 			"zh-Hans": "古恩瓦尔德",
 			"zh-Hant": "古恩瓦德"
@@ -2792,7 +2792,7 @@
 		"names": {
 			"en-US": "DOLPH",
 			"en-GB": "DOLPH",
-			"bp": "DOLPH",
+			"pt-BR": "DOLPH",
 			"de-DE": "DOLPH",
 			"es-ES": "DOLPH",
 			"fr-FR": "DOLPH",
@@ -2801,7 +2801,7 @@
 			"ko-KO": "돌프",
 			"ms-MY": "DOLPH",
 			"pl-PL": "DOLPH",
-			"pt-BR": "DOLPH",
+			"pt-PT": "DOLPH",
 			"ru-RU": "ДОЛЬФ",
 			"zh-Hans": "多尔夫",
 			"zh-Hant": "多夫"
@@ -2817,7 +2817,7 @@
 		"names": {
 			"en-US": "BEKVAM III",
 			"en-GB": "BEKVAM III",
-			"bp": "BEKVAM III",
+			"pt-BR": "BEKVAM III",
 			"de-DE": "BEKVAM III",
 			"es-ES": "BEKVAM III",
 			"fr-FR": "BEKVAM III",
@@ -2826,7 +2826,7 @@
 			"ko-KO": "베크밤 III",
 			"ms-MY": "BEKVAM III",
 			"pl-PL": "BEKVAM III",
-			"pt-BR": "BEKVAM III",
+			"pt-PT": "BEKVAM III",
 			"ru-RU": "БЕКВАМ III",
 			"zh-Hans": "贝克温III",
 			"zh-Hant": "別克文III"
@@ -2842,7 +2842,7 @@
 		"names": {
 			"en-US": "DUMA TYR",
 			"en-GB": "DUMA TYR",
-			"bp": "DUMA TYR",
+			"pt-BR": "DUMA TYR",
 			"de-DE": "DUMA TYR",
 			"es-ES": "DUMA TYR",
 			"fr-FR": "DUMA TYR",
@@ -2851,7 +2851,7 @@
 			"ko-KO": "두마 티르",
 			"ms-MY": "DUMA TYR",
 			"pl-PL": "DUMA TYR",
-			"pt-BR": "DUMA TYR",
+			"pt-PT": "DUMA TYR",
 			"ru-RU": "ДУМА ТЮР",
 			"zh-Hans": "杜马提尔",
 			"zh-Hant": "杜馬提"
@@ -2867,7 +2867,7 @@
 		"names": {
 			"en-US": "VERNEN WELLS",
 			"en-GB": "VERNEN WELLS",
-			"bp": "VERNEN WELLS",
+			"pt-BR": "VERNEN WELLS",
 			"de-DE": "VERNEN WELLS",
 			"es-ES": "POZOS VERNEN",
 			"fr-FR": "VERNEN WELLS",
@@ -2876,7 +2876,7 @@
 			"ko-KO": "베르넨 웰스",
 			"ms-MY": "VERNEN WELLS",
 			"pl-PL": "VERNEN WELLS",
-			"pt-BR": "VERNEN WELLS",
+			"pt-PT": "VERNEN WELLS",
 			"ru-RU": "КОЛОДЦЫ ВЕРНЕНА",
 			"zh-Hans": "佛农井",
 			"zh-Hant": "威農井"
@@ -2892,7 +2892,7 @@
 		"names": {
 			"en-US": "AESIR PASS",
 			"en-GB": "AESIR PASS",
-			"bp": "CAMINHO DE AESIR",
+			"pt-BR": "CAMINHO DE AESIR",
 			"de-DE": "AESIR PASS",
 			"es-ES": "PASO DE AESIR",
 			"fr-FR": "PASSE D'AESIR",
@@ -2901,7 +2901,7 @@
 			"ko-KO": "아에시르 패스",
 			"ms-MY": "PASO DE AESIR",
 			"pl-PL": "PRZEŁĘCZ AZÓW",
-			"pt-BR": "PASSAGEM AESIR",
+			"pt-PT": "PASSAGEM AESIR",
 			"ru-RU": "ПЕРЕВАЛ АСОВ",
 			"zh-Hans": "亚萨关隘",
 			"zh-Hant": "埃薩隘"
@@ -2917,7 +2917,7 @@
 		"names": {
 			"en-US": "AURORA BAY",
 			"en-GB": "AURORA BAY",
-			"bp": "BAÍA DA AURORA",
+			"pt-BR": "BAÍA DA AURORA",
 			"de-DE": "AURORA BAY",
 			"es-ES": "BAHÍA AURORA",
 			"fr-FR": "BAIE AURORE",
@@ -2926,7 +2926,7 @@
 			"ko-KO": "오로라 베이",
 			"ms-MY": "BAHÍA AURORA",
 			"pl-PL": "ZATOKA AURORY",
-			"pt-BR": "BAÍA AURORA",
+			"pt-PT": "BAÍA AURORA",
 			"ru-RU": "ЗАЛИВ АВРОРЫ",
 			"zh-Hans": "极光湾",
 			"zh-Hant": "極光灣"
@@ -2942,7 +2942,7 @@
 		"names": {
 			"en-US": "PENTA",
 			"en-GB": "PENTA",
-			"bp": "PENTA",
+			"pt-BR": "PENTA",
 			"de-DE": "PENTA",
 			"es-ES": "PENTA",
 			"fr-FR": "PENTA",
@@ -2951,7 +2951,7 @@
 			"ko-KO": "펜타",
 			"ms-MY": "PENTA",
 			"pl-PL": "PENTA",
-			"pt-BR": "PENTA",
+			"pt-PT": "PENTA",
 			"ru-RU": "ПЕНТА",
 			"zh-Hans": "彭塔",
 			"zh-Hant": "五芒"
@@ -2968,7 +2968,7 @@
 		"names": {
 			"en-US": "GAELLIVARE",
 			"en-GB": "GAELLIVARE",
-			"bp": "GAELLIVARE",
+			"pt-BR": "GAELLIVARE",
 			"de-DE": "GAELLIVARE",
 			"es-ES": "GAELLIVARE",
 			"fr-FR": "GAELLIVARE",
@@ -2977,7 +2977,7 @@
 			"ko-KO": "갤리베어",
 			"ms-MY": "GAELLIVARE",
 			"pl-PL": "GAELLIVARE",
-			"pt-BR": "GAELLIVARE",
+			"pt-PT": "GAELLIVARE",
 			"ru-RU": "ЕЛЛИВАРЕ",
 			"zh-Hans": "耶利瓦勒",
 			"zh-Hant": "耶利瓦"
@@ -2994,7 +2994,7 @@
 		"names": {
 			"en-US": "VOG-SOJOTH",
 			"en-GB": "VOG-SOJOTH",
-			"bp": "VOG-SOJOTH",
+			"pt-BR": "VOG-SOJOTH",
 			"de-DE": "VOG-SOJOTH",
 			"es-ES": "VOG-SOJOTH",
 			"fr-FR": "VOG-SOJOTH",
@@ -3003,7 +3003,7 @@
 			"ko-KO": "보그-소조스",
 			"ms-MY": "VOG-SOJOTH",
 			"pl-PL": "VOG-SOJOTH",
-			"pt-BR": "VOG-SOJOTH",
+			"pt-PT": "VOG-SOJOTH",
 			"ru-RU": "ВОГ-СОЙОТ",
 			"zh-Hans": "佛戈索约斯",
 			"zh-Hant": "沃格梭悠"
@@ -3020,7 +3020,7 @@
 		"names": {
 			"en-US": "KIRRIK",
 			"en-GB": "KIRRIK",
-			"bp": "KIRRIK",
+			"pt-BR": "KIRRIK",
 			"de-DE": "KIRRIK",
 			"es-ES": "KIRRIK",
 			"fr-FR": "KIRRIK",
@@ -3029,7 +3029,7 @@
 			"ko-KO": "키리크",
 			"ms-MY": "KIRRIK",
 			"pl-PL": "KIRRIK",
-			"pt-BR": "KIRRIK",
+			"pt-PT": "KIRRIK",
 			"ru-RU": "КИРРИК",
 			"zh-Hans": "基里克",
 			"zh-Hant": "奇里克"
@@ -3046,7 +3046,7 @@
 		"names": {
 			"en-US": "MORTAX PRIME",
 			"en-GB": "MORTAX PRIME",
-			"bp": "MORTAX PRIME",
+			"pt-BR": "MORTAX PRIME",
 			"de-DE": "MORTAX PRIME",
 			"es-ES": "MORTAX PRIME",
 			"fr-FR": "MORTAX PRIME",
@@ -3055,7 +3055,7 @@
 			"ko-KO": "모탁스 프라임",
 			"ms-MY": "MORTAX PRIME",
 			"pl-PL": "MORTAX PRIME",
-			"pt-BR": "MORTAX PRIME",
+			"pt-PT": "MORTAX PRIME",
 			"ru-RU": "МОРТАКС-ПРАЙМ",
 			"zh-Hans": "摩尔塔克斯主星",
 			"zh-Hant": "摩爾泰斯主星"
@@ -3072,7 +3072,7 @@
 		"names": {
 			"en-US": "WILFORD STATION",
 			"en-GB": "WILFORD STATION",
-			"bp": "ESTAÇÃO WILFORD",
+			"pt-BR": "ESTAÇÃO WILFORD",
 			"de-DE": "WILFORD STATION",
 			"es-ES": "ESTACIÓN WILFORD",
 			"fr-FR": "STATION WILFORD",
@@ -3081,7 +3081,7 @@
 			"ko-KO": "윌포드 스테이션",
 			"ms-MY": "ESTACIÓN DE WILFORD",
 			"pl-PL": "STACJA WILFORD",
-			"pt-BR": "ESTAÇÃO DE WILFORD",
+			"pt-PT": "ESTAÇÃO DE WILFORD",
 			"ru-RU": "СТАНЦИЯ «УИЛФОРД»",
 			"zh-Hans": "威尔福德站",
 			"zh-Hant": "威福德太空站"
@@ -3097,7 +3097,7 @@
 		"names": {
 			"en-US": "PIONEER II",
 			"en-GB": "PIONEER II",
-			"bp": "PIONEIRO II",
+			"pt-BR": "PIONEIRO II",
 			"de-DE": "PIONEER II",
 			"es-ES": "PIONERO II",
 			"fr-FR": "PIONNIER II",
@@ -3106,7 +3106,7 @@
 			"ko-KO": "파이오니어 II",
 			"ms-MY": "PIONERO II",
 			"pl-PL": "PIONIER II",
-			"pt-BR": "PIONEER II",
+			"pt-PT": "PIONEER II",
 			"ru-RU": "ПЕРВОПРОХОДЕЦ II",
 			"zh-Hans": "先驱II",
 			"zh-Hant": "先鋒II"
@@ -3123,7 +3123,7 @@
 		"names": {
 			"en-US": "ERSON SANDS",
 			"en-GB": "ERSON SANDS",
-			"bp": "AREIAS DE ERSON",
+			"pt-BR": "AREIAS DE ERSON",
 			"de-DE": "ERSON SANDS",
 			"es-ES": "ERSON SANDS",
 			"fr-FR": "SABLES D'ERSON",
@@ -3132,7 +3132,7 @@
 			"ko-KO": "어슨 샌즈",
 			"ms-MY": "ARENAS DE ERSON",
 			"pl-PL": "PIASKI ERSONU",
-			"pt-BR": "ERSON SANDS",
+			"pt-PT": "ERSON SANDS",
 			"ru-RU": "ПЕСКИ ЭРСОНА",
 			"zh-Hans": "厄尔森桑兹",
 			"zh-Hant": "爾森沙地"
@@ -3148,7 +3148,7 @@
 		"names": {
 			"en-US": "SOCORRO III",
 			"en-GB": "SOCORRO III",
-			"bp": "SOCORRO III",
+			"pt-BR": "SOCORRO III",
 			"de-DE": "SOCORRO III",
 			"es-ES": "SOCORRO III",
 			"fr-FR": "SOCORRO III",
@@ -3157,7 +3157,7 @@
 			"ko-KO": "소코로 III",
 			"ms-MY": "SOCORRO III",
 			"pl-PL": "SOCORRO III",
-			"pt-BR": "SOCORRO III",
+			"pt-PT": "SOCORRO III",
 			"ru-RU": "СОКОРРО III",
 			"zh-Hans": "索科罗III",
 			"zh-Hant": "索科羅III"
@@ -3174,7 +3174,7 @@
 		"names": {
 			"en-US": "BORE ROCK",
 			"en-GB": "BORE ROCK",
-			"bp": "PEDRA FURA",
+			"pt-BR": "PEDRA FURA",
 			"de-DE": "BORE ROCK",
 			"es-ES": "ROCA ABURRIDA",
 			"fr-FR": "FORE-PIERRE",
@@ -3183,7 +3183,7 @@
 			"ko-KO": "보어 락",
 			"ms-MY": "ROCA DEL FASTIDIO",
 			"pl-PL": "ŚWIDROWANA SKAŁA",
-			"pt-BR": "BORE ROCK",
+			"pt-PT": "BORE ROCK",
 			"ru-RU": "БУРОВОЙ КАМЕНЬ",
 			"zh-Hans": "博尔岩",
 			"zh-Hant": "伯爾岩"
@@ -3200,7 +3200,7 @@
 		"names": {
 			"en-US": "FENRIR III",
 			"en-GB": "FENRIR III",
-			"bp": "FENRIR III",
+			"pt-BR": "FENRIR III",
 			"de-DE": "FENRIR III",
 			"es-ES": "FENRIR III",
 			"fr-FR": "FENRIR III",
@@ -3209,7 +3209,7 @@
 			"ko-KO": "펜리르 III",
 			"ms-MY": "FENRIR III",
 			"pl-PL": "FENRIR III",
-			"pt-BR": "FENRIR III",
+			"pt-PT": "FENRIR III",
 			"ru-RU": "ФЕНРИР III",
 			"zh-Hans": "芬里尔III",
 			"zh-Hant": "芬里爾III"
@@ -3225,7 +3225,7 @@
 		"names": {
 			"en-US": "TURING",
 			"en-GB": "TURING",
-			"bp": "TURING",
+			"pt-BR": "TURING",
 			"de-DE": "TURING",
 			"es-ES": "TURING",
 			"fr-FR": "TURING",
@@ -3234,7 +3234,7 @@
 			"ko-KO": "튜링",
 			"ms-MY": "TURING",
 			"pl-PL": "TURING",
-			"pt-BR": "TURING",
+			"pt-PT": "TURING",
 			"ru-RU": "ТЬЮРИНГ",
 			"zh-Hans": "图灵",
 			"zh-Hant": "圖靈"
@@ -3250,7 +3250,7 @@
 		"names": {
 			"en-US": "ANGEL'S VENTURE",
 			"en-GB": "ANGEL'S VENTURE",
-			"bp": "VENTURA ANGÉLICA",
+			"pt-BR": "VENTURA ANGÉLICA",
 			"de-DE": "ANGEL’S VENTURE",
 			"es-ES": "PROYECTO DEL ÁNGEL",
 			"fr-FR": "PÉRIPLE DE L'ANGE",
@@ -3259,7 +3259,7 @@
 			"ko-KO": "엔젤스 벤처",
 			"ms-MY": "GESTA DEL ÁNGEL",
 			"pl-PL": "ANIELSKIE PRZEDSIĘWZIĘCIE",
-			"pt-BR": "PROJETO DE ANJO",
+			"pt-PT": "PROJETO DE ANJO",
 			"ru-RU": "АНГЕЛЬСКИЙ РИСК",
 			"zh-Hans": "天使投资",
 			"zh-Hant": "天使探險"
@@ -3276,7 +3276,7 @@
 		"names": {
 			"en-US": "DARIUS II",
 			"en-GB": "DARIUS II",
-			"bp": "DÁRIO II",
+			"pt-BR": "DÁRIO II",
 			"de-DE": "DARIUS II",
 			"es-ES": "DARIUS II",
 			"fr-FR": "DARIUS II",
@@ -3285,7 +3285,7 @@
 			"ko-KO": "다리우스 II",
 			"ms-MY": "DARIUS II",
 			"pl-PL": "DARIUS II",
-			"pt-BR": "DARIUS II",
+			"pt-PT": "DARIUS II",
 			"ru-RU": "ДАРИЙ II",
 			"zh-Hans": "大流士II",
 			"zh-Hant": "達里爾II"
@@ -3302,7 +3302,7 @@
 		"names": {
 			"en-US": "ACAMAR IV",
 			"en-GB": "ACAMAR IV",
-			"bp": "ACAMAR IV",
+			"pt-BR": "ACAMAR IV",
 			"de-DE": "ACAMAR IV",
 			"es-ES": "ACAMAR IV",
 			"fr-FR": "ACAMAR IV",
@@ -3311,7 +3311,7 @@
 			"ko-KO": "아카마르 IV",
 			"ms-MY": "ACAMAR IV",
 			"pl-PL": "ACAMAR IV",
-			"pt-BR": "ACAMAR IV",
+			"pt-PT": "ACAMAR IV",
 			"ru-RU": "АКАМАР IV",
 			"zh-Hans": "天园六IV",
 			"zh-Hant": "天園六IV"
@@ -3328,7 +3328,7 @@
 		"names": {
 			"en-US": "ACHERNAR SECUNDUS",
 			"en-GB": "ACHERNAR SECUNDUS",
-			"bp": "ACHERNAR SECUNDUS",
+			"pt-BR": "ACHERNAR SECUNDUS",
 			"de-DE": "ACHERNAR SECUNDUS",
 			"es-ES": "ACHERNAR SECUNDUS",
 			"fr-FR": "ACHERNAR SECUNDUS",
@@ -3337,7 +3337,7 @@
 			"ko-KO": "아체르나르 세쿤두스",
 			"ms-MY": "ACHERNAR SECUNDUS",
 			"pl-PL": "ACHERNAR SECUNDUS",
-			"pt-BR": "ACHERNAR SECUNDUS",
+			"pt-PT": "ACHERNAR SECUNDUS",
 			"ru-RU": "АХЕРНАР II",
 			"zh-Hans": "水委一次星",
 			"zh-Hant": "水委一次星"
@@ -3353,7 +3353,7 @@
 		"names": {
 			"en-US": "ACHIRD III",
 			"en-GB": "ACHIRD III",
-			"bp": "ACHIRD III",
+			"pt-BR": "ACHIRD III",
 			"de-DE": "ACHIRD III",
 			"es-ES": "ACHIRD III",
 			"fr-FR": "ACHIRD III",
@@ -3362,7 +3362,7 @@
 			"ko-KO": "아키드 III",
 			"ms-MY": "ACHIRD III",
 			"pl-PL": "ACHIRD III",
-			"pt-BR": "ACHIRD III",
+			"pt-PT": "ACHIRD III",
 			"ru-RU": "АХИРД III",
 			"zh-Hans": "王良三III",
 			"zh-Hant": "王良三III"
@@ -3378,7 +3378,7 @@
 		"names": {
 			"en-US": "ACRAB XI",
 			"en-GB": "ACRAB XI",
-			"bp": "ACRAB XI",
+			"pt-BR": "ACRAB XI",
 			"de-DE": "ACRAB XI",
 			"es-ES": "ACRAB XI",
 			"fr-FR": "ACRAB XI",
@@ -3387,7 +3387,7 @@
 			"ko-KO": "아크랍 XI",
 			"ms-MY": "ACRAB XI",
 			"pl-PL": "ACRAB XI",
-			"pt-BR": "ACRAB XI",
+			"pt-PT": "ACRAB XI",
 			"ru-RU": "АКРАБ XI",
 			"zh-Hans": "房宿四XI",
 			"zh-Hant": "房宿四XI"
@@ -3403,7 +3403,7 @@
 		"names": {
 			"en-US": "ACRUX IX",
 			"en-GB": "ACRUX IX",
-			"bp": "ACRUX IX",
+			"pt-BR": "ACRUX IX",
 			"de-DE": "ACRUX IX",
 			"es-ES": "ACRUX IX",
 			"fr-FR": "ACRUX IX",
@@ -3412,7 +3412,7 @@
 			"ko-KO": "아크룩스 IX",
 			"ms-MY": "ACRUX IX",
 			"pl-PL": "ACRUX IX",
-			"pt-BR": "ACRUX IX",
+			"pt-PT": "ACRUX IX",
 			"ru-RU": "АКРУКС IX",
 			"zh-Hans": "十字架二IX",
 			"zh-Hant": "十字架二IX"
@@ -3428,7 +3428,7 @@
 		"names": {
 			"en-US": "ACUBENS PRIME",
 			"en-GB": "ACUBENS PRIME",
-			"bp": "ACUBENS PRIME",
+			"pt-BR": "ACUBENS PRIME",
 			"de-DE": "ACUBENS PRIME",
 			"es-ES": "ACUBENS PRIME",
 			"fr-FR": "ACUBENS PRIME",
@@ -3437,7 +3437,7 @@
 			"ko-KO": "아쿠벤스 프라임",
 			"ms-MY": "ACUBENS PRIME",
 			"pl-PL": "ACUBENS PRIME",
-			"pt-BR": "ACUBENS PRIME",
+			"pt-PT": "ACUBENS PRIME",
 			"ru-RU": "АКУБЕНС-ПРАЙМ",
 			"zh-Hans": "柳宿增三主星",
 			"zh-Hant": "柳宿增三主星"
@@ -3454,7 +3454,7 @@
 		"names": {
 			"en-US": "ADHARA",
 			"en-GB": "ADHARA",
-			"bp": "ADHARA",
+			"pt-BR": "ADHARA",
 			"de-DE": "ADHARA",
 			"es-ES": "ADHARA",
 			"fr-FR": "ADHARA",
@@ -3463,7 +3463,7 @@
 			"ko-KO": "아다라",
 			"ms-MY": "ADHARA",
 			"pl-PL": "ADHARA",
-			"pt-BR": "ADHARA",
+			"pt-PT": "ADHARA",
 			"ru-RU": "ЭДХАРА",
 			"zh-Hans": "弧矢七",
 			"zh-Hant": "弧矢七"
@@ -3480,7 +3480,7 @@
 		"names": {
 			"en-US": "AFOYAY BAY",
 			"en-GB": "AFOYAY BAY",
-			"bp": "BAÍA AFOYAY",
+			"pt-BR": "BAÍA AFOYAY",
 			"de-DE": "AFOYAY BAY",
 			"es-ES": "BAHÍA AFOYAY",
 			"fr-FR": "BAIE D'AFOYAY",
@@ -3489,7 +3489,7 @@
 			"ko-KO": "아포야이 베이",
 			"ms-MY": "BAHÍA AFOYAY",
 			"pl-PL": "ZATOKA AFOYAY",
-			"pt-BR": "BAÍA AFOYAY",
+			"pt-PT": "BAÍA AFOYAY",
 			"ru-RU": "АФОЙЯ-БЭЙ",
 			"zh-Hans": "艾福亚湾",
 			"zh-Hant": "阿佛耶灣"
@@ -3505,7 +3505,7 @@
 		"names": {
 			"en-US": "AIN-5",
 			"en-GB": "AIN-5",
-			"bp": "AIN-5",
+			"pt-BR": "AIN-5",
 			"de-DE": "AIN-5",
 			"es-ES": "AIN-5",
 			"fr-FR": "AIN-5",
@@ -3514,7 +3514,7 @@
 			"ko-KO": "아인-5",
 			"ms-MY": "AIN-5",
 			"pl-PL": "AIN-5",
-			"pt-BR": "AIN-5",
+			"pt-PT": "AIN-5",
 			"ru-RU": "АЙН-5",
 			"zh-Hans": "毕宿一5",
 			"zh-Hant": "畢宿一5"
@@ -3530,7 +3530,7 @@
 		"names": {
 			"en-US": "ALAIRT III",
 			"en-GB": "ALAIRT III",
-			"bp": "ALAIRT III",
+			"pt-BR": "ALAIRT III",
 			"de-DE": "ALAIRT III",
 			"es-ES": "ALAIRT III",
 			"fr-FR": "ALAIRT III",
@@ -3539,7 +3539,7 @@
 			"ko-KO": "알라이르트 III",
 			"ms-MY": "ALAIRT III",
 			"pl-PL": "ALAIRT III",
-			"pt-BR": "ALAIRT III",
+			"pt-PT": "ALAIRT III",
 			"ru-RU": "АЛАИРТ III",
 			"zh-Hans": "艾列尔特III",
 			"zh-Hant": "艾列爾特III"
@@ -3555,7 +3555,7 @@
 		"names": {
 			"en-US": "ALAMAK VII",
 			"en-GB": "ALAMAK VII",
-			"bp": "ALAMAK VII",
+			"pt-BR": "ALAMAK VII",
 			"de-DE": "ALAMAK VII",
 			"es-ES": "ALAMAK VII",
 			"fr-FR": "ALAMAK VII",
@@ -3564,7 +3564,7 @@
 			"ko-KO": "알라막 VII",
 			"ms-MY": "ALAMAK VII",
 			"pl-PL": "ALAMAK VII",
-			"pt-BR": "ALAMAK VII",
+			"pt-PT": "ALAMAK VII",
 			"ru-RU": "АЛАМАК VII",
 			"zh-Hans": "天大将军一VII",
 			"zh-Hant": "天大將軍一VII"
@@ -3580,7 +3580,7 @@
 		"names": {
 			"en-US": "ALARAPH",
 			"en-GB": "ALARAPH",
-			"bp": "ALARAPH",
+			"pt-BR": "ALARAPH",
 			"de-DE": "ALARAPH",
 			"es-ES": "ALARAPH",
 			"fr-FR": "ALARAPH",
@@ -3589,7 +3589,7 @@
 			"ko-KO": "알라라프",
 			"ms-MY": "ALARAPH",
 			"pl-PL": "ALARAPH",
-			"pt-BR": "ALARAPH",
+			"pt-PT": "ALARAPH",
 			"ru-RU": "АЛАРАФ",
 			"zh-Hans": "右执法",
 			"zh-Hant": "右執法"
@@ -3606,7 +3606,7 @@
 		"names": {
 			"en-US": "ALATHFAR XI",
 			"en-GB": "ALATHFAR XI",
-			"bp": "ALATHFAR XI",
+			"pt-BR": "ALATHFAR XI",
 			"de-DE": "ALATHFAR XI",
 			"es-ES": "ALATHFAR XI",
 			"fr-FR": "ALATHFAR XI",
@@ -3615,7 +3615,7 @@
 			"ko-KO": "알라스파르 XI",
 			"ms-MY": "ALATHFAR XI",
 			"pl-PL": "ALATHFAR XI",
-			"pt-BR": "ALATHFAR XI",
+			"pt-PT": "ALATHFAR XI",
 			"ru-RU": "АЛАТФАР XI",
 			"zh-Hans": "织女增三XI",
 			"zh-Hant": "織女增三XI"
@@ -3631,7 +3631,7 @@
 		"names": {
 			"en-US": "ANDAR",
 			"en-GB": "ANDAR",
-			"bp": "ANDAR",
+			"pt-BR": "ANDAR",
 			"de-DE": "ANDAR",
 			"es-ES": "ANDAR",
 			"fr-FR": "ANDAR",
@@ -3640,7 +3640,7 @@
 			"ko-KO": "안다르",
 			"ms-MY": "ANDAR",
 			"pl-PL": "ANDAR",
-			"pt-BR": "ANDAR",
+			"pt-PT": "ANDAR",
 			"ru-RU": "ЭНДАР",
 			"zh-Hans": "安达尔",
 			"zh-Hant": "安達爾"
@@ -3657,7 +3657,7 @@
 		"names": {
 			"en-US": "ASPEROTH PRIME",
 			"en-GB": "ASPEROTH PRIME",
-			"bp": "ASPEROTH PRIME",
+			"pt-BR": "ASPEROTH PRIME",
 			"de-DE": "ASPEROTH PRIME",
 			"es-ES": "ASPEROTH PRIME",
 			"fr-FR": "ASPEROTH PRIME",
@@ -3666,7 +3666,7 @@
 			"ko-KO": "아스페로스 프라임",
 			"ms-MY": "ASPEROTH PRIME",
 			"pl-PL": "ASPEROTH PRIME",
-			"pt-BR": "ASPEROTH PRIME",
+			"pt-PT": "ASPEROTH PRIME",
 			"ru-RU": "АСПЕРОТ-ПРАЙМ",
 			"zh-Hans": "阿斯佩洛斯主星",
 			"zh-Hant": "埃斯佩勞主星"
@@ -3683,7 +3683,7 @@
 		"names": {
 			"en-US": "BELLATRIX",
 			"en-GB": "BELLATRIX",
-			"bp": "BELLATRIX",
+			"pt-BR": "BELLATRIX",
 			"de-DE": "BELLATRIX",
 			"es-ES": "BELLATRIX",
 			"fr-FR": "BELLATRIX",
@@ -3692,7 +3692,7 @@
 			"ko-KO": "벨라트릭스",
 			"ms-MY": "BELLATRIX",
 			"pl-PL": "BELLATRIX",
-			"pt-BR": "BELLATRIX",
+			"pt-PT": "BELLATRIX",
 			"ru-RU": "БЕЛЛАТРИКС",
 			"zh-Hans": "参宿五",
 			"zh-Hant": "參宿五"
@@ -3709,7 +3709,7 @@
 		"names": {
 			"en-US": "BOTEIN",
 			"en-GB": "BOTEIN",
-			"bp": "BOTEIN",
+			"pt-BR": "BOTEIN",
 			"de-DE": "BOTEIN",
 			"es-ES": "BOTEIN",
 			"fr-FR": "BOTEIN",
@@ -3718,7 +3718,7 @@
 			"ko-KO": "보테인",
 			"ms-MY": "BOTEIN",
 			"pl-PL": "BOTEIN",
-			"pt-BR": "BOTEIN",
+			"pt-PT": "BOTEIN",
 			"ru-RU": "БОТЕЙН",
 			"zh-Hans": "天阴四",
 			"zh-Hant": "天陰四"
@@ -3735,7 +3735,7 @@
 		"names": {
 			"en-US": "OSUPSAM",
 			"en-GB": "OSUPSAM",
-			"bp": "OSUPSAM",
+			"pt-BR": "OSUPSAM",
 			"de-DE": "OSUPSAM",
 			"es-ES": "OSUPSAM",
 			"fr-FR": "OSUPSAM",
@@ -3744,7 +3744,7 @@
 			"ko-KO": "오수프삼",
 			"ms-MY": "OSUPSAM",
 			"pl-PL": "OSUPSAM",
-			"pt-BR": "OSUPSAM",
+			"pt-PT": "OSUPSAM",
 			"ru-RU": "ОСУПСАМ",
 			"zh-Hans": "欧苏普森",
 			"zh-Hant": "歐蘇珊"
@@ -3760,7 +3760,7 @@
 		"names": {
 			"en-US": "BRINK-2",
 			"en-GB": "BRINK-2",
-			"bp": "BRINK-2",
+			"pt-BR": "BRINK-2",
 			"de-DE": "BRINK-2",
 			"es-ES": "BRINK-2",
 			"fr-FR": "BRINK-2",
@@ -3769,7 +3769,7 @@
 			"ko-KO": "브링크-2",
 			"ms-MY": "BRINK-2",
 			"pl-PL": "BRINK-2",
-			"pt-BR": "BRINK-2",
+			"pt-PT": "BRINK-2",
 			"ru-RU": "БРИНК-2",
 			"zh-Hans": "布林克2",
 			"zh-Hant": "布林克2"
@@ -3785,7 +3785,7 @@
 		"names": {
 			"en-US": "BUNDA SECUNDUS",
 			"en-GB": "BUNDA SECUNDUS",
-			"bp": "BANDU SECUNDUS",
+			"pt-BR": "BANDU SECUNDUS",
 			"de-DE": "BUNDA SECUNDUS",
 			"es-ES": "BUNDA SECUNDUS",
 			"fr-FR": "BUNDA SECUNDUS",
@@ -3794,7 +3794,7 @@
 			"ko-KO": "분다 세쿤두스",
 			"ms-MY": "BUNDA SECUNDUS",
 			"pl-PL": "BUNDA SECUNDUS",
-			"pt-BR": "BANDU SECUNDUS",
+			"pt-PT": "BANDU SECUNDUS",
 			"ru-RU": "БУНДА II",
 			"zh-Hans": "天垒城一次星",
 			"zh-Hant": "天壘城一次星"
@@ -3811,7 +3811,7 @@
 		"names": {
 			"en-US": "CANOPUS",
 			"en-GB": "CANOPUS",
-			"bp": "CANOPUS",
+			"pt-BR": "CANOPUS",
 			"de-DE": "CANOPUS",
 			"es-ES": "CANOPUS",
 			"fr-FR": "CANOPUS",
@@ -3820,7 +3820,7 @@
 			"ko-KO": "카노푸스",
 			"ms-MY": "CANOPUS",
 			"pl-PL": "CANOPUS",
-			"pt-BR": "CANOPUS",
+			"pt-PT": "CANOPUS",
 			"ru-RU": "КАНОПУС",
 			"zh-Hans": "老人",
 			"zh-Hant": "卡諾普斯"
@@ -3837,7 +3837,7 @@
 		"names": {
 			"en-US": "CAPH",
 			"en-GB": "CAPH",
-			"bp": "CAPH",
+			"pt-BR": "CAPH",
 			"de-DE": "CAPH",
 			"es-ES": "CAPH",
 			"fr-FR": "CAPH",
@@ -3846,7 +3846,7 @@
 			"ko-KO": "카프",
 			"ms-MY": "CAPH",
 			"pl-PL": "CAPH",
-			"pt-BR": "CAPH",
+			"pt-PT": "CAPH",
 			"ru-RU": "КАФ",
 			"zh-Hans": "王良一",
 			"zh-Hant": "王良一"
@@ -3862,7 +3862,7 @@
 		"names": {
 			"en-US": "CASTOR",
 			"en-GB": "CASTOR",
-			"bp": "CASTOR",
+			"pt-BR": "CASTOR",
 			"de-DE": "CASTOR",
 			"es-ES": "CASTOR",
 			"fr-FR": "KASTOR",
@@ -3871,7 +3871,7 @@
 			"ko-KO": "카스토르",
 			"ms-MY": "CÁSTOR",
 			"pl-PL": "CASTOR",
-			"pt-BR": "CASTOR",
+			"pt-PT": "CASTOR",
 			"ru-RU": "КАСТОР",
 			"zh-Hans": "北河二",
 			"zh-Hant": "北河二"
@@ -3888,7 +3888,7 @@
 		"names": {
 			"en-US": "DURGEN",
 			"en-GB": "DURGEN",
-			"bp": "DURGEN",
+			"pt-BR": "DURGEN",
 			"de-DE": "DURGEN",
 			"es-ES": "DURGEN",
 			"fr-FR": "DURGEN",
@@ -3897,7 +3897,7 @@
 			"ko-KO": "두르센",
 			"ms-MY": "DURGEN",
 			"pl-PL": "DURGEN",
-			"pt-BR": "DURGEN",
+			"pt-PT": "DURGEN",
 			"ru-RU": "ДИРГЕН",
 			"zh-Hans": "德尔根",
 			"zh-Hant": "迪爾金"
@@ -3914,7 +3914,7 @@
 		"names": {
 			"en-US": "DRAUPNIR",
 			"en-GB": "DRAUPNIR",
-			"bp": "DRAUPNIR",
+			"pt-BR": "DRAUPNIR",
 			"de-DE": "DRAUPNIR",
 			"es-ES": "DRAUPNIR",
 			"fr-FR": "DRAUPNIR",
@@ -3923,7 +3923,7 @@
 			"ko-KO": "드라우프니르",
 			"ms-MY": "DRAUPNIR",
 			"pl-PL": "DRAUPNIR",
-			"pt-BR": "DRAUPNIR",
+			"pt-PT": "DRAUPNIR",
 			"ru-RU": "ДРОПНИР",
 			"zh-Hans": "德罗普尼尔",
 			"zh-Hant": "德勞普尼"
@@ -3939,7 +3939,7 @@
 		"names": {
 			"en-US": "MORT",
 			"en-GB": "MORT",
-			"bp": "MORT",
+			"pt-BR": "MORT",
 			"de-DE": "MORT",
 			"es-ES": "MORT",
 			"fr-FR": "GORT",
@@ -3948,7 +3948,7 @@
 			"ko-KO": "모트",
 			"ms-MY": "MORT",
 			"pl-PL": "MORT",
-			"pt-BR": "MORT",
+			"pt-PT": "MORT",
 			"ru-RU": "МОРТ",
 			"zh-Hans": "莫特",
 			"zh-Hant": "死亡號角"
@@ -3964,7 +3964,7 @@
 		"names": {
 			"en-US": "INGMAR",
 			"en-GB": "INGMAR",
-			"bp": "INGMAR",
+			"pt-BR": "INGMAR",
 			"de-DE": "INGMAR",
 			"es-ES": "INGMAR",
 			"fr-FR": "INGMAR",
@@ -3973,7 +3973,7 @@
 			"ko-KO": "잉그마르",
 			"ms-MY": "INGMAR",
 			"pl-PL": "INGMAR",
-			"pt-BR": "INGMAR",
+			"pt-PT": "INGMAR",
 			"ru-RU": "ИНГМАР",
 			"zh-Hans": "英格玛",
 			"zh-Hant": "因格瑪"
@@ -3990,7 +3990,7 @@
 		"names": {
 			"en-US": "CHARBAL-VII",
 			"en-GB": "CHARBAL-VII",
-			"bp": "CHARBAL-VII",
+			"pt-BR": "CHARBAL-VII",
 			"de-DE": "CHARBAL-VII",
 			"es-ES": "CHARBAL-VII",
 			"fr-FR": "CHARBAL-VII",
@@ -3999,7 +3999,7 @@
 			"ko-KO": "차르발 VII",
 			"ms-MY": "CHARBAL-VII",
 			"pl-PL": "CHARBAL-VII",
-			"pt-BR": "CHARBAL-VII",
+			"pt-PT": "CHARBAL-VII",
 			"ru-RU": "ЧАРБОЛ-VII",
 			"zh-Hans": "查巴尔VII",
 			"zh-Hant": "查爾博VII"
@@ -4015,7 +4015,7 @@
 		"names": {
 			"en-US": "CHARON PRIME",
 			"en-GB": "CHARON PRIME",
-			"bp": "CHARON PRIME",
+			"pt-BR": "CHARON PRIME",
 			"de-DE": "CHARON PRIME",
 			"es-ES": "CHARON PRIME",
 			"fr-FR": "CHARON PRIME",
@@ -4024,7 +4024,7 @@
 			"ko-KO": "차론 프라임",
 			"ms-MY": "CHARON PRIME",
 			"pl-PL": "CHARON PRIME",
-			"pt-BR": "CHARON PRIME",
+			"pt-PT": "CHARON PRIME",
 			"ru-RU": "ХАРОН-ПРАЙМ",
 			"zh-Hans": "卡戎主星",
 			"zh-Hant": "薛戎主星"
@@ -4040,7 +4040,7 @@
 		"names": {
 			"en-US": "CHOEPESSA IV",
 			"en-GB": "CHOEPESSA IV",
-			"bp": "CHOEPESSA IV",
+			"pt-BR": "CHOEPESSA IV",
 			"de-DE": "CHOEPESSA IV",
 			"es-ES": "CHOEPESSA IV",
 			"fr-FR": "CHOEPESSA IV",
@@ -4049,7 +4049,7 @@
 			"ko-KO": "초에페사 IV",
 			"ms-MY": "CHOEPESSA IV",
 			"pl-PL": "CHOEPESSA IV",
-			"pt-BR": "CHOEPESSA IV",
+			"pt-PT": "CHOEPESSA IV",
 			"ru-RU": "ХЕПЕССА IV",
 			"zh-Hans": "科埃佩萨IV",
 			"zh-Hant": "寇耶佩莎IV"
@@ -4066,7 +4066,7 @@
 		"names": {
 			"en-US": "CHOOHE",
 			"en-GB": "CHOOHE",
-			"bp": "CHOOHE",
+			"pt-BR": "CHOOHE",
 			"de-DE": "CHOOHE",
 			"es-ES": "CHOOHE",
 			"fr-FR": "CHOOHE",
@@ -4075,7 +4075,7 @@
 			"ko-KO": "추헤",
 			"ms-MY": "CHOOHE",
 			"pl-PL": "CHOOHE",
-			"pt-BR": "CHOOHE",
+			"pt-PT": "CHOOHE",
 			"ru-RU": "ЧУХИ",
 			"zh-Hans": "丘伊",
 			"zh-Hant": "丘伊"
@@ -4092,7 +4092,7 @@
 		"names": {
 			"en-US": "CHORT BAY",
 			"en-GB": "CHORT BAY",
-			"bp": "BAÍA CHORT",
+			"pt-BR": "BAÍA CHORT",
 			"de-DE": "CHORT BAY",
 			"es-ES": "BAHÍA CHORT",
 			"fr-FR": "BAIE DE CHORT",
@@ -4101,7 +4101,7 @@
 			"ko-KO": "초트 베이",
 			"ms-MY": "BAHÍA CHORT",
 			"pl-PL": "ZATOKA CHORT",
-			"pt-BR": "BAÍA DO CHORT",
+			"pt-PT": "BAÍA DO CHORT",
 			"ru-RU": "ХОРТ-БЭЙ",
 			"zh-Hans": "雀特湾",
 			"zh-Hant": "雀特灣"
@@ -4118,7 +4118,7 @@
 		"names": {
 			"en-US": "CLAORELL",
 			"en-GB": "CLAORELL",
-			"bp": "CLAORELL",
+			"pt-BR": "CLAORELL",
 			"de-DE": "CLAORELL",
 			"es-ES": "CLAORELL",
 			"fr-FR": "CLAORELL",
@@ -4127,7 +4127,7 @@
 			"ko-KO": "클라오렐",
 			"ms-MY": "CLAORELL",
 			"pl-PL": "CLAORELL",
-			"pt-BR": "CLAORELL",
+			"pt-PT": "CLAORELL",
 			"ru-RU": "КЛАОРЕЛЛ",
 			"zh-Hans": "可洛尔",
 			"zh-Hant": "克勞瑞"
@@ -4144,7 +4144,7 @@
 		"names": {
 			"en-US": "CLASA",
 			"en-GB": "CLASA",
-			"bp": "CLASA",
+			"pt-BR": "CLASA",
 			"de-DE": "CLASA",
 			"es-ES": "CLASA",
 			"fr-FR": "CLASA",
@@ -4153,7 +4153,7 @@
 			"ko-KO": "클라사",
 			"ms-MY": "CLASA",
 			"pl-PL": "CLASA",
-			"pt-BR": "CLASA",
+			"pt-PT": "CLASA",
 			"ru-RU": "КЛАСА",
 			"zh-Hans": "克拉萨",
 			"zh-Hant": "克拉薩"
@@ -4169,7 +4169,7 @@
 		"names": {
 			"en-US": "DEMIURG",
 			"en-GB": "DEMIURG",
-			"bp": "DEMIURG",
+			"pt-BR": "DEMIURG",
 			"de-DE": "DEMIURG",
 			"es-ES": "DEMIURG",
 			"fr-FR": "DEMIURG",
@@ -4178,7 +4178,7 @@
 			"ko-KO": "데미우르그",
 			"ms-MY": "DEMIURG",
 			"pl-PL": "DEMIURG",
-			"pt-BR": "DEMIURGO",
+			"pt-PT": "DEMIURGO",
 			"ru-RU": "ДЕМИУРГ",
 			"zh-Hans": "戴米尔基",
 			"zh-Hant": "戴米爾格"
@@ -4194,7 +4194,7 @@
 		"names": {
 			"en-US": "DENEB SECUNDUS",
 			"en-GB": "DENEB SECUNDUS",
-			"bp": "DENEB SECUNDUS",
+			"pt-BR": "DENEB SECUNDUS",
 			"de-DE": "DENEB SECUNDUS",
 			"es-ES": "DENEB SECUNDUS",
 			"fr-FR": "DENEB SECUNDUS",
@@ -4203,7 +4203,7 @@
 			"ko-KO": "데네브 세쿤두스",
 			"ms-MY": "DENEB SECUNDUS",
 			"pl-PL": "DENEB SECUNDUS",
-			"pt-BR": "DENEB SECUNDUS",
+			"pt-PT": "DENEB SECUNDUS",
 			"ru-RU": "ДЕНЕБ II",
 			"zh-Hans": "天津四次星",
 			"zh-Hant": "天津四次星"
@@ -4220,7 +4220,7 @@
 		"names": {
 			"en-US": "ELECTRA BAY",
 			"en-GB": "ELECTRA BAY",
-			"bp": "BAÍA ELECTRA",
+			"pt-BR": "BAÍA ELECTRA",
 			"de-DE": "ELECTRA BAY",
 			"es-ES": "BAHÍA ELECTRA",
 			"fr-FR": "BAIE D'ELECTRA",
@@ -4229,7 +4229,7 @@
 			"ko-KO": "엘렉트라 베이",
 			"ms-MY": "BAHÍA ELECTRA",
 			"pl-PL": "ZATOKA ELEKTRY",
-			"pt-BR": "BAÍA ELECTRA",
+			"pt-PT": "BAÍA ELECTRA",
 			"ru-RU": "ЭЛЕКТРА-БЭЙ",
 			"zh-Hans": "昴宿一湾",
 			"zh-Hant": "昴宿一灣"
@@ -4245,7 +4245,7 @@
 		"names": {
 			"en-US": "ENULIALE",
 			"en-GB": "ENULIALE",
-			"bp": "ENULIALE",
+			"pt-BR": "ENULIALE",
 			"de-DE": "ENULIALE",
 			"es-ES": "ENULIALE",
 			"fr-FR": "ENULIALE",
@@ -4254,7 +4254,7 @@
 			"ko-KO": "에눌리알레",
 			"ms-MY": "ENULIALE",
 			"pl-PL": "ENULIALE",
-			"pt-BR": "ENULIALE",
+			"pt-PT": "ENULIALE",
 			"ru-RU": "ЭНУЛИАЛЕ",
 			"zh-Hans": "安努力亚",
 			"zh-Hant": "埃努里阿雷"
@@ -4271,7 +4271,7 @@
 		"names": {
 			"en-US": "EPSILON PHOENCIS VI",
 			"en-GB": "EPSILON PHOENCIS VI",
-			"bp": "EPSILON PHOENCIS VI",
+			"pt-BR": "EPSILON PHOENCIS VI",
 			"de-DE": "EPSILON PHOENCIS VI",
 			"es-ES": "EPSILON PHOENCIS VI",
 			"fr-FR": "EPSILON PHOENCIS VI",
@@ -4280,7 +4280,7 @@
 			"ko-KO": "엡실론 포엔시스 VI",
 			"ms-MY": "EPSILON PHOENCIS VI",
 			"pl-PL": "EPSILON PHOENCIS VI",
-			"pt-BR": "EPSILON PHOENCIS VI",
+			"pt-PT": "EPSILON PHOENCIS VI",
 			"ru-RU": "ЭПСИЛОН-ФИНСИС VI",
 			"zh-Hans": "艾普斯林芬赛斯VI",
 			"zh-Hant": "艾普斯林芬賽斯VI"
@@ -4297,7 +4297,7 @@
 		"names": {
 			"en-US": "ERATA PRIME",
 			"en-GB": "ERATA PRIME",
-			"bp": "ERATA PRIME",
+			"pt-BR": "ERATA PRIME",
 			"de-DE": "ERATA PRIME",
 			"es-ES": "ERATA PRIME",
 			"fr-FR": "ERATA PRIME",
@@ -4306,7 +4306,7 @@
 			"ko-KO": "에라타 프라임",
 			"ms-MY": "ERATA PRIME",
 			"pl-PL": "ERATA PRIME",
-			"pt-BR": "ERATA PRIME",
+			"pt-PT": "ERATA PRIME",
 			"ru-RU": "ЭРАТА-ПРАЙМ",
 			"zh-Hans": "艾拉特主星",
 			"zh-Hant": "埃拉他主星"
@@ -4322,7 +4322,7 @@
 		"names": {
 			"en-US": "ESTANU",
 			"en-GB": "ESTANU",
-			"bp": "ESTANU",
+			"pt-BR": "ESTANU",
 			"de-DE": "ESTANU",
 			"es-ES": "ESTANU",
 			"fr-FR": "ESTANU",
@@ -4331,7 +4331,7 @@
 			"ko-KO": "에스타누",
 			"ms-MY": "ESTANU",
 			"pl-PL": "ESTANU",
-			"pt-BR": "ESTANU",
+			"pt-PT": "ESTANU",
 			"ru-RU": "ЭСТАНУ",
 			"zh-Hans": "伊斯塔努",
 			"zh-Hant": "埃斯塔努"
@@ -4347,7 +4347,7 @@
 		"names": {
 			"en-US": "FORI PRIME",
 			"en-GB": "FORI PRIME",
-			"bp": "FORI PRIME",
+			"pt-BR": "FORI PRIME",
 			"de-DE": "FORI PRIME",
 			"es-ES": "FORI PRIME",
 			"fr-FR": "FORI PRIME",
@@ -4356,7 +4356,7 @@
 			"ko-KO": "포리 프라임",
 			"ms-MY": "FORI PRIME",
 			"pl-PL": "FORI PRIME",
-			"pt-BR": "FORI PRIME",
+			"pt-PT": "FORI PRIME",
 			"ru-RU": "ФОРИ-ПРАЙМ",
 			"zh-Hans": "佛里主星",
 			"zh-Hant": "佛里主星"
@@ -4372,7 +4372,7 @@
 		"names": {
 			"en-US": "GACRUX",
 			"en-GB": "GACRUX",
-			"bp": "GACRUX",
+			"pt-BR": "GACRUX",
 			"de-DE": "GACRUX",
 			"es-ES": "GACRUX",
 			"fr-FR": "GACRUX",
@@ -4381,7 +4381,7 @@
 			"ko-KO": "카크룩스",
 			"ms-MY": "GACRUX",
 			"pl-PL": "GACRUX",
-			"pt-BR": "GACRUX",
+			"pt-PT": "GACRUX",
 			"ru-RU": "ГАКРУКС",
 			"zh-Hans": "十字架一",
 			"zh-Hant": "十字架一"
@@ -4398,7 +4398,7 @@
 		"names": {
 			"en-US": "GAR HAREN",
 			"en-GB": "GAR HAREN",
-			"bp": "GAR HAREN",
+			"pt-BR": "GAR HAREN",
 			"de-DE": "GAR HAREN",
 			"es-ES": "GAR HAREN",
 			"fr-FR": "GAR HAREN",
@@ -4407,7 +4407,7 @@
 			"ko-KO": "가르 하렌",
 			"ms-MY": "GAR HAREN",
 			"pl-PL": "GAR HAREN",
-			"pt-BR": "GAR HAREN",
+			"pt-PT": "GAR HAREN",
 			"ru-RU": "ГАР-ХАРЕН",
 			"zh-Hans": "轧尔哈伦",
 			"zh-Hant": "軋爾哈倫"
@@ -4423,7 +4423,7 @@
 		"names": {
 			"en-US": "GATRIA",
 			"en-GB": "GATRIA",
-			"bp": "GATRIA",
+			"pt-BR": "GATRIA",
 			"de-DE": "GATRIA",
 			"es-ES": "GATRIA",
 			"fr-FR": "GATRIA",
@@ -4432,7 +4432,7 @@
 			"ko-KO": "가트리아",
 			"ms-MY": "GATRIA",
 			"pl-PL": "GATRIA",
-			"pt-BR": "GATRIA",
+			"pt-PT": "GATRIA",
 			"ru-RU": "ГАТРИЯ",
 			"zh-Hans": "盖尔崔亚",
 			"zh-Hant": "蓋爾崔亞"
@@ -4448,7 +4448,7 @@
 		"names": {
 			"en-US": "GEMMA",
 			"en-GB": "GEMMA",
-			"bp": "GEMMA",
+			"pt-BR": "GEMMA",
 			"de-DE": "GEMMA",
 			"es-ES": "GEMMA",
 			"fr-FR": "GEMMA",
@@ -4457,7 +4457,7 @@
 			"ko-KO": "젬마",
 			"ms-MY": "GEMMA",
 			"pl-PL": "GEMMA",
-			"pt-BR": "GEMMA",
+			"pt-PT": "GEMMA",
 			"ru-RU": "ГЕММА",
 			"zh-Hans": "贯索四",
 			"zh-Hant": "貫索四"
@@ -4474,7 +4474,7 @@
 		"names": {
 			"en-US": "GRAND ERRANT",
 			"en-GB": "GRAND ERRANT",
-			"bp": "GRAND ERRANT",
+			"pt-BR": "GRAND ERRANT",
 			"de-DE": "GRAND ERRANT",
 			"es-ES": "GRAN ERRANTE",
 			"fr-FR": "GRAND ERRANT",
@@ -4483,7 +4483,7 @@
 			"ko-KO": "그랜드 에란트",
 			"ms-MY": "GRAN ERRANTE",
 			"pl-PL": "WIELKI KIKS",
-			"pt-BR": "GRANDE ERRANTE",
+			"pt-PT": "GRANDE ERRANTE",
 			"ru-RU": "ГРАНД ЭРРАНТ",
 			"zh-Hans": "大艾伦特",
 			"zh-Hant": "大艾倫特"
@@ -4500,7 +4500,7 @@
 		"names": {
 			"en-US": "HADAR",
 			"en-GB": "HADAR",
-			"bp": "HADAR",
+			"pt-BR": "HADAR",
 			"de-DE": "HADAR",
 			"es-ES": "HADAR",
 			"fr-FR": "HADAR",
@@ -4509,7 +4509,7 @@
 			"ko-KO": "하다르",
 			"ms-MY": "HADAR",
 			"pl-PL": "HADAR",
-			"pt-BR": "HADAR",
+			"pt-PT": "HADAR",
 			"ru-RU": "ХАДАР",
 			"zh-Hans": "马腹一",
 			"zh-Hant": "馬腹一"
@@ -4525,7 +4525,7 @@
 		"names": {
 			"en-US": "HAKA",
 			"en-GB": "HAKA",
-			"bp": "HAKA",
+			"pt-BR": "HAKA",
 			"de-DE": "HAKA",
 			"es-ES": "HAKA",
 			"fr-FR": "HAKA",
@@ -4534,7 +4534,7 @@
 			"ko-KO": "하카",
 			"ms-MY": "HAKA",
 			"pl-PL": "HAKA",
-			"pt-BR": "HAKA",
+			"pt-PT": "HAKA",
 			"ru-RU": "ХАКА",
 			"zh-Hans": "哈卡",
 			"zh-Hant": "哈卡"
@@ -4551,7 +4551,7 @@
 		"names": {
 			"en-US": "HALDUS",
 			"en-GB": "HALDUS",
-			"bp": "HALDUS",
+			"pt-BR": "HALDUS",
 			"de-DE": "HALDUS",
 			"es-ES": "HALDUS",
 			"fr-FR": "HALDUS",
@@ -4560,7 +4560,7 @@
 			"ko-KO": "할두스",
 			"ms-MY": "HALDUS",
 			"pl-PL": "HALDUS",
-			"pt-BR": "HALDUS",
+			"pt-PT": "HALDUS",
 			"ru-RU": "ХАЛЬДУС",
 			"zh-Hans": "海德斯",
 			"zh-Hant": "哈都斯"
@@ -4576,7 +4576,7 @@
 		"names": {
 			"en-US": "HALIES PORT",
 			"en-GB": "HALIES PORT",
-			"bp": "PORTO HALIES",
+			"pt-BR": "PORTO HALIES",
 			"de-DE": "HALIES PORT",
 			"es-ES": "PUERTO HALIES",
 			"fr-FR": "PORT D'HALIÈS",
@@ -4585,7 +4585,7 @@
 			"ko-KO": "할리에스 포트",
 			"ms-MY": "PUERTO HALIES",
 			"pl-PL": "PORT HALIES",
-			"pt-BR": "HALIES PORT",
+			"pt-PT": "HALIES PORT",
 			"ru-RU": "ПОРТ-ГАЛЬЕ",
 			"zh-Hans": "海利斯港",
 			"zh-Hant": "海利斯港"
@@ -4602,7 +4602,7 @@
 		"names": {
 			"en-US": "HERTHON SECUNDUS",
 			"en-GB": "HERTHON SECUNDUS",
-			"bp": "HERTHON SECUNDUS",
+			"pt-BR": "HERTHON SECUNDUS",
 			"de-DE": "HERTHON SECUNDUS",
 			"es-ES": "HERTHON SECUNDUS",
 			"fr-FR": "HERTHON SECUNDUS",
@@ -4611,7 +4611,7 @@
 			"ko-KO": "헤르손 세쿤두스",
 			"ms-MY": "HERTHON SECUNDUS",
 			"pl-PL": "HERTHON SECUNDUS",
-			"pt-BR": "HERTHON SECUNDUS",
+			"pt-PT": "HERTHON SECUNDUS",
 			"ru-RU": "ХАРТОН II",
 			"zh-Hans": "赫尔松次星",
 			"zh-Hant": "赫松次星"
@@ -4628,7 +4628,7 @@
 		"names": {
 			"en-US": "HESOE PRIME",
 			"en-GB": "HESOE PRIME",
-			"bp": "HESOE PRIME",
+			"pt-BR": "HESOE PRIME",
 			"de-DE": "HESOE PRIME",
 			"es-ES": "HESOE PRIME",
 			"fr-FR": "HESOE PRIME",
@@ -4637,7 +4637,7 @@
 			"ko-KO": "헤소에 프라임",
 			"ms-MY": "HESOE PRIME",
 			"pl-PL": "HESOE PRIME",
-			"pt-BR": "HESOE PRIME",
+			"pt-PT": "HESOE PRIME",
 			"ru-RU": "ХЕСОЭ-ПРАЙМ",
 			"zh-Hans": "海索主星",
 			"zh-Hant": "赫索主星"
@@ -4654,7 +4654,7 @@
 		"names": {
 			"en-US": "HEZE BAY",
 			"en-GB": "HEZE BAY",
-			"bp": "BAÍA HEZE",
+			"pt-BR": "BAÍA HEZE",
 			"de-DE": "HEZE BAY",
 			"es-ES": "BAHÍA HEZE",
 			"fr-FR": "BAIE DE HÊZE",
@@ -4663,7 +4663,7 @@
 			"ko-KO": "헤제 베이",
 			"ms-MY": "BAHÍA HEZE",
 			"pl-PL": "ZATOKA HEZE",
-			"pt-BR": "BAÍA DO HEZE",
+			"pt-PT": "BAÍA DO HEZE",
 			"ru-RU": "ХЕЗЕ-БЭЙ",
 			"zh-Hans": "角宿二湾",
 			"zh-Hant": "角宿二灣"
@@ -4680,7 +4680,7 @@
 		"names": {
 			"en-US": "HORT",
 			"en-GB": "HORT",
-			"bp": "HORT",
+			"pt-BR": "HORT",
 			"de-DE": "HORT",
 			"es-ES": "HORT",
 			"fr-FR": "HORT",
@@ -4689,7 +4689,7 @@
 			"ko-KO": "호르트",
 			"ms-MY": "HORT",
 			"pl-PL": "HORT",
-			"pt-BR": "HORT",
+			"pt-PT": "HORT",
 			"ru-RU": "ХОРТ",
 			"zh-Hans": "霍尔特",
 			"zh-Hant": "霍特"
@@ -4706,7 +4706,7 @@
 		"names": {
 			"en-US": "HYDROBIUS",
 			"en-GB": "HYDROBIUS",
-			"bp": "HYDROBIUS",
+			"pt-BR": "HYDROBIUS",
 			"de-DE": "HYDROBIUS",
 			"es-ES": "HYDROBIUS",
 			"fr-FR": "HYDROBIUS",
@@ -4715,7 +4715,7 @@
 			"ko-KO": "하이드로비우스",
 			"ms-MY": "HYDROBIUS",
 			"pl-PL": "HYDROBIUS",
-			"pt-BR": "HYDROBIUS",
+			"pt-PT": "HYDROBIUS",
 			"ru-RU": "ГИДРОБИУС",
 			"zh-Hans": "海德罗毕亚斯",
 			"zh-Hant": "哈卓畢亞斯"
@@ -4732,7 +4732,7 @@
 		"names": {
 			"en-US": "KARLIA",
 			"en-GB": "KARLIA",
-			"bp": "KARLIA",
+			"pt-BR": "KARLIA",
 			"de-DE": "KARLIA",
 			"es-ES": "KARLIA",
 			"fr-FR": "KARLIA",
@@ -4741,7 +4741,7 @@
 			"ko-KO": "칼리아",
 			"ms-MY": "KARLIA",
 			"pl-PL": "KARLIA",
-			"pt-BR": "KARLIA",
+			"pt-PT": "KARLIA",
 			"ru-RU": "КАРЛИЯ",
 			"zh-Hans": "卡利亚",
 			"zh-Hant": "卡里亞"
@@ -4758,7 +4758,7 @@
 		"names": {
 			"en-US": "KEID",
 			"en-GB": "KEID",
-			"bp": "KEID",
+			"pt-BR": "KEID",
 			"de-DE": "KEID",
 			"es-ES": "KEID",
 			"fr-FR": "KEID",
@@ -4767,7 +4767,7 @@
 			"ko-KO": "케이드",
 			"ms-MY": "KEID",
 			"pl-PL": "KEID",
-			"pt-BR": "KEID",
+			"pt-PT": "KEID",
 			"ru-RU": "КЕЙД",
 			"zh-Hans": "九州殊口增七",
 			"zh-Hant": "九州殊口增十一"
@@ -4784,7 +4784,7 @@
 		"names": {
 			"en-US": "KHANDARK",
 			"en-GB": "KHANDARK",
-			"bp": "KHANDARK",
+			"pt-BR": "KHANDARK",
 			"de-DE": "KHANDARK",
 			"es-ES": "KHANDARK",
 			"fr-FR": "KHANDARK",
@@ -4793,7 +4793,7 @@
 			"ko-KO": "칸다르크",
 			"ms-MY": "KHANDARK",
 			"pl-PL": "KHANDARK",
-			"pt-BR": "KHANDARK",
+			"pt-PT": "KHANDARK",
 			"ru-RU": "ХАНДАРК",
 			"zh-Hans": "勘达尔克",
 			"zh-Hant": "可汗達克"
@@ -4810,7 +4810,7 @@
 		"names": {
 			"en-US": "KLAKA 5",
 			"en-GB": "KLAKA 5",
-			"bp": "KLAKA 5",
+			"pt-BR": "KLAKA 5",
 			"de-DE": "KLAKA 5",
 			"es-ES": "KLAKA 5",
 			"fr-FR": "KLAKA 5",
@@ -4819,7 +4819,7 @@
 			"ko-KO": "클라카 5",
 			"ms-MY": "KLAKA 5",
 			"pl-PL": "KLAKA 5",
-			"pt-BR": "KLAKA 5",
+			"pt-PT": "KLAKA 5",
 			"ru-RU": "КЛАКА 5",
 			"zh-Hans": "克拉卡5",
 			"zh-Hant": "克拉卡5號"
@@ -4836,7 +4836,7 @@
 		"names": {
 			"en-US": "KNETH PORT",
 			"en-GB": "KNETH PORT",
-			"bp": "PORTO KNETH",
+			"pt-BR": "PORTO KNETH",
 			"de-DE": "KNETH PORT",
 			"es-ES": "PUERTO KNETH",
 			"fr-FR": "PORT DE KNETH",
@@ -4845,7 +4845,7 @@
 			"ko-KO": "크네스 포트",
 			"ms-MY": "PUERTO KNETH",
 			"pl-PL": "PORT KNETH",
-			"pt-BR": "KNETH PORT",
+			"pt-PT": "KNETH PORT",
 			"ru-RU": "ПОРТ-КНЕТ",
 			"zh-Hans": "克奈斯港",
 			"zh-Hant": "克涅斯港"
@@ -4861,7 +4861,7 @@
 		"names": {
 			"en-US": "KRAZ",
 			"en-GB": "KRAZ",
-			"bp": "KRAZ",
+			"pt-BR": "KRAZ",
 			"de-DE": "KRAZ",
 			"es-ES": "KRAZ",
 			"fr-FR": "KRAZ",
@@ -4870,7 +4870,7 @@
 			"ko-KO": "크라즈",
 			"ms-MY": "KRAZ",
 			"pl-PL": "KRAZ",
-			"pt-BR": "KRAZ",
+			"pt-PT": "KRAZ",
 			"ru-RU": "КРАЗ",
 			"zh-Hans": "轸宿四",
 			"zh-Hant": "軫宿四"
@@ -4886,7 +4886,7 @@
 		"names": {
 			"en-US": "KUMA",
 			"en-GB": "KUMA",
-			"bp": "KUMA",
+			"pt-BR": "KUMA",
 			"de-DE": "KUMA",
 			"es-ES": "KUMA",
 			"fr-FR": "KUMA",
@@ -4895,7 +4895,7 @@
 			"ko-KO": "쿠마",
 			"ms-MY": "KUMA",
 			"pl-PL": "KUMA",
-			"pt-BR": "KUMA",
+			"pt-PT": "KUMA",
 			"ru-RU": "КУМА",
 			"zh-Hans": "天棓二",
 			"zh-Hant": "天龍座"
@@ -4912,7 +4912,7 @@
 		"names": {
 			"en-US": "LASTOFE",
 			"en-GB": "LASTOFE",
-			"bp": "LASTOFE",
+			"pt-BR": "LASTOFE",
 			"de-DE": "LASTOFE",
 			"es-ES": "LASTOFE",
 			"fr-FR": "LASTOFE",
@@ -4921,7 +4921,7 @@
 			"ko-KO": "라스토페",
 			"ms-MY": "LASTOFE",
 			"pl-PL": "LASTOFE",
-			"pt-BR": "LASTOFE",
+			"pt-PT": "LASTOFE",
 			"ru-RU": "ЛАСТОФ",
 			"zh-Hans": "赖斯斗夫",
 			"zh-Hant": "拉斯托"
@@ -4938,7 +4938,7 @@
 		"names": {
 			"en-US": "LENG SECUNDUS",
 			"en-GB": "LENG SECUNDUS",
-			"bp": "LENG SECUNDUS",
+			"pt-BR": "LENG SECUNDUS",
 			"de-DE": "LENG SECUNDUS",
 			"es-ES": "LENG SECUNDUS",
 			"fr-FR": "LENG SECUNDUS",
@@ -4947,7 +4947,7 @@
 			"ko-KO": "렝 세쿤두스",
 			"ms-MY": "LENG SECUNDUS",
 			"pl-PL": "LENG SECUNDUS",
-			"pt-BR": "LENG SECUNDUS",
+			"pt-PT": "LENG SECUNDUS",
 			"ru-RU": "ЛЕНГ II",
 			"zh-Hans": "蓝恩次星",
 			"zh-Hant": "雷恩次星"
@@ -4963,7 +4963,7 @@
 		"names": {
 			"en-US": "LESATH",
 			"en-GB": "LESATH",
-			"bp": "LESATH",
+			"pt-BR": "LESATH",
 			"de-DE": "LESATH",
 			"es-ES": "LESATH",
 			"fr-FR": "LESATH",
@@ -4972,7 +4972,7 @@
 			"ko-KO": "레스사스",
 			"ms-MY": "LESATH",
 			"pl-PL": "LESATH",
-			"pt-BR": "LESATH",
+			"pt-PT": "LESATH",
 			"ru-RU": "ЛЕСАТ",
 			"zh-Hans": "尾宿八",
 			"zh-Hant": "尾宿八"
@@ -4989,7 +4989,7 @@
 		"names": {
 			"en-US": "MAIA",
 			"en-GB": "MAIA",
-			"bp": "MAIA",
+			"pt-BR": "MAIA",
 			"de-DE": "MAIA",
 			"es-ES": "MAIA",
 			"fr-FR": "MAIA",
@@ -4998,7 +4998,7 @@
 			"ko-KO": "마이아",
 			"ms-MY": "MAIA",
 			"pl-PL": "MAIA",
-			"pt-BR": "MAIA",
+			"pt-PT": "MAIA",
 			"ru-RU": "МАЙЯ",
 			"zh-Hans": "昴宿四",
 			"zh-Hant": "昴宿四"
@@ -5014,7 +5014,7 @@
 		"names": {
 			"en-US": "MALEVELON CREEK",
 			"en-GB": "MALEVELON CREEK",
-			"bp": "MALEVELON CREEK",
+			"pt-BR": "MALEVELON CREEK",
 			"de-DE": "MALEVELON CREEK",
 			"es-ES": "MALEVELON CREEK",
 			"fr-FR": "CRIQUE DE MALEVELON",
@@ -5023,7 +5023,7 @@
 			"ko-KO": "말레벨론 크릭",
 			"ms-MY": "MALEVELON CREEK",
 			"pl-PL": "POTOK MALEVELON",
-			"pt-BR": "MALEVELON CREEK",
+			"pt-PT": "MALEVELON CREEK",
 			"ru-RU": "МАЛЕВЕЛОН-КРИК",
 			"zh-Hans": "麦拉芬蒙河",
 			"zh-Hant": "馬勒維隆溪"
@@ -5040,7 +5040,7 @@
 		"names": {
 			"en-US": "MANTES",
 			"en-GB": "MANTES",
-			"bp": "MANTES",
+			"pt-BR": "MANTES",
 			"de-DE": "MANTES",
 			"es-ES": "MANTES",
 			"fr-FR": "MANTIZ",
@@ -5049,7 +5049,7 @@
 			"ko-KO": "만테스",
 			"ms-MY": "MANTES",
 			"pl-PL": "MANTES",
-			"pt-BR": "MANTES",
+			"pt-PT": "MANTES",
 			"ru-RU": "МАНТЕС",
 			"zh-Hans": "蒙特斯",
 			"zh-Hant": "曼提斯"
@@ -5066,7 +5066,7 @@
 		"names": {
 			"en-US": "MARFARK",
 			"en-GB": "MARFARK",
-			"bp": "MARFARK",
+			"pt-BR": "MARFARK",
 			"de-DE": "MARFARK",
 			"es-ES": "MARFARK",
 			"fr-FR": "MARFARK",
@@ -5075,7 +5075,7 @@
 			"ko-KO": "마르파르크",
 			"ms-MY": "MARFARK",
 			"pl-PL": "MARFARK",
-			"pt-BR": "MARFARK",
+			"pt-PT": "MARFARK",
 			"ru-RU": "МАРФАРК",
 			"zh-Hans": "玛尔法克",
 			"zh-Hant": "瑪爾法克"
@@ -5091,7 +5091,7 @@
 		"names": {
 			"en-US": "MARTALE",
 			"en-GB": "MARTALE",
-			"bp": "MARTALE",
+			"pt-BR": "MARTALE",
 			"de-DE": "MARTALE",
 			"es-ES": "MARTALE",
 			"fr-FR": "MARTALE",
@@ -5100,7 +5100,7 @@
 			"ko-KO": "마르탈레",
 			"ms-MY": "MARTALE",
 			"pl-PL": "MARTALE",
-			"pt-BR": "MARTALE",
+			"pt-PT": "MARTALE",
 			"ru-RU": "МАРТАЛЕ",
 			"zh-Hans": "玛尔特",
 			"zh-Hant": "馬塔爾"
@@ -5116,7 +5116,7 @@
 		"names": {
 			"en-US": "MATAR BAY",
 			"en-GB": "MATAR BAY",
-			"bp": "BAÍA MATAR",
+			"pt-BR": "BAÍA MATAR",
 			"de-DE": "MATAR BAY",
 			"es-ES": "BAHÍA MATAR",
 			"fr-FR": "BAIE DE MATAR",
@@ -5125,7 +5125,7 @@
 			"ko-KO": "마타르 베이",
 			"ms-MY": "BAHÍA MATAR",
 			"pl-PL": "ZATOKA MATAR",
-			"pt-BR": "BAÍA MATAR",
+			"pt-PT": "BAÍA MATAR",
 			"ru-RU": "МАТАР-БЭЙ",
 			"zh-Hans": "玛塔",
 			"zh-Hant": "瑪塔灣"
@@ -5142,7 +5142,7 @@
 		"names": {
 			"en-US": "MEISSA",
 			"en-GB": "MEISSA",
-			"bp": "MEISSA",
+			"pt-BR": "MEISSA",
 			"de-DE": "MEISSA",
 			"es-ES": "MEISSA",
 			"fr-FR": "MEISSA",
@@ -5151,7 +5151,7 @@
 			"ko-KO": "메이사",
 			"ms-MY": "MEISSA",
 			"pl-PL": "MEISSA",
-			"pt-BR": "MEISSA",
+			"pt-PT": "MEISSA",
 			"ru-RU": "МЕЙССА",
 			"zh-Hans": "觜宿一",
 			"zh-Hant": "觜宿一"
@@ -5167,7 +5167,7 @@
 		"names": {
 			"en-US": "MEKBUDA",
 			"en-GB": "MEKBUDA",
-			"bp": "MEKBUDA",
+			"pt-BR": "MEKBUDA",
 			"de-DE": "MEKBUDA",
 			"es-ES": "MEKBUDA",
 			"fr-FR": "MEKBUDA",
@@ -5176,7 +5176,7 @@
 			"ko-KO": "메크부다",
 			"ms-MY": "MEKBUDA",
 			"pl-PL": "MEKBUDA",
-			"pt-BR": "MEKBUDA",
+			"pt-PT": "MEKBUDA",
 			"ru-RU": "МЕКБУДА",
 			"zh-Hans": "井宿七",
 			"zh-Hant": "井宿七"
@@ -5193,7 +5193,7 @@
 		"names": {
 			"en-US": "MENKENT",
 			"en-GB": "MENKENT",
-			"bp": "MENKENT",
+			"pt-BR": "MENKENT",
 			"de-DE": "MENKENT",
 			"es-ES": "MENKENT",
 			"fr-FR": "MENKENT",
@@ -5202,7 +5202,7 @@
 			"ko-KO": "멘켄트",
 			"ms-MY": "MENKENT",
 			"pl-PL": "MENKENT",
-			"pt-BR": "MENKENT",
+			"pt-PT": "MENKENT",
 			"ru-RU": "МЕНКЕНТ",
 			"zh-Hans": "库楼三",
 			"zh-Hant": "庫樓三"
@@ -5219,7 +5219,7 @@
 		"names": {
 			"en-US": "MERAK",
 			"en-GB": "MERAK",
-			"bp": "MERAK",
+			"pt-BR": "MERAK",
 			"de-DE": "MERAK",
 			"es-ES": "MERAK",
 			"fr-FR": "MERAK",
@@ -5228,7 +5228,7 @@
 			"ko-KO": "메라크",
 			"ms-MY": "MERAK",
 			"pl-PL": "MERAK",
-			"pt-BR": "MERAK",
+			"pt-PT": "MERAK",
 			"ru-RU": "МЕРАК",
 			"zh-Hans": "北斗二",
 			"zh-Hant": "北斗二"
@@ -5245,7 +5245,7 @@
 		"names": {
 			"en-US": "MERGA IV",
 			"en-GB": "MERGA IV",
-			"bp": "MERGA IV",
+			"pt-BR": "MERGA IV",
 			"de-DE": "MERGA IV",
 			"es-ES": "MERGA IV",
 			"fr-FR": "MERGA IV",
@@ -5254,7 +5254,7 @@
 			"ko-KO": "메르가 IV",
 			"ms-MY": "MERGA IV",
 			"pl-PL": "MERGA IV",
-			"pt-BR": "MERGA IV",
+			"pt-PT": "MERGA IV",
 			"ru-RU": "МАРГА IV",
 			"zh-Hans": "玄戈增二IV",
 			"zh-Hant": "玄戈增二IV"
@@ -5270,7 +5270,7 @@
 		"names": {
 			"en-US": "MINCHIR",
 			"en-GB": "MINCHIR",
-			"bp": "MINCHIR",
+			"pt-BR": "MINCHIR",
 			"de-DE": "MINCHIR",
 			"es-ES": "MINCHIR",
 			"fr-FR": "MINCHIR",
@@ -5279,7 +5279,7 @@
 			"ko-KO": "민치르",
 			"ms-MY": "MINCHIR",
 			"pl-PL": "MINCHIR",
-			"pt-BR": "MINCHIR",
+			"pt-PT": "MINCHIR",
 			"ru-RU": "МИНХИР",
 			"zh-Hans": "敏切尔",
 			"zh-Hant": "敏雀特"
@@ -5296,7 +5296,7 @@
 		"names": {
 			"en-US": "MINTORIA",
 			"en-GB": "MINTORIA",
-			"bp": "MINTORIA",
+			"pt-BR": "MINTORIA",
 			"de-DE": "MINTORIA",
 			"es-ES": "MINTORIA",
 			"fr-FR": "MINTORIA",
@@ -5305,7 +5305,7 @@
 			"ko-KO": "민토리아",
 			"ms-MY": "MINTORIA",
 			"pl-PL": "MINTORIA",
-			"pt-BR": "MINTORIA",
+			"pt-PT": "MINTORIA",
 			"ru-RU": "МИНТОРИЯ",
 			"zh-Hans": "敏托瑞亚",
 			"zh-Hant": "敏托里亞"
@@ -5321,7 +5321,7 @@
 		"names": {
 			"en-US": "MORDIA 9",
 			"en-GB": "MORDIA 9",
-			"bp": "MORDIA 9",
+			"pt-BR": "MORDIA 9",
 			"de-DE": "MORDIA 9",
 			"es-ES": "MORDIA 9",
 			"fr-FR": "MORDIA 9",
@@ -5330,7 +5330,7 @@
 			"ko-KO": "모르디아 9",
 			"ms-MY": "MORDIA 9",
 			"pl-PL": "MORDIA 9",
-			"pt-BR": "MORDIA 9",
+			"pt-PT": "MORDIA 9",
 			"ru-RU": "МОРДИЯ-9",
 			"zh-Hans": "摩帝亚9",
 			"zh-Hant": "摩爾迪亞9號"
@@ -5346,7 +5346,7 @@
 		"names": {
 			"en-US": "NABATEA SECUNDUS",
 			"en-GB": "NABATEA SECUNDUS",
-			"bp": "NABATEA SECUNDUS",
+			"pt-BR": "NABATEA SECUNDUS",
 			"de-DE": "NABATEA SECUNDUS",
 			"es-ES": "NABATEA SECUNDUS",
 			"fr-FR": "NABATEA SECUNDUS",
@@ -5355,7 +5355,7 @@
 			"ko-KO": "나바테아 세쿤두스",
 			"ms-MY": "NABATEA SECUNDUS",
 			"pl-PL": "NABATEA SECUNDUS",
-			"pt-BR": "NABATEA SECUNDUS",
+			"pt-PT": "NABATEA SECUNDUS",
 			"ru-RU": "НАНБАТЕЯ II",
 			"zh-Hans": "那贝塔次星",
 			"zh-Hant": "納巴忒亞次星"
@@ -5372,7 +5372,7 @@
 		"names": {
 			"en-US": "NAVI VII",
 			"en-GB": "NAVI VII",
-			"bp": "NAVI VII",
+			"pt-BR": "NAVI VII",
 			"de-DE": "NAVI VII",
 			"es-ES": "NAVI VII",
 			"fr-FR": "NAVI VII",
@@ -5381,7 +5381,7 @@
 			"ko-KO": "나비 VII",
 			"ms-MY": "NAVI VII",
 			"pl-PL": "NAVI VII",
-			"pt-BR": "NAVI VII",
+			"pt-PT": "NAVI VII",
 			"ru-RU": "НАВИ VII",
 			"zh-Hans": "阁道二",
 			"zh-Hant": "奈維VII"
@@ -5397,7 +5397,7 @@
 		"names": {
 			"en-US": "NIVEL 43",
 			"en-GB": "NIVEL 43",
-			"bp": "NÍVEL 43",
+			"pt-BR": "NÍVEL 43",
 			"de-DE": "NIVEL 43",
 			"es-ES": "NIVEL 43",
 			"fr-FR": "NIVEL 43",
@@ -5406,7 +5406,7 @@
 			"ko-KO": "니벨 43",
 			"ms-MY": "NIVEL 43",
 			"pl-PL": "NIVEL 43",
-			"pt-BR": "NIVEL 43",
+			"pt-PT": "NIVEL 43",
 			"ru-RU": "НИВЕЛЬ-43",
 			"zh-Hans": "尼维尔43",
 			"zh-Hant": "尼威爾43號"
@@ -5423,7 +5423,7 @@
 		"names": {
 			"en-US": "OSHAUNE",
 			"en-GB": "OSHAUNE",
-			"bp": "OSHAUNE",
+			"pt-BR": "OSHAUNE",
 			"de-DE": "OSHAUNE",
 			"es-ES": "OSHAUNE",
 			"fr-FR": "OSHAUNE",
@@ -5432,7 +5432,7 @@
 			"ko-KO": "오샤우네",
 			"ms-MY": "OSHAUNE",
 			"pl-PL": "OSHAUNE",
-			"pt-BR": "OSHAUNE",
+			"pt-PT": "OSHAUNE",
 			"ru-RU": "ОШОНЕ",
 			"zh-Hans": "欧绍恩",
 			"zh-Hant": "歐夏烏"
@@ -5448,7 +5448,7 @@
 		"names": {
 			"en-US": "OVERGOE PRIME",
 			"en-GB": "OVERGOE PRIME",
-			"bp": "OVERGOE PRIME",
+			"pt-BR": "OVERGOE PRIME",
 			"de-DE": "OVERGOE PRIME",
 			"es-ES": "OVERGOE PRIME",
 			"fr-FR": "OVERGOE PRIME",
@@ -5457,7 +5457,7 @@
 			"ko-KO": "오베르고에 프라임",
 			"ms-MY": "OVERGOE PRIME",
 			"pl-PL": "OVERGOE PRIME",
-			"pt-BR": "OVERGOE PRIME",
+			"pt-PT": "OVERGOE PRIME",
 			"ru-RU": "ОВЕРГО-ПРАЙМ",
 			"zh-Hans": "欧维果主星",
 			"zh-Hant": "歐維勾主星"
@@ -5473,7 +5473,7 @@
 		"names": {
 			"en-US": "PANDION-XXIV",
 			"en-GB": "PANDION-XXIV",
-			"bp": "PANDION XXIV",
+			"pt-BR": "PANDION XXIV",
 			"de-DE": "PANDION-XXIV",
 			"es-ES": "PANDION-XXIV",
 			"fr-FR": "PANDION-XXIV",
@@ -5482,7 +5482,7 @@
 			"ko-KO": "판디온-XXIV",
 			"ms-MY": "PANDION-XXIV",
 			"pl-PL": "PANDION-XXIV",
-			"pt-BR": "PANDION-XXIV",
+			"pt-PT": "PANDION-XXIV",
 			"ru-RU": "ПАНДИОН XXIV",
 			"zh-Hans": "帕狄恩XXIV",
 			"zh-Hant": "潘迪恩XXIV"
@@ -5499,7 +5499,7 @@
 		"names": {
 			"en-US": "PARTION",
 			"en-GB": "PARTION",
-			"bp": "PARTION",
+			"pt-BR": "PARTION",
 			"de-DE": "PARTION",
 			"es-ES": "PARTION",
 			"fr-FR": "PARTION",
@@ -5508,7 +5508,7 @@
 			"ko-KO": "파르티온",
 			"ms-MY": "PARTION",
 			"pl-PL": "PARTION",
-			"pt-BR": "PARTION",
+			"pt-PT": "PARTION",
 			"ru-RU": "ПАРТИОН",
 			"zh-Hans": "帕尔晨",
 			"zh-Hant": "帕伊恩"
@@ -5524,7 +5524,7 @@
 		"names": {
 			"en-US": "PEACOCK",
 			"en-GB": "PEACOCK",
-			"bp": "PEACOCK",
+			"pt-BR": "PEACOCK",
 			"de-DE": "PEACOCK",
 			"es-ES": "PEACOCK",
 			"fr-FR": "PEACOCK",
@@ -5533,7 +5533,7 @@
 			"ko-KO": "피콕",
 			"ms-MY": "PEACOCK",
 			"pl-PL": "PAW",
-			"pt-BR": "PEACOCK",
+			"pt-PT": "PEACOCK",
 			"ru-RU": "ПИКОК",
 			"zh-Hans": "孔雀十一",
 			"zh-Hant": "孔雀十一"
@@ -5550,7 +5550,7 @@
 		"names": {
 			"en-US": "PHACT BAY",
 			"en-GB": "PHACT BAY",
-			"bp": "BAÍA PHACT",
+			"pt-BR": "BAÍA PHACT",
 			"de-DE": "PHACT BAY",
 			"es-ES": "BAHÍA PHACT",
 			"fr-FR": "BAIE DE PHACT",
@@ -5559,7 +5559,7 @@
 			"ko-KO": "팍트 베이",
 			"ms-MY": "BAHÍA PHACT",
 			"pl-PL": "ZATOKA PHACT",
-			"pt-BR": "PHACT BAY",
+			"pt-PT": "PHACT BAY",
 			"ru-RU": "ФАКТ-БЭЙ",
 			"zh-Hans": "丈人一湾",
 			"zh-Hant": "丈人一灣"
@@ -5576,7 +5576,7 @@
 		"names": {
 			"en-US": "PHERKAD SECUNDUS",
 			"en-GB": "PHERKAD SECUNDUS",
-			"bp": "PHERKAD SECUNDUS",
+			"pt-BR": "PHERKAD SECUNDUS",
 			"de-DE": "PHERKAD SECUNDUS",
 			"es-ES": "PHERKAD SECUNDUS",
 			"fr-FR": "PHERKAD SECUNDUS",
@@ -5585,7 +5585,7 @@
 			"ko-KO": "페르카드 세쿤두스",
 			"ms-MY": "PHERKAD SECUNDUS",
 			"pl-PL": "PHERKAD SECUNDUS",
-			"pt-BR": "PHERKAD SECUNDUS",
+			"pt-PT": "PHERKAD SECUNDUS",
 			"ru-RU": "ФЕРКАД II",
 			"zh-Hans": "北极一次星",
 			"zh-Hant": "北極一次星"
@@ -5602,7 +5602,7 @@
 		"names": {
 			"en-US": "POLARIS PRIME",
 			"en-GB": "POLARIS PRIME",
-			"bp": "POLARIS PRIME",
+			"pt-BR": "POLARIS PRIME",
 			"de-DE": "POLARIS PRIME",
 			"es-ES": "POLARIS PRIME",
 			"fr-FR": "POLARIS PRIME",
@@ -5611,7 +5611,7 @@
 			"ko-KO": "폴라리스 프라임",
 			"ms-MY": "POLARIS PRIME",
 			"pl-PL": "POLARIS PRIME",
-			"pt-BR": "POLARIS PRIME",
+			"pt-PT": "POLARIS PRIME",
 			"ru-RU": "ПОЛЯРИС-ПРАЙМ",
 			"zh-Hans": "北极星主星",
 			"zh-Hant": "北極星主星"
@@ -5628,7 +5628,7 @@
 		"names": {
 			"en-US": "POLLUX 31",
 			"en-GB": "POLLUX 31",
-			"bp": "PÓLUX 31",
+			"pt-BR": "PÓLUX 31",
 			"de-DE": "POLLUX 31",
 			"es-ES": "POLLUX 31",
 			"fr-FR": "POLLUX 31",
@@ -5637,7 +5637,7 @@
 			"ko-KO": "폴룩스 31",
 			"ms-MY": "PÓLLUX 31",
 			"pl-PL": "POLLUX 31",
-			"pt-BR": "POLLUX 31",
+			"pt-PT": "POLLUX 31",
 			"ru-RU": "ПОЛЛУКС-31",
 			"zh-Hans": "北河三31",
 			"zh-Hant": "北河三31號"
@@ -5653,7 +5653,7 @@
 		"names": {
 			"en-US": "PRASA",
 			"en-GB": "PRASA",
-			"bp": "PRASA",
+			"pt-BR": "PRASA",
 			"de-DE": "PRASA",
 			"es-ES": "PRASA",
 			"fr-FR": "PRASA",
@@ -5662,7 +5662,7 @@
 			"ko-KO": "프라사",
 			"ms-MY": "PRASA",
 			"pl-PL": "PRASA",
-			"pt-BR": "PRASA",
+			"pt-PT": "PRASA",
 			"ru-RU": "ПРАСА",
 			"zh-Hans": "普拉萨",
 			"zh-Hant": "普拉薩"
@@ -5679,7 +5679,7 @@
 		"names": {
 			"en-US": "PROPUS",
 			"en-GB": "PROPUS",
-			"bp": "PROPUS",
+			"pt-BR": "PROPUS",
 			"de-DE": "PROPUS",
 			"es-ES": "PROPUS",
 			"fr-FR": "PROPUS",
@@ -5688,7 +5688,7 @@
 			"ko-KO": "프로푸스",
 			"ms-MY": "PROPUS",
 			"pl-PL": "PROPUS",
-			"pt-BR": "PROPUS",
+			"pt-PT": "PROPUS",
 			"ru-RU": "ПРОПУС",
 			"zh-Hans": "五诸侯三",
 			"zh-Hant": "五諸侯三"
@@ -5704,7 +5704,7 @@
 		"names": {
 			"en-US": "RAS ALGETHI",
 			"en-GB": "RAS ALGETHI",
-			"bp": "RAS ALGETHI",
+			"pt-BR": "RAS ALGETHI",
 			"de-DE": "RAS ALGETHI",
 			"es-ES": "RAS ALGETHI",
 			"fr-FR": "RAS ALGETHI",
@@ -5713,7 +5713,7 @@
 			"ko-KO": "라스 알게티",
 			"ms-MY": "RAS ALGETHI",
 			"pl-PL": "RAS ALGETHI",
-			"pt-BR": "RAS ALGETHI",
+			"pt-PT": "RAS ALGETHI",
 			"ru-RU": "РАС-АЛЬГЕТИ",
 			"zh-Hans": "帝座",
 			"zh-Hant": "帝座"
@@ -5730,7 +5730,7 @@
 		"names": {
 			"en-US": "RD-4",
 			"en-GB": "RD-4",
-			"bp": "RD-4",
+			"pt-BR": "RD-4",
 			"de-DE": "RD-4",
 			"es-ES": "RD-4",
 			"fr-FR": "RD-4",
@@ -5739,7 +5739,7 @@
 			"ko-KO": "RD-4",
 			"ms-MY": "RD-4",
 			"pl-PL": "RD-4",
-			"pt-BR": "RD-4",
+			"pt-PT": "RD-4",
 			"ru-RU": "АРДИ-4",
 			"zh-Hans": "RD4",
 			"zh-Hant": "RD-4"
@@ -5756,7 +5756,7 @@
 		"names": {
 			"en-US": "ROGUE 5",
 			"en-GB": "ROGUE 5",
-			"bp": "INSURGENTE 5",
+			"pt-BR": "INSURGENTE 5",
 			"de-DE": "ROGUE 5",
 			"es-ES": "RENEGADO 5",
 			"fr-FR": "ROGUE 5",
@@ -5765,7 +5765,7 @@
 			"ko-KO": "로그 5",
 			"ms-MY": "INDÓMITO 5",
 			"pl-PL": "RZEZIMIESZEK 5",
-			"pt-BR": "ROGUE 5",
+			"pt-PT": "ROGUE 5",
 			"ru-RU": "РОУГ 5",
 			"zh-Hans": "罗格5",
 			"zh-Hant": "蠻野5號"
@@ -5782,7 +5782,7 @@
 		"names": {
 			"en-US": "RIRGA BAY",
 			"en-GB": "RIRGA BAY",
-			"bp": "BAÍA RIRGA",
+			"pt-BR": "BAÍA RIRGA",
 			"de-DE": "RIRGA BAY",
 			"es-ES": "BAHÍA RIRGA",
 			"fr-FR": "BAIE DE RIRGA",
@@ -5791,7 +5791,7 @@
 			"ko-KO": "리르가 베이",
 			"ms-MY": "BAHÍA RIRGA",
 			"pl-PL": "ZATOKA RIRGA",
-			"pt-BR": "RIRGA BAY",
+			"pt-PT": "RIRGA BAY",
 			"ru-RU": "РИРГА-БЭЙ",
 			"zh-Hans": "里尔加湾",
 			"zh-Hant": "里爾加灣"
@@ -5807,7 +5807,7 @@
 		"names": {
 			"en-US": "SEASSE",
 			"en-GB": "SEASSE",
-			"bp": "SEASSE",
+			"pt-BR": "SEASSE",
 			"de-DE": "SEASSE",
 			"es-ES": "SEASSE",
 			"fr-FR": "SIJI",
@@ -5816,7 +5816,7 @@
 			"ko-KO": "세아세",
 			"ms-MY": "SEASSE",
 			"pl-PL": "SEASSE",
-			"pt-BR": "SEASSE",
+			"pt-PT": "SEASSE",
 			"ru-RU": "СИЭСС",
 			"zh-Hans": "西斯",
 			"zh-Hant": "西希"
@@ -5832,7 +5832,7 @@
 		"names": {
 			"en-US": "SENGE 23",
 			"en-GB": "SENGE 23",
-			"bp": "SENGE 23",
+			"pt-BR": "SENGE 23",
 			"de-DE": "SENGE 23",
 			"es-ES": "SENGE 23",
 			"fr-FR": "SENGAY 23",
@@ -5841,7 +5841,7 @@
 			"ko-KO": "센제 23",
 			"ms-MY": "SENGE 23",
 			"pl-PL": "SENGE 23",
-			"pt-BR": "SENGE 23",
+			"pt-PT": "SENGE 23",
 			"ru-RU": "СЕНЖЕ-23",
 			"zh-Hans": "新戈23",
 			"zh-Hant": "仙蓋23號"
@@ -5858,7 +5858,7 @@
 		"names": {
 			"en-US": "SETIA",
 			"en-GB": "SETIA",
-			"bp": "SETIA",
+			"pt-BR": "SETIA",
 			"de-DE": "SETIA",
 			"es-ES": "SETIA",
 			"fr-FR": "SÉTIA",
@@ -5867,7 +5867,7 @@
 			"ko-KO": "세티아",
 			"ms-MY": "SETIA",
 			"pl-PL": "SETIA",
-			"pt-BR": "SETIA",
+			"pt-PT": "SETIA",
 			"ru-RU": "СЕТИЯ",
 			"zh-Hans": "赛提亚",
 			"zh-Hant": "賽提亞"
@@ -5884,7 +5884,7 @@
 		"names": {
 			"en-US": "SHETE",
 			"en-GB": "SHETE",
-			"bp": "SHETE",
+			"pt-BR": "SHETE",
 			"de-DE": "SHETE",
 			"es-ES": "SHETE",
 			"fr-FR": "SHITAY",
@@ -5893,7 +5893,7 @@
 			"ko-KO": "셰테",
 			"ms-MY": "SHETE",
 			"pl-PL": "SHETE",
-			"pt-BR": "SHETE",
+			"pt-PT": "SHETE",
 			"ru-RU": "ШЕТЕ",
 			"zh-Hans": "赛特",
 			"zh-Hant": "西泰"
@@ -5909,7 +5909,7 @@
 		"names": {
 			"en-US": "SIEMNOT",
 			"en-GB": "SIEMNOT",
-			"bp": "SIEMNOT",
+			"pt-BR": "SIEMNOT",
 			"de-DE": "SIEMNOT",
 			"es-ES": "SIEMNOT",
 			"fr-FR": "SIEMNOTH",
@@ -5918,7 +5918,7 @@
 			"ko-KO": "시엠노트",
 			"ms-MY": "SIEMNOT",
 			"pl-PL": "SIEMNOT",
-			"pt-BR": "SIEMNOT",
+			"pt-PT": "SIEMNOT",
 			"ru-RU": "СИМНОТ",
 			"zh-Hans": "席姆纳特",
 			"zh-Hant": "星納特"
@@ -5935,7 +5935,7 @@
 		"names": {
 			"en-US": "SIRIUS",
 			"en-GB": "SIRIUS",
-			"bp": "SIRIUS",
+			"pt-BR": "SIRIUS",
 			"de-DE": "SIRIUS",
 			"es-ES": "SIRIUS",
 			"fr-FR": "SIRIUS",
@@ -5944,7 +5944,7 @@
 			"ko-KO": "시리우스",
 			"ms-MY": "SIRIUS",
 			"pl-PL": "SYRIUSZ",
-			"pt-BR": "SIRIUS",
+			"pt-PT": "SIRIUS",
 			"ru-RU": "СИРИУС",
 			"zh-Hans": "天狼星",
 			"zh-Hant": "天狼星"
@@ -5960,7 +5960,7 @@
 		"names": {
 			"en-US": "SKAT BAY",
 			"en-GB": "SKAT BAY",
-			"bp": "BAÍA SKAT",
+			"pt-BR": "BAÍA SKAT",
 			"de-DE": "SKAT BAY",
 			"es-ES": "BAHÍA SKAT",
 			"fr-FR": "BAIE DE SKAT",
@@ -5969,7 +5969,7 @@
 			"ko-KO": "스카트 베이",
 			"ms-MY": "BAHÍA SKAT",
 			"pl-PL": "ZATOKA SKAT",
-			"pt-BR": "BAÍA SKAT",
+			"pt-PT": "BAÍA SKAT",
 			"ru-RU": "СКАТ-БЭЙ",
 			"zh-Hans": "斯卡特湾",
 			"zh-Hant": "史卡特灣"
@@ -5986,7 +5986,7 @@
 		"names": {
 			"en-US": "SPHERION",
 			"en-GB": "SPHERION",
-			"bp": "SPHERION",
+			"pt-BR": "SPHERION",
 			"de-DE": "SPHERION",
 			"es-ES": "SPHERION",
 			"fr-FR": "SPHÉRION",
@@ -5995,7 +5995,7 @@
 			"ko-KO": "스페리온",
 			"ms-MY": "SPHERION",
 			"pl-PL": "SPHERION",
-			"pt-BR": "SPHERION",
+			"pt-PT": "SPHERION",
 			"ru-RU": "СФЕРИОН",
 			"zh-Hans": "斯飞利昂",
 			"zh-Hant": "史飛里昂"
@@ -6011,7 +6011,7 @@
 		"names": {
 			"en-US": "STOR THA PRIME",
 			"en-GB": "STOR THA PRIME",
-			"bp": "STOR THA PRIME",
+			"pt-BR": "STOR THA PRIME",
 			"de-DE": "STOR THA PRIME",
 			"es-ES": "STOR THA PRIME",
 			"fr-FR": "STOR THA PRIME",
@@ -6020,7 +6020,7 @@
 			"ko-KO": "스토르 타 프라임",
 			"ms-MY": "STOR THA PRIME",
 			"pl-PL": "STOR THA PRIME",
-			"pt-BR": "STOR THA PRIME",
+			"pt-PT": "STOR THA PRIME",
 			"ru-RU": "СТОР ТА-ПРАЙМ",
 			"zh-Hans": "斯特萨主星",
 			"zh-Hant": "史托塔主星"
@@ -6036,7 +6036,7 @@
 		"names": {
 			"en-US": "STOUT",
 			"en-GB": "STOUT",
-			"bp": "STOUT",
+			"pt-BR": "STOUT",
 			"de-DE": "STOUT",
 			"es-ES": "STOUT",
 			"fr-FR": "STOUT",
@@ -6045,7 +6045,7 @@
 			"ko-KO": "스토우트",
 			"ms-MY": "STOUT",
 			"pl-PL": "STOUT",
-			"pt-BR": "STOUT",
+			"pt-PT": "STOUT",
 			"ru-RU": "СТАУТ",
 			"zh-Hans": "斯图尔特",
 			"zh-Hant": "斯朵爾特"
@@ -6062,7 +6062,7 @@
 		"names": {
 			"en-US": "TERMADON",
 			"en-GB": "TERMADON",
-			"bp": "TERMADON",
+			"pt-BR": "TERMADON",
 			"de-DE": "TERMADON",
 			"es-ES": "TERMADON",
 			"fr-FR": "TERMADON",
@@ -6071,7 +6071,7 @@
 			"ko-KO": "테르마돈",
 			"ms-MY": "TERMADON",
 			"pl-PL": "TERMADON",
-			"pt-BR": "TERMADON",
+			"pt-PT": "TERMADON",
 			"ru-RU": "ТЕРМОДОН",
 			"zh-Hans": "特尔玛登",
 			"zh-Hant": "塔瑪登"
@@ -6087,7 +6087,7 @@
 		"names": {
 			"en-US": "TIBIT",
 			"en-GB": "TIBIT",
-			"bp": "TIBIT",
+			"pt-BR": "TIBIT",
 			"de-DE": "TIBIT",
 			"es-ES": "TIBIT",
 			"fr-FR": "TIXXIT",
@@ -6096,7 +6096,7 @@
 			"ko-KO": "티비트",
 			"ms-MY": "TIBIT",
 			"pl-PL": "TIBIT",
-			"pt-BR": "TIBIT",
+			"pt-PT": "TIBIT",
 			"ru-RU": "ТИБИТ",
 			"zh-Hans": "提比特",
 			"zh-Hant": "堤比特"
@@ -6113,7 +6113,7 @@
 		"names": {
 			"en-US": "TIEN KWAN",
 			"en-GB": "TIEN KWAN",
-			"bp": "TIEN KWAN",
+			"pt-BR": "TIEN KWAN",
 			"de-DE": "TIEN KWAN",
 			"es-ES": "TIEN KWAN",
 			"fr-FR": "TIEN KWAN",
@@ -6122,7 +6122,7 @@
 			"ko-KO": "티엔 콴",
 			"ms-MY": "TIEN KWAN",
 			"pl-PL": "TIEN KWAN",
-			"pt-BR": "TIEN KWAN",
+			"pt-PT": "TIEN KWAN",
 			"ru-RU": "ТЬЕН-КВАН",
 			"zh-Hans": "天关",
 			"zh-Hant": "天關"
@@ -6138,7 +6138,7 @@
 		"names": {
 			"en-US": "TROOST",
 			"en-GB": "TROOST",
-			"bp": "TROOST",
+			"pt-BR": "TROOST",
 			"de-DE": "TROOST",
 			"es-ES": "TROOST",
 			"fr-FR": "TROUST",
@@ -6147,7 +6147,7 @@
 			"ko-KO": "트루스트",
 			"ms-MY": "TROOST",
 			"pl-PL": "TROOST",
-			"pt-BR": "TROOST",
+			"pt-PT": "TROOST",
 			"ru-RU": "ТРУСТ",
 			"zh-Hans": "特鲁斯特",
 			"zh-Hant": "楚斯特"
@@ -6163,7 +6163,7 @@
 		"names": {
 			"en-US": "UBANEA",
 			"en-GB": "UBANEA",
-			"bp": "UBANEA",
+			"pt-BR": "UBANEA",
 			"de-DE": "UBANEA",
 			"es-ES": "UBANEA",
 			"fr-FR": "UBANEA",
@@ -6172,7 +6172,7 @@
 			"ko-KO": "우바네아",
 			"ms-MY": "UBANEA",
 			"pl-PL": "UBANEA",
-			"pt-BR": "UBANEA",
+			"pt-PT": "UBANEA",
 			"ru-RU": "УБАНЕЯ",
 			"zh-Hans": "乌巴尼亚",
 			"zh-Hant": "烏巴內亞"
@@ -6189,7 +6189,7 @@
 		"names": {
 			"en-US": "USTOTU",
 			"en-GB": "USTOTU",
-			"bp": "USTOTU",
+			"pt-BR": "USTOTU",
 			"de-DE": "USTOTU",
 			"es-ES": "USTOTU",
 			"fr-FR": "USTOTU",
@@ -6198,7 +6198,7 @@
 			"ko-KO": "우스토투",
 			"ms-MY": "USTOTU",
 			"pl-PL": "USTOTU",
-			"pt-BR": "USTOTU",
+			"pt-PT": "USTOTU",
 			"ru-RU": "УСТОТУ",
 			"zh-Hans": "伍斯特图",
 			"zh-Hant": "烏斯托圖"
@@ -6215,7 +6215,7 @@
 		"names": {
 			"en-US": "VANDALON IV",
 			"en-GB": "VANDALON IV",
-			"bp": "VANDALON IV",
+			"pt-BR": "VANDALON IV",
 			"de-DE": "VANDALON IV",
 			"es-ES": "VANDALON IV",
 			"fr-FR": "VANDALON IV",
@@ -6224,7 +6224,7 @@
 			"ko-KO": "반달론 IV",
 			"ms-MY": "VANDALON IV",
 			"pl-PL": "VANDALON IV",
-			"pt-BR": "VANDALON IV",
+			"pt-PT": "VANDALON IV",
 			"ru-RU": "ВАНДАЛОН IV",
 			"zh-Hans": "万达隆IV",
 			"zh-Hant": "凡達倫IV"
@@ -6241,7 +6241,7 @@
 		"names": {
 			"en-US": "VARYLIA 5",
 			"en-GB": "VARYLIA 5",
-			"bp": "VARYLIA 5",
+			"pt-BR": "VARYLIA 5",
 			"de-DE": "VARYLIA 5",
 			"es-ES": "VARYLIA 5",
 			"fr-FR": "VARYLIA 5",
@@ -6250,7 +6250,7 @@
 			"ko-KO": "바릴리아 5",
 			"ms-MY": "VARYLIA 5",
 			"pl-PL": "VARYLIA 5",
-			"pt-BR": "VARYLIA 5",
+			"pt-PT": "VARYLIA 5",
 			"ru-RU": "ВАРИЛИЯ-5",
 			"zh-Hans": "瓦瑞拉亚5",
 			"zh-Hant": "瓦里亞5號"
@@ -6267,7 +6267,7 @@
 		"names": {
 			"en-US": "WASAT",
 			"en-GB": "WASAT",
-			"bp": "WASAT",
+			"pt-BR": "WASAT",
 			"de-DE": "WASAT",
 			"es-ES": "WASAT",
 			"fr-FR": "WASAT",
@@ -6276,7 +6276,7 @@
 			"ko-KO": "와사트",
 			"ms-MY": "WASAT",
 			"pl-PL": "WASAT",
-			"pt-BR": "WASAT",
+			"pt-PT": "WASAT",
 			"ru-RU": "ВАСАТ",
 			"zh-Hans": "天樽二",
 			"zh-Hant": "天樽二"
@@ -6293,7 +6293,7 @@
 		"names": {
 			"en-US": "VEGA BAY",
 			"en-GB": "VEGA BAY",
-			"bp": "BAÍA VEGA",
+			"pt-BR": "BAÍA VEGA",
 			"de-DE": "VEGA BAY",
 			"es-ES": "BAHÍA VEGA",
 			"fr-FR": "BAIE DE VÉGA",
@@ -6302,7 +6302,7 @@
 			"ko-KO": "베가 베이",
 			"ms-MY": "BAHÍA VEGA",
 			"pl-PL": "ZATOKA VEGA",
-			"pt-BR": "BAÍA DE VEGA",
+			"pt-PT": "BAÍA DE VEGA",
 			"ru-RU": "ВЕГА-БЭЙ",
 			"zh-Hans": "织女一湾",
 			"zh-Hant": "織女一灣"
@@ -6319,7 +6319,7 @@
 		"names": {
 			"en-US": "WEZEN",
 			"en-GB": "WEZEN",
-			"bp": "WEZEN",
+			"pt-BR": "WEZEN",
 			"de-DE": "WEZEN",
 			"es-ES": "WEZEN",
 			"fr-FR": "WEZEN",
@@ -6328,7 +6328,7 @@
 			"ko-KO": "웨젠",
 			"ms-MY": "WEZEN",
 			"pl-PL": "WEZEN",
-			"pt-BR": "WEZEN",
+			"pt-PT": "WEZEN",
 			"ru-RU": "ВЕЗЕН",
 			"zh-Hans": "弧矢一",
 			"zh-Hant": "弧矢一"
@@ -6344,7 +6344,7 @@
 		"names": {
 			"en-US": "VINDEMITARIX PRIME",
 			"en-GB": "VINDEMITARIX PRIME",
-			"bp": "VINDEMITARIX PRIME",
+			"pt-BR": "VINDEMITARIX PRIME",
 			"de-DE": "VINDEMITARIX PRIME",
 			"es-ES": "VINDEMITARIX PRIME",
 			"fr-FR": "VINDEMITARIX PRIME",
@@ -6353,7 +6353,7 @@
 			"ko-KO": "빈데미타릭스 프라임",
 			"ms-MY": "VINDEMITARIX PRIME",
 			"pl-PL": "VINDEMITARIX PRIME",
-			"pt-BR": "VINDEMITARIX PRIME",
+			"pt-PT": "VINDEMITARIX PRIME",
 			"ru-RU": "ВИНДЕМИТАРИКС-ПРАЙМ",
 			"zh-Hans": "文德米塔里克斯主星",
 			"zh-Hant": "溫德米塔里主星"
@@ -6369,7 +6369,7 @@
 		"names": {
 			"en-US": "X-45",
 			"en-GB": "X-45",
-			"bp": "X-45",
+			"pt-BR": "X-45",
 			"de-DE": "X-45",
 			"es-ES": "X-45",
 			"fr-FR": "X-45",
@@ -6378,7 +6378,7 @@
 			"ko-KO": "X-45",
 			"ms-MY": "X-45",
 			"pl-PL": "X-45",
-			"pt-BR": "X-45",
+			"pt-PT": "X-45",
 			"ru-RU": "ЭКС-45",
 			"zh-Hans": "X45",
 			"zh-Hant": "X-45"
@@ -6394,7 +6394,7 @@
 		"names": {
 			"en-US": "YED PRIOR",
 			"en-GB": "YED PRIOR",
-			"bp": "YED PRIOR",
+			"pt-BR": "YED PRIOR",
 			"de-DE": "YED PRIOR",
 			"es-ES": "YED PRIOR",
 			"fr-FR": "YED PRIOR",
@@ -6403,7 +6403,7 @@
 			"ko-KO": "예드 프라이어",
 			"ms-MY": "YED PRIOR",
 			"pl-PL": "YED PRIOR",
-			"pt-BR": "YED PRIOR",
+			"pt-PT": "YED PRIOR",
 			"ru-RU": "ЙЕД-ПРИОР",
 			"zh-Hans": "天市右垣九",
 			"zh-Hant": "天市右垣九"
@@ -6419,7 +6419,7 @@
 		"names": {
 			"en-US": "ZEFIA",
 			"en-GB": "ZEFIA",
-			"bp": "ZEFIA",
+			"pt-BR": "ZEFIA",
 			"de-DE": "ZEFIA",
 			"es-ES": "ZEFIA",
 			"fr-FR": "ZÉFIA",
@@ -6428,7 +6428,7 @@
 			"ko-KO": "제피아",
 			"ms-MY": "ZEFIA",
 			"pl-PL": "ZEFIA",
-			"pt-BR": "ZEFIA",
+			"pt-PT": "ZEFIA",
 			"ru-RU": "ЗЕФИЯ",
 			"zh-Hans": "赛飞亚",
 			"zh-Hant": "澤菲亞"
@@ -6445,7 +6445,7 @@
 		"names": {
 			"en-US": "ZOSMA",
 			"en-GB": "ZOSMA",
-			"bp": "ZOSMA",
+			"pt-BR": "ZOSMA",
 			"de-DE": "ZOSMA",
 			"es-ES": "ZOSMA",
 			"fr-FR": "ZOSMA",
@@ -6454,7 +6454,7 @@
 			"ko-KO": "조스마",
 			"ms-MY": "ZOSMA",
 			"pl-PL": "ZOSMA",
-			"pt-BR": "ZOSMA",
+			"pt-PT": "ZOSMA",
 			"ru-RU": "ЗОСМА",
 			"zh-Hans": "太微右垣五",
 			"zh-Hant": "太微右垣五"
@@ -6471,7 +6471,7 @@
 		"names": {
 			"en-US": "ZZANIAH PRIME",
 			"en-GB": "ZZANIAH PRIME",
-			"bp": "ZZANIAH PRIME",
+			"pt-BR": "ZZANIAH PRIME",
 			"de-DE": "ZZANIAH PRIME",
 			"es-ES": "ZZANIAH PRIME",
 			"fr-FR": "ZZANIAH PRIME",
@@ -6480,7 +6480,7 @@
 			"ko-KO": "자니아 프라임",
 			"ms-MY": "ZZANIAH PRIME",
 			"pl-PL": "ZZANIAH PRIME",
-			"pt-BR": "ZZANIAH PRIME",
+			"pt-PT": "ZZANIAH PRIME",
 			"ru-RU": "ЗАНИЯ-ПРАЙМ",
 			"zh-Hans": "藏尼亚主星",
 			"zh-Hant": "贊伊亞主星"
@@ -6497,7 +6497,7 @@
 		"names": {
 			"en-US": "SKITTER",
 			"en-GB": "SKITTER",
-			"bp": "SKITTER",
+			"pt-BR": "SKITTER",
 			"de-DE": "SKITTER",
 			"es-ES": "SKITTER",
 			"fr-FR": "SKITTER",
@@ -6506,7 +6506,7 @@
 			"ko-KO": "스키터",
 			"ms-MY": "SKITTER",
 			"pl-PL": "SKITTER",
-			"pt-BR": "SKITTER",
+			"pt-PT": "SKITTER",
 			"ru-RU": "СКИТТЕР",
 			"zh-Hans": "斯基特",
 			"zh-Hant": "斯其特"
@@ -6523,7 +6523,7 @@
 		"names": {
 			"en-US": "EUPHORIA III",
 			"en-GB": "EUPHORIA III",
-			"bp": "EUPHORIA III",
+			"pt-BR": "EUPHORIA III",
 			"de-DE": "EUPHORIA III",
 			"es-ES": "EUFORIA III",
 			"fr-FR": "EUPHORIA III",
@@ -6532,7 +6532,7 @@
 			"ko-KO": "유포리아 III",
 			"ms-MY": "EUFORIA III",
 			"pl-PL": "EUPHORIA III",
-			"pt-BR": "EUPHORIA III",
+			"pt-PT": "EUPHORIA III",
 			"ru-RU": "ЭЙФОРИЯ III",
 			"zh-Hans": "欧福利亚III",
 			"zh-Hant": "歡快III"
@@ -6549,7 +6549,7 @@
 		"names": {
 			"en-US": "DIASPORA X",
 			"en-GB": "DIASPORA X",
-			"bp": "DIÁSPORA X",
+			"pt-BR": "DIÁSPORA X",
 			"de-DE": "DIASPORA X",
 			"es-ES": "DIÁSPORA X",
 			"fr-FR": "DIASPORA X",
@@ -6558,7 +6558,7 @@
 			"ko-KO": "디아스포라 X",
 			"ms-MY": "DIÁSPORA X",
 			"pl-PL": "DIASPORA X",
-			"pt-BR": "DIASPORA X",
+			"pt-PT": "DIASPORA X",
 			"ru-RU": "ДИАСПОРА X",
 			"zh-Hans": "大流散X",
 			"zh-Hant": "僑居X"
@@ -6575,7 +6575,7 @@
 		"names": {
 			"en-US": "GEMSTONE BLUFFS",
 			"en-GB": "GEMSTONE BLUFFS",
-			"bp": "PENHASCOS SUNTUOSOS",
+			"pt-BR": "PENHASCOS SUNTUOSOS",
 			"de-DE": "GEMSTONE BLUFFS",
 			"es-ES": "RISCOS DE GEMAS",
 			"fr-FR": "FALAISE DES GEMMES",
@@ -6584,7 +6584,7 @@
 			"ko-KO": "젬스톤 블루프스",
 			"ms-MY": "RISCOS DIAMANTINOS",
 			"pl-PL": "ZWODNICZE KLEJNOTY",
-			"pt-BR": "PENHASCOS DE PEDRAS PRECIOSAS",
+			"pt-PT": "PENHASCOS DE PEDRAS PRECIOSAS",
 			"ru-RU": "САМОЦВЕТНЫЕ УТЕСЫ",
 			"zh-Hans": "宝石崖",
 			"zh-Hant": "寶石崖"
@@ -6601,7 +6601,7 @@
 		"names": {
 			"en-US": "ZAGON PRIME",
 			"en-GB": "ZAGON PRIME",
-			"bp": "ZAGON PRIME",
+			"pt-BR": "ZAGON PRIME",
 			"de-DE": "ZAGON PRIME",
 			"es-ES": "ZAGON PRIME",
 			"fr-FR": "ZAGON PRIME",
@@ -6610,7 +6610,7 @@
 			"ko-KO": "자곤 프라임",
 			"ms-MY": "ZAGON PRIME",
 			"pl-PL": "ZAGON PRIME",
-			"pt-BR": "ZAGON PRIME",
+			"pt-PT": "ZAGON PRIME",
 			"ru-RU": "ЗАГОН-ПРАЙМ",
 			"zh-Hans": "扎贡主星",
 			"zh-Hant": "傑貢主星"
@@ -6626,7 +6626,7 @@
 		"names": {
 			"en-US": "OMICRON",
 			"en-GB": "OMICRON",
-			"bp": "ÔMICRON",
+			"pt-BR": "ÔMICRON",
 			"de-DE": "OMICRON",
 			"es-ES": "ÓMICRON",
 			"fr-FR": "OMICRON",
@@ -6635,7 +6635,7 @@
 			"ko-KO": "오미크론",
 			"ms-MY": "ÓMICRON",
 			"pl-PL": "OMICRON",
-			"pt-BR": "OMICRON",
+			"pt-PT": "OMICRON",
 			"ru-RU": "ОМИКРОН",
 			"zh-Hans": "奥密克戎",
 			"zh-Hant": "歐米克朗"
@@ -6651,7 +6651,7 @@
 		"names": {
 			"en-US": "CYBERSTAN",
 			"en-GB": "CYBERSTAN",
-			"bp": "CIBERSTÂNIA",
+			"pt-BR": "CIBERSTÂNIA",
 			"de-DE": "CYBERSTAN",
 			"es-ES": "CYBERSTAN",
 			"fr-FR": "CYBERSTAN",
@@ -6660,7 +6660,7 @@
 			"ko-KO": "사이버스탠",
 			"ms-MY": "CYBERSTAN",
 			"pl-PL": "CYBERSTAN",
-			"pt-BR": "CYBERSTAN",
+			"pt-PT": "CYBERSTAN",
 			"ru-RU": "КИБЕРСТАН",
 			"zh-Hans": "生化斯坦",
 			"zh-Hant": "生化斯坦"
