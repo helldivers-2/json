@@ -879,16 +879,6 @@
 		"stamina_regen": 125,
 		"passive": 6
 	},
-	"2040543168": {
-		"name": "Eagle's Fury",
-		"description": "One of the earliest to be mass-produced, this cape has been the final sight of untold numbers of Freedom's foes.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"377236948": {
 		"name": "EX-00 Prototype X",
 		"description": "The end result of several billion Super Credits and 12 years of research into creating “the Solider of Tomorrow”.",
@@ -1332,16 +1322,6 @@
 	"1400802885": {
 		"name": "FS-61 Dreadnought",
 		"description": "With genuine gold accents, 74% of colonists voted this armor the set they would most like to be buried in.",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"2098201552": {
-		"name": "Harbinger of True Equality",
-		"description": "Wearers of this cape know that even enemies of Freedom deserve to be equal. Equally dead.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
