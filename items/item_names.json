@@ -1150,5 +1150,9 @@
 	"3869545997": {
 		"name": "G-123 Thermite Grenade",
 		"mix_id": "3869545997"
+	},
+	"3504405746": {
+		"name": "Expert Extraction Pilot",
+		"mix_id": "3504405746"
 	}
 }

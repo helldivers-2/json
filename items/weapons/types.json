@@ -1,9 +1,10 @@
 {
-	"0": "Assault Rifle",
-	"1": "Shotgun",
-	"2": "SMG",
-	"3": "Marksman Rifle",
-	"4": "Energy-based",
-	"5": "Explosive",
-	"6": "Arc"
+	"0": "None",
+	"1": "Assault Rifle",
+	"2": "Shotgun",
+	"3": "SMG",
+	"4": "Marksman Rifle",
+	"5": "Energy-based",
+	"6": "Explosive",
+	"7": "Arc"
 }

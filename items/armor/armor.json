@@ -9,116 +9,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"562097037": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"1332530540": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"1084741268": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"2363964846": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"1773333561": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"639388242": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"1171786296": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"3020061552": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"3750644442": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"4000324077": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"3792160842": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"275807529": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
@@ -129,37 +19,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"4257171265": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"3057185732": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"2218652020": {
-		"name": "B-01 Tactical",
-		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"621795009": {
+	"325695835": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
 		"type": 1,
@@ -179,7 +39,17 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1887719913": {
+	"562097037": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"621795009": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
 		"type": 1,
@@ -189,7 +59,47 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1639126819": {
+	"639388242": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1084741268": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1171786296": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1332530540": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1333768893": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
 		"type": 1,
@@ -199,7 +109,7 @@
 		"stamina_regen": 100,
 		"passive": 1
 	},
-	"1333768893": {
+	"1639126819": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
 		"type": 1,
@@ -219,6 +129,16 @@
 		"stamina_regen": 100,
 		"passive": 1
 	},
+	"1773333561": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"1831924614": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
@@ -228,6 +148,56 @@
 		"speed": 500,
 		"stamina_regen": 100,
 		"passive": 1
+	},
+	"1887719913": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2218652020": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2363964846": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3020061552": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3057185732": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"3583338197": {
 		"name": "B-01 Tactical",
@@ -239,19 +209,39 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"325695835": {
+	"3750644442": {
 		"name": "B-01 Tactical",
 		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
 		"type": 1,
-		"slot": 2,
+		"slot": 0,
 		"armor_rating": 100,
-		"speed": 500,
+		"speed": 100,
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1210216079": {
-		"name": "B-08 Light Gunner",
-		"description": "Compact and flexible, this kevlar armor adds minimal mass, making it a common choice for Helldiver fitness tests.",
+	"3792160842": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"4000324077": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"4257171265": {
+		"name": "B-01 Tactical",
+		"description": "This armor is the Super Earth Standard Issue, made from the same titanium alloy as the Destroyer's hull.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -269,6 +259,16 @@
 		"stamina_regen": 125,
 		"passive": 1
 	},
+	"1210216079": {
+		"name": "B-08 Light Gunner",
+		"description": "Compact and flexible, this kevlar armor adds minimal mass, making it a common choice for Helldiver fitness tests.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"1092689023": {
 		"name": "B-24 Enforcer",
 		"description": "In field tests, 84% of users said that the armor improved their posture and self-esteem.",
@@ -279,16 +279,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2342442877": {
-		"name": "B-24 Enforcer",
-		"description": "In field tests, 84% of users said that the armor improved their posture and self-esteem.",
-		"type": 1,
-		"slot": 2,
-		"armor_rating": 100,
-		"speed": 471,
-		"stamina_regen": 71,
-		"passive": 7
-	},
 	"2150790862": {
 		"name": "B-24 Enforcer",
 		"description": "In field tests, 84% of users said that the armor improved their posture and self-esteem.",
@@ -298,6 +288,16 @@
 		"speed": 471,
 		"stamina_regen": 71,
 		"passive": 3
+	},
+	"2342442877": {
+		"name": "B-24 Enforcer",
+		"description": "In field tests, 84% of users said that the armor improved their posture and self-esteem.",
+		"type": 1,
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 471,
+		"stamina_regen": 71,
+		"passive": 7
 	},
 	"2886393549": {
 		"name": "B-24 Enforcer",
@@ -369,16 +369,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1707113970": {
-		"name": "CE-07 Demolition Specialist",
-		"description": "Originally worn by lunar terraformers, this suit can withstand rapid changes in pressure, heat, and personal velocity.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"1511511766": {
 		"name": "CE-07 Demolition Specialist",
 		"description": "Originally worn by lunar terraformers, this suit can withstand rapid changes in pressure, heat, and personal velocity.",
@@ -388,6 +378,16 @@
 		"speed": 536,
 		"stamina_regen": 118,
 		"passive": 6
+	},
+	"1707113970": {
+		"name": "CE-07 Demolition Specialist",
+		"description": "Originally worn by lunar terraformers, this suit can withstand rapid changes in pressure, heat, and personal velocity.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"2090263706": {
 		"name": "CE-07 Demolition Specialist",
@@ -409,15 +409,15 @@
 		"stamina_regen": 100,
 		"passive": 6
 	},
-	"2891794937": {
+	"1243352476": {
 		"name": "CE-27 Ground Breaker",
 		"description": "'The ground is just another obstacle that hasn't yet been cleared.' - SGM Janet Jones, Excavation Corps Founder.",
 		"type": 1,
-		"slot": 0,
+		"slot": 2,
 		"armor_rating": 100,
-		"speed": 100,
+		"speed": 500,
 		"stamina_regen": 100,
-		"passive": 0
+		"passive": 6
 	},
 	"2128569605": {
 		"name": "CE-27 Ground Breaker",
@@ -429,9 +429,19 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1243352476": {
+	"2891794937": {
 		"name": "CE-27 Ground Breaker",
-		"description": "",
+		"description": "'The ground is just another obstacle that hasn't yet been cleared.' - SGM Janet Jones, Excavation Corps Founder.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"4107448458": {
+		"name": "CE-27 Ground Breaker",
+		"description": "'The ground is just another obstacle that hasn't yet been cleared.' - SGM Janet Jones, Excavation Corps Founder.",
 		"type": 1,
 		"slot": 2,
 		"armor_rating": 100,
@@ -439,15 +449,15 @@
 		"stamina_regen": 100,
 		"passive": 6
 	},
-	"4107448458": {
-		"name": "CE-27 Ground Breaker",
-		"description": "",
+	"627197346": {
+		"name": "CE-35 Trench Engineer",
+		"description": "After colonists of Hellmire recovered a lost shipment of this armor, the local pastime of fence-smashing was born.",
 		"type": 1,
-		"slot": 2,
+		"slot": 0,
 		"armor_rating": 100,
-		"speed": 500,
+		"speed": 100,
 		"stamina_regen": 100,
-		"passive": 6
+		"passive": 0
 	},
 	"2137194125": {
 		"name": "CE-35 Trench Engineer",
@@ -468,16 +478,6 @@
 		"speed": 521,
 		"stamina_regen": 111,
 		"passive": 6
-	},
-	"627197346": {
-		"name": "CE-35 Trench Engineer",
-		"description": "After colonists of Hellmire recovered a lost shipment of this armor, the local pastime of fence-smashing was born.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
 	},
 	"4216001108": {
 		"name": "CE-35 Trench Engineer",
@@ -509,6 +509,16 @@
 		"stamina_regen": 100,
 		"passive": 6
 	},
+	"650064382": {
+		"name": "CE-74 Breaker",
+		"description": "A domestic version of this armor is available for citizens who wish to perform efficient home renovation projects.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"3996028128": {
 		"name": "CE-74 Breaker",
 		"description": "A domestic version of this armor is available for citizens who wish to perform efficient home renovation projects.",
@@ -519,9 +529,9 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"650064382": {
-		"name": "CE-74 Breaker",
-		"description": "A domestic version of this armor is available for citizens who wish to perform efficient home renovation projects.",
+	"2546928266": {
+		"name": "CE-81 Juggernaut",
+		"description": "One of the most durable engineer armors available, each set is quality tested by an impact with a full-grown Charger.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -539,16 +549,6 @@
 		"stamina_regen": 100,
 		"passive": 7
 	},
-	"2546928266": {
-		"name": "CE-81 Juggernaut",
-		"description": "One of the most durable engineer armors available, each set is quality tested by an impact with a full-grown Charger.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"3598091569": {
 		"name": "Cloak of Posterity's Gratitude",
 		"description": "",
@@ -558,6 +558,16 @@
 		"speed": 100,
 		"stamina_regen": 100,
 		"passive": 0
+	},
+	"1558906438": {
+		"name": "CM-06 Combat Medic",
+		"description": "This armor was designed by PFC Rodney A. Carmichael, the first Helldiver to use a stim on an ally instead of himself.",
+		"type": 1,
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 7
 	},
 	"2951026614": {
 		"name": "CM-06 Combat Medic",
@@ -569,15 +579,25 @@
 		"stamina_regen": 100,
 		"passive": 7
 	},
-	"1558906438": {
-		"name": "CM-06 Combat Medic",
-		"description": "This armor was designed by PFC Rodney A. Carmichael, the first Helldiver to use a stim on an ally instead of himself.",
+	"476841466": {
+		"name": "CM-09 Bonesnapper",
+		"description": "Based on a colonial surgeon's gown, where surgeries were often interrupted by a need to perform defensive duties.",
 		"type": 1,
-		"slot": 2,
+		"slot": 0,
 		"armor_rating": 100,
-		"speed": 500,
+		"speed": 100,
 		"stamina_regen": 100,
-		"passive": 7
+		"passive": 0
+	},
+	"726539469": {
+		"name": "CM-09 Bonesnapper",
+		"description": "Based on a colonial surgeon's gown, where surgeries were often interrupted by a need to perform defensive duties",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"3202051201": {
 		"name": "CM-09 Bonesnapper",
@@ -599,25 +619,15 @@
 		"stamina_regen": 100,
 		"passive": 6
 	},
-	"726539469": {
-		"name": "CM-09 Bonesnapper",
-		"description": "Based on a colonial surgeon's gown, where surgeries were often interrupted by a need to perform defensive duties",
+	"2047279903": {
+		"name": "CM-10 Clinician",
+		"description": "Featuring patented reverse-seam technology, to reduce the likelihood of bodily fluids entering the armor's interior.",
 		"type": 1,
-		"slot": 0,
+		"slot": 2,
 		"armor_rating": 100,
-		"speed": 100,
+		"speed": 500,
 		"stamina_regen": 100,
-		"passive": 0
-	},
-	"476841466": {
-		"name": "CM-09 Bonesnapper",
-		"description": "Based on a colonial surgeon's gown, where surgeries were often interrupted by a need to perform defensive duties.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
+		"passive": 7
 	},
 	"2978704486": {
 		"name": "CM-10 Clinician",
@@ -629,14 +639,24 @@
 		"stamina_regen": 100,
 		"passive": 7
 	},
-	"2047279903": {
-		"name": "CM-10 Clinician",
-		"description": "Featuring patented reverse-seam technology, to reduce the likelihood of bodily fluids entering the armor's interior.",
-		"type": 1,
+	"541028876": {
+		"name": "CM-14 Physician",
+		"description": "The distinctive red, white, and green of the Intergalactic Medical Corps signal to all Helldivers that help is at hand.",
+		"type": 2,
 		"slot": 2,
-		"armor_rating": 100,
-		"speed": 500,
-		"stamina_regen": 100,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 7
+	},
+	"950673533": {
+		"name": "CM-14 Physician",
+		"description": "The distinctive red, white, and green of the Intergalactic Medical Corps signal to all Helldivers that help is at hand.",
+		"type": 0,
+		"slot": 2,
+		"armor_rating": 64,
+		"speed": 536,
+		"stamina_regen": 118,
 		"passive": 7
 	},
 	"2255718673": {
@@ -649,16 +669,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"541028876": {
-		"name": "CM-14 Physician",
-		"description": "The distinctive red, white, and green of the Intergalactic Medical Corps signal to all Helldivers that help is at hand.",
-		"type": 2,
-		"slot": 2,
-		"armor_rating": 150,
-		"speed": 450,
-		"stamina_regen": 50,
-		"passive": 7
-	},
 	"3658884708": {
 		"name": "CM-14 Physician",
 		"description": "The distinctive red, white, and green of the Intergalactic Medical Corps signal to all Helldivers that help is at hand.",
@@ -669,31 +679,21 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"950673533": {
-		"name": "CM-14 Physician",
-		"description": "The distinctive red, white, and green of the Intergalactic Medical Corps signal to all Helldivers that help is at hand.",
-		"type": 0,
-		"slot": 2,
-		"armor_rating": 64,
-		"speed": 536,
-		"stamina_regen": 118,
-		"passive": 7
+	"2509257439": {
+		"name": "CM-17 Butcher",
+		"description": "An armor often worn by frontline surgeons, who are skilled at both putting bodies back together and taking them apart.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"2792362215": {
 		"name": "CM-17 Butcher",
 		"description": "An armor often worn by frontline surgeons, who are skilled at both putting bodies back together and taking them apart.",
 		"type": 1,
 		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"2509257439": {
-		"name": "CM-17 Butcher",
-		"description": "An armor often worn by frontline surgeons, who are skilled at both putting bodies back together and taking them apart.",
-		"type": 1,
-		"slot": 0,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,
@@ -729,16 +729,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"4230001140": {
-		"name": "CW-36 Winter Warrior",
-		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
-		"type": 1,
-		"slot": 2,
-		"armor_rating": 100,
-		"speed": 500,
-		"stamina_regen": 100,
-		"passive": 9
-	},
 	"1625732159": {
 		"name": "CW-36 Winter Warrior",
 		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
@@ -749,17 +739,17 @@
 		"stamina_regen": 100,
 		"passive": 9
 	},
-	"1533004132": {
-		"name": "DP-11 Champion of the People",
-		"description": "The three stripes on the pauldrons stand for the three principles of Super Earth: Liberty, Democracy, and Prosperity.",
+	"4230001140": {
+		"name": "CW-36 Winter Warrior",
+		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
 		"type": 1,
-		"slot": 0,
+		"slot": 2,
 		"armor_rating": 100,
-		"speed": 100,
+		"speed": 500,
 		"stamina_regen": 100,
-		"passive": 0
+		"passive": 9
 	},
-	"4016909011": {
+	"1533004132": {
 		"name": "DP-11 Champion of the People",
 		"description": "The three stripes on the pauldrons stand for the three principles of Super Earth: Liberty, Democracy, and Prosperity.",
 		"type": 1,
@@ -789,9 +779,9 @@
 		"stamina_regen": 100,
 		"passive": 9
 	},
-	"2257162260": {
-		"name": "DP-40 Hero of the Federation",
-		"description": "Though originally intended solely for ceremonial use, its inspirational energy proved equally useful on the battlefield.",
+	"4016909011": {
+		"name": "DP-11 Champion of the People",
+		"description": "The three stripes on the pauldrons stand for the three principles of Super Earth: Liberty, Democracy, and Prosperity.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -814,6 +804,16 @@
 		"description": "Though originally intended solely for ceremonial use, its inspirational energy proved equally useful on the battlefield.",
 		"type": 1,
 		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2257162260": {
+		"name": "DP-40 Hero of the Federation",
+		"description": "Though originally intended solely for ceremonial use, its inspirational energy proved equally useful on the battlefield.",
+		"type": 1,
+		"slot": 0,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,
@@ -849,16 +849,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"3359335006": {
-		"name": "Drape of Glory",
-		"description": "Research suggests that Helldivers wearing this cape are seen as 17% more patriotic.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"112836163": {
 		"name": "Drape of Glory",
 		"description": "Research suggests that Helldivers wearing this cape are seen as 17% more patriotic.",
@@ -869,15 +859,25 @@
 		"stamina_regen": 125,
 		"passive": 5
 	},
+	"3359335006": {
+		"name": "Drape of Glory",
+		"description": "Research suggests that Helldivers wearing this cape are seen as 17% more patriotic.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"2040543168": {
 		"name": "Eagle's Fury",
 		"description": "One of the earliest to be mass-produced, this cape has been the final sight of untold numbers of Freedom's foes.",
-		"type": 0,
-		"slot": 2,
-		"armor_rating": 50,
-		"speed": 550,
-		"stamina_regen": 125,
-		"passive": 6
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"377236948": {
 		"name": "EX-00 Prototype X",
@@ -889,9 +889,9 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"3517336259": {
+	"1853367679": {
 		"name": "EX-00 Prototype X",
-		"description": "The end result of several billion Super Credits and 12 years of reseach into creating 'the Soldier of Tomorrow.'",
+		"description": "The end result of several billion Super Credits and 12 years of research into creating “the Solider of Tomorrow”.",
 		"type": 1,
 		"slot": 2,
 		"armor_rating": 100,
@@ -899,9 +899,9 @@
 		"stamina_regen": 100,
 		"passive": 5
 	},
-	"1853367679": {
+	"3517336259": {
 		"name": "EX-00 Prototype X",
-		"description": "The end result of several billion Super Credits and 12 years of research into creating “the Solider of Tomorrow”.",
+		"description": "The end result of several billion Super Credits and 12 years of reseach into creating 'the Soldier of Tomorrow.'",
 		"type": 1,
 		"slot": 2,
 		"armor_rating": 100,
@@ -914,6 +914,16 @@
 		"description": "The end result of several billion Super Credits and 12 years of reseach into creating 'the Soldier of Tomorrow.'",
 		"type": 1,
 		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"618911418": {
+		"name": "EX-03 Prototype 3",
+		"description": "Because this prototype's wires operate at 400,000 volts, it also includes a handy rubber underlayer for insulation.",
+		"type": 1,
+		"slot": 1,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,
@@ -949,26 +959,6 @@
 		"stamina_regen": 100,
 		"passive": 5
 	},
-	"618911418": {
-		"name": "EX-03 Prototype 3",
-		"description": "Because this prototype's wires operate at 400,000 volts, it also includes a handy rubber underlayer for insulation.",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"3182289738": {
-		"name": "EX-16 Prototype 16",
-		"description": "As the electric arc generates a strong magnetic field, wearers should avoid use while in the vicinity of stapled paperwork",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"556660324": {
 		"name": "EX-16 Prototype 16",
 		"description": "As the electric arc generates a strong magnetic field, wearers should avoid use while in vicinity of stapled paperwork.",
@@ -994,6 +984,26 @@
 		"description": "As the electric arc generates a strong magnetic field, wearers should avoid use while in vicinity of stapled paperwork.",
 		"type": 1,
 		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3182289738": {
+		"name": "EX-16 Prototype 16",
+		"description": "As the electric arc generates a strong magnetic field, wearers should avoid use while in the vicinity of stapled paperwork",
+		"type": 1,
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"865246378": {
+		"name": "Fallen Hero's Vengeance",
+		"description": "Our heroic fallen live on in this cape, guiding its bearer's aim to the heart of those who killed them.",
+		"type": 1,
+		"slot": 1,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,
@@ -1029,17 +1039,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2380729224": {
-		"name": "FS-05 Marksman",
-		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"255960702": {
+	"202045192": {
 		"name": "FS-05 Marksman",
 		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
 		"type": 1,
@@ -1049,7 +1049,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2070152922": {
+	"255960702": {
 		"name": "FS-05 Marksman",
 		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
 		"type": 1,
@@ -1069,6 +1069,16 @@
 		"stamina_regen": 50,
 		"passive": 3
 	},
+	"1146282869": {
+		"name": "FS-05 Marksman",
+		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
+		"type": 1,
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 3
+	},
 	"1386151525": {
 		"name": "FS-05 Marksman",
 		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
@@ -1078,6 +1088,46 @@
 		"speed": 450,
 		"stamina_regen": 50,
 		"passive": 3
+	},
+	"1490803405": {
+		"name": "FS-05 Marksman",
+		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 3
+	},
+	"2070152922": {
+		"name": "FS-05 Marksman",
+		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2380729224": {
+		"name": "FS-05 Marksman",
+		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3377389763": {
+		"name": "FS-05 Marksman",
+		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"3642074737": {
 		"name": "FS-05 Marksman",
@@ -1098,46 +1148,6 @@
 		"speed": 100,
 		"stamina_regen": 100,
 		"passive": 0
-	},
-	"1146282869": {
-		"name": "FS-05 Marksman",
-		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
-		"type": 1,
-		"slot": 2,
-		"armor_rating": 100,
-		"speed": 450,
-		"stamina_regen": 50,
-		"passive": 3
-	},
-	"202045192": {
-		"name": "FS-05 Marksman",
-		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"3377389763": {
-		"name": "FS-05 Marksman",
-		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"1490803405": {
-		"name": "FS-05 Marksman",
-		"description": "While early prototypes used shock-absorbing gels, this armor stabilizes aim with the use of internal gyroscopes.",
-		"type": 2,
-		"slot": 2,
-		"armor_rating": 150,
-		"speed": 450,
-		"stamina_regen": 50,
-		"passive": 3
 	},
 	"3970674111": {
 		"name": "FS-05 Marksman",
@@ -1169,16 +1179,6 @@
 		"stamina_regen": 100,
 		"passive": 3
 	},
-	"1452909167": {
-		"name": "FS-23 Battle Master",
-		"description": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"513033465": {
 		"name": "FS-23 Battle Master",
 		"description": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
@@ -1189,16 +1189,6 @@
 		"stamina_regen": 125,
 		"passive": 3
 	},
-	"2037274048": {
-		"name": "FS-23 Battle Master",
-		"description": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"651522724": {
 		"name": "FS-23 Battle Master",
 		"description": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
@@ -1208,6 +1198,26 @@
 		"speed": 550,
 		"stamina_regen": 125,
 		"passive": 3
+	},
+	"1452909167": {
+		"name": "FS-23 Battle Master",
+		"description": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2037274048": {
+		"name": "FS-23 Battle Master",
+		"description": "This aim-stabilizing armor found surprising secondary market success among alien birdwatching enthusiasts.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"951081859": {
 		"name": "FS-34 Exterminator",
@@ -1229,16 +1239,6 @@
 		"stamina_regen": 50,
 		"passive": 3
 	},
-	"2033511819": {
-		"name": "FS-37 Ravager",
-		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"530315896": {
 		"name": "FS-37 Ravager",
 		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
@@ -1249,7 +1249,17 @@
 		"stamina_regen": 50,
 		"passive": 8
 	},
-	"3664047629": {
+	"2033511819": {
+		"name": "FS-37 Ravager",
+		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"547904705": {
 		"name": "FS-38 Eradicator",
 		"description": "First deployed in the mines of Cyberstan, where it offered protection against explosions in the hydrogen-rich caverns.",
 		"type": 1,
@@ -1259,7 +1269,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"547904705": {
+	"3664047629": {
 		"name": "FS-38 Eradicator",
 		"description": "First deployed in the mines of Cyberstan, where it offered protection against explosions in the hydrogen-rich caverns.",
 		"type": 1,
@@ -1279,16 +1289,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"3544585106": {
-		"name": "FS-55 Devastator",
-		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"123640653": {
 		"name": "FS-55 Devastator",
 		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
@@ -1300,6 +1300,16 @@
 		"passive": 0
 	},
 	"3364088192": {
+		"name": "FS-55 Devastator",
+		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
+		"type": 1,
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3544585106": {
 		"name": "FS-55 Devastator",
 		"description": "Contains many small pockets, allowing the user to evenly distribute the weight of ammunition, samples, and cool rocks.",
 		"type": 1,
@@ -1357,7 +1367,7 @@
 		"armor_rating": 100,
 		"speed": 500,
 		"stamina_regen": 100,
-		"passive": 16
+		"passive": 2
 	},
 	"3616764107": {
 		"name": "Justice for All",
@@ -1419,16 +1429,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"4111545584": {
-		"name": "SA-04 Combat Technician",
-		"description": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"1318035279": {
 		"name": "SA-04 Combat Technician",
 		"description": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
@@ -1450,6 +1450,16 @@
 		"passive": 8
 	},
 	"3386027321": {
+		"name": "SA-04 Combat Technician",
+		"description": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"4111545584": {
 		"name": "SA-04 Combat Technician",
 		"description": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
 		"type": 1,
@@ -1499,6 +1509,16 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
+	"58483197": {
+		"name": "SA-25 Steel Trooper",
+		"description": "For optimal performance, the manufacturer recommends avoiding immersing this armor in salt water for prolonged periods.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"197210556": {
 		"name": "SA-25 Steel Trooper",
 		"description": "For optimal performance, the manufacturer recommends avoiding immersing this armor in salt water for prolonged periods.",
@@ -1519,16 +1539,6 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"58483197": {
-		"name": "SA-25 Steel Trooper",
-		"description": "For optimal performance, the manufacturer recommends avoiding immersing this armor in salt water for prolonged periods.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"3672418116": {
 		"name": "SA-25 Steel Trooper",
 		"description": "For optimal performance, the manufacturer recommends avoiding immersing this armor in salt water for prolonged periods.",
@@ -1539,7 +1549,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"3108744452": {
+	"1010744048": {
 		"name": "SA-32 Dynamo",
 		"description": "In mountainous colonies, domestic variants of this armor are used to throw weather monitoring equipment uphill.",
 		"type": 1,
@@ -1549,7 +1559,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"4089246094": {
+	"3108744452": {
 		"name": "SA-32 Dynamo",
 		"description": "In mountainous colonies, domestic variants of this armor are used to throw weather monitoring equipment uphill.",
 		"type": 1,
@@ -1569,7 +1579,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1010744048": {
+	"4089246094": {
 		"name": "SA-32 Dynamo",
 		"description": "In mountainous colonies, domestic variants of this armor are used to throw weather monitoring equipment uphill.",
 		"type": 1,
@@ -1587,7 +1597,7 @@
 		"armor_rating": 50,
 		"speed": 550,
 		"stamina_regen": 125,
-		"passive": 16
+		"passive": 2
 	},
 	"4118634958": {
 		"name": "SC-15 Drone Master",
@@ -1599,6 +1609,16 @@
 		"stamina_regen": 125,
 		"passive": 2
 	},
+	"34232232": {
+		"name": "SC-30 Trailblazer Scout",
+		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"161123434": {
 		"name": "SC-30 Trailblazer Scout",
 		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
@@ -1609,17 +1629,17 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2141363041": {
+	"492895376": {
 		"name": "SC-30 Trailblazer Scout",
 		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
+		"type": 0,
+		"slot": 2,
+		"armor_rating": 70,
+		"speed": 530,
+		"stamina_regen": 115,
+		"passive": 2
 	},
-	"3682449066": {
+	"1376017051": {
 		"name": "SC-30 Trailblazer Scout",
 		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
 		"type": 1,
@@ -1639,6 +1659,16 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
+	"2141363041": {
+		"name": "SC-30 Trailblazer Scout",
+		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"2231876405": {
 		"name": "SC-30 Trailblazer Scout",
 		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
@@ -1649,17 +1679,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"34232232": {
-		"name": "SC-30 Trailblazer Scout",
-		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
-	"1376017051": {
+	"3682449066": {
 		"name": "SC-30 Trailblazer Scout",
 		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
 		"type": 1,
@@ -1677,19 +1697,29 @@
 		"armor_rating": 70,
 		"speed": 530,
 		"stamina_regen": 115,
-		"passive": 16
-	},
-	"492895376": {
-		"name": "SC-30 Trailblazer Scout",
-		"description": "The patented fabric absorbs visible, infrared, and ultraviolet radiation, to prevent detection by all known species.",
-		"type": 0,
-		"slot": 2,
-		"armor_rating": 70,
-		"speed": 530,
-		"stamina_regen": 115,
 		"passive": 2
 	},
+	"309304502": {
+		"name": "SC-34 Infiltrator",
+		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"1494299745": {
+		"name": "SC-34 Infiltrator",
+		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1538571184": {
 		"name": "SC-34 Infiltrator",
 		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
 		"type": 1,
@@ -1719,17 +1749,17 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"3666591402": {
+	"2441344260": {
 		"name": "SC-34 Infiltrator",
 		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 500,
 		"stamina_regen": 100,
-		"passive": 0
+		"passive": 1
 	},
-	"309304502": {
+	"2733962024": {
 		"name": "SC-34 Infiltrator",
 		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
 		"type": 1,
@@ -1749,29 +1779,19 @@
 		"stamina_regen": 100,
 		"passive": 7
 	},
-	"2733962024": {
+	"3666591402": {
 		"name": "SC-34 Infiltrator",
 		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
 		"type": 1,
-		"slot": 0,
+		"slot": 1,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2441344260": {
-		"name": "SC-34 Infiltrator",
-		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
-		"type": 2,
-		"slot": 2,
-		"armor_rating": 150,
-		"speed": 500,
-		"stamina_regen": 100,
-		"passive": 1
-	},
-	"1538571184": {
-		"name": "SC-34 Infiltrator",
-		"description": "This suit's plutonium-238 nuclear battery enables environmental scanning long after the user has ceased operation.",
+	"337681978": {
+		"name": "SC-37 Legionnaire",
+		"description": "This armor is based on the antique uniforms of the 'Super Earth Legion', a less patriotic precursor to the Helldivers.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -1788,16 +1808,6 @@
 		"speed": 450,
 		"stamina_regen": 50,
 		"passive": 8
-	},
-	"337681978": {
-		"name": "SC-37 Legionnaire",
-		"description": "This armor is based on the antique uniforms of the 'Super Earth Legion', a less patriotic precursor to the Helldivers.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
 	},
 	"4000666917": {
 		"name": "The Cape of Stars and Suffrage",
@@ -1839,7 +1849,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"4191752871": {
+	"470325800": {
 		"name": "TR-40 Gold Eagle",
 		"description": "This high-visibility armor allows it's bearer to be easily seen through smoke, fog, and spewing viscera.",
 		"type": 1,
@@ -1849,7 +1859,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"470325800": {
+	"4191752871": {
 		"name": "TR-40 Gold Eagle",
 		"description": "This high-visibility armor allows it's bearer to be easily seen through smoke, fog, and spewing viscera.",
 		"type": 1,
@@ -1899,16 +1909,6 @@
 		"stamina_regen": 100,
 		"passive": 8
 	},
-	"4004823774": {
-		"name": "TR-9 Cavalier of Democracy",
-		"description": "Bearers of this armor ride no equine mount, but are nonetheless borne to battle atop the trusty steed of Liberty.",
-		"type": 1,
-		"slot": 0,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
-	},
 	"2483492566": {
 		"name": "TR-9 Cavalier of Democracy",
 		"description": "Bearers of this armor ride no equine mount, but are nonetheless borne to battle atop the trusty steed of Liberty.",
@@ -1918,6 +1918,16 @@
 		"speed": 536,
 		"stamina_regen": 118,
 		"passive": 6
+	},
+	"4004823774": {
+		"name": "TR-9 Cavalier of Democracy",
+		"description": "Bearers of this armor ride no equine mount, but are nonetheless borne to battle atop the trusty steed of Liberty.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
 	},
 	"1090563915": {
 		"name": "Tyrant Hunter",
@@ -1968,15 +1978,5 @@
 		"speed": 100,
 		"stamina_regen": 100,
 		"passive": 0
-	},
-	"865246378": {
-		"name": "",
-		"description": "Our heroic fallen live on in this cape, guiding its bearer's aim to the heart of those who killed them.",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
 	}
-}
+}	
