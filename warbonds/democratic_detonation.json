@@ -1,5 +1,5 @@
 {
-    "0": {
+    "1": {
         "totalMedalsRequired": 0,
         "items": [
             {
@@ -36,7 +36,7 @@
             }
         ]
     },
-    "1": {
+    "2": {
         "totalMedalsRequired": 60,
         "items": [
             {
@@ -73,7 +73,7 @@
             }
         ]
     },
-    "2": {
+    "3": {
         "totalMedalsRequired": 230,
         "items": [
             {
