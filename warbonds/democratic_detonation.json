@@ -1,6 +1,6 @@
 {
     "1": {
-        "totalMedalsRequired": 0,
+        "medals_to_unlock": 0,
         "items": [
             {
                 "item_id": 4219002488,
@@ -37,7 +37,7 @@
         ]
     },
     "2": {
-        "totalMedalsRequired": 60,
+        "medals_to_unlock": 60,
         "items": [
             {
                 "item_id": 2119654064,
@@ -74,7 +74,7 @@
         ]
     },
     "3": {
-        "totalMedalsRequired": 230,
+        "medals_to_unlock": 230,
         "items": [
             {
                 "item_id": 482071040,
