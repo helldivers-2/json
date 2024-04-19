@@ -2,18 +2,18 @@
 	"1": {
 		"name": "G-12 High Explosive",
 		"description": "A high explosive grenade which damages lightly armored targets. Creates high damage over a small area when detonated.",
-		"damage": 0,
-		"penetration": 6,
-		"outer_radius": 10,
-		"fuse_time": 1.8
-	},
-	"375014954": {
-		"name": "G-23 Stun",
-		"description": "Temporarily stuns all targets within the effective radius.",
 		"damage": 400,
 		"penetration": 4,
 		"outer_radius": 7,
 		"fuse_time": 3.5
+	},
+	"375014954": {
+		"name": "G-23 Stun",
+		"description": "Temporarily stuns all targets within the effective radius.",
+		"damage": 0,
+		"penetration": 6,
+		"outer_radius": 10,
+		"fuse_time": 1.8
 	},
 	"2823164517": {
 		"name": "G-16 Impact",
@@ -42,10 +42,10 @@
 	"3748749890": {
 		"name": "G-10 Incendiary",
 		"description": "An incendiary grenade designed for igniting intense fires upon detonation. Spreads burning material over a moderate area, causing burn damage.",
-		"damage": 0,
-		"penetration": 0,
-		"outer_radius": 0,
-		"fuse_time": 0
+		"damage": 150,
+		"penetration": 3,
+		"outer_radius": 7,
+		"fuse_time": 2.9
 	},
 	"3869545997": {
 		"name": "G-123 Thermite Grenade",
