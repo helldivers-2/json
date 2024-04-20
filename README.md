@@ -4,7 +4,7 @@ A set of JSON files for developing applications with Helldivers 2
 
 ### Goals
 Provide a set of 'static' information like planets, factions and sectors.
-Applications that need this information (because they map from the API etc)
+Applications that need this information (because they map from the API etc.)
 can pull this data into their application and whenever new data is discovered and added
 they can simply update this repository and get the updated information.
 
