@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="jrd"
+                 name="JSON Repo Documentation"
+                 start-page="readme.md">
+
+    <toc-element topic="readme.md"/>
+    <toc-element toc-title="Assignments">
+        <toc-element toc-title="Tasks">
+            <toc-element topic="task_types.md"/>
+            <toc-element topic="task_valueTypes.md"/>
+        </toc-element>
+        <toc-element toc-title="Rewards">
+            <toc-element topic="reward_types.md"/>
+        </toc-element>
+    </toc-element>
+
+
+</instance-profile>
