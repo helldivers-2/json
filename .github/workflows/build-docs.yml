@@ -2,7 +2,8 @@ name: Build documentation
 
 on:
   push:
-    branches: ["master"]
+    branches: ['master']
+    paths: ['Writerside/**']
   workflow_dispatch:
 
 permissions:
