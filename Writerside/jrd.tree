@@ -26,7 +26,7 @@
             <toc-element topic="items_weapons_types.md"/>
             <toc-element topic="items_weapons_fire_modes.md"/>
             <toc-element topic="item_weapons_traits.md"/>
-            <toc-element topic="primaries.md"/>
+            <toc-element topic="items_weapons_primaries.md"/>
             <toc-element topic="items_weapons_secondary.md"/>
             <toc-element topic="items_weapons_grenades.md"/>
         </toc-element>

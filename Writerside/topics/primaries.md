@@ -1,3 +1,0 @@
-# Primary
-
-Start typing here...
