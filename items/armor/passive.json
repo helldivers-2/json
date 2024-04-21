@@ -9,11 +9,11 @@
 	},
 	"2": {
 		"name": "Scout",
-		"description": "Markers placed on the map will generate radar scans every #Ds. \n Reduces range at which enemies can detect the wearer by #I%."
+		"description": "Markers placed on the map will generate radar scans every 2.0s. \n Reduces range at which enemies can detect the wearer by 30%."
 	},
 	"3": {
 		"name": "Fortified",
-		"description": "Further Reduces recoil when crouching or prone by #I%. \n Provides #I% resistance to explosive damage."
+		"description": "Further reduces recoil when crouching or prone by 30%. \n Provides 50% resistance to explosive damage."
 	},
 	"4": {
 		"name": "Undiscovered",
@@ -21,22 +21,22 @@
 	},
 	"5": {
 		"name": "Electrical Conduit",
-		"description": "Provides #I% resistance to arc damage."
+		"description": "Provides 95% resistance to arc damage."
 	},
 	"6": {
 		"name": "Engineering Kit",
-		"description": "Further Reduces recoil when crouching or prone by #I%. \n Increases initial inventory and holding capacity of grenades by +#I."
+		"description": "Further Reduces recoil when crouching or prone by 30%. \n Increases initial inventory and holding capacity of grenades by +2."
 	},
 	"7": {
 		"name": "Med-Kit",
-		"description": "Increases initial inventory and holding capacity of stims by +#I. \n Increases stim effect duration by #Ds."
+		"description": "Increases initial inventory and holding capacity of stims by +2. \n Increases stim effect duration by 2.0s."
 	},
 	"8": {
 		"name": "Servo-Assisted",
-		"description": "Increases throwing range by #I%. \n Provides +#I% limb health."
+		"description": "Increases throwing range by 30%. \n Provides +50% limb health."
 	},
 	"9": {
 		"name": "Democracy Protects",
-		"description": "#I% chance to not die when taking lethal damage. \n Prevents all damage from bleeding if chest hemorrhages."
+		"description": "50% chance to not die when taking lethal damage. \n Prevents all damage from bleeding if chest hemorrhages."
 	}
 }
