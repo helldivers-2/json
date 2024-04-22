@@ -1,6 +1,7 @@
-# json
+# Introduction and README
 
-A set of JSON files for developing applications with Helldivers 2
+## JSON  
+**A set of JSON files for developing applications with Helldivers 2**
 
 ### Goals
 Provide a set of 'static' information like planets, factions and sectors.

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="jrd"
+                 name="JSON Repo Documentation"
+                 start-page="readme.md">
+
+    <toc-element topic="readme.md"/>
+    <toc-element toc-title="Assignments">
+        <toc-element toc-title="Tasks">
+            <toc-element topic="task_types.md"/>
+            <toc-element topic="task_valueTypes.md"/>
+        </toc-element>
+        <toc-element toc-title="Rewards">
+            <toc-element topic="reward_types.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Items">
+        <toc-element toc-title="Armor">
+            <toc-element topic="item_armor_armor.md"/>
+            <toc-element topic="items_armor_passives.md"/>
+            <toc-element topic="item_armor_slot.md"/>
+        </toc-element>
+        <toc-element toc-title="Weapons">
+            <toc-element topic="items_weapons_types.md"/>
+            <toc-element topic="items_weapons_fire_modes.md"/>
+            <toc-element topic="item_weapons_traits.md"/>
+            <toc-element topic="items_weapons_primaries.md"/>
+            <toc-element topic="items_weapons_secondary.md"/>
+            <toc-element topic="items_weapons_grenades.md"/>
+        </toc-element>
+        <toc-element topic="items_boosters.md"/>
+        <toc-element topic="items_item_names.md"/>
+    </toc-element>
+    <toc-element toc-title="Planets">
+
+        <toc-element topic="planet_biomes.md"/>
+        <toc-element topic="planest_environmentals.md"/>
+        <toc-element topic="planets_planets.md"/>
+    </toc-element>
+    <toc-element topic="Warbonds.md"/>
+
+
+</instance-profile>
