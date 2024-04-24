@@ -1,0 +1,22 @@
+{
+	"0": {
+		"name": "Helldivers Mobilize",
+		"id": "helldivers_mobilize",
+		"premium": false
+	},
+	"1": {
+		"name": "Steeled Veterans",
+		"id": "steeled_veterans",
+		"premium": true
+	},
+	"2": {
+		"name": "Cutting Edge",
+		"id": "cutting_edge",
+		"premium": true
+	},
+	"3": {
+		"name": "Democratic Detonation",
+		"id": "democratic_detonation",
+		"premium": true
+	}
+}
