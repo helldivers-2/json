@@ -1,4 +1,4 @@
-# Warbonds
+# Individual Warbonds
 
 ## dictionary
 The warbond jsons all follow the same pattern found below. They are a dictionary of key: value pairs, where the key is
