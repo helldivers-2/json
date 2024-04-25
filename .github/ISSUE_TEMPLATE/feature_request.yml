@@ -1,9 +1,7 @@
----
 name: Feature request
 about: Suggest new features for the API
 title: '[FEATURE]: '
 labels: ['feature request']
----
 body:
   - type: textarea
     id: problem-solved
