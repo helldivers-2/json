@@ -1,4 +1,4 @@
-# Types
+# Primary Weapon Types
 
 ## dictionary
 This json contains a dictionary of key: value pairs, representing the arbitrarily assigned Weapon Type IDs, with the 

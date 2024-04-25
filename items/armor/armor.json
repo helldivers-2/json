@@ -1262,18 +1262,18 @@
 	"547904705": {
 		"name": "FS-38 Eradicator",
 		"description": "First deployed in the mines of Cyberstan, where it offered protection against explosions in the hydrogen-rich caverns.",
-		"type": 1,
-		"slot": 1,
-		"armor_rating": 100,
-		"speed": 100,
-		"stamina_regen": 100,
-		"passive": 0
+		"type": 0,
+		"slot": 2,
+		"armor_rating": 50,
+		"speed": 550,
+		"stamina_regen": 125,
+		"passive": 3
 	},
 	"3664047629": {
 		"name": "FS-38 Eradicator",
 		"description": "First deployed in the mines of Cyberstan, where it offered protection against explosions in the hydrogen-rich caverns.",
 		"type": 1,
-		"slot": 1,
+		"slot": 0,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,

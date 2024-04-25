@@ -3,7 +3,9 @@ name: Build documentation
 on:
   push:
     branches: ['master', 'main']
-    paths: ['Writerside/**']
+    paths: ['Writerside/**', '**/build-docs.yml']
+  pull_request:
+    paths: ['Writerside/**', '**/build-docs.yml']
   workflow_dispatch:
 
 permissions:
@@ -13,7 +15,7 @@ permissions:
 env:
   INSTANCE: 'Writerside/jrd'
   ARTIFACT: 'webHelpJRD2-all.zip'
-  DOCKER_VERSION: '233.14938'
+  DOCKER_VERSION: '241.15989'
 
 jobs:
   build:
@@ -56,6 +58,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: [build, test]
+    if: ${{ ! github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
