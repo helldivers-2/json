@@ -1,6 +1,6 @@
 {
 	"1": {
-		"medals_to_unlock": 1000,
+		"medals_to_unlock": 0,
 		"items": [
 			{
 				"item_id": 2778260362,
@@ -110,4 +110,4 @@
 			}
 		]
 	}
-}
+},

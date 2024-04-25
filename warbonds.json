@@ -1,18 +1,22 @@
 {
 	"0": {
 		"name": "Helldivers Mobilize",
-		"id": "helldivers_mobilize"
+		"id": "helldivers_mobilize",
+		"credits_to_unlock": 0
 	},
 	"1": {
 		"name": "Steeled Veterans",
-		"id": "steeled_veterans"
+		"id": "steeled_veterans",
+		"credits_to_unlock": 1000
 	},
 	"2": {
 		"name": "Cutting Edge",
-		"id": "cutting_edge"
+		"id": "cutting_edge",
+		"credits_to_unlock": 1000
 	},
 	"3": {
 		"name": "Democratic Detonation",
-		"id": "democratic_detonation"
+		"id": "democratic_detonation",
+		"credits_to_unlock": 1000
 	}
 }
