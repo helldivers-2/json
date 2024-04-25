@@ -13,7 +13,7 @@ permissions:
 env:
   INSTANCE: 'Writerside/jrd'
   ARTIFACT: 'webHelpJRD2-all.zip'
-  DOCKER_VERSION: '233.14938'
+  DOCKER_VERSION: '241.15989'
 
 jobs:
   build:
