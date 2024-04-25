@@ -1,0 +1,62 @@
+name: "\U0001F41E Bug report"
+description: Report something that isn't working as it should or is outright broken
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Before You Start...**
+
+        This form is only for submitting bug reports. If you have a usage question
+        or are unsure if this is really a bug, make sure to:
+
+        - Read the [docs](https://helldivers-2.github.io/json/readme.html)
+        - Ask on [Discord Chat](https://discord.gg/E8UUfWYmf9)
+
+        Also try to search for your issue - it may have already been answered or even fixed in the development branch.
+        However, if you find that an old, closed issue still persists in the latest version,
+        you should open a new issue using the form below instead of commenting on the old issue.
+  - type: input
+    id: reproduction-path
+    attributes:
+      label: Faulty File Path & Name
+      description: |
+        Provide the path that is malfunctioning.
+
+        Please do not just fill in a random path. The issue will be closed if no valid path or filename is provided.
+      placeholder: /path/to/file.json
+    validations:
+      required: true
+  - type: textarea
+    id: request-data
+    attributes:
+      label: Request information
+      description: |
+        Provide as much information about your issue as you can. JSON Snippets or just brief overview of what is wrong.
+      placeholder: Request information
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What is expected?
+      description: |
+        This can range from a textual explanation of what you were expecting to see/happen to providing JSON snippets
+        that illustrate what should be outputted.
+    validations:
+      required: true
+  - type: textarea
+    id: actually-happening
+    attributes:
+      label: What is actually happening?
+      description: |
+        Explain what is happening that deviates from the expected output.
+      render: json
+    validations:
+      required: true
+  - type: textarea
+    id: additional-comments
+    attributes:
+      label: Any additional comments?
+      description: e.g. some background/context of how you ran into this bug.
