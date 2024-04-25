@@ -1,4 +1,4 @@
-# Types
+# Task Types
 
 ## dictionary
 This json contains a dictionary of key: value pairs, representing the task information returned from the Helldivers 2 
