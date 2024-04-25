@@ -3,7 +3,9 @@ name: Build documentation
 on:
   push:
     branches: ['master', 'main']
-    paths: ['Writerside/**']
+    paths: ['Writerside/**', '**/build-docs.yml']
+  pull_request:
+    paths: ['Writerside/**', '**/build-docs.yml']
   workflow_dispatch:
 
 permissions:
@@ -56,6 +58,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: [build, test]
+    if: ${{ ! github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
