@@ -35,13 +35,12 @@
     </toc-element>
     <toc-element toc-title="Planets">
         <toc-element topic="planet_biomes.md"/>
-        <toc-element topic="planest_environmentals.md"/>
+        <toc-element topic="planets_environmentals.md"/>
         <toc-element topic="planets_planets.md"/>
     </toc-element>
     <toc-element toc-title="Warbonds">
         <toc-element topic="warbonds_list.md"/>
         <toc-element topic="warbonds_individual.md"/>
     </toc-element>
-
 
 </instance-profile>
