@@ -4237,7 +4237,7 @@
 	},
 	"166": {
 		"name": "Enuliale",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "crimsonmoor",
 		"environmentals": [
 			"ion_storms"
@@ -4262,7 +4262,7 @@
 	},
 	"167": {
 		"name": "Epsilon Phoencis VI",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "winter",
 		"environmentals": [
 			"extreme_cold",
@@ -5338,7 +5338,7 @@
 	},
 	"209": {
 		"name": "Nabatea Secundus",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "rainforest",
 		"environmentals": [
 			"ion_storms"
@@ -5363,7 +5363,7 @@
 	},
 	"210": {
 		"name": "Navi VII",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "jungle",
 		"environmentals": [
 			"volcanic_activity",
@@ -6540,7 +6540,7 @@
 	},
 	"256": {
 		"name": "Diaspora X",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "mesa",
 		"environmentals": [
 			"intense_heat",
@@ -6566,7 +6566,7 @@
 	},
 	"257": {
 		"name": "Gemstone Bluffs",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "highlands",
 		"environmentals": [
 			"thick_fog",
@@ -6618,7 +6618,7 @@
 	},
 	"259": {
 		"name": "Omicron",
-		"sector": "Le'strade",
+		"sector": "L'estrade",
 		"biome": "tundra",
 		"environmentals": [
 			"none"
