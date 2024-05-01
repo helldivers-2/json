@@ -2,7 +2,7 @@
 	"1": {
 		"name": "P-2 Peacemaker",
 		"description": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
-		"damage": 60,
+		"damage": 75,
 		"capacity": 15,
 		"recoil": 22,
 		"fire_rate": 900,
@@ -33,7 +33,7 @@
 	"1374036584": {
 		"name": "P-4 Senator",
 		"description": "A high-damage revolver, which can be reloaded with single rounds. A heavy-hitting and reliable sidearm.",
-		"damage": 150,
+		"damage": 175,
 		"capacity": 6,
 		"recoil": 43,
 		"fire_rate": 200,
