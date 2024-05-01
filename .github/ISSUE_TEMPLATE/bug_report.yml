@@ -26,7 +26,7 @@ body:
 
         Please do not just fill in a random path. The issue will be closed if no valid path or filename is provided.
       placeholder: /path/to/file.json
-    validations:
+    validations: path/to/file.json
       required: true
   - type: textarea
     id: request-data
