@@ -449,6 +449,26 @@
 		"stamina_regen": 100,
 		"passive": 6
 	},
+	"824775809": {
+		"name": "CE-64 Grenadier",
+		"description": "The set's classic advertising campaign 'Have you tried a grenade?' has remained unchanged for over 70 years",
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 6
+	},
+	"3233367200": {
+		"name": "CE-64 Grenadier",
+		"description": "The set's classic advertising campaign 'Have you tried a grenade?' has remained unchanged for over 70 years",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"2547476111": {
 		"name": "CE-67 Titan",
 		"description": "A quality product, this armor can destroy over 300,000 kilometers of fencing with no decline in operational efficiency.",
@@ -689,6 +709,36 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
+	"3174960214": {
+		"name": "CW-22 Kodiak",
+		"description": "",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"3182845434": {
+		"name": "CW-22 Kodiak",
+		"description": "",
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 3
+	},
+	"108697242": {
+		"name": "CW-36 Winter Warrior",
+		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"1625732159": {
 		"name": "CW-36 Winter Warrior",
 		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
@@ -699,11 +749,71 @@
 		"stamina_regen": 50,
 		"passive": 1
 	},
+	"2121537836": {
+		"name": "CW-36 Winter Warrior",
+		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 8
+	},
 	"4230001140": {
 		"name": "CW-36 Winter Warrior",
 		"description": "Offering camouflage in snowy environments, surplus sets of this armor are used by nature photographers and keen hunters alike.",
 		"type": 1,
 		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1740717999": {
+		"name": "CW-4 Arctic Ranger",
+		"description": "",
+		"type": 0,
+		"slot": 2,
+		"armor_rating": 50,
+		"speed": 550,
+		"stamina_regen": 125,
+		"passive": 2
+	},
+	"2829569639": {
+		"name": "CW-4 Arctic Ranger",
+		"description": "",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"1335058381": {
+		"name": "CW-9 White Wolf",
+		"description": "The pattern used for this armor is the result of the Winter Camouflage Improvement Effort, which considered 136 entrants before determining the color white would best blend in with snow.",
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 1
+	},
+	"2538783678": {
+		"name": "CW-9 White Wolf",
+		"description": "The pattern used for this armor is the result of the Winter Camouflage Improvement Effort, which considered 136 entrants before determining the color white would best blend in with snow.",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"4282790522": {
+		"name": "Dissident's Nightmare",
+		"description": "",
+		"type": 1,
+		"slot": 1,
 		"armor_rating": 100,
 		"speed": 100,
 		"stamina_regen": 100,
@@ -1349,6 +1459,26 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
+	"3892781112": {
+		"name": "Order of the Venerated Ballot",
+		"description": "",
+		"type": 1,
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"2871629098": {
+		"name": "Pinions of Everlasting Glory",
+		"description": "",
+		"type": 1,
+		"slot": 1,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
 	"1318035279": {
 		"name": "SA-04 Combat Technician",
 		"description": "Due to the enhanced strength caused by this armor, caution is advised when using door handles or embracing colleagues.",
@@ -1909,4 +2039,4 @@
 		"stamina_regen": 100,
 		"passive": 0
 	}
-}	
+}
