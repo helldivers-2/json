@@ -34,5 +34,9 @@
 	"3504405746": {
 		"name": "Expert Extraction Booster",
 		"description": "Lowers the time it takes for the extraction shuttle to reach the extraction beacon."
+	},
+	"2709264466": {
+		"name": "Motivational Shocks",
+		"description": "Allows all Helldivers to recover faster after being slowed by an attack, such as acid. Does not mitigate 'area effects,' such as EMS Strikes."
 	}
 }
