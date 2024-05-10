@@ -48,11 +48,19 @@
 		"fuse_time": 2.9
 	},
 	"3869545997": {
-		"name": "G-123 Thermite Grenade",
+		"name": "G-12 Thermite Grenade",
 		"description": "A thermite grenade designed to adhere to surfaces before burning at 2000°C. Capable of burning through some armor",
 		"damage": 100,
 		"penetration": 7,
 		"outer_radius": 2,
 		"fuse_time": 2.9
+	},
+	"16338515": {
+		"name": "G-13 Incendiary Impact",
+		"description": "Detonates on impact, covering the immediate vicinity in self-igniting white phosphorus.",
+		"damage": 150,
+		"penetration": 3,
+		"outer_radius": 7,
+		"fuse_time": 0
 	}
 }

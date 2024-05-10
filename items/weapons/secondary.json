@@ -75,5 +75,18 @@
 			4,
 			6
 		]
+	},
+	"1938200223": {
+		"name": "P-113 Verdict",
+		"description": "The gas-operated, semiautomatic P-113 chambers the 14mm 'Rapid Deliberation,' the largest centerfire cartridge of any magazine-fed pistol.",
+		"damage": 125,
+		"capacity": 10,
+		"recoil": 40,
+		"fire_rate": 450,
+		"fire_mode": [],
+		"traits": [
+			1,
+			4
+		]
 	}
 }
