@@ -1214,52 +1214,5 @@
 	"4282790522": {
 		"name": "Dissident's Nightmare",
 		"mix_id": "4282790522"
-	"1942567317": {
-		"name": "CB-9 Exploding Crossbow",
-		"mix_id": "1942567317"
-	},
-	"2038008847": {
-		"name": "CE-07 Demolition Specialist",
-		"mix_id": "2038008847"
-	},
-	"2640366401": {
-		"name": "BR-14 Adjudicator Rifle",
-		"mix_id": "2640366401"
-	},
-	"2797735596": {
-		"name": "GP-31 Grenade Pistol",
-		"mix_id": "2797735596"
-	},
-	"339272294": {
-		"name": "R-36 Eruptor Rifle",
-		"mix_id": "339272294"
-	},
-	"3869545997": {
-		"name": "G-123 Thermite Grenade",
-		"mix_id": "3869545997"
-	},
-	"3504405746": {
-		"name": "Expert Extraction Pilot",
-		"mix_id": "3504405746"
-	},
-	"897894480": {
-		"name": "1 Medal",
-		"mix_id": "897894480"
-	},
-	"824775809": {
-		"name": "CE-64 Grenadier",
-		"mix_id": "824775809"
-	},
-	"3233367200": {
-		"name": "CE-64 Grenadier",
-		"mix_id": "3233367200"
-	},
-	"2538783678": {
-		"name": "CW-9 White Wolf",
-		"mix_id": "2538783678"
-	},
-	"1335058381": {
-		"name": "CW-9 White Wolf",
-		"mix_id": "1335058381"
 	}
-}	
+}
