@@ -531,7 +531,7 @@
 	},
 	"3598091569": {
 		"name": "Cloak of Posterity's Gratitude",
-		"description": "",
+		"description": "A representation of the thankfullness of those infinite descendants whose liberated existence we strive to ensure.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -711,7 +711,12 @@
 	},
 	"3174960214": {
 		"name": "CW-22 Kodiak",
-		"description": "",
+		"description": "The CW-22 Kodiak armor was thoroughly pressure-tested by patriotic volunteers, as part of the "
+		Test
+		Subjects
+		for
+		Super-Earth
+		" Citizen Advancement Program.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -721,7 +726,12 @@
 	},
 	"3182845434": {
 		"name": "CW-22 Kodiak",
-		"description": "",
+		"description": "The CW-22 Kodiak armor was thoroughly pressure-tested by patriotic volunteers, as part of the "
+		Test
+		Subjects
+		for
+		Super-Earth
+		" Citizen Advancement Program.",
 		"type": 2,
 		"slot": 2,
 		"armor_rating": 150,
@@ -771,7 +781,7 @@
 	},
 	"1740717999": {
 		"name": "CW-4 Arctic Ranger",
-		"description": "",
+		"description": "Features a utility belt with pockets that can be filled with any number of things, such as pocket knives, mementos from home, and interesting rocks.",
 		"type": 0,
 		"slot": 2,
 		"armor_rating": 50,
@@ -781,7 +791,7 @@
 	},
 	"2829569639": {
 		"name": "CW-4 Arctic Ranger",
-		"description": "",
+		"description": "Features a utility belt with pockets that can be filled with any number of things, such as pocket knives, mementos from home, and interesting rocks.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -811,7 +821,7 @@
 	},
 	"4282790522": {
 		"name": "Dissident's Nightmare",
-		"description": "",
+		"description": "After extensive testing in PAtriotic Rehabilitation Centers, this design was proved most terrifying to dissent-afflicted individuals.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -1461,7 +1471,7 @@
 	},
 	"3892781112": {
 		"name": "Order of the Venerated Ballot",
-		"description": "",
+		"description": "Adorned with the insignia of the Order of the Venerated Ballot, a Ministry-sanctioned Patriot's Club for citizens who pledge themselves to preserving the sanctity of voting.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -1471,7 +1481,7 @@
 	},
 	"2871629098": {
 		"name": "Pinions of Everlasting Glory",
-		"description": "",
+		"description": "All but ensures ascension to the immortal ranks of those enshrined in the Super Earth Digital Archive of Valorous Acts",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -2030,7 +2040,7 @@
 		"passive": 0
 	},
 	"865246378": {
-		"name": "",
+		"name": "Fallen Hero’s Vengeance",
 		"description": "Our heroic fallen live on in this cape, guiding its bearer's aim to the heart of those who killed them.",
 		"type": 1,
 		"slot": 1,
