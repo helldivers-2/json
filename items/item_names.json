@@ -39,17 +39,9 @@
 		"name": "Drape of Glory",
 		"mix_id": "112836163"
 	},
-	"123566382": {
-		"name": "B-08 Light Gunner",
-		"mix_id": "1210216079"
-	},
 	"139999425": {
 		"name": "DP-53 Savior of the Free",
 		"mix_id": "1296068557"
-	},
-	"141528028": {
-		"name": "FS-61 Dreadnought",
-		"mix_id": "1400802885"
 	},
 	"161123434": {
 		"name": "SC-30 Trailblazer Scout",
@@ -743,10 +735,6 @@
 		"name": "Presentable",
 		"mix_id": "2611571391"
 	},
-	"2622359419": {
-		"name": "FS-61 Dreadnought",
-		"mix_id": "773157227"
-	},
 	"2640366401": {
 		"name": "BR-14 Adjudicator",
 		"mix_id": "2640366401"
@@ -1070,10 +1058,6 @@
 	"3826757243": {
 		"name": "FS-05 Marksman",
 		"mix_id": "3826757243"
-	},
-	"3855903191": {
-		"name": "B-08 Light Gunner",
-		"mix_id": "488691438"
 	},
 	"3866352840": {
 		"name": "LAS-5 Scythe",
