@@ -1,5 +1,5 @@
 {
-	"1": {
+	"2": {
 		"name": "P-2 Peacemaker",
 		"description": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
 		"damage": 75,
@@ -70,7 +70,9 @@
 		"capacity": 1,
 		"recoil": 43,
 		"fire_rate": 900,
-		"fire_mode": [0],
+		"fire_mode": [
+			0
+		],
 		"traits": [
 			4,
 			6
@@ -83,10 +85,12 @@
 		"capacity": 10,
 		"recoil": 40,
 		"fire_rate": 450,
-		"fire_mode": [],
+		"fire_mode": [
+			0
+		],
 		"traits": [
 			1,
 			4
 		]
 	}
-}
+}	
