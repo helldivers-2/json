@@ -1,5 +1,5 @@
 {
-	"1": {
+	"2": {
 		"name": "P-2 Peacemaker",
 		"description": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
 		"damage": 75,
@@ -70,10 +70,27 @@
 		"capacity": 1,
 		"recoil": 43,
 		"fire_rate": 900,
-		"fire_mode": [0],
+		"fire_mode": [
+			0
+		],
 		"traits": [
 			4,
 			6
+		]
+	},
+	"1938200223": {
+		"name": "P-113 Verdict",
+		"description": "The gas-operated, semiautomatic P-113 chambers the 14mm 'Rapid Deliberation,' the largest centerfire cartridge of any magazine-fed pistol.",
+		"damage": 125,
+		"capacity": 10,
+		"recoil": 40,
+		"fire_rate": 450,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			1,
+			4
 		]
 	}
 }

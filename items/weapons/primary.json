@@ -320,5 +320,47 @@
 		"traits": [
 			6
 		]
+	},
+	"1920374015": {
+		"name": "AR-61 Tenderizer",
+		"description": "A high-caliber assault rifle with a restrictive magazine size but more stopping power.",
+		"type": 1,
+		"damage": 60,
+		"capacity": 35,
+		"recoil": 10,
+		"fire_rate": 600,
+		"fire_mode": [],
+		"traits": [
+			1
+		]
+	},
+	"942049262": {
+		"name": "SMG-72 Pummeler",
+		"description": "Fires concussive rounds that stagger enemies. Slower rate of fire than other SMGs.",
+		"type": 3,
+		"damage": 65,
+		"capacity": 45,
+		"recoil": 10,
+		"fire_rate": 475,
+		"fire_mode": [],
+		"traits": [
+			1,
+			4
+		]
+	},
+	"2887941494": {
+		"name": "PLAS-101 Purifier",
+		"description": "A plasma rifle firing a bolt of superheated gas which explodes on impact. Each shot needs to be charged up fully before it can be fired.",
+		"type": 5,
+		"damage": 250,
+		"capacity": 15,
+		"recoil": 20,
+		"fire_rate": 250,
+		"fire_mode": [],
+		"traits": [
+			2,
+			10,
+			6
+		]
 	}
 }
