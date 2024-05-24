@@ -1,5 +1,5 @@
 {
-	"1": {
+	"3": {
 		"name": "G-12 High Explosive",
 		"description": "A high explosive grenade which damages lightly armored targets. Creates high damage over a small area when detonated.",
 		"damage": 400,
@@ -63,4 +63,4 @@
 		"outer_radius": 7,
 		"fuse_time": 0
 	}
-}
+}	
