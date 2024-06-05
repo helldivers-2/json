@@ -69,3 +69,4 @@ The text that will appear above the modal will be equal to the the value of `fla
   "3": "MAJOR ORDER / SUCCESS",
   "4": "MAJOR ORDER / FAIL"
 }
+```
