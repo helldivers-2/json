@@ -42,5 +42,8 @@
         <toc-element topic="warbonds_list.md"/>
         <toc-element topic="warbonds_individual.md"/>
     </toc-element>
+    <toc-element toc-title="GlobalEvents">
+        <toc-element topic="globalEvents_flags.md"/>
+    </toc-element>
 
 </instance-profile>
