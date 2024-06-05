@@ -1,8 +1,7 @@
 # Global Events Flags
 
 ## dictionary
-This json contains a dictionary of key: value pairs, representing the globalEvent flag (which correlates to its type) returned from the Helldivers 2 
-Status API.
+This json contains a dictionary of key: value pairs, representing the globalEvent flag (which correlates to its type) returned from the Helldivers 2 Status API endpoint.
 
 ```json
 {
