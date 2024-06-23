@@ -233,9 +233,8 @@
 	"9": {
 		"name": "Fornskogur II",
 		"sector": "Barnard",
-		"biome": "jungle",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"volcanic_activity",
 			"rainstorms"
 		],
 		"names": {
@@ -1099,9 +1098,9 @@
 	"43": {
 		"name": "Barabos",
 		"sector": "Marspira",
-		"biome": "icemoss",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"extreme_cold"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "BARABOS",
@@ -1302,10 +1301,9 @@
 	"51": {
 		"name": "Ivis",
 		"sector": "Celeste",
-		"biome": "winter",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"extreme_cold",
-			"blizzards"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "IVIS",
@@ -1480,10 +1478,9 @@
 	"58": {
 		"name": "Parsh",
 		"sector": "Rictus",
-		"biome": "winter",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"extreme_cold",
-			"blizzards"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "PARSH",
@@ -2580,9 +2577,8 @@
 	"101": {
 		"name": "East Iridium Trading Bay",
 		"sector": "Tarragon",
-		"biome": "jungle",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"volcanic_activity",
 			"rainstorms"
 		],
 		"names": {
@@ -3166,10 +3162,9 @@
 	"124": {
 		"name": "Bore Rock",
 		"sector": "Falstaff",
-		"biome": "desolate",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"intense_heat",
-			"fire_tornadoes"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "BORE ROCK",
@@ -3649,10 +3644,9 @@
 	"143": {
 		"name": "Asperoth Prime",
 		"sector": "Akira",
-		"biome": "desolate",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"intense_heat",
-			"fire_tornadoes"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "ASPEROTH PRIME",
@@ -3829,9 +3823,8 @@
 	"150": {
 		"name": "Caph",
 		"sector": "Theseus",
-		"biome": "jungle",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"volcanic_activity",
 			"rainstorms"
 		],
 		"names": {
@@ -4136,9 +4129,8 @@
 	"162": {
 		"name": "Clasa",
 		"sector": "Tanis",
-		"biome": "jungle",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"volcanic_activity",
 			"rainstorms"
 		],
 		"names": {
@@ -4365,9 +4357,9 @@
 	"171": {
 		"name": "Gacrux",
 		"sector": "Jin Xi",
-		"biome": "tundra",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"none"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "GACRUX",
@@ -4543,10 +4535,9 @@
 	"178": {
 		"name": "Haldus",
 		"sector": "Ferris",
-		"biome": "moon",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"extreme_cold",
-			"meteor_storms"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "HALDUS",
@@ -5339,9 +5330,9 @@
 	"209": {
 		"name": "Nabatea Secundus",
 		"sector": "L'estrade",
-		"biome": "rainforest",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"ion_storms"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "NABATEA SECUNDUS",
@@ -5568,9 +5559,8 @@
 	"218": {
 		"name": "Pherkad Secundus",
 		"sector": "Farsight",
-		"biome": "highlands",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"thick_fog",
 			"rainstorms"
 		],
 		"names": {
@@ -5800,9 +5790,9 @@
 	"227": {
 		"name": "Seasse",
 		"sector": "Omega",
-		"biome": "rainforest",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"ion_storms"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "SEASSE",
@@ -6362,9 +6352,9 @@
 	"249": {
 		"name": "X-45",
 		"sector": "Ymir",
-		"biome": "swamp",
+		"biome": "dense_jungle",
 		"environmentals": [
-			"thick_fog"
+			"rainstorms"
 		],
 		"names": {
 			"en-US": "X-45",
