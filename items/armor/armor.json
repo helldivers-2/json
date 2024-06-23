@@ -2041,7 +2041,7 @@
 	},
 	"3728975654": {
 		"name": "PH-202 Twigsnapper",
-		"description": "",
+		"description": "The omission of upper-limb coverings allows for optimized freedom of movement, perspiration, and communication of upper body strength to squadmates.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2051,7 +2051,7 @@
 	},
 	"1664632640": {
 		"name": "PH-202 Twigsnapper",
-		"description": "",
+		"description": "The omission of upper-limb coverings allows for optimized freedom of movement, perspiration, and communication of upper body strength to squadmates.",
 		"type": 2,
 		"slot": 2,
 		"armor_rating": 150,
@@ -2061,7 +2061,7 @@
 	},
 	"2788735945": {
 		"name": "PH-9 Predator",
-		"description": "",
+		"description": "Based on the uniform of Jackle 6, a veteran of the Viper Commandos who held off an entire Terminid brood on Nublaria in the First Galactic War with nothing but a machine gun, pocket knife, and Orbital Laser Strikes.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2071,7 +2071,7 @@
 	},
 	"1877242796": {
 		"name": "PH-9 Predator",
-		"description": "",
+		"description": "Based on the uniform of Jackle 6, a veteran of the Viper Commandos who held off an entire Terminid brood on Nublaria in the First Galactic War with nothing but a machine gun, pocket knife, and Orbital Laser Strikes.",
 		"type": 0,
 		"slot": 2,
 		"armor_rating": 50,
@@ -2081,7 +2081,7 @@
 	},
 	"2646411735": {
 		"name": "Mark of the Crimson Fang",
-		"description": "",
+		"description": "Marks the most obedient of the obedient, those who will strike headlong at the veins of Tyranny and administer the sweet antidote of Freedom.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -2091,7 +2091,7 @@
 	},
 	"291340630": {
 		"name": "Executioner's Canopy",
-		"description": "",
+		"description": "Crests the shoulders of those who deliver the final—and most indispensable—stroke of Justice.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
