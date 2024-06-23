@@ -38,5 +38,9 @@
 	"9": {
 		"name": "Democracy Protects",
 		"description": "50% chance to not die when taking lethal damage. \n Prevents all damage from bleeding if chest hemorrhages."
+	},
+	"10": {
+		"name": "Peak Physique",
+		"description": "Increased Melee Damage by 50%. \n Improves weapons handling with less drag on the weapon movement."
 	}
 }
