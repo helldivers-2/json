@@ -23,5 +23,10 @@
 		"name": "Polar Patriots",
 		"id": "polar_patriots",
 		"credits_to_unlock": 1000
+	},
+	"5": {
+		"name": "Viper Commandos",
+		"id": "viper_commandos",
+		"credits_to_unlock": 1000
 	}
 }
