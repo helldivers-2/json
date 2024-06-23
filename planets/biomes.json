@@ -66,5 +66,9 @@
 	"toxic": {
 		"name": "Toxic",
 		"description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+	},
+	"dense_jungle":{
+		"name": "Dense Jungle",
+		"description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated udnergrowth below."
 	}
 }
