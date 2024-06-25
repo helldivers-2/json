@@ -362,5 +362,32 @@
 			10,
 			6
 		]
+	},
+	"1160920394": {
+		"name": "AR-23A Liberator Carbine",
+		"description": "A compact version of the Liberator designed for increased viability in close quarters. Has an increased fire rate at the cost of higher spread.",
+		"type": 1,
+		"damage": 60,
+		"capacity": 45,
+		"recoil": 26,
+		"fire_rate": 920,
+		"fire_mode": [],
+		"traits": [
+			1
+		]
+	},
+	"2264358800": {
+		"name": "SG-22 Bushwhacker",
+		"description": "A triple-barreled, break-action, sawed-off shotgun. Switch firing modes to fire all three barrels at once.",
+		"type": 2,
+		"damage": 405,
+		"capacity": 3,
+		"recoil": 170,
+		"fire_rate": 650,
+		"fire_mode": [],
+		"traits": [
+			1,
+			4
+		]
 	}
 }
