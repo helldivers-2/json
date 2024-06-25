@@ -38,5 +38,9 @@
 	"2709264466": {
 		"name": "Motivational Shocks",
 		"description": "Allows all Helldivers to recover faster after being slowed by an attack, such as acid. Does not mitigate 'area effects,' such as EMS Strikes."
+	},
+	"3912131454": {
+		"name": "Experimental Infusion",
+		"description": "Temp Desc: Stims boost movement speed and reduced incoming damage for short period"
 	}
 }
