@@ -1087,17 +1087,21 @@
 		"name": "Bastion of Integrity",
 		"mix_id": "3389234783"
 	},
+	"3728566742": {
+		"name": "Undergrowth Exosuit",
+		"mix_id": "3905063732"
+	},
 	"3728975654": {
 		"name": "PH-202 Twigsnapper",
-		"mix_id": "2346212818"
+		"mix_id": "2121804577"
 	},
 	"3748104941": {
 		"name": "Loosen Up",
-		"mix_id": "925809350"
+		"mix_id": "2644341380"
 	},
 	"3748749890": {
 		"name": "G-10 Incendiary",
-		"mix_id": "3866352840"
+		"mix_id": "2862073313"
 	},
 	"3750644442": {
 		"name": "B-01 Tactical",
@@ -1105,7 +1109,7 @@
 	},
 	"3792160842": {
 		"name": "B-01 Tactical",
-		"mix_id": "2006219485"
+		"mix_id": "2202584672"
 	},
 	"3814689025": {
 		"name": "SG-225SP Breaker Spray&Pray",
@@ -1117,7 +1121,7 @@
 	},
 	"3826757243": {
 		"name": "FS-05 Marksman",
-		"mix_id": "4037904357"
+		"mix_id": "1447229978"
 	},
 	"3866352840": {
 		"name": "LAS-5 Scythe",
@@ -1125,35 +1129,35 @@
 	},
 	"3869545997": {
 		"name": "G-12 Thermite Grenade",
-		"mix_id": "245428325"
+		"mix_id": "4116140902"
 	},
 	"3884524834": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "175121524"
+		"mix_id": "3432499358"
 	},
 	"3889850488": {
 		"name": "50 Super Credits",
-		"mix_id": "954476402"
+		"mix_id": "2855449476"
 	},
 	"3892781112": {
 		"name": "Order of the Venerated Ballot",
-		"mix_id": "2156650933"
+		"mix_id": "3016424064"
 	},
 	"3897051683": {
 		"name": "Mark of the Crimson Fang",
-		"mix_id": "825115965"
+		"mix_id": "2522530155"
 	},
 	"3912131454": {
 		"name": "Experimental Infusion",
-		"mix_id": "3192410325"
+		"mix_id": "1820995838"
 	},
 	"3925525294": {
 		"name": "Liberty's Herald",
-		"mix_id": "4187227082"
+		"mix_id": "3545654571"
 	},
 	"3955657629": {
 		"name": "SG-8P Punisher Plasma",
-		"mix_id": "505315679"
+		"mix_id": "1907808218"
 	},
 	"3970674111": {
 		"name": "FS-05 Marksman",
@@ -1165,7 +1169,7 @@
 	},
 	"3992382197": {
 		"name": "Common Sample",
-		"mix_id": "2537525017"
+		"mix_id": "4238472878"
 	},
 	"3996028128": {
 		"name": "CE-74 Breaker",
@@ -1177,11 +1181,11 @@
 	},
 	"4000666917": {
 		"name": "The Cape of Stars and Suffrage",
-		"mix_id": "4214648806"
+		"mix_id": "4183889226"
 	},
 	"4002419096": {
 		"name": "Test of Conviction",
-		"mix_id": "1460633236"
+		"mix_id": "1845984949"
 	},
 	"4004823774": {
 		"name": "TR-9 Cavalier of Democracy",
@@ -1193,7 +1197,7 @@
 	},
 	"4053116626": {
 		"name": "Finger Guns",
-		"mix_id": "175121524"
+		"mix_id": "3432499358"
 	},
 	"4066886572": {
 		"name": "Increased Reinforcement Budget",
@@ -1213,7 +1217,7 @@
 	},
 	"4111053667": {
 		"name": "Agent of Oblivion",
-		"mix_id": "3575510428"
+		"mix_id": "951988742"
 	},
 	"4111545584": {
 		"name": "SA-04 Combat Technician",
@@ -1221,7 +1225,7 @@
 	},
 	"4114132787": {
 		"name": "Unblemished Allegiance",
-		"mix_id": "3390016048"
+		"mix_id": "3341699748"
 	},
 	"4118634958": {
 		"name": "SC-15 Drone Master",
@@ -1229,23 +1233,23 @@
 	},
 	"4124916847": {
 		"name": "Unblemished Allegiance",
-		"mix_id": "260893593"
+		"mix_id": "173588011"
 	},
 	"4136928865": {
 		"name": "UAV Recon Booster",
-		"mix_id": "752209840"
+		"mix_id": "1180159923"
 	},
 	"4174163718": {
 		"name": "Super Person",
-		"mix_id": "3814689025"
+		"mix_id": "1902002635"
 	},
 	"4176085421": {
 		"name": "Blazing Samaritan",
-		"mix_id": "260893593"
+		"mix_id": "173588011"
 	},
 	"4184451498": {
 		"name": "Mime Instrumentation",
-		"mix_id": "2098566667"
+		"mix_id": "2797735596"
 	},
 	"4191752871": {
 		"name": "TR-40 Gold Eagle",
@@ -1265,7 +1269,7 @@
 	},
 	"4236565715": {
 		"name": "Cresting Honor",
-		"mix_id": "263432881"
+		"mix_id": "1822099498"
 	},
 	"4242416506": {
 		"name": "CE-81 Juggernaut",
@@ -1281,10 +1285,10 @@
 	},
 	"4273318008": {
 		"name": "Flexible Reinforcement Budget",
-		"mix_id": "524452461"
+		"mix_id": "4219002488"
 	},
 	"4282790522": {
 		"name": "Dissident's Nightmare",
-		"mix_id": "2291496096"
+		"mix_id": "3750644442"
 	}
-}
+}	
