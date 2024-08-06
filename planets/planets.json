@@ -232,7 +232,7 @@
 	"9": {
 		"name": "Fornskogur II",
 		"sector": "Barnard",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -766,7 +766,7 @@
 	"30": {
 		"name": "Veil",
 		"sector": "Barnard",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -918,7 +918,7 @@
 	"36": {
 		"name": "Solghast",
 		"sector": "Gothmar",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -1096,7 +1096,7 @@
 	"43": {
 		"name": "Barabos",
 		"sector": "Marspira",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -1299,7 +1299,7 @@
 	"51": {
 		"name": "Ivis",
 		"sector": "Celeste",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -1475,7 +1475,7 @@
 	"58": {
 		"name": "Parsh",
 		"sector": "Rictus",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -1962,7 +1962,7 @@
 	"77": {
 		"name": "Cirrus",
 		"sector": "Orion",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -2216,7 +2216,7 @@
 	"87": {
 		"name": "Bashyr",
 		"sector": "Gallux",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -2522,7 +2522,7 @@
 	"99": {
 		"name": "Alderidge Cove",
 		"sector": "Guang",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -2572,7 +2572,7 @@
 	"101": {
 		"name": "East Iridium Trading Bay",
 		"sector": "Tarragon",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -2876,7 +2876,7 @@
 	"113": {
 		"name": "Aesir Pass",
 		"sector": "Hydra",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -2926,7 +2926,7 @@
 	"115": {
 		"name": "Penta",
 		"sector": "Lacaille",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -3131,9 +3131,9 @@
 	"123": {
 		"name": "Socorro III",
 		"sector": "Falstaff",
-		"biome": "ethereal",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"none"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "SOCORRO III",
@@ -3156,7 +3156,7 @@
 	"124": {
 		"name": "Bore Rock",
 		"sector": "Falstaff",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -3486,7 +3486,7 @@
 	"137": {
 		"name": "Ain-5",
 		"sector": "Hanzo",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -3561,7 +3561,7 @@
 	"140": {
 		"name": "Alaraph",
 		"sector": "Akira",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -3637,7 +3637,7 @@
 	"143": {
 		"name": "Asperoth Prime",
 		"sector": "Akira",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -3815,7 +3815,7 @@
 	"150": {
 		"name": "Caph",
 		"sector": "Theseus",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -3917,7 +3917,7 @@
 	"154": {
 		"name": "Mort",
 		"sector": "Xzar",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -4119,7 +4119,7 @@
 	"162": {
 		"name": "Clasa",
 		"sector": "Tanis",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -4347,7 +4347,7 @@
 	"171": {
 		"name": "Gacrux",
 		"sector": "Jin Xi",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -4500,7 +4500,7 @@
 	"177": {
 		"name": "Haka",
 		"sector": "Leo",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -4525,7 +4525,7 @@
 	"178": {
 		"name": "Haldus",
 		"sector": "Ferris",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -5319,7 +5319,7 @@
 	"209": {
 		"name": "Nabatea Secundus",
 		"sector": "L'estrade",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -5370,7 +5370,7 @@
 	"211": {
 		"name": "Nivel 43",
 		"sector": "Mirin",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -5446,7 +5446,7 @@
 	"214": {
 		"name": "Pandion-XXIV",
 		"sector": "Jin Xi",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -5548,7 +5548,7 @@
 	"218": {
 		"name": "Pherkad Secundus",
 		"sector": "Farsight",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -5778,7 +5778,7 @@
 	"227": {
 		"name": "Seasse",
 		"sector": "Omega",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
@@ -5930,7 +5930,7 @@
 	"233": {
 		"name": "Skat Bay",
 		"sector": "Xi Tauri",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -6108,7 +6108,7 @@
 	"240": {
 		"name": "Troost",
 		"sector": "Trigon",
-		"biome": "swamp",
+		"biome": "wasteland",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -6338,7 +6338,7 @@
 	"249": {
 		"name": "X-45",
 		"sector": "Ymir",
-		"biome": "dense_jungle",
+		"biome": "swamp",
 		"environmentals": [
 			"rainstorms"
 		],
