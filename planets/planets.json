@@ -209,7 +209,6 @@
 		"sector": "Barnard",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -464,7 +463,6 @@
 		"sector": "Idun",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -1328,7 +1326,6 @@
 		"sector": "Celeste",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -1916,7 +1913,6 @@
 		"sector": "Falstaff",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -2145,7 +2141,6 @@
 		"sector": "Ursa",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -3062,7 +3057,6 @@
 		"sector": "Arturion",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -3265,7 +3259,6 @@
 		"sector": "Borgus",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -3697,7 +3690,6 @@
 		"sector": "Guang",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -3977,7 +3969,6 @@
 		"sector": "Andromeda",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -4079,7 +4070,6 @@
 		"sector": "Lacaille",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -4923,7 +4913,6 @@
 		"sector": "Quintus",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -5766,7 +5755,6 @@
 		"sector": "Rigel",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -5868,7 +5856,6 @@
 		"sector": "Xi Tauri",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
@@ -6251,7 +6238,6 @@
 		"sector": "Ymir",
 		"biome": "toxic",
 		"environmentals": [
-			"intense_heat",
 			"acid_storms"
 		],
 		"names": {
