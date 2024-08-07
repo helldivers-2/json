@@ -41,7 +41,7 @@
 	},
 	"acid_storms": {
 		"name": "Acid Storms",
-		"description": "Violent acid storms reduce visibility."
+		"description": "Corrosive acid storms temporarily reduce armor effectiveness for both enemy and friendly units."
 	},
 	"volcanic_activity": {
 		"name": "Volcanic Activity",

@@ -43,8 +43,8 @@
 		"name": "Tundra",
 		"description": "A perennially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
 	},
-	"swamp": {
-		"name": "Swamp",
+	"wasteland": {
+		"name": "Wasteland",
 		"description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
 	},
 	"desolate": {
@@ -67,8 +67,12 @@
 		"name": "Toxic",
 		"description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
 	},
-	"dense_jungle": {
-		"name": "Dense Jungle",
+	"swamp": {
+		"name": "Swamp",
 		"description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated udnergrowth below."
+	},
+	"foggy_swamp": {
+		"name": "Foggy Swamp",
+		"description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
 	}
 }
