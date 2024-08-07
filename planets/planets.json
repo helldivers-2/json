@@ -664,10 +664,9 @@
 	"26": {
 		"name": "Nublaria I",
 		"sector": "Celeste",
-		"biome": "jungle",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"volcanic_activity",
-			"rainstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "NUBLARIA I",
@@ -918,7 +917,7 @@
 	"36": {
 		"name": "Solghast",
 		"sector": "Gothmar",
-		"biome": "wasteland",
+		"biome": "foggy_swamp",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -1046,9 +1045,9 @@
 	"41": {
 		"name": "Atrama",
 		"sector": "Idun",
-		"biome": "rainforest",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"ion_storms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "ATRAMA",
@@ -1705,10 +1704,9 @@
 	"67": {
 		"name": "Tarsh",
 		"sector": "Marspira",
-		"biome": "winter",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"extreme_cold",
-			"blizzards"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "TARSH",
@@ -1808,10 +1806,9 @@
 	"71": {
 		"name": "Ratch",
 		"sector": "Iptus",
-		"biome": "mesa",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"intense_heat",
-			"sandstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "RATCH",
@@ -2216,7 +2213,7 @@
 	"87": {
 		"name": "Bashyr",
 		"sector": "Gallux",
-		"biome": "wasteland",
+		"biome": "foggy_swamp",
 		"environmentals": [
 			"thick_fog"
 		],
@@ -2241,10 +2238,9 @@
 	"88": {
 		"name": "Regnus",
 		"sector": "Morgon",
-		"biome": "jungle",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"volcanic_activity",
-			"rainstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "REGNUS",
@@ -4372,10 +4368,9 @@
 	"172": {
 		"name": "Gar Haren",
 		"sector": "Jin Xi",
-		"biome": "jungle",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"volcanic_activity",
-			"rainstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "GAR HAREN",
@@ -4757,10 +4752,9 @@
 	"187": {
 		"name": "Khandark",
 		"sector": "Guang",
-		"biome": "winter",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"extreme_cold",
-			"blizzards"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "KHANDARK",
@@ -4783,10 +4777,9 @@
 	"188": {
 		"name": "Klaka 5",
 		"sector": "Alstrad",
-		"biome": "jungle",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"volcanic_activity",
-			"rainstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "KLAKA 5",
@@ -5217,10 +5210,9 @@
 	"205": {
 		"name": "Merga IV",
 		"sector": "Valdis",
-		"biome": "winter",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"extreme_cold",
-			"blizzards"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "MERGA IV",
@@ -5828,10 +5820,9 @@
 	"229": {
 		"name": "Setia",
 		"sector": "Omega",
-		"biome": "mesa",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"intense_heat",
-			"sandstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "SETIA",
@@ -6465,10 +6456,9 @@
 	"254": {
 		"name": "Skitter",
 		"sector": "Hawking",
-		"biome": "highlands",
+		"biome": "foggy_swamp",
 		"environmentals": [
-			"thick_fog",
-			"rainstorms"
+			"thick_fog"
 		],
 		"names": {
 			"en-US": "SKITTER",
