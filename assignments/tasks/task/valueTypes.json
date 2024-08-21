@@ -2,6 +2,7 @@
 	"1": "race",
 	"2": "unknown",
 	"3": "goal",
+	"4": "enemy_id",
 	"5": "item_id",
 	"11": "liberate",
 	"12": "planet_index"
