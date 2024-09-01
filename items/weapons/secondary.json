@@ -92,5 +92,19 @@
 			1,
 			4
 		]
+	},
+	"2340232366": {
+		"name": "P-72 Crisper",
+		"description": "A compact handgun-style flamethrower, able to project a jet of fire over short distances.",
+		"damage": 250,
+		"capacity": 30,
+		"recoil": 3,
+		"fire_rate": 0,
+		"fire_mode": [],
+		"traits": [
+			2,
+			4,
+			7
+		]
 	}
 }

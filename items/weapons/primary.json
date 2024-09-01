@@ -389,5 +389,36 @@
 			1,
 			4
 		]
+	},
+	"1321109120": {
+		"name": "SG-451 Cookout",
+		"description": "A pump shotgun that fires a burst of incendiary phosphorus pellets, setting targets ablaze.",
+		"type": 2,
+		"damage": 320,
+		"capacity": 16,
+		"recoil": 100,
+		"fire_rate": 80,
+		"fire_mode": [
+			3
+		],
+		"traits": [
+			1,
+			5,
+			7
+		]
+	},
+	"4108040377": {
+		"name": "FLAM-66 Torcher",
+		"description": "A lightweight flamethrower. Shoots pressurized fuel through a dispersion nozzle into an open flame",
+		"type": 7,
+		"damage": 250,
+		"capacity": 80,
+		"recoil": 3,
+		"fire_rate": 0,
+		"fire_mode": [],
+		"traits": [
+			2,
+			7
+		]
 	}
 }
