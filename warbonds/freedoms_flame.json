@@ -1,0 +1,105 @@
+{
+	"1": {
+		"medals_to_unlock": 0,
+		"items": [
+			{
+				"item_id": 4219002488,
+				"medal_cost": 7
+			},
+			{
+				"item_id": 3519706084,
+				"medal_cost": 10
+			},
+			{
+				"item_id": 3765579043,
+				"medal_cost": 2
+			},
+			{
+				"item_id": 3015649355,
+				"medal_cost": 18
+			},
+			{
+				"item_id": 3316979892,
+				"medal_cost": 12
+			},
+			{
+				"item_id": 160503527,
+				"medal_cost": 8
+			},
+			{
+				"item_id": 1321109120,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 3702613996,
+				"medal_cost": 8
+			}
+		]
+	},
+	"2": {
+		"medals_to_unlock": 60,
+		"items": [
+			{
+				"item_id": 2160784978,
+				"medal_cost": 15
+			},
+			{
+				"item_id": 4108040377,
+				"medal_cost": 40
+			},
+			{
+				"item_id": 955771480,
+				"medal_cost": 5
+			},
+			{
+				"item_id": 267424901,
+				"medal_cost": 45
+			},
+			{
+				"seasonPassItemId": 433,
+				"item_id": 2794703739
+			},
+			{
+				"item_id": 3867039847,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 12
+			},
+			{
+				"item_id": 3009693857,
+				"medal_cost": 25
+			}
+		]
+	},
+	"3": {
+		"medals_to_unlock": 230,
+		"items": [
+			{
+				"item_id": 989999752,
+				"medal_cost": 40
+			},
+			{
+				"item_id": 3102833400,
+				"medal_cost": 60
+			},
+			{
+				"item_id": 2340232366,
+				"medal_cost": 45
+			},
+			{
+				"item_id": 1609244204,
+				"medal_cost": 35
+			},
+			{
+				"item_id": 2724145698,
+				"medal_cost": 20
+			},
+			{
+				"item_id": 4219002488,
+				"medal_cost": 32
+			}
+		]
+	}
+}
