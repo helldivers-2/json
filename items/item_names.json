@@ -17,19 +17,19 @@
 	},
 	"34232232": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "2231876405"
+		"mix_id": "34232232"
 	},
 	"41315794": {
 		"name": "Executioner's Canopy",
-		"mix_id": "1227146212"
+		"mix_id": "41315794"
 	},
 	"58483197": {
 		"name": "SA-25 Steel Trooper",
-		"mix_id": "4072133621"
+		"mix_id": "3672418116"
 	},
 	"72872360": {
 		"name": "Martyris Rex",
-		"mix_id": "2233438327"
+		"mix_id": "72872360"
 	},
 	"90720489": {
 		"name": "FS-55 Devastator",
@@ -37,59 +37,67 @@
 	},
 	"108697242": {
 		"name": "CW-36 Winter Warrior",
-		"mix_id": "3017717209"
+		"mix_id": "3443335388"
 	},
 	"112836163": {
 		"name": "Drape of Glory",
-		"mix_id": "1538571184"
+		"mix_id": "112836163"
 	},
 	"139999425": {
 		"name": "DP-53 Savior of the Free",
 		"mix_id": "1296068557"
 	},
+	"160503527": {
+		"name": "Purifying Eclipse",
+		"mix_id": "160503527"
+	},
 	"161123434": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "692583206"
+		"mix_id": "1521442150"
 	},
 	"197210556": {
 		"name": "SA-25 Steel Trooper",
-		"mix_id": "1558906438"
+		"mix_id": "2745690429"
 	},
 	"198334139": {
 		"name": "High-Five",
-		"mix_id": "4268434421"
+		"mix_id": "198334139"
 	},
 	"202045192": {
 		"name": "FS-05 Marksman",
-		"mix_id": "1332530540"
+		"mix_id": "202045192"
 	},
 	"224494684": {
 		"name": "Tyrant Hunter",
-		"mix_id": "3222355031"
+		"mix_id": "224494684"
 	},
 	"255960702": {
 		"name": "FS-05 Marksman",
-		"mix_id": "3574625014"
+		"mix_id": "255960702"
+	},
+	"267424901": {
+		"name": "I-102 Draconaught",
+		"mix_id": "267424901"
 	},
 	"275807529": {
 		"name": "B-01 Tactical",
-		"mix_id": "1565347406"
+		"mix_id": "275807529"
 	},
 	"285943304": {
 		"name": "Beacon of Mercy",
-		"mix_id": "1490803405"
+		"mix_id": "285943304"
 	},
 	"291340630": {
 		"name": "Executioner's Canopy",
-		"mix_id": "1672102597"
+		"mix_id": "291340630"
 	},
 	"308572558": {
 		"name": "Freedom's Tapestry",
-		"mix_id": "2116929049"
+		"mix_id": "308572558"
 	},
 	"309304502": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "2695783738"
+		"mix_id": "309304502"
 	},
 	"325695835": {
 		"name": "B-01 Tactical",
@@ -101,19 +109,19 @@
 	},
 	"339272294": {
 		"name": "R-36 Eruptor",
-		"mix_id": "1745784928"
+		"mix_id": "339272294"
 	},
 	"375014954": {
 		"name": "G-23 Stun",
-		"mix_id": "3207983096"
+		"mix_id": "375014954"
 	},
 	"376039023": {
 		"name": "AR-23C Liberator Concussive",
-		"mix_id": "1755983237"
+		"mix_id": "376039023"
 	},
 	"377236948": {
 		"name": "EX-00 Prototype X",
-		"mix_id": "470325800"
+		"mix_id": "3517336259"
 	},
 	"470325800": {
 		"name": "TR-40 Gold Eagle",
@@ -125,7 +133,7 @@
 	},
 	"482071040": {
 		"name": "Boxer",
-		"mix_id": "1184552158"
+		"mix_id": "482071040"
 	},
 	"487470129": {
 		"name": "B-01 Tactical",
@@ -165,7 +173,7 @@
 	},
 	"605306049": {
 		"name": "Pinions of Everlasting Glory",
-		"mix_id": "1671625986"
+		"mix_id": "605306049"
 	},
 	"618911418": {
 		"name": "EX-03 Prototype 3",
@@ -177,7 +185,7 @@
 	},
 	"627197346": {
 		"name": "CE-35 Trench Engineer",
-		"mix_id": "334465566"
+		"mix_id": "4216001108"
 	},
 	"639388242": {
 		"name": "B-01 Tactical",
@@ -193,27 +201,31 @@
 	},
 	"663691115": {
 		"name": "Viper Commando",
-		"mix_id": "3106805633"
+		"mix_id": "663691115"
+	},
+	"683079503": {
+		"name": "I-44 Salamander",
+		"mix_id": "683079503"
 	},
 	"684729784": {
 		"name": "Stamina Enhancement",
-		"mix_id": "194169119"
+		"mix_id": "684729784"
 	},
 	"726539469": {
 		"name": "CM-09 Bonesnapper",
-		"mix_id": "1845984949"
+		"mix_id": "476841466"
 	},
 	"734807139": {
 		"name": "Botslayer",
-		"mix_id": "3996028128"
+		"mix_id": "734807139"
 	},
 	"752209840": {
 		"name": "Independence Bringer",
-		"mix_id": "660150049"
+		"mix_id": "752209840"
 	},
 	"752968066": {
 		"name": "1000 Super Credits",
-		"mix_id": "308572558"
+		"mix_id": "752968066"
 	},
 	"773157227": {
 		"name": "FS-61 Dreadnought",
@@ -221,7 +233,7 @@
 	},
 	"788445221": {
 		"name": "2100 Super Credits",
-		"mix_id": "2098201552"
+		"mix_id": "788445221"
 	},
 	"793893084": {
 		"name": "TR-117 Alpha Commander",
@@ -229,23 +241,23 @@
 	},
 	"824775809": {
 		"name": "CE-64 Grenadier",
-		"mix_id": "362077217"
+		"mix_id": "1732669856"
 	},
 	"825115965": {
 		"name": "Courtly Bow",
-		"mix_id": "3054894405"
+		"mix_id": "825115965"
 	},
 	"836157113": {
 		"name": "Rock Paper Scissors",
-		"mix_id": "2739946883"
+		"mix_id": "836157113"
 	},
 	"843390517": {
 		"name": "Mantle of True Citizenship",
-		"mix_id": "3351719371"
+		"mix_id": "843390517"
 	},
 	"854794995": {
 		"name": "Harbinger of True Equality",
-		"mix_id": "1934028230"
+		"mix_id": "854794995"
 	},
 	"856924396": {
 		"name": "TR-62 Knight",
@@ -253,19 +265,19 @@
 	},
 	"860720602": {
 		"name": "Blazing Samaritan",
-		"mix_id": "1794436168"
+		"mix_id": "860720602"
 	},
 	"865246378": {
 		"name": "Fallen Hero’s Vengeance",
-		"mix_id": "436363760"
+		"mix_id": "865246378"
 	},
 	"876985512": {
 		"name": "Localization Confusion",
-		"mix_id": "1141506217"
+		"mix_id": "876985512"
 	},
 	"897894480": {
 		"name": "Medal",
-		"mix_id": "236802872"
+		"mix_id": "897894480"
 	},
 	"904434511": {
 		"name": "TR-7 Ambassador of the Brand",
@@ -273,23 +285,23 @@
 	},
 	"910516311": {
 		"name": "FS-05 Marksman",
-		"mix_id": "1386151525"
+		"mix_id": "910516311"
 	},
 	"911872437": {
 		"name": "150 Super Credits",
-		"mix_id": "2116929049"
+		"mix_id": "911872437"
 	},
 	"924530093": {
 		"name": "R-63CS Diligence Counter Sniper",
-		"mix_id": "127822328"
+		"mix_id": "924530093"
 	},
 	"925809350": {
 		"name": "PLAS-1 Scorcher",
-		"mix_id": "392418213"
+		"mix_id": "925809350"
 	},
 	"942049262": {
 		"name": "SMG-72 Pummeler",
-		"mix_id": "362077217"
+		"mix_id": "942049262"
 	},
 	"950673533": {
 		"name": "CM-14 Physician",
@@ -299,17 +311,25 @@
 		"name": "FS-34 Exterminator",
 		"mix_id": "1781176310"
 	},
+	"955771480": {
+		"name": "The Breach",
+		"mix_id": "955771480"
+	},
 	"965539214": {
 		"name": "Order of the Venerated Ballot",
-		"mix_id": "2038745167"
+		"mix_id": "965539214"
+	},
+	"989999752": {
+		"name": "Safety Orange Exosuit Pattern",
+		"mix_id": "4059250722"
 	},
 	"999487482": {
 		"name": "ARC-12 Blitzer",
-		"mix_id": "4004823774"
+		"mix_id": "999487482"
 	},
 	"1004735217": {
 		"name": "EX-03 Prototype 3",
-		"mix_id": "1822099498"
+		"mix_id": "2327628884"
 	},
 	"1010744048": {
 		"name": "SA-32 Dynamo",
@@ -317,7 +337,7 @@
 	},
 	"1067957260": {
 		"name": "Light of Eternal Liberty",
-		"mix_id": "4118634958"
+		"mix_id": "1067957260"
 	},
 	"1084741268": {
 		"name": "B-01 Tactical",
@@ -325,7 +345,7 @@
 	},
 	"1090563915": {
 		"name": "Tyrant Hunter",
-		"mix_id": "3562165021"
+		"mix_id": "1090563915"
 	},
 	"1092689023": {
 		"name": "B-24 Enforcer",
@@ -333,15 +353,15 @@
 	},
 	"1110686504": {
 		"name": "Vitality Enhancement",
-		"mix_id": "2327628884"
+		"mix_id": "1110686504"
 	},
 	"1146282869": {
 		"name": "FS-05 Marksman",
-		"mix_id": "1964594095"
+		"mix_id": "1146282869"
 	},
 	"1160920394": {
 		"name": "AR-23A Liberator Carbine",
-		"mix_id": "3295898003"
+		"mix_id": "1160920394"
 	},
 	"1171786296": {
 		"name": "B-01 Tactical",
@@ -349,15 +369,15 @@
 	},
 	"1180159923": {
 		"name": "Foesmasher",
-		"mix_id": "2040137691"
+		"mix_id": "1180159923"
 	},
 	"1182300424": {
 		"name": "SG-225 Breaker",
-		"mix_id": "362157"
+		"mix_id": "1182300424"
 	},
 	"1200031688": {
 		"name": "Explosive Handshake",
-		"mix_id": "2207713849"
+		"mix_id": "1200031688"
 	},
 	"1210216079": {
 		"name": "B-08 Light Gunner",
@@ -365,23 +385,35 @@
 	},
 	"1223759745": {
 		"name": "EX-16 Prototype 16",
-		"mix_id": "449813757"
+		"mix_id": "2855449476"
 	},
 	"1227146212": {
 		"name": "Distribute Ballots",
-		"mix_id": "4154519974"
+		"mix_id": "1227146212"
 	},
 	"1232734620": {
 		"name": "Call the Helldivers",
-		"mix_id": "3889850488"
+		"mix_id": "1232734620"
+	},
+	"1240391202": {
+		"name": "I-92 Fire Fighter",
+		"mix_id": "1240391202"
+	},
+	"1282140582": {
+		"name": "I-44 Salamander",
+		"mix_id": "1282140582"
 	},
 	"1318035279": {
 		"name": "SA-04 Combat Technician",
 		"mix_id": "4111545584"
 	},
+	"1321109120": {
+		"name": "SG-451 Cookout",
+		"mix_id": "1321109120"
+	},
 	"1332530540": {
 		"name": "B-01 Tactical",
-		"mix_id": "1180159923"
+		"mix_id": "1332530540"
 	},
 	"1333768893": {
 		"name": "B-01 Tactical",
@@ -389,23 +421,23 @@
 	},
 	"1335058381": {
 		"name": "CW-9 White Wolf",
-		"mix_id": "3544585106"
+		"mix_id": "3017717209"
 	},
 	"1337976685": {
 		"name": "Cloak of Posterity's Gratitude",
-		"mix_id": "2362677051"
+		"mix_id": "1337976685"
 	},
 	"1351560655": {
 		"name": "Squat",
-		"mix_id": "4235215644"
+		"mix_id": "1351560655"
 	},
 	"1374036584": {
 		"name": "P-4 Senator",
-		"mix_id": "2379082403"
+		"mix_id": "1374036584"
 	},
 	"1376017051": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "257417338"
+		"mix_id": "1376017051"
 	},
 	"1386151525": {
 		"name": "FS-05 Marksman",
@@ -417,11 +449,11 @@
 	},
 	"1404455928": {
 		"name": "Cresting Honor",
-		"mix_id": "3186527793"
+		"mix_id": "1404455928"
 	},
 	"1419215247": {
 		"name": "Welcome Adoration",
-		"mix_id": "339432684"
+		"mix_id": "1419215247"
 	},
 	"1447229978": {
 		"name": "FS-11 Executioner",
@@ -429,15 +461,15 @@
 	},
 	"1452909167": {
 		"name": "FS-23 Battle Master",
-		"mix_id": "3176495594"
+		"mix_id": "513033465"
 	},
 	"1456717076": {
 		"name": "375 Super Credits",
-		"mix_id": "3618831709"
+		"mix_id": "1456717076"
 	},
 	"1460633236": {
 		"name": "Stars and Suffrage",
-		"mix_id": "1558906438"
+		"mix_id": "1460633236"
 	},
 	"1490803405": {
 		"name": "FS-05 Marksman",
@@ -445,11 +477,11 @@
 	},
 	"1494299745": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "1742775424"
+		"mix_id": "3666591402"
 	},
 	"1508758952": {
 		"name": "Scout Handshake",
-		"mix_id": "999215554"
+		"mix_id": "1508758952"
 	},
 	"1511511766": {
 		"name": "CE-07 Demolition Specialist",
@@ -461,7 +493,7 @@
 	},
 	"1533004132": {
 		"name": "DP-11 Champion of the People",
-		"mix_id": "2742141597"
+		"mix_id": "4016909011"
 	},
 	"1538571184": {
 		"name": "SC-34 Infiltrator",
@@ -469,7 +501,7 @@
 	},
 	"1545242578": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "612174174"
+		"mix_id": "1545242578"
 	},
 	"1546684370": {
 		"name": "DP-40 Hero of the Federation",
@@ -483,6 +515,10 @@
 		"name": "SC-37 Legionnaire",
 		"mix_id": "4084902841"
 	},
+	"1609244204": {
+		"name": "Thoracic Collision Exultation Maneuver",
+		"mix_id": "1609244204"
+	},
 	"1625732159": {
 		"name": "CW-36 Winter Warrior",
 		"mix_id": "1776293941"
@@ -493,7 +529,7 @@
 	},
 	"1664632640": {
 		"name": "PH-202 Twigsnapper",
-		"mix_id": "1846720240"
+		"mix_id": "3731036712"
 	},
 	"1666296234": {
 		"name": "B-01 Tactical",
@@ -501,15 +537,15 @@
 	},
 	"1675214662": {
 		"name": "SA-12 Servo Assisted",
-		"mix_id": "1154596376"
+		"mix_id": "2362677051"
 	},
 	"1676113140": {
 		"name": "AR-23P Liberator Penetrator",
-		"mix_id": "1891296042"
+		"mix_id": "1676113140"
 	},
 	"1680230884": {
 		"name": "Big Whoop",
-		"mix_id": "2474408748"
+		"mix_id": "1680230884"
 	},
 	"1707113970": {
 		"name": "CE-07 Demolition Specialist",
@@ -517,31 +553,31 @@
 	},
 	"1740717999": {
 		"name": "CW-4 Arctic Ranger",
-		"mix_id": "2846232719"
+		"mix_id": "3106805633"
 	},
 	"1745784928": {
 		"name": "Freedom's Tapestry",
-		"mix_id": "1351560655"
+		"mix_id": "1745784928"
 	},
 	"1755983237": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "3078242205"
+		"mix_id": "1755983237"
 	},
 	"1773333561": {
 		"name": "B-01 Tactical",
-		"mix_id": "1413763782"
+		"mix_id": "1773333561"
 	},
 	"1790198010": {
 		"name": "Wings of Valor",
-		"mix_id": "295629711"
+		"mix_id": "1790198010"
 	},
 	"1794436168": {
 		"name": "LAS-16 Sickle",
-		"mix_id": "1154596376"
+		"mix_id": "1794436168"
 	},
 	"1820995838": {
 		"name": "Shotgun Show",
-		"mix_id": "627785620"
+		"mix_id": "1820995838"
 	},
 	"1831924614": {
 		"name": "B-01 Tactical",
@@ -549,27 +585,27 @@
 	},
 	"1845984949": {
 		"name": "Tideturner",
-		"mix_id": "4067532136"
+		"mix_id": "1845984949"
 	},
 	"1853027475": {
 		"name": "Light of Eternal Liberty",
-		"mix_id": "1573077054"
+		"mix_id": "1853027475"
 	},
 	"1853367679": {
 		"name": "EX-00 Prototype X",
-		"mix_id": "3652447109"
+		"mix_id": "3618831709"
 	},
 	"1858752103": {
 		"name": "K-2 Throwing Knife",
-		"mix_id": "999487482"
+		"mix_id": "1858752103"
 	},
 	"1861407750": {
 		"name": "Independence Bringer",
-		"mix_id": "3011735635"
+		"mix_id": "1861407750"
 	},
 	"1877242796": {
 		"name": "PH-9 Predator",
-		"mix_id": "258336222"
+		"mix_id": "1924428455"
 	},
 	"1887719913": {
 		"name": "B-01 Tactical",
@@ -577,11 +613,11 @@
 	},
 	"1908198785": {
 		"name": "Hellpod Space Optimization",
-		"mix_id": "322836442"
+		"mix_id": "1908198785"
 	},
 	"1920374015": {
 		"name": "AR-61 Tenderizer",
-		"mix_id": "1999963265"
+		"mix_id": "1920374015"
 	},
 	"1934028230": {
 		"name": "TR-62 Knight",
@@ -589,19 +625,19 @@
 	},
 	"1938200223": {
 		"name": "P-113 Verdict",
-		"mix_id": "2519447876"
+		"mix_id": "1938200223"
 	},
 	"1942567317": {
 		"name": "CB-9 Exploding Crossbow",
-		"mix_id": "1511511766"
+		"mix_id": "1942567317"
 	},
 	"1964594095": {
 		"name": "Clapping",
-		"mix_id": "295629711"
+		"mix_id": "1964594095"
 	},
 	"1975248972": {
 		"name": "Undergrowth Hellpod Pattern",
-		"mix_id": "2057529955"
+		"mix_id": "3119538034"
 	},
 	"2006219485": {
 		"name": "FS-11 Executioner",
@@ -609,7 +645,7 @@
 	},
 	"2007907056": {
 		"name": "Will of the People",
-		"mix_id": "3715278879"
+		"mix_id": "2007907056"
 	},
 	"2033511819": {
 		"name": "FS-37 Ravager",
@@ -617,11 +653,11 @@
 	},
 	"2037274048": {
 		"name": "FS-23 Battle Master",
-		"mix_id": "4218113336"
+		"mix_id": "651522724"
 	},
 	"2040543168": {
 		"name": "Eagle's Fury",
-		"mix_id": "1673399986"
+		"mix_id": "2040543168"
 	},
 	"2047279903": {
 		"name": "CM-10 Clinician",
@@ -633,31 +669,31 @@
 	},
 	"2076005753": {
 		"name": "DP-40 Hero of the Federation",
-		"mix_id": "1400802885"
+		"mix_id": "3037986132"
 	},
 	"2086772989": {
 		"name": "Head Tap",
-		"mix_id": "4289554273"
+		"mix_id": "2086772989"
 	},
 	"2088854385": {
 		"name": "SG-8 Punisher",
-		"mix_id": "1713239419"
+		"mix_id": "2088854385"
 	},
 	"2098201552": {
 		"name": "Harbinger of True Equality",
-		"mix_id": "3566084877"
+		"mix_id": "2098201552"
 	},
 	"2119654064": {
 		"name": "Eagle's Fury",
-		"mix_id": "569921498"
+		"mix_id": "2119654064"
 	},
 	"2121387072": {
 		"name": "JAR-5 Dominator",
-		"mix_id": "3605674268"
+		"mix_id": "2121387072"
 	},
 	"2121537836": {
 		"name": "CW-36 Winter Warrior",
-		"mix_id": "19638478"
+		"mix_id": "190632838"
 	},
 	"2128569605": {
 		"name": "CE-27 Ground Breaker",
@@ -665,15 +701,19 @@
 	},
 	"2137194125": {
 		"name": "CE-35 Trench Engineer",
-		"mix_id": "3797678333"
+		"mix_id": "2952500571"
 	},
 	"2141363041": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "2185045091"
+		"mix_id": "2141363041"
 	},
 	"2150790862": {
 		"name": "B-24 Enforcer",
 		"mix_id": "2839523111"
+	},
+	"2160784978": {
+		"name": "Deep Reflection",
+		"mix_id": "2160784978"
 	},
 	"2170995148": {
 		"name": "SC-15 Drone Master",
@@ -681,35 +721,35 @@
 	},
 	"2218652020": {
 		"name": "B-01 Tactical",
-		"mix_id": "3843705076"
+		"mix_id": "2218652020"
 	},
 	"2231876405": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "970450596"
+		"mix_id": "2231876405"
 	},
 	"2246547985": {
 		"name": "SG-8S Slugger",
-		"mix_id": "875551083"
+		"mix_id": "2246547985"
 	},
 	"2255718673": {
 		"name": "CM-14 Physician",
-		"mix_id": "1911525420"
+		"mix_id": "541028876"
 	},
 	"2257162260": {
 		"name": "DP-40 Hero of the Federation",
-		"mix_id": "3910328088"
+		"mix_id": "1546684370"
 	},
 	"2264358800": {
 		"name": "SG-22 Bushwhacker",
-		"mix_id": "3580873492"
+		"mix_id": "2264358800"
 	},
 	"2307301438": {
 		"name": "R-63 Diligence",
-		"mix_id": "85232319"
+		"mix_id": "2307301438"
 	},
 	"2321467216": {
 		"name": "Tideturner",
-		"mix_id": "3847625280"
+		"mix_id": "2321467216"
 	},
 	"2325051543": {
 		"name": "TR-7 Ambassador of the Brand",
@@ -719,9 +759,13 @@
 		"name": "EX-03 Prototype 3",
 		"mix_id": "1004735217"
 	},
+	"2340232366": {
+		"name": "P-72 Crisper",
+		"mix_id": "2340232366"
+	},
 	"2342442877": {
 		"name": "B-24 Enforcer",
-		"mix_id": "376739359"
+		"mix_id": "2342442877"
 	},
 	"2346212818": {
 		"name": "FS-34 Exterminator",
@@ -737,15 +781,15 @@
 	},
 	"2380729224": {
 		"name": "FS-05 Marksman",
-		"mix_id": "2393461238"
+		"mix_id": "1386151525"
 	},
 	"2396807401": {
 		"name": "SA-04 Combat Technician",
-		"mix_id": "4281770248"
+		"mix_id": "3386027321"
 	},
 	"2441344260": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "392418213"
+		"mix_id": "1538571184"
 	},
 	"2483492566": {
 		"name": "TR-9 Cavalier of Democracy",
@@ -753,7 +797,7 @@
 	},
 	"2501707184": {
 		"name": "LAS-7 Dagger",
-		"mix_id": "2161995568"
+		"mix_id": "2501707184"
 	},
 	"2509257439": {
 		"name": "CM-17 Butcher",
@@ -761,7 +805,7 @@
 	},
 	"2538783678": {
 		"name": "CW-9 White Wolf",
-		"mix_id": "3536156897"
+		"mix_id": "1309115822"
 	},
 	"2546928266": {
 		"name": "CE-81 Juggernaut",
@@ -773,27 +817,27 @@
 	},
 	"2575791040": {
 		"name": "Undergrowth Shuttle Pattern",
-		"mix_id": "2509257439"
+		"mix_id": "3520082317"
 	},
 	"2611571391": {
 		"name": "Presentable",
-		"mix_id": "1026506330"
+		"mix_id": "2611571391"
 	},
 	"2640366401": {
 		"name": "BR-14 Adjudicator",
-		"mix_id": "3152472386"
+		"mix_id": "2640366401"
 	},
 	"2646411735": {
 		"name": "Mark of the Crimson Fang",
-		"mix_id": "904434511"
+		"mix_id": "2646411735"
 	},
 	"2653547055": {
 		"name": "Bastion of Integrity",
-		"mix_id": "492560714"
+		"mix_id": "2653547055"
 	},
 	"2665206765": {
 		"name": "Hug",
-		"mix_id": "2823164517"
+		"mix_id": "2665206765"
 	},
 	"2675118910": {
 		"name": "TR-117 Alpha Commander",
@@ -801,11 +845,15 @@
 	},
 	"2709264466": {
 		"name": "Motivational Shocks",
-		"mix_id": "1141506217"
+		"mix_id": "2709264466"
+	},
+	"2724145698": {
+		"name": "Fire Safety Officer",
+		"mix_id": "2724145698"
 	},
 	"2733962024": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "689724506"
+		"mix_id": "2733962024"
 	},
 	"2745690429": {
 		"name": "SA-25 Steel Trooper",
@@ -813,47 +861,51 @@
 	},
 	"2776452811": {
 		"name": "Muscle Enhancement",
-		"mix_id": "3826757243"
+		"mix_id": "2776452811"
 	},
 	"2778260362": {
 		"name": "Botslayer",
-		"mix_id": "1780170724"
+		"mix_id": "2778260362"
 	},
 	"2779185355": {
 		"name": "Unblemished Allegiance",
-		"mix_id": "3073392033"
+		"mix_id": "2779185355"
 	},
 	"2786980659": {
 		"name": "Flex",
-		"mix_id": "1490803405"
+		"mix_id": "2786980659"
 	},
 	"2788735945": {
 		"name": "PH-9 Predator",
-		"mix_id": "470325800"
+		"mix_id": "456121928"
 	},
 	"2792362215": {
 		"name": "CM-17 Butcher",
 		"mix_id": "107122853"
 	},
+	"2794703739": {
+		"name": "I-102 Draconaught",
+		"mix_id": "2794703739"
+	},
 	"2797735596": {
 		"name": "GP-31 Grenade Pistol",
-		"mix_id": "2150790862"
+		"mix_id": "2797735596"
 	},
 	"2821209932": {
 		"name": "SMG-37 Defender",
-		"mix_id": "3905063732"
+		"mix_id": "2821209932"
 	},
 	"2823164517": {
 		"name": "G-16 Impact",
-		"mix_id": "85232319"
+		"mix_id": "2823164517"
 	},
 	"2829569639": {
 		"name": "CW-4 Arctic Ranger",
-		"mix_id": "3260726132"
+		"mix_id": "1672102597"
 	},
 	"2846232719": {
 		"name": "Agent of Oblivion",
-		"mix_id": "681047674"
+		"mix_id": "2846232719"
 	},
 	"2855449476": {
 		"name": "EX-16 Prototype 16",
@@ -861,23 +913,23 @@
 	},
 	"2858087169": {
 		"name": "SA-12 Servo Assisted",
-		"mix_id": "1899255711"
+		"mix_id": "4072133621"
 	},
 	"2871629098": {
 		"name": "Pinions of Everlasting Glory",
-		"mix_id": "349827648"
+		"mix_id": "2871629098"
 	},
 	"2877510587": {
 		"name": "G-3 Smoke",
-		"mix_id": "3905063732"
+		"mix_id": "2877510587"
 	},
 	"2886393549": {
 		"name": "B-24 Enforcer",
-		"mix_id": "392418213"
+		"mix_id": "2886393549"
 	},
 	"2887941494": {
 		"name": "PLAS-101 Purifier",
-		"mix_id": "3576411155"
+		"mix_id": "2887941494"
 	},
 	"2891794937": {
 		"name": "CE-27 Ground Breaker",
@@ -885,7 +937,7 @@
 	},
 	"2948747084": {
 		"name": "DP-11 Champion of the People",
-		"mix_id": "3517538219"
+		"mix_id": "3819612061"
 	},
 	"2951026614": {
 		"name": "CM-06 Combat Medic",
@@ -893,7 +945,7 @@
 	},
 	"2951759505": {
 		"name": "Mantle of True Citizenship",
-		"mix_id": "1958682459"
+		"mix_id": "2951759505"
 	},
 	"2952500571": {
 		"name": "CE-35 Trench Engineer",
@@ -902,6 +954,14 @@
 	"2978704486": {
 		"name": "CM-10 Clinician",
 		"mix_id": "1937229501"
+	},
+	"3009693857": {
+		"name": "Safety Orange Shuttle Pattern",
+		"mix_id": "3009693857"
+	},
+	"3015649355": {
+		"name": "I-09 Heatseeker",
+		"mix_id": "3015649355"
 	},
 	"3020061552": {
 		"name": "B-01 Tactical",
@@ -913,23 +973,27 @@
 	},
 	"3057185732": {
 		"name": "B-01 Tactical",
-		"mix_id": "3935317067"
+		"mix_id": "3057185732"
 	},
 	"3064132714": {
 		"name": "SC-34 Infiltrator",
-		"mix_id": "1979913877"
+		"mix_id": "3064132714"
 	},
 	"3068666625": {
 		"name": "SG-225IE Breaker Incendiary",
-		"mix_id": "1180159923"
+		"mix_id": "3068666625"
+	},
+	"3102833400": {
+		"name": "Firebomb Hellpods",
+		"mix_id": "3102833400"
 	},
 	"3108744452": {
 		"name": "SA-32 Dynamo",
-		"mix_id": "1673399986"
+		"mix_id": "4089246094"
 	},
 	"3151461126": {
 		"name": "Roll 'em",
-		"mix_id": "1887719913"
+		"mix_id": "3151461126"
 	},
 	"3172884100": {
 		"name": "CM-21 Trench Paramedic",
@@ -937,39 +1001,39 @@
 	},
 	"3174960214": {
 		"name": "CW-22 Kodiak",
-		"mix_id": "1172869905"
+		"mix_id": "2446816200"
 	},
 	"3182289738": {
 		"name": "EX-16 Prototype 16",
-		"mix_id": "3176495594"
+		"mix_id": "556660324"
 	},
 	"3182845434": {
 		"name": "CW-22 Kodiak",
-		"mix_id": "3853908447"
+		"mix_id": "1773940042"
 	},
 	"3202051201": {
 		"name": "CM-09 Bonesnapper",
-		"mix_id": "1154596376"
+		"mix_id": "3260726132"
 	},
 	"3222355031": {
 		"name": "You're Next",
-		"mix_id": "2150790862"
+		"mix_id": "3222355031"
 	},
 	"3233367200": {
 		"name": "CE-64 Grenadier",
-		"mix_id": "1067957260"
+		"mix_id": "2086225563"
 	},
 	"3239075772": {
 		"name": "Martyris Rex",
-		"mix_id": "2031253145"
+		"mix_id": "3239075772"
 	},
 	"3247235347": {
 		"name": "SA-32 Dynamo",
-		"mix_id": "1026506330"
+		"mix_id": "1010744048"
 	},
 	"3259725045": {
 		"name": "Judgement Day",
-		"mix_id": "1685231450"
+		"mix_id": "3259725045"
 	},
 	"3260726132": {
 		"name": "CM-09 Bonesnapper",
@@ -977,15 +1041,19 @@
 	},
 	"3295898003": {
 		"name": "G-6 Frag",
-		"mix_id": "392418213"
+		"mix_id": "3295898003"
+	},
+	"3316979892": {
+		"name": "I-09 Heatseeker",
+		"mix_id": "3316979892"
 	},
 	"3359335006": {
 		"name": "Drape of Glory",
-		"mix_id": "3207983096"
+		"mix_id": "3359335006"
 	},
 	"3377389763": {
 		"name": "FS-05 Marksman",
-		"mix_id": "1887719913"
+		"mix_id": "3970674111"
 	},
 	"3386027321": {
 		"name": "SA-04 Combat Technician",
@@ -993,11 +1061,11 @@
 	},
 	"3414381310": {
 		"name": "Dissident's Nightmare",
-		"mix_id": "3901895556"
+		"mix_id": "3414381310"
 	},
 	"3504405746": {
 		"name": "Expert Extraction Pilot",
-		"mix_id": "1029232714"
+		"mix_id": "3504405746"
 	},
 	"3508381787": {
 		"name": "B-27 Fortified Commando",
@@ -1006,6 +1074,10 @@
 	"3517336259": {
 		"name": "EX-00 Prototype X",
 		"mix_id": "377236948"
+	},
+	"3519706084": {
+		"name": "Safety Orange Hellpod Pattern",
+		"mix_id": "1437749716"
 	},
 	"3536156897": {
 		"name": "B-27 Fortified Commando",
@@ -1017,11 +1089,11 @@
 	},
 	"3562998132": {
 		"name": "Liberty's Herald",
-		"mix_id": "263432881"
+		"mix_id": "3562998132"
 	},
 	"3566084877": {
 		"name": "Judgment Day",
-		"mix_id": "3386027321"
+		"mix_id": "3566084877"
 	},
 	"3576411155": {
 		"name": "CM-21 Trench Paramedic",
@@ -1029,7 +1101,7 @@
 	},
 	"3576665453": {
 		"name": "Guns of Liberty",
-		"mix_id": "484660299"
+		"mix_id": "3576665453"
 	},
 	"3583338197": {
 		"name": "B-01 Tactical",
@@ -1037,19 +1109,19 @@
 	},
 	"3598091569": {
 		"name": "Cloak of Posterity's Gratitude",
-		"mix_id": "513033465"
+		"mix_id": "3598091569"
 	},
 	"3605514351": {
 		"name": "EX-03 Prototype 3",
-		"mix_id": "3499930023"
+		"mix_id": "618911418"
 	},
 	"3608481516": {
 		"name": "1 Requisition Credit",
-		"mix_id": "972366152"
+		"mix_id": "3608481516"
 	},
 	"3616764107": {
 		"name": "Justice for All",
-		"mix_id": "474865375"
+		"mix_id": "3616764107"
 	},
 	"3618831709": {
 		"name": "EX-00 Prototype X",
@@ -1057,11 +1129,11 @@
 	},
 	"3642074737": {
 		"name": "FS-05 Marksman",
-		"mix_id": "2266266587"
+		"mix_id": "3642074737"
 	},
 	"3658884708": {
 		"name": "CM-14 Physician",
-		"mix_id": "3795131370"
+		"mix_id": "950673533"
 	},
 	"3664047629": {
 		"name": "FS-38 Eradicator",
@@ -1077,43 +1149,51 @@
 	},
 	"3682449066": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "879717956"
+		"mix_id": "3682449066"
 	},
 	"3690580532": {
 		"name": "Light of Eternal Liberty",
-		"mix_id": "3441477456"
+		"mix_id": "3690580532"
+	},
+	"3702613996": {
+		"name": "Big Stretch",
+		"mix_id": "3702613996"
 	},
 	"3707613985": {
 		"name": "Bastion of Integrity",
-		"mix_id": "3389234783"
+		"mix_id": "3707613985"
 	},
 	"3728566742": {
-		"name": "Undergrowth Exosuit",
-		"mix_id": "3905063732"
+		"name": "Undergrowth Exosuit Pattern",
+		"mix_id": "2895427340"
 	},
 	"3728975654": {
 		"name": "PH-202 Twigsnapper",
-		"mix_id": "2121804577"
+		"mix_id": "1470624541"
 	},
 	"3748104941": {
 		"name": "Loosen Up",
-		"mix_id": "2644341380"
+		"mix_id": "3748104941"
 	},
 	"3748749890": {
 		"name": "G-10 Incendiary",
-		"mix_id": "2862073313"
+		"mix_id": "3748749890"
 	},
 	"3750644442": {
 		"name": "B-01 Tactical",
 		"mix_id": "1742578540"
 	},
+	"3765579043": {
+		"name": "Purifying Eclipse",
+		"mix_id": "3765579043"
+	},
 	"3792160842": {
 		"name": "B-01 Tactical",
-		"mix_id": "2202584672"
+		"mix_id": "3792160842"
 	},
 	"3814689025": {
 		"name": "SG-225SP Breaker Spray&Pray",
-		"mix_id": "3359290157"
+		"mix_id": "3814689025"
 	},
 	"3819612061": {
 		"name": "DP-11 Champion of the People",
@@ -1121,43 +1201,47 @@
 	},
 	"3826757243": {
 		"name": "FS-05 Marksman",
-		"mix_id": "1447229978"
+		"mix_id": "3826757243"
 	},
 	"3866352840": {
 		"name": "LAS-5 Scythe",
-		"mix_id": ""
+		"mix_id": "3866352840"
+	},
+	"3867039847": {
+		"name": "The Breach",
+		"mix_id": "3867039847"
 	},
 	"3869545997": {
 		"name": "G-12 Thermite Grenade",
-		"mix_id": "4116140902"
+		"mix_id": "3869545997"
 	},
 	"3884524834": {
 		"name": "SC-30 Trailblazer Scout",
-		"mix_id": "3432499358"
+		"mix_id": "492895376"
 	},
 	"3889850488": {
 		"name": "50 Super Credits",
-		"mix_id": "2855449476"
+		"mix_id": "3889850488"
 	},
 	"3892781112": {
 		"name": "Order of the Venerated Ballot",
-		"mix_id": "3016424064"
+		"mix_id": "3892781112"
 	},
 	"3897051683": {
 		"name": "Mark of the Crimson Fang",
-		"mix_id": "2522530155"
+		"mix_id": "3897051683"
 	},
 	"3912131454": {
 		"name": "Experimental Infusion",
-		"mix_id": "1820995838"
+		"mix_id": "3912131454"
 	},
 	"3925525294": {
 		"name": "Liberty's Herald",
-		"mix_id": "3545654571"
+		"mix_id": "3925525294"
 	},
 	"3955657629": {
 		"name": "SG-8P Punisher Plasma",
-		"mix_id": "1907808218"
+		"mix_id": "3955657629"
 	},
 	"3970674111": {
 		"name": "FS-05 Marksman",
@@ -1165,15 +1249,15 @@
 	},
 	"3981773112": {
 		"name": "P-19 Redeemer",
-		"mix_id": ""
+		"mix_id": "3981773112"
+	},
+	"3990548579": {
+		"name": "I-92 Fire Fighter",
+		"mix_id": "3990548579"
 	},
 	"3992382197": {
 		"name": "Common Sample",
-		"mix_id": "4238472878"
-	},
-	"2985106497": {
-		"name": "Rare Sample",
-		"mix_id": "2985106497"
+		"mix_id": "3992382197"
 	},
 	"3996028128": {
 		"name": "CE-74 Breaker",
@@ -1185,11 +1269,11 @@
 	},
 	"4000666917": {
 		"name": "The Cape of Stars and Suffrage",
-		"mix_id": "4183889226"
+		"mix_id": "4000666917"
 	},
 	"4002419096": {
 		"name": "Test of Conviction",
-		"mix_id": "1845984949"
+		"mix_id": "4002419096"
 	},
 	"4004823774": {
 		"name": "TR-9 Cavalier of Democracy",
@@ -1201,11 +1285,11 @@
 	},
 	"4053116626": {
 		"name": "Finger Guns",
-		"mix_id": "3432499358"
+		"mix_id": "4053116626"
 	},
 	"4066886572": {
 		"name": "Increased Reinforcement Budget",
-		"mix_id": "115015730"
+		"mix_id": "4066886572"
 	},
 	"4072133621": {
 		"name": "SA-12 Servo-Assisted",
@@ -1219,17 +1303,21 @@
 		"name": "SA-32 Dynamo",
 		"mix_id": "3108744452"
 	},
+	"4108040377": {
+		"name": "FLAM-66 Torcher",
+		"mix_id": "4108040377"
+	},
 	"4111053667": {
 		"name": "Agent of Oblivion",
-		"mix_id": "951988742"
+		"mix_id": "4111053667"
 	},
 	"4111545584": {
 		"name": "SA-04 Combat Technician",
-		"mix_id": "689724506"
+		"mix_id": "1318035279"
 	},
 	"4114132787": {
 		"name": "Unblemished Allegiance",
-		"mix_id": "3341699748"
+		"mix_id": "4114132787"
 	},
 	"4118634958": {
 		"name": "SC-15 Drone Master",
@@ -1237,23 +1325,23 @@
 	},
 	"4124916847": {
 		"name": "Unblemished Allegiance",
-		"mix_id": "173588011"
+		"mix_id": "4124916847"
 	},
 	"4136928865": {
 		"name": "UAV Recon Booster",
-		"mix_id": "1180159923"
+		"mix_id": "4136928865"
 	},
 	"4174163718": {
 		"name": "Super Person",
-		"mix_id": "1902002635"
+		"mix_id": "4174163718"
 	},
 	"4176085421": {
 		"name": "Blazing Samaritan",
-		"mix_id": "173588011"
+		"mix_id": "4176085421"
 	},
 	"4184451498": {
 		"name": "Mime Instrumentation",
-		"mix_id": "2797735596"
+		"mix_id": "4184451498"
 	},
 	"4191752871": {
 		"name": "TR-40 Gold Eagle",
@@ -1265,7 +1353,7 @@
 	},
 	"4219002488": {
 		"name": "100 Super Credits",
-		"mix_id": "1424230639"
+		"mix_id": "4219002488"
 	},
 	"4230001140": {
 		"name": "CW-36 Winter Warrior",
@@ -1273,7 +1361,7 @@
 	},
 	"4236565715": {
 		"name": "Cresting Honor",
-		"mix_id": "1822099498"
+		"mix_id": "4236565715"
 	},
 	"4242416506": {
 		"name": "CE-81 Juggernaut",
@@ -1289,10 +1377,10 @@
 	},
 	"4273318008": {
 		"name": "Flexible Reinforcement Budget",
-		"mix_id": "4219002488"
+		"mix_id": "4273318008"
 	},
 	"4282790522": {
 		"name": "Dissident's Nightmare",
-		"mix_id": "3750644442"
+		"mix_id": "4282790522"
 	}
-}	
+}
