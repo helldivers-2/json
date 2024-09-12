@@ -42,5 +42,9 @@
 	"10": {
 		"name": "Peak Physique",
 		"description": "Increased Melee Damage by 50%. \n Improves weapons handling with less drag on the weapon movement."
+	},
+	"11": {
+		"name": "Inflammable",
+		"description": "Provides 75% damage resistance to fire, allowing bearer to rest assured in the inflammability."
 	}
 }
