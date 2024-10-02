@@ -4,7 +4,7 @@
 		"description": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
 		"damage": 75,
 		"capacity": 15,
-		"recoil": 22,
+		"recoil": 23,
 		"fire_rate": 900,
 		"fire_mode": [
 			0
@@ -19,7 +19,7 @@
 		"description": "A fully-automatic pistol with an extremely high fire rate, allowing for efficient crowd control.",
 		"damage": 60,
 		"capacity": 31,
-		"recoil": 11,
+		"recoil": 15,
 		"fire_rate": 1100,
 		"fire_mode": [
 			0,
@@ -38,7 +38,7 @@
 		"recoil": 43,
 		"fire_rate": 200,
 		"fire_mode": [
-			4
+			0
 		],
 		"traits": [
 			2,
@@ -49,9 +49,9 @@
 	"2501707184": {
 		"name": "LAS-7 Dagger",
 		"description": "A laser pistol that fires a continuous beam. Does not require ammo but can overheat and need to change batteries.",
-		"damage": 150,
-		"capacity": 5,
-		"recoil": 1,
+		"damage": 250,
+		"capacity": 7,
+		"recoil": 0,
 		"fire_rate": 0,
 		"fire_mode": [
 			2
@@ -66,7 +66,7 @@
 	"2797735596": {
 		"name": "GP-31 Grenade Pistol",
 		"description": "A pistol that fires grenades. Must be reloaded between shots.",
-		"damage": 600,
+		"damage": 650,
 		"capacity": 1,
 		"recoil": 43,
 		"fire_rate": 900,
@@ -93,16 +93,33 @@
 			4
 		]
 	},
+	"2264358800": {
+		"name": "SG-22 Bushwhacker",
+		"description": "A triple-barreled, break-action, sawed-off shotgun. Switch firing modes to fire all three barrels at once.",
+		"damage": 405,
+		"capacity": 3,
+		"recoil": 170,
+		"fire_rate": 650,
+		"fire_mode": [
+			0,
+			5
+		],
+		"traits": [
+			1,
+			4
+		]
+	},
 	"2340232366": {
 		"name": "P-72 Crisper",
 		"description": "A compact handgun-style flamethrower, able to project a jet of fire over short distances.",
-		"damage": 250,
+		"damage": 375,
 		"capacity": 30,
-		"recoil": 3,
+		"recoil": 2,
 		"fire_rate": 0,
-		"fire_mode": [],
+		"fire_mode": [
+			2
+		],
 		"traits": [
-			2,
 			4,
 			7
 		]

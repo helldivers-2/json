@@ -3,7 +3,7 @@
 		"name": "AR-23 Liberator",
 		"description": "The SEAF standard assault rifle, balancing power, fire rate, and weight for a reliable weapon against smaller targets.",
 		"type": 1,
-		"damage": 60,
+		"damage": 70,
 		"capacity": 45,
 		"recoil": 15,
 		"fire_rate": 640,
@@ -20,7 +20,7 @@
 		"name": "AR-23P Liberator Penetrator",
 		"description": "A modified Liberator featuring a scope and firing armor-piercing rounds, to help users take down armored targets.",
 		"type": 1,
-		"damage": 45,
+		"damage": 60,
 		"capacity": 30,
 		"recoil": 19,
 		"fire_rate": 640,
@@ -30,7 +30,6 @@
 			2
 		],
 		"traits": [
-			1,
 			2
 		]
 	},
@@ -47,8 +46,7 @@
 			2
 		],
 		"traits": [
-			1,
-			6
+			1
 		]
 	},
 	"2088854385": {
@@ -71,7 +69,7 @@
 		"name": "SG-8P Punisher Plasma",
 		"description": "A modified Punisher shotgun firing exploding plasma rounds. Fire carefully - exploding plasma can injure squadmates.",
 		"type": 5,
-		"damage": 100,
+		"damage": 250,
 		"capacity": 8,
 		"recoil": 110,
 		"fire_rate": 80,
@@ -79,6 +77,7 @@
 			3
 		],
 		"traits": [
+			2,
 			6
 		]
 	},
@@ -91,7 +90,7 @@
 		"recoil": 120,
 		"fire_rate": 80,
 		"fire_mode": [
-			3
+			0
 		],
 		"traits": [
 			2,
@@ -103,7 +102,7 @@
 		"description": "A fully-automatic shotgun with a high rate of fire, excellent for controlling crowds. Requires frequent reloading.",
 		"type": 2,
 		"damage": 330,
-		"capacity": 13,
+		"capacity": 16,
 		"recoil": 55,
 		"fire_rate": 300,
 		"fire_mode": [
@@ -120,7 +119,7 @@
 		"type": 2,
 		"damage": 240,
 		"capacity": 25,
-		"recoil": 28,
+		"recoil": 41,
 		"fire_rate": 300,
 		"fire_mode": [
 			0,
@@ -135,7 +134,7 @@
 		"name": "SG-225SP Breaker Spray&Pray",
 		"description": "A modified Breaker shotgun firing birdshot, small pellets which saturate an area to clear up smaller targets.",
 		"type": 2,
-		"damage": 192,
+		"damage": 240,
 		"capacity": 26,
 		"recoil": 45,
 		"fire_rate": 330,
@@ -159,19 +158,38 @@
 			0
 		],
 		"traits": [
-			0
+			2
+		]
+	},
+	"2": {
+		"name": "MP-98 Knight",
+		"description": "A submachine gun with an extremely high rate of fire, which can be operated with one hand. Ideal for multitasking.",
+		"type": 3,
+		"damage": 65,
+		"capacity": 50,
+		"recoil": 15,
+		"fire_rate": 1380,
+		"fire_mode": [
+			0,
+			1,
+			2
+		],
+		"traits": [
+			1,
+			4
 		]
 	},
 	"2821209932": {
 		"name": "SMG-37 Defender",
 		"description": "A high-caliber submachine gun which can be fired with one hand. Has a relatively low rate of fire.",
 		"type": 3,
-		"damage": 70,
+		"damage": 75,
 		"capacity": 45,
 		"recoil": 10,
 		"fire_rate": 520,
 		"fire_mode": [
 			0,
+			1,
 			2
 		],
 		"traits": [
@@ -183,7 +201,7 @@
 		"name": "R-63 Diligence",
 		"description": "This high-caliber marksman rifle trades magazine capacity and rate of fire for powerful, accurate shots.",
 		"type": 4,
-		"damage": 125,
+		"damage": 165,
 		"capacity": 20,
 		"recoil": 35,
 		"fire_rate": 350,
@@ -198,7 +216,7 @@
 		"name": "R-63CS Diligence Counter Sniper",
 		"description": "A modified Diligence rifle offering increased damage, but a reduced rate of fire. Fires a single bullet at a time.",
 		"type": 4,
-		"damage": 140,
+		"damage": 200,
 		"capacity": 15,
 		"recoil": 53,
 		"fire_rate": 350,
@@ -215,7 +233,7 @@
 		"type": 5,
 		"damage": 350,
 		"capacity": 8,
-		"recoil": 1,
+		"recoil": 0,
 		"fire_rate": 0,
 		"fire_mode": [
 			2
@@ -231,7 +249,7 @@
 		"description": "A laser rifle, firing in short bursts. Does not need reloading, but if it overheats a new heat sink must be fitted.",
 		"type": 5,
 		"damage": 55,
-		"capacity": 9,
+		"capacity": 7,
 		"recoil": 2,
 		"fire_rate": 750,
 		"fire_mode": [
@@ -246,7 +264,7 @@
 		"name": "PLAS-1 Scorcher",
 		"description": "A plasma rifle, firing a bolt of superheated gas which explodes on impact. Avoid standing in proximity to the blast.",
 		"type": 5,
-		"damage": 100,
+		"damage": 200,
 		"capacity": 15,
 		"recoil": 20,
 		"fire_rate": 250,
@@ -279,8 +297,8 @@
 		"description": "An accurate, armor-penetrating rifle, the BR-14 Adjudicator delivers righteous judgement to medium-sized enemies, though its restrictive magazine limits its effectiveness against large groups.",
 		"type": 1,
 		"damage": 80,
-		"capacity": 25,
-		"recoil": 50,
+		"capacity": 30,
+		"recoil": 40,
 		"fire_rate": 550,
 		"fire_mode": [
 			0,
@@ -294,7 +312,7 @@
 		"name": "R-36 Eruptor",
 		"description": "This bolt-action rifle fires jet-assisted shells that explode shrapnel in all directions upon impact. Not recommended for close-quarters use.",
 		"type": 6,
-		"damage": 380,
+		"damage": 455,
 		"capacity": 5,
 		"recoil": 75,
 		"fire_rate": 25,
@@ -310,7 +328,7 @@
 		"name": "CB-9 Exploding Crossbow",
 		"description": "Fires powerful exploding bolts that do maximum damage upon direct impact. Gravity must be accounted for when aiming.",
 		"type": 6,
-		"damage": 420,
+		"damage": 620,
 		"capacity": 5,
 		"recoil": 35,
 		"fire_rate": 50,
@@ -318,6 +336,8 @@
 			0
 		],
 		"traits": [
+			2,
+			4,
 			6
 		]
 	},
@@ -325,11 +345,15 @@
 		"name": "AR-61 Tenderizer",
 		"description": "A high-caliber assault rifle with a restrictive magazine size but more stopping power.",
 		"type": 1,
-		"damage": 60,
+		"damage": 95,
 		"capacity": 35,
 		"recoil": 10,
 		"fire_rate": 600,
-		"fire_mode": [],
+		"fire_mode": [
+			0,
+			1,
+			2
+		],
 		"traits": [
 			1
 		]
@@ -342,7 +366,11 @@
 		"capacity": 45,
 		"recoil": 10,
 		"fire_rate": 475,
-		"fire_mode": [],
+		"fire_mode": [
+			0,
+			1,
+			2
+		],
 		"traits": [
 			1,
 			4
@@ -356,38 +384,30 @@
 		"capacity": 15,
 		"recoil": 20,
 		"fire_rate": 250,
-		"fire_mode": [],
+		"fire_mode": [
+			0
+		],
 		"traits": [
 			2,
-			10,
-			6
+			6,
+			10
 		]
 	},
 	"1160920394": {
 		"name": "AR-23A Liberator Carbine",
 		"description": "A compact version of the Liberator designed for increased viability in close quarters. Has an increased fire rate at the cost of higher spread.",
 		"type": 1,
-		"damage": 60,
+		"damage": 70,
 		"capacity": 45,
 		"recoil": 26,
 		"fire_rate": 920,
-		"fire_mode": [],
+		"fire_mode": [
+			0,
+			1,
+			2
+		],
 		"traits": [
 			1
-		]
-	},
-	"2264358800": {
-		"name": "SG-22 Bushwhacker",
-		"description": "A triple-barreled, break-action, sawed-off shotgun. Switch firing modes to fire all three barrels at once.",
-		"type": 2,
-		"damage": 405,
-		"capacity": 3,
-		"recoil": 170,
-		"fire_rate": 650,
-		"fire_mode": [],
-		"traits": [
-			1,
-			4
 		]
 	},
 	"1321109120": {
@@ -410,14 +430,15 @@
 	"4108040377": {
 		"name": "FLAM-66 Torcher",
 		"description": "A lightweight flamethrower. Shoots pressurized fuel through a dispersion nozzle into an open flame",
-		"type": 7,
-		"damage": 250,
+		"type": 8,
+		"damage": 375,
 		"capacity": 80,
-		"recoil": 3,
+		"recoil": 2,
 		"fire_rate": 0,
-		"fire_mode": [],
+		"fire_mode": [
+			2
+		],
 		"traits": [
-			2,
 			7
 		]
 	}
