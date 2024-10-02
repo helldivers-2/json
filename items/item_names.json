@@ -1382,5 +1382,53 @@
 	"4282790522": {
 		"name": "Dissident's Nightmare",
 		"mix_id": "4282790522"
+	},
+	"1004": {
+		"name": "Standard of Safe Distance",
+		"mix_id": "1004"
+	},
+	"1005": {
+		"name": "Ew",
+		"mix_id": "1005"
+	},
+	"1006": {
+		"name": "Mustard Hellpod",
+		"mix_id": "1006"
+	},
+	"1007": {
+		"name": "Standard of Safe Distance",
+		"mix_id": "1007"
+	},
+	"1008": {
+		"name": "TX-41 Sterilizer",
+		"mix_id": "1008"
+	},
+	"1009": {
+		"name": "Mustard Shuttle",
+		"mix_id": "1009"
+	},
+	"1010": {
+		"name": "Patient Zero's Rememberance",
+		"mix_id": "1010"
+	},
+	"1012": {
+		"name": "Patient Zero's Rememberance",
+		"mix_id": "1012"
+	},
+	"1014": {
+		"name": "AX/TX-13 'Guard Dog' Dog Breath",
+		"mix_id": "1014"
+	},
+	"1015": {
+		"name": "Expert Exterminator",
+		"mix_id": "1015"
+	},
+	"1017": {
+		"name": "Natural Gas Extraction",
+		"mix_id": "1017"
+	},
+	"1018": {
+		"name": "Mustard Exosuit",
+		"mix_id": "1018"
 	}
 }

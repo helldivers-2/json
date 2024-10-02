@@ -123,5 +123,21 @@
 			4,
 			7
 		]
+	},
+	"1016": {
+		"name": "P-11 Stim Pistol",
+		"description": "Fires a ballistic dart at near-supersonic speeds, allowing the user to sim allies from a distance. Might sting.",
+		"damage": 0,
+		"capacity": 6,
+		"recoil": 23,
+		"fire_rate": 70,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			4,
+			5,
+			11
+		]
 	}
 }

@@ -70,5 +70,13 @@
 		"penetration": 3,
 		"outer_radius": 0,
 		"fuse_time": 0
+	},
+	"1003": {
+		"name": "G-4 Gas",
+		"description": "A grenade that releases a cloud of toxic gas, effective at blinding and slowing both organic and inorganic enemies.",
+		"damage": 3,
+		"penetration": 6,
+		"outer_radius": 7,
+		"fuse_time": 2.9
 	}
 }
