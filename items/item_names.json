@@ -1387,9 +1387,9 @@
 		"name": "G-4 Gas",
 		"mix_id": "1255689962"
 	},
-	"996716618": {
+	"1150857575": {
 		"name": "Ew",
-		"mix_id": "996716618"
+		"mix_id": "1150857575"
 	},
 	"2545935501": {
 		"name": "Mustard Hellpod",
@@ -1407,9 +1407,9 @@
 		"name": "Standard of Safe Distance",
 		"mix_id": "155105392"
 	},
-	"1150857575": {
+	"342959649": {
 		"name": "Standard of Safe Distance",
-		"mix_id": "1150857575"
+		"mix_id": "342959649"
 	},
 	"2209326359": {
 		"name": "TX-41 Sterilizer",
@@ -1420,11 +1420,11 @@
 		"mix_id": "1342154759"
 	},
 	"3460374366": {
-		"name": "Patient Zero's Rememberance",
+		"name": "Patient Zero's Remembrance",
 		"mix_id": "3460374366"
 	},
 	"4237429476": {
-		"name": "Patient Zero's Rememberance",
+		"name": "Patient Zero's Remembrance",
 		"mix_id": "4237429476"
 	},
 	"996716618": {
@@ -1434,7 +1434,7 @@
 	"1368467090": {
 		"name": "AF-02 Haz-Master",
 		"mix_id": "1368467090"
-	}
+	},
 	"3775923387": {
 		"name": "AX/TX-13 'Guard Dog' Dog Breath",
 		"mix_id": "3775923387"
