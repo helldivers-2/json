@@ -1382,5 +1382,77 @@
 	"4282790522": {
 		"name": "Dissident's Nightmare",
 		"mix_id": "4282790522"
+	},
+	"1255689962": {
+		"name": "G-4 Gas",
+		"mix_id": "1255689962"
+	},
+	"1150857575": {
+		"name": "Ew",
+		"mix_id": "1150857575"
+	},
+	"2545935501": {
+		"name": "Mustard Hellpod",
+		"mix_id": "2545935501"
+	},
+	"1399805769": {
+		"name": "AF-50 Noxious Ranger",
+		"mix_id": "1399805769"
+	},
+	"1431213118": {
+		"name": "AF-50 Noxious Ranger",
+		"mix_id": "1431213118"
+	},
+	"155105392": {
+		"name": "Standard of Safe Distance",
+		"mix_id": "155105392"
+	},
+	"342959649": {
+		"name": "Standard of Safe Distance",
+		"mix_id": "342959649"
+	},
+	"2209326359": {
+		"name": "TX-41 Sterilizer",
+		"mix_id": "2209326359"
+	},
+	"1342154759": {
+		"name": "Mustard Shuttle",
+		"mix_id": "1342154759"
+	},
+	"3460374366": {
+		"name": "Patient Zero's Remembrance",
+		"mix_id": "3460374366"
+	},
+	"4237429476": {
+		"name": "Patient Zero's Remembrance",
+		"mix_id": "4237429476"
+	},
+	"996716618": {
+		"name": "AF-02 Haz-Master",
+		"mix_id": "996716618"
+	},
+	"1368467090": {
+		"name": "AF-02 Haz-Master",
+		"mix_id": "1368467090"
+	},
+	"3775923387": {
+		"name": "AX/TX-13 'Guard Dog' Dog Breath",
+		"mix_id": "3775923387"
+	},
+	"2195045156": {
+		"name": "Expert Exterminator",
+		"mix_id": "2195045156"
+	},
+	"3835891472": {
+		"name": "Natural Gas Extraction",
+		"mix_id": "3835891472"
+	},
+	"1084288106": {
+		"name": "P-11 Stim Pistol",
+		"mix_id": "1084288106"
+	},
+	"3236079222": {
+		"name": "Mustard Exosuit",
+		"mix_id": "3236079222"
 	}
 }

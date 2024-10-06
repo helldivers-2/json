@@ -36,7 +36,7 @@
 		"description": "An antipersonnel fragmentation grenade. Creates damage over a large area when detonated.",
 		"damage": 250,
 		"penetration": 3,
-		"outer_radius": 8,
+		"outer_radius": 10,
 		"fuse_time": 2.4
 	},
 	"3748749890": {
@@ -48,11 +48,11 @@
 		"fuse_time": 2.9
 	},
 	"3869545997": {
-		"name": "G-12 Thermite Grenade",
+		"name": "G-123 Thermite Grenade",
 		"description": "A thermite grenade designed to adhere to surfaces before burning at 2000°C. Capable of burning through some armor",
-		"damage": 100,
+		"damage": 2000,
 		"penetration": 7,
-		"outer_radius": 2,
+		"outer_radius": 3,
 		"fuse_time": 2.9
 	},
 	"16338515": {
@@ -65,10 +65,18 @@
 	},
 	"1858752103": {
 		"name": "K-2 Throwing Knife",
-		"description": "",
+		"description": "Delivers silent justice to Freedom's enemies.",
 		"damage": 250,
 		"penetration": 3,
 		"outer_radius": 0,
 		"fuse_time": 0
+	},
+	"1255689962": {
+		"name": "G-4 Gas",
+		"description": "A grenade that releases a cloud of toxic gas, effective at blinding and slowing both organic and inorganic enemies.",
+		"damage": 3,
+		"penetration": 6,
+		"outer_radius": 7,
+		"fuse_time": 2.9
 	}
 }

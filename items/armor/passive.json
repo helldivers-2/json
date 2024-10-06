@@ -46,5 +46,9 @@
 	"11": {
 		"name": "Inflammable",
 		"description": "Provides 75% damage resistance to fire, allowing bearer to rest assured in the inflammability."
+	},
+	"12": {
+		"name": "Advanced Filtration",
+		"description": "Provides 80% resistance to gas damage and effects."
 	}
 }

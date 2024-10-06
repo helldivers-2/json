@@ -42,5 +42,9 @@
 	"3912131454": {
 		"name": "Experimental Infusion",
 		"description": "Temp Desc: Stims boost movement speed and reduced incoming damage for short period"
+	},
+	"3102833400": {
+		"name": "Firebomb Hellpods",
+		"description": "Lines all Hellpods with volatile incendiaries that detonate upon impact, igniting any units in vicinity of the drop site."
 	}
 }
