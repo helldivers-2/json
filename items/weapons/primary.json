@@ -5,7 +5,7 @@
 		"type": 1,
 		"damage": 70,
 		"capacity": 45,
-		"recoil": 15,
+		"recoil": 14,
 		"fire_rate": 640,
 		"fire_mode": [
 			0,
@@ -21,8 +21,8 @@
 		"description": "A modified Liberator featuring a scope and firing armor-piercing rounds, to help users take down armored targets.",
 		"type": 1,
 		"damage": 60,
-		"capacity": 30,
-		"recoil": 19,
+		"capacity": 45,
+		"recoil": 18,
 		"fire_rate": 640,
 		"fire_mode": [
 			0,
@@ -71,8 +71,8 @@
 		"type": 5,
 		"damage": 250,
 		"capacity": 8,
-		"recoil": 110,
-		"fire_rate": 80,
+		"recoil": 35,
+		"fire_rate": 100,
 		"fire_mode": [
 			3
 		],
@@ -265,21 +265,22 @@
 		"description": "A plasma rifle, firing a bolt of superheated gas which explodes on impact. Avoid standing in proximity to the blast.",
 		"type": 5,
 		"damage": 200,
-		"capacity": 15,
+		"capacity": 20,
 		"recoil": 20,
-		"fire_rate": 250,
+		"fire_rate": 350,
 		"fire_mode": [
-			0
+			0,
+			2
 		],
 		"traits": [
-			1,
+			2,
 			6
 		]
 	},
 	"2121387072": {
 		"name": "JAR-5 Dominator",
 		"description": "Firing jet-propelled rounds, the Dominator trades fire rate and magazine capacity for increased damage per projectile.",
-		"type": 6,
+		"type": 8,
 		"damage": 275,
 		"capacity": 15,
 		"recoil": 75,
@@ -296,9 +297,9 @@
 		"name": "BR-14 Adjudicator",
 		"description": "An accurate, armor-penetrating rifle, the BR-14 Adjudicator delivers righteous judgement to medium-sized enemies, though its restrictive magazine limits its effectiveness against large groups.",
 		"type": 1,
-		"damage": 80,
+		"damage": 90,
 		"capacity": 30,
-		"recoil": 40,
+		"recoil": 38,
 		"fire_rate": 550,
 		"fire_mode": [
 			0,
@@ -355,7 +356,8 @@
 			2
 		],
 		"traits": [
-			1
+			1,
+			"RPM CHANGE"
 		]
 	},
 	"942049262": {
@@ -380,10 +382,10 @@
 		"name": "PLAS-101 Purifier",
 		"description": "A plasma rifle firing a bolt of superheated gas which explodes on impact. Each shot needs to be charged up fully before it can be fired.",
 		"type": 5,
-		"damage": 250,
+		"damage": 500,
 		"capacity": 15,
 		"recoil": 20,
-		"fire_rate": 250,
+		"fire_rate": 1000,
 		"fire_mode": [
 			0
 		],
@@ -399,7 +401,7 @@
 		"type": 1,
 		"damage": 70,
 		"capacity": 45,
-		"recoil": 26,
+		"recoil": 25,
 		"fire_rate": 920,
 		"fire_mode": [
 			0,
