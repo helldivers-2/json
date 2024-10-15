@@ -2,7 +2,7 @@
 	"3": {
 		"name": "G-12 High Explosive",
 		"description": "A high explosive grenade which damages lightly armored targets. Creates high damage over a small area when detonated.",
-		"damage": 400,
+		"damage": 800,
 		"penetration": 4,
 		"outer_radius": 7,
 		"fuse_time": 3.5
@@ -34,7 +34,7 @@
 	"3295898003": {
 		"name": "G-6 Frag",
 		"description": "An antipersonnel fragmentation grenade. Creates damage over a large area when detonated.",
-		"damage": 250,
+		"damage": 500,
 		"penetration": 3,
 		"outer_radius": 10,
 		"fuse_time": 2.4
@@ -42,7 +42,7 @@
 	"3748749890": {
 		"name": "G-10 Incendiary",
 		"description": "An incendiary grenade designed for igniting intense fires upon detonation. Spreads burning material over a moderate area, causing burn damage.",
-		"damage": 150,
+		"damage": 300,
 		"penetration": 3,
 		"outer_radius": 7,
 		"fuse_time": 2.9

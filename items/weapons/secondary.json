@@ -33,7 +33,7 @@
 	"1374036584": {
 		"name": "P-4 Senator",
 		"description": "A high-damage revolver, which can be reloaded with single rounds. A heavy-hitting and reliable sidearm.",
-		"damage": 175,
+		"damage": 200,
 		"capacity": 6,
 		"recoil": 43,
 		"fire_rate": 200,
@@ -41,7 +41,7 @@
 			0
 		],
 		"traits": [
-			2,
+			3,
 			4,
 			5
 		]
@@ -89,7 +89,7 @@
 			0
 		],
 		"traits": [
-			1,
+			2,
 			4
 		]
 	},
@@ -129,7 +129,7 @@
 		"description": "Fires a ballistic dart at near-supersonic speeds, allowing the user to stim allies from a distance. Might sting.",
 		"damage": 0,
 		"capacity": 6,
-		"recoil": 23,
+		"recoil": 6,
 		"fire_rate": 70,
 		"fire_mode": [
 			0
