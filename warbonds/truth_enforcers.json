@@ -1,0 +1,105 @@
+{
+    "1": {
+        "medals_to_unlock": 0,
+        "items": [
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            }
+        ]
+    },
+    "2": {
+        "medals_to_unlock": 0,
+        "items": [
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            }
+        ]
+    },
+    "3": {
+        "medals_to_unlock": 0,
+        "items": [
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            },
+            {
+                "item_id": 1001,
+                "medal_cost": 0
+            }
+        ]
+    }
+}

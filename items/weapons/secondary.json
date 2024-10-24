@@ -139,5 +139,15 @@
 			5,
 			11
 		]
+	},
+	"1001": {
+		"name": "PLAS-15 Loyalist",
+		"description": "",
+		"damage": 0,
+		"capacity": 0,
+		"recoil": 0,
+		"fire_rate": 0,
+		"fire_mode": [],
+		"traits": []
 	}
 }

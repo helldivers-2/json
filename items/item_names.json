@@ -1454,5 +1454,57 @@
 	"3236079222": {
 		"name": "Mustard Exosuit",
 		"mix_id": "3236079222"
+	},
+	"1001": {
+		"name": "SG-20 Halt",
+		"mix_id": "shotgun"
+	},
+	"1002": {
+		"name": "SMG-32 Reprimand",
+		"mix_id": "smg"
+	},
+	"1003": {
+		"name": "PLAS-15 Loyalist",
+		"mix_id": "pistol"
+	},
+	"1004": {
+		"name": "Inconspicuous Black Shuttle",
+		"mix_id": "pattern"
+	},
+	"1005": {
+		"name": "Inconspicuous Black Hellpod",
+		"mix_id": "pattern"
+	},
+	"1006": {
+		"name": "Inconspicuous Black Exosuit",
+		"mix_id": "pattern"
+	},
+	"1007": {
+		"name": "Dead Sprint",
+		"mix_id": "booster"
+	},
+	"1008": {
+		"name": "Proof of Faultless Virtue",
+		"mix_id": "playercard"
+	},
+	"1009": {
+		"name": "Pride of the Whistleblower",
+		"mix_id": "playercard"
+	},
+	"1010": {
+		"name": "Proof of Faultless Virtue",
+		"mix_id": "cape"
+	},
+	"1011": {
+		"name": "Pride of the Whistleblower",
+		"mix_id": "cape"
+	},
+	"1012": {
+		"name": "At Ease",
+		"mix_id": "emote"
+	},
+	"1013": {
+		"name": "Free of Thought",
+		"mix_id": "title"
 	}
 }
