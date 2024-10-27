@@ -442,5 +442,21 @@
 		"traits": [
 			7
 		]
+	},
+	"1001": {
+		"name": "R-2124 Constitution",
+		"description": "A lightweight flamethrower. Shoots pressurized fuel through a dispersion nozzle into an open flame",
+		"type": 4,
+		"damage": 180,
+		"capacity": 5,
+		"recoil": 15,
+		"fire_rate": 60,
+		"fire_mode": [
+			6
+		],
+		"traits": [
+			2,
+			5
+		]
 	}
 }
