@@ -1454,5 +1454,17 @@
 	"3236079222": {
 		"name": "Mustard Exosuit",
 		"mix_id": "3236079222"
+	},
+	"4161086429": {
+		"name": "R-2124 Constitution",
+		"mix_id": "4161086429"
+	},
+	"1002": {
+		"name": "DP-00 Tactical",
+		"mix_id": "helm"
+	},
+	"1003": {
+		"name": "DP-00 Tactical",
+		"mix_id": "body"
 	}
 }
