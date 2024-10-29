@@ -445,24 +445,30 @@
 	},
 	"1001": {
 		"name": "SG-20 Halt",
-		"description": "",
+		"description": "A humane compliance weapon with two seperate magazines: one for armor-penetrating flechette rounds and one for stun rounds.",
 		"type": 2,
-		"damage": 0,
-		"capacity": 0,
-		"recoil": 0,
-		"fire_rate": 0,
+		"damage": 385,
+		"capacity": 16,
+		"recoil": 120,
+		"fire_rate": 80,
 		"fire_mode": [],
-		"traits": []
+		"traits": [
+			1,
+			2,
+			5
+		]
 	},
 	"1002": {
 		"name": "SMG-32 Reprimand",
-		"description": "",
+		"description": "A heavy-duty submachine gun that fires large-caliber rounds, with a slower rate of fire to manage the high recoil. Ideal for use at close to medium range",
 		"type": 3,
-		"damage": 0,
-		"capacity": 0,
-		"recoil": 0,
-		"fire_rate": 0,
+		"damage": 125,
+		"capacity": 25,
+		"recoil": 44,
+		"fire_rate": 490,
 		"fire_mode": [],
-		"traits": []
+		"traits": [
+			2
+		]
 	}
 }

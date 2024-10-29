@@ -50,5 +50,9 @@
 	"12": {
 		"name": "Advanced Filtration",
 		"description": "Provides 80% resistance to gas damage and effects."
+	},
+	"13": {
+		"name": "Unflinching",
+		"description": "Helps prevent Helldivers from flinching when hit."
 	}
 }

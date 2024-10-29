@@ -142,12 +142,17 @@
 	},
 	"1001": {
 		"name": "PLAS-15 Loyalist",
-		"description": "",
-		"damage": 0,
-		"capacity": 0,
-		"recoil": 0,
-		"fire_rate": 0,
+		"description": "A plasma pistol that charges each shot until the trigger is released. Plasma projectiles explode on impact.",
+		"damage": 125,
+		"capacity": 7,
+		"recoil": 8,
+		"fire_rate": 1000,
 		"fire_mode": [],
-		"traits": []
+		"traits": [
+			2,
+			4,
+			6,
+			10
+		]
 	}
 }
