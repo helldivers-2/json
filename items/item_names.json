@@ -1522,5 +1522,17 @@
 	"1019": {
 		"name": "At Ease",
 		"mix_id": "emote"
+	},
+	"2001": {
+		"name": "UF-84 Doubt Killer",
+		"mix_id": "body"
+	},
+	"2002": {
+		"name": "UF-84 Doubt Killer",
+		"mix_id": "head"
+	},
+	"2003": {
+		"name": "Cover of Darkness",
+		"mix_id": "cape"
 	}
 }
