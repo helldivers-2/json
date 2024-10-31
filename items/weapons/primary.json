@@ -451,7 +451,9 @@
 		"capacity": 16,
 		"recoil": 120,
 		"fire_rate": 80,
-		"fire_mode": [],
+		"fire_mode": [
+		    0
+		],
 		"traits": [
 			1,
 			2,
