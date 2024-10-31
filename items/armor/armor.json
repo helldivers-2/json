@@ -2259,9 +2259,9 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1010": {
+	"3008695584": {
 		"name": "UF-50 Bloodhound",
-		"description": "",
+		"description": "Users are advised not to scratch at the lacquer, as the Red 20,000 pigment that gives this armor its signature sheen may be correlated with rapid DNA unspooling.",
 		"type": 1,
 		"slot": 2,
 		"armor_rating": 100,
@@ -2269,9 +2269,9 @@
 		"stamina_regen": 100,
 		"passive": 13
 	},
-	"1011": {
+	"238751935": {
 		"name": "UF-50 Bloodhound",
-		"description": "",
+		"description": "Users are advised not to scratch at the lacquer, as the Red 20,000 pigment that gives this armor its signature sheen may be correlated with rapid DNA unspooling.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2279,7 +2279,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1012": {
+	"1126585234": {
 		"name": "Pride of the Whistleblower",
 		"description": "Granted to the Truth Enforcers' Informant of the Month, this tasteful cape conjures images of dissident blood on asphalt.",
 		"type": 1,
@@ -2289,9 +2289,9 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1015": {
+	"3530620108": {
 		"name": "UF-16 Inspector",
-		"description": "",
+		"description": "Made famous by the \"Truth Enforcers: Enforcers of Truth\" mystery novels, this armor calls to mind those paragons of patriotism who protect us from treasonous lies.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2299,9 +2299,9 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"1016": {
+	"3059832618": {
 		"name": "UF-16 Inspector",
-		"description": "",
+		"description": "Made famous by the \"Truth Enforcers: Enforcers of Truth\" mystery novels, this armor calls to mind those paragons of patriotism who protect us from treasonous lies.",
 		"type": 1,
 		"slot": 2,
 		"armor_rating": 100,
@@ -2309,9 +2309,9 @@
 		"stamina_regen": 100,
 		"passive": 13
 	},
-	"1017": {
+	"3965478926": {
 		"name": "Proof of Faultless Virtue",
-		"description": "",
+		"description": "This cape signifies that its wearer thinks, feels, and acts correctly at all times, and thus bears the responsibility to educate and re-educate their fellow citizen.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -2319,7 +2319,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2001": {
+	"622973953": {
 		"name": "UF-84 Doubt Killer",
 		"description": "Developed by the Ministry of Science while investigating the phenomenon known as The Gloom, this armor is non-permeable and squeak resistant.",
 		"type": 1,
@@ -2329,7 +2329,7 @@
 		"stamina_regen": 100,
 		"passive": 13
 	},
-	"2002": {
+	"91360070": {
 		"name": "UF-84 Doubt Killer",
 		"description": "Developed by the Ministry of Science while investigating the phenomenon known as The Gloom, this armor is non-permeable and squeak resistant.",
 		"type": 1,
@@ -2339,7 +2339,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"2003": {
+	"66704491": {
 		"name": "Cover of Darkness",
 		"description": "When children have trouble sleeping, tucking them in under this cape reminds them that they are never alone, for Liberty's unseen defenders are always watching over them.",
 		"type": 1,

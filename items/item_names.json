@@ -1455,27 +1455,27 @@
 		"name": "Mustard Exosuit",
 		"mix_id": "3236079222"
 	},
-	"1001": {
+	"3241211079": {
 		"name": "Inconspicuous Black Exosuit",
 		"mix_id": "pattern"
 	},
-	"1003": {
+	"122941246": {
 		"name": "SG-20 Halt",
-		"mix_id": "shotgun"
+		"mix_id": "122941246"
 	},
 	"1004": {
 		"name": "Dead Sprint",
 		"mix_id": "booster"
 	},
-	"1005": {
+	"2579792615": {
 		"name": "Inconspicuous Black Hellpod",
 		"mix_id": "pattern"
 	},
-	"1006": {
+	"725205791": {
 		"name": "SMG-32 Reprimand",
-		"mix_id": "smg"
+		"mix_id": "725205791"
 	},
-	"1007": {
+	"2484094371": {
 		"name": "Inconspicuous Black Shuttle",
 		"mix_id": "pattern"
 	},
@@ -1483,17 +1483,17 @@
 		"name": "Pride of the Whistleblower",
 		"mix_id": "playercard"
 	},
-	"1010": {
+	"3008695584": {
 		"name": "UF-50 Bloodhound",
-		"mix_id": "body"
+		"mix_id": "1927188023"
 	},
-	"1011": {
+	"238751935": {
 		"name": "UF-50 Bloodhound",
-		"mix_id": "helmet"
+		"mix_id": "4286615047"
 	},
-	"1012": {
+	"1126585234": {
 		"name": "Pride of the Whistleblower",
-		"mix_id": "cape"
+		"mix_id": "1126585234"
 	},
 	"1013": {
 		"name": "Proof of Faultless Virtue",
@@ -1503,21 +1503,21 @@
 		"name": "Fee of Thought",
 		"mix_id": "title"
 	},
-	"1015": {
+	"3530620108": {
 		"name": "UF-16 Inspector",
-		"mix_id": "helmet"
+		"mix_id": "3285635529"
 	},
-	"1016": {
+	"3059832618": {
 		"name": "UF-16 Inspector",
-		"mix_id": "body"
+		"mix_id": "4168334185"
 	},
-	"1017": {
+	"3965478926": {
 		"name": "Proof of Faultless Virtue",
 		"mix_id": "cape"
 	},
-	"1018": {
+	"1902682578": {
 		"name": "PLAS-15 Loyalist",
-		"mix_id": "pistol"
+		"mix_id": "1902682578"
 	},
 	"1019": {
 		"name": "At Ease",
