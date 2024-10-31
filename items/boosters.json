@@ -49,6 +49,6 @@
 	},
 	"1004": {
 		"name": "Dead Sprint",
-		"description": "Consume health to sprint when out of stamina"
+		"description": "Allows Helldivers to keep sprinting even when they are out of stamina, draining their health instead."
 	}
 }
