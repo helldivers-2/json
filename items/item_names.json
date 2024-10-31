@@ -1463,9 +1463,9 @@
 		"name": "SG-20 Halt",
 		"mix_id": "122941246"
 	},
-	"1004": {
+	"2239116615": {
 		"name": "Dead Sprint",
-		"mix_id": "booster"
+		"mix_id": "2239116615"
 	},
 	"2579792615": {
 		"name": "Inconspicuous Black Hellpod",
@@ -1479,9 +1479,9 @@
 		"name": "Inconspicuous Black Shuttle",
 		"mix_id": "pattern"
 	},
-	"1008": {
+	"601062191": {
 		"name": "Pride of the Whistleblower",
-		"mix_id": "playercard"
+		"mix_id": "601062191"
 	},
 	"3008695584": {
 		"name": "UF-50 Bloodhound",
@@ -1495,11 +1495,11 @@
 		"name": "Pride of the Whistleblower",
 		"mix_id": "1126585234"
 	},
-	"1013": {
+	"151318266": {
 		"name": "Proof of Faultless Virtue",
-		"mix_id": "playercard"
+		"mix_id": "151318266"
 	},
-	"1014": {
+	"1301492156": {
 		"name": "Fee of Thought",
 		"mix_id": "title"
 	},
@@ -1519,20 +1519,20 @@
 		"name": "PLAS-15 Loyalist",
 		"mix_id": "1902682578"
 	},
-	"1019": {
+	"4693889": {
 		"name": "At Ease",
-		"mix_id": "emote"
+		"mix_id": "4693889"
 	},
-	"2001": {
+	"622973953": {
 		"name": "UF-84 Doubt Killer",
-		"mix_id": "body"
+		"mix_id": "940858144"
 	},
-	"2002": {
+	"238751935": {
 		"name": "UF-84 Doubt Killer",
-		"mix_id": "head"
+		"mix_id": "4286615047"
 	},
-	"2003": {
+	"66704491": {
 		"name": "Cover of Darkness",
-		"mix_id": "cape"
+		"mix_id": "66704491"
 	}
 }
