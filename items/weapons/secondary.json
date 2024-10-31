@@ -147,7 +147,9 @@
 		"capacity": 7,
 		"recoil": 8,
 		"fire_rate": 1000,
-		"fire_mode": [],
+		"fire_mode": [
+			6
+		],
 		"traits": [
 			2,
 			4,
