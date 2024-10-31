@@ -1456,55 +1456,71 @@
 		"mix_id": "3236079222"
 	},
 	"1001": {
+		"name": "Inconspicuous Black Exosuit",
+		"mix_id": "pattern"
+	},
+	"1003": {
 		"name": "SG-20 Halt",
 		"mix_id": "shotgun"
 	},
-	"1002": {
-		"name": "SMG-32 Reprimand",
-		"mix_id": "smg"
-	},
-	"1003": {
-		"name": "PLAS-15 Loyalist",
-		"mix_id": "pistol"
-	},
 	"1004": {
-		"name": "Inconspicuous Black Shuttle",
-		"mix_id": "pattern"
+		"name": "Dead Sprint",
+		"mix_id": "booster"
 	},
 	"1005": {
 		"name": "Inconspicuous Black Hellpod",
 		"mix_id": "pattern"
 	},
 	"1006": {
-		"name": "Inconspicuous Black Exosuit",
-		"mix_id": "pattern"
+		"name": "SMG-32 Reprimand",
+		"mix_id": "smg"
 	},
 	"1007": {
-		"name": "Dead Sprint",
-		"mix_id": "booster"
+		"name": "Inconspicuous Black Shuttle",
+		"mix_id": "pattern"
 	},
 	"1008": {
-		"name": "Proof of Faultless Virtue",
-		"mix_id": "playercard"
-	},
-	"1009": {
 		"name": "Pride of the Whistleblower",
 		"mix_id": "playercard"
 	},
 	"1010": {
-		"name": "Proof of Faultless Virtue",
-		"mix_id": "cape"
+		"name": "UF-50 Bloodhound",
+		"mix_id": "body"
 	},
 	"1011": {
+		"name": "UF-50 Bloodhound",
+		"mix_id": "helmet"
+	},
+	"1012": {
 		"name": "Pride of the Whistleblower",
 		"mix_id": "cape"
 	},
-	"1012": {
+	"1013": {
+		"name": "Proof of Faultless Virtue",
+		"mix_id": "playercard"
+	},
+	"1014": {
+		"name": "Fee of Thought",
+		"mix_id": "title"
+	},
+	"1015": {
+		"name": "UF-16 Inspector",
+		"mix_id": "helmet"
+	},
+	"1016": {
+		"name": "UF-16 Inspector",
+		"mix_id": "body"
+	},
+	"1017": {
+		"name": "Proof of Faultless Virtue",
+		"mix_id": "cape"
+	},
+	"1018": {
+		"name": "PLAS-15 Loyalist",
+		"mix_id": "pistol"
+	},
+	"1019": {
 		"name": "At Ease",
 		"mix_id": "emote"
-	},
-	"1013": {
-		"name": "Free of Thought",
-		"mix_id": "title"
 	}
 }
