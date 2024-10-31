@@ -1,5 +1,5 @@
 {
-	"1": {
+	"2852344585": {
 		"name": "AR-23 Liberator",
 		"description": "The SEAF standard assault rifle, balancing power, fire rate, and weight for a reliable weapon against smaller targets.",
 		"type": 1,
@@ -441,6 +441,40 @@
 		],
 		"traits": [
 			7
+		]
+	},
+	"122941246": {
+		"name": "SG-20 Halt",
+		"description": "A humane compliance weapon with two seperate magazines: one for armor-penetrating flechette rounds and one for stun rounds.",
+		"type": 2,
+		"damage": 385,
+		"capacity": 16,
+		"recoil": 120,
+		"fire_rate": 80,
+		"fire_mode": [
+		    0
+		],
+		"traits": [
+			1,
+			2,
+			5
+		]
+	},
+	"725205791": {
+		"name": "SMG-32 Reprimand",
+		"description": "A heavy-duty submachine gun that fires large-caliber rounds, with a slower rate of fire to manage the high recoil. Ideal for use at close to medium range",
+		"type": 3,
+		"damage": 125,
+		"capacity": 25,
+		"recoil": 44,
+		"fire_rate": 490,
+		"fire_mode": [
+		    0,
+		    1,
+		    2
+		],
+		"traits": [
+			2
 		]
 	}
 }

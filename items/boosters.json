@@ -46,5 +46,9 @@
 	"3102833400": {
 		"name": "Firebomb Hellpods",
 		"description": "Lines all Hellpods with volatile incendiaries that detonate upon impact, igniting any units in vicinity of the drop site."
+	},
+	"2239116615": {
+		"name": "Dead Sprint",
+		"description": "Allows Helldivers to keep sprinting even when they are out of stamina, draining their health instead."
 	}
 }

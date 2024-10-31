@@ -1,5 +1,5 @@
 {
-	"2": {
+	"2811723672": {
 		"name": "P-2 Peacemaker",
 		"description": "The SEAF standard pistol - offering a high fire rate, generous capacity, and fast reloading.",
 		"damage": 75,
@@ -138,6 +138,23 @@
 			4,
 			5,
 			11
+		]
+	},
+	"1902682578": {
+		"name": "PLAS-15 Loyalist",
+		"description": "A plasma pistol that charges each shot until the trigger is released. Plasma projectiles explode on impact.",
+		"damage": 125,
+		"capacity": 7,
+		"recoil": 8,
+		"fire_rate": 1000,
+		"fire_mode": [
+			6
+		],
+		"traits": [
+			2,
+			4,
+			6,
+			10
 		]
 	}
 }

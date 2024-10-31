@@ -1,15 +1,15 @@
 {
-	"1": {
+	"2852344585": {
 		"name": "AR-23 Liberator",
-		"mix_id": "1"
+		"mix_id": "2852344585"
 	},
-	"2": {
+	"2811723672": {
 		"name": "P-2 Peacemaker",
-		"mix_id": "2"
+		"mix_id": "2811723672"
 	},
-	"3": {
+	"3191303848": {
 		"name": "G-12 High Explosive",
-		"mix_id": "3"
+		"mix_id": "3191303848"
 	},
 	"16338515": {
 		"name": "G-13 Incendiary Impact",
@@ -1454,5 +1454,85 @@
 	"3236079222": {
 		"name": "Mustard Exosuit",
 		"mix_id": "3236079222"
+	},
+	"3241211079": {
+		"name": "Inconspicuous Black Exosuit",
+		"mix_id": "pattern"
+	},
+	"122941246": {
+		"name": "SG-20 Halt",
+		"mix_id": "122941246"
+	},
+	"2239116615": {
+		"name": "Dead Sprint",
+		"mix_id": "2239116615"
+	},
+	"2579792615": {
+		"name": "Inconspicuous Black Hellpod",
+		"mix_id": "pattern"
+	},
+	"725205791": {
+		"name": "SMG-32 Reprimand",
+		"mix_id": "725205791"
+	},
+	"2484094371": {
+		"name": "Inconspicuous Black Shuttle",
+		"mix_id": "pattern"
+	},
+	"601062191": {
+		"name": "Pride of the Whistleblower",
+		"mix_id": "601062191"
+	},
+	"3008695584": {
+		"name": "UF-50 Bloodhound",
+		"mix_id": "1927188023"
+	},
+	"238751935": {
+		"name": "UF-50 Bloodhound",
+		"mix_id": "4286615047"
+	},
+	"1126585234": {
+		"name": "Pride of the Whistleblower",
+		"mix_id": "1126585234"
+	},
+	"151318266": {
+		"name": "Proof of Faultless Virtue",
+		"mix_id": "151318266"
+	},
+	"1301492156": {
+		"name": "Fee of Thought",
+		"mix_id": "title"
+	},
+	"3530620108": {
+		"name": "UF-16 Inspector",
+		"mix_id": "3285635529"
+	},
+	"3059832618": {
+		"name": "UF-16 Inspector",
+		"mix_id": "4168334185"
+	},
+	"3965478926": {
+		"name": "Proof of Faultless Virtue",
+		"mix_id": "cape"
+	},
+	"1902682578": {
+		"name": "PLAS-15 Loyalist",
+		"mix_id": "1902682578"
+	},
+	"4693889": {
+		"name": "At Ease",
+		"mix_id": "4693889"
+	},
+	"622973953": {
+		"name": "UF-84 Doubt Killer",
+		"mix_id": "940858144"
+	},
+	"91360070": {
+		"name": "UF-84 Doubt Killer",
+		"mix_id": "4286615047"
+	},
+	"66704491": {
+		"name": "Cover of Darkness",
+		"mix_id": "66704491"
 	}
 }

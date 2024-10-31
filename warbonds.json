@@ -38,5 +38,10 @@
 		"name": "Chemical Agents",
 		"id": "chemical_agents",
 		"credits_to_unlock": 1000
+	},
+	"8": {
+		"name": "Truth Enforcers",
+		"id": "truth_enforcers",
+		"credits_to_unlock": 1000
 	}
 }
