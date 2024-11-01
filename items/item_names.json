@@ -1534,5 +1534,17 @@
 	"66704491": {
 		"name": "Cover of Darkness",
 		"mix_id": "66704491"
+	},
+	"4161086429": {
+		"name": "R-2124 Constitution",
+		"mix_id": "4161086429"
+	},
+	"1002": {
+		"name": "DP-00 Tactical",
+		"mix_id": "helm"
+	},
+	"1003": {
+		"name": "DP-00 Tactical",
+		"mix_id": "body"
 	}
 }
