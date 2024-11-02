@@ -476,5 +476,21 @@
 		"traits": [
 			2
 		]
+	},
+	"4161086429": {
+		"name": "R-2124 Constitution",
+		"description": "This ceremonial rifle is modeled after antique relics from pre-Democratic times. It is traditionally gifted to every citizen upon turning 16 to encourage service.",
+		"type": 4,
+		"damage": 180,
+		"capacity": 5,
+		"recoil": 15,
+		"fire_rate": 60,
+		"fire_mode": [
+			8
+		],
+		"traits": [
+			2,
+			5
+		]
 	}
 }
