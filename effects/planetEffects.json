@@ -84,6 +84,11 @@
         "galacticEffectId": 1217,
         "name":"DEMOCRACY SPACE STATION",
         "description":"A Helldiver-operated weapon of mass liberation. Paid for with the blood of soldiers and the credits of taxpayers, this technological marvel is Democracy made manifest."
+    },
+    "1222":{
+        "galacticEffectId": 1222,
+        "name":"INCREADED REINFORCEMENT BUDGET",
+        "description":"Increases the number of available reinforcements."
     }
 
 
