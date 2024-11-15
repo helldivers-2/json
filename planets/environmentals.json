@@ -7,6 +7,10 @@
 		"name": "Extreme Cold",
 		"description": "Icy temperatures reduce rate of fire and delay heat buildup in weapons."
 	},
+	"normal_temp": {
+		"name": "Normal Temperature",
+		"description": "Average temperatures convey no significant change to weapons or stamina."
+	},
 	"thick_fog": {
 		"name": "Thick Fog",
 		"description": "Dense fog lightly reduce visibility for both enemy and friendly units."
