@@ -22,15 +22,17 @@
 			"ru-RU": "\u0421\u0423\u041f\u0415\u0420-\u0417\u0415\u041c\u041b\u042f",
 			"zh-Hans": "\u8d85\u7ea7\u5730\u7403",
 			"zh-Hant": "\u8d85\u7d1a\u5730\u7403"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"1": {
 		"name": "Klen Dahth II",
 		"sector": "Altus",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -39,7 +41,7 @@
 			"pt-BR": "KLEN DAHTH II",
 			"de-DE": "KLEN DAHTH II",
 			"es-ES": "KLEN DAHTH II",
-			"fr-FR": "KLEN\u00a0DAHTH\u00a0II",
+			"fr-FR": "KLEN DAHTH II",
 			"it-IT": "KLEN DAHTH II",
 			"ja-JP": "\u30af\u30ec\u30f3\u30c0\u30fc\u30b9 II",
 			"ko-KO": "\ud074\ub80c \ub2e4\ud750\uc2a4 II",
@@ -49,15 +51,20 @@
 			"ru-RU": "\u041a\u041b\u0415\u041d \u0414\u0410\u0425\u0422 II",
 			"zh-Hans": "\u514b\u4f26\u8fbe\u65afII",
 			"zh-Hant": "\u514b\u9023\u9054\u65afII"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"2": {
 		"name": "Pathfinder V",
 		"sector": "Altus",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "PATHFINDER V",
@@ -65,7 +72,7 @@
 			"pt-BR": "VANGUARDA V",
 			"de-DE": "PATHFINDER V",
 			"es-ES": "EXPLORADOR V",
-			"fr-FR": "CHERCHEVOIE\u00a0V",
+			"fr-FR": "CHERCHEVOIE V",
 			"it-IT": "PATHFINDER V",
 			"ja-JP": "\u30d1\u30b9\u30d5\u30a1\u30a4\u30f3\u30c0\u30fc V",
 			"ko-KO": "\ud328\uc2a4\ud30c\uc778\ub354 V",
@@ -75,14 +82,18 @@
 			"ru-RU": "\u0421\u041b\u0415\u0414\u041e\u041f\u042b\u0422 V",
 			"zh-Hans": "\u5f00\u62d3\u8005V",
 			"zh-Hant": "\u63a2\u8def\u8005V"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"3": {
 		"name": "Widow's Harbor",
 		"sector": "Altus",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -101,14 +112,17 @@
 			"ru-RU": "\u0412\u0414\u041e\u0412\u042c\u042f \u0413\u0410\u0412\u0410\u041d\u042c",
 			"zh-Hans": "\u5be1\u5987\u6e2f",
 			"zh-Hant": "\u5be1\u5a66\u6e2f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"4": {
 		"name": "New Haven",
 		"sector": "Altus",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -127,15 +141,17 @@
 			"ru-RU": "\u041d\u041e\u0412\u0410\u042f \u0413\u0410\u0412\u0410\u041d\u042c",
 			"zh-Hans": "\u7ebd\u9ed1\u6587",
 			"zh-Hant": "\u65b0\u907f\u98a8\u6e2f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"5": {
 		"name": "Pilen V",
 		"sector": "Altus",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -144,7 +160,7 @@
 			"pt-BR": "PILEN V",
 			"de-DE": "PILEN V",
 			"es-ES": "PILEN V",
-			"fr-FR": "PILEN\u00a0V",
+			"fr-FR": "PILEN V",
 			"it-IT": "PILEN V",
 			"ja-JP": "\u30d4\u30ec\u30f3 V",
 			"ko-KO": "\ud544\ub80c V",
@@ -154,14 +170,18 @@
 			"ru-RU": "\u041f\u0418\u041b\u0415\u041d V",
 			"zh-Hans": "\u76ae\u4f26V",
 			"zh-Hant": "\u76ae\u502bV"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"6": {
 		"name": "Hydrofall Prime",
 		"sector": "Barnard",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -180,15 +200,17 @@
 			"ru-RU": "\u0413\u0418\u0414\u0420\u041e\u041f\u0410\u0414-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u6c34\u7011\u4e3b\u661f",
 			"zh-Hant": "\u7011\u5e03\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"7": {
 		"name": "Zea Rugosia",
 		"sector": "Ferris",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -197,7 +219,7 @@
 			"pt-BR": "ZEA RUGOSIA",
 			"de-DE": "ZEA RUGOSIA",
 			"es-ES": "ZEA RUGOSIA",
-			"fr-FR": "ZEA\u00a0RUGOSIA",
+			"fr-FR": "ZEA RUGOSIA",
 			"it-IT": "ZEA RUGOSIA",
 			"ja-JP": "\u30bc\u30a2\u30fb\u30eb\u30b4\u30b8\u30a2",
 			"ko-KO": "\uc81c\uc544 \ub8e8\uace0\uc2dc\uc544",
@@ -207,14 +229,18 @@
 			"ru-RU": "\u0417\u0415\u042f \u0420\u0423\u0413\u041e\u0417\u0418\u042f",
 			"zh-Hans": "\u6cfd\u4e9a\u9c81\u6208\u897f\u4e9a",
 			"zh-Hant": "\u6fa4\u4e9e\u9b6f\u54e5\u897f\u4e9e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"8": {
 		"name": "Darrowsport",
 		"sector": "Barnard",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -233,15 +259,19 @@
 			"ru-RU": "\u0414\u0415\u0420\u0420\u041e\u0423\u0421\u041f\u041e\u0420\u0422",
 			"zh-Hans": "\u8fbe\u7f57\u65af\u6ce2\u7279",
 			"zh-Hant": "\u9054\u7f85\u65af\u6e2f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"9": {
 		"name": "Fornskogur II",
 		"sector": "Barnard",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "FORNSKOGUR II",
@@ -249,7 +279,7 @@
 			"pt-BR": "FORNSKOGUR II",
 			"de-DE": "FORNSKOGUR II",
 			"es-ES": "FORNSKOGUR II",
-			"fr-FR": "FORNSKOGUR\u00a0II",
+			"fr-FR": "FORNSKOGUR II",
 			"it-IT": "FORNSKOGUR II",
 			"ja-JP": "\u30d5\u30a9\u30fc\u30f3\u30b9\u30b3\u30fc\u30ac\u30fc II",
 			"ko-KO": "\ud3ec\ub80c\uc2a4\ucf54\uad6c\ub974 II",
@@ -259,14 +289,19 @@
 			"ru-RU": "\u0424\u041e\u0420\u041d\u0421\u041a\u041e\u0413\u0423\u0420 II",
 			"zh-Hans": "\u798f\u6069\u65af\u79d1\u53e4\u5c14II",
 			"zh-Hant": "\u4f5b\u6069\u65af\u79d1\u845bII"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"10": {
 		"name": "Midasburg",
 		"sector": "Barnard",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "MIDASBURG",
@@ -284,15 +319,17 @@
 			"ru-RU": "\u041c\u0418\u0414\u0410\u0421\u0411\u0423\u0420\u0413",
 			"zh-Hans": "\u5f25\u8fbe\u65af\u5821",
 			"zh-Hant": "\u7c73\u9054\u65af\u5821"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"11": {
 		"name": "Cerberus IIIc",
 		"sector": "Cancri",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -301,7 +338,7 @@
 			"pt-BR": "C\u00c9RBERO III-C",
 			"de-DE": "CERBERUS IIIc",
 			"es-ES": "CERBERUS IIIc",
-			"fr-FR": "CERBERUS\u00a0IIIc",
+			"fr-FR": "CERBERUS IIIc",
 			"it-IT": "CERBERO IIIc",
 			"ja-JP": "\u30b1\u30eb\u30d9\u30ed\u30b9 III\uff43",
 			"ko-KO": "\uc138\ubca0\ub8e8\uc2a4 IIIc",
@@ -311,14 +348,18 @@
 			"ru-RU": "\u0426\u0415\u0420\u0411\u0415\u0420 IIIc",
 			"zh-Hans": "\u523b\u8033\u67cf\u6d1b\u65afIIIc",
 			"zh-Hant": "\u585e\u4f2f\u62c9\u65afIIIc"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"12": {
 		"name": "Prosperity Falls",
 		"sector": "Cancri",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -337,14 +378,17 @@
 			"ru-RU": "\u0412\u041e\u0414\u041e\u041f\u0410\u0414\u042b \u041f\u0420\u041e\u0426\u0412\u0415\u0422\u0410\u041d\u0418\u042f",
 			"zh-Hans": "\u7e41\u8363\u7011\u5e03",
 			"zh-Hant": "\u7e41\u83ef\u7011\u5e03"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"13": {
 		"name": "Okul VI",
 		"sector": "Gothmar",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -353,7 +397,7 @@
 			"pt-BR": "OKUL VI",
 			"de-DE": "OKUL VI",
 			"es-ES": "OKUL VI",
-			"fr-FR": "OKUL\u00a0VI",
+			"fr-FR": "OKUL VI",
 			"it-IT": "OKUL VI",
 			"ja-JP": "\u30aa\u30af\u30eb VI",
 			"ko-KO": "\uc624\ucfe8 VI",
@@ -363,14 +407,19 @@
 			"ru-RU": "\u041e\u041a\u0423\u041b VI",
 			"zh-Hans": "\u6b27\u5e93VI",
 			"zh-Hant": "\u6b50\u5eab\u723eVI"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"14": {
 		"name": "Martyr's Bay",
 		"sector": "Cantolus",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "MARTYR'S BAY",
@@ -388,14 +437,17 @@
 			"ru-RU": "\u0417\u0410\u041b\u0418\u0412 \u041c\u0423\u0427\u0415\u041d\u0418\u041a\u041e\u0412",
 			"zh-Hans": "\u70c8\u58eb\u6e7e",
 			"zh-Hant": "\u70c8\u58eb\u7063"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"15": {
 		"name": "Freedom Peak",
 		"sector": "Cantolus",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -414,15 +466,18 @@
 			"ru-RU": "\u041f\u0418\u041a \u0421\u0412\u041e\u0411\u041e\u0414\u042b",
 			"zh-Hans": "\u5f17\u91cc\u6566\u5cf0",
 			"zh-Hant": "\u81ea\u7531\u5cf0"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"16": {
 		"name": "Fort Union",
 		"sector": "Orion",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "FORT UNION",
@@ -440,14 +495,18 @@
 			"ru-RU": "\u0424\u041e\u0420\u0422 \u0415\u0414\u0418\u041d\u0415\u041d\u0418\u042f",
 			"zh-Hans": "\u8054\u5408\u5821",
 			"zh-Hant": "\u806f\u76df\u5821"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"17": {
 		"name": "Kelvinor",
 		"sector": "Cantolus",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -466,14 +525,18 @@
 			"ru-RU": "\u041a\u0415\u041b\u042c\u0412\u0418\u041d\u041e\u0420",
 			"zh-Hans": "\u5f00\u5c14\u6587\u5965\u5c14",
 			"zh-Hant": "\u51f1\u6587\u8afe"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"18": {
 		"name": "Wraith",
 		"sector": "Idun",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -492,14 +555,19 @@
 			"ru-RU": "\u041f\u0420\u0418\u0417\u0420\u0410\u041a",
 			"zh-Hans": "\u5e7d\u7075",
 			"zh-Hant": "\u5e7d\u9748"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"19": {
 		"name": "Igla",
 		"sector": "Kelvin",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "IGLA",
@@ -517,14 +585,17 @@
 			"ru-RU": "\u0418\u0413\u041b\u0410",
 			"zh-Hans": "\u4f0a\u683c\u52d2",
 			"zh-Hant": "\u4f0a\u683c\u62c9"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"20": {
 		"name": "New Kiruna",
 		"sector": "Kelvin",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -543,14 +614,19 @@
 			"ru-RU": "\u041d\u041e\u0412\u0410\u042f \u041a\u0418\u0420\u0423\u041d\u0410",
 			"zh-Hans": "\u65b0\u57fa\u9c81\u7eb3",
 			"zh-Hant": "\u65b0\u57fa\u9b6f\u7d0d"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"21": {
 		"name": "Fort Justice",
 		"sector": "Kelvin",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "FORT JUSTICE",
@@ -568,7 +644,11 @@
 			"ru-RU": "\u0424\u041e\u0420\u0422 \u041f\u0420\u0410\u0412\u041e\u0421\u0423\u0414\u0418\u042f",
 			"zh-Hans": "\u6b63\u4e49\u5821",
 			"zh-Hant": "\u6b63\u7fa9\u5821"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"22": {
 		"name": "Zegema Paradise",
@@ -626,8 +706,6 @@
 		"sector": "Iptus",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -646,14 +724,19 @@
 			"ru-RU": "\u041f\u0420\u0418\u041c\u041e\u0420\u0422\u0418\u042f",
 			"zh-Hans": "\u666e\u83b1\u9ed8\u8fea\u4e9a",
 			"zh-Hant": "\u666e\u91cc\u6469\u8fea\u4e9e"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"25": {
 		"name": "Sulfura",
 		"sector": "Celeste",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "SULFURA",
@@ -671,14 +754,17 @@
 			"ru-RU": "\u0421\u0423\u041b\u042c\u0424\u0423\u0420\u0410",
 			"zh-Hans": "\u8428\u5c14\u5f17\u62c9",
 			"zh-Hant": "\u8607\u798f\u62c9"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"26": {
 		"name": "Nublaria I",
 		"sector": "Celeste",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -687,7 +773,7 @@
 			"pt-BR": "NUBL\u00c1RIA I",
 			"de-DE": "NUBLARIA I",
 			"es-ES": "NUBLARIA I",
-			"fr-FR": "NUBLARIA\u00a0I",
+			"fr-FR": "NUBLARIA I",
 			"it-IT": "NUBLARIA I",
 			"ja-JP": "\u30cb\u30e5\u30d6\u30e9\u30ea\u30a2 I",
 			"ko-KO": "\ub204\ube14\ub77c\ub9ac\uc544 I",
@@ -697,14 +783,18 @@
 			"ru-RU": "\u041d\u0423\u0411\u041b\u0410\u0420\u0418\u042f I",
 			"zh-Hans": "\u52aa\u5e03\u62c9\u91cc\u4e9aI",
 			"zh-Hant": "\u52aa\u5e03\u62c9\u91cc\u4e9eI"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"27": {
 		"name": "Krakatwo",
 		"sector": "Celeste",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "KRAKATWO",
@@ -722,15 +812,18 @@
 			"ru-RU": "\u041a\u0420\u0410\u041a\u0410\u0422\u0423",
 			"zh-Hans": "\u514b\u62c9\u514b\u56fe",
 			"zh-Hant": "\u514b\u62c9\u5361\u5716"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"28": {
 		"name": "Volterra",
 		"sector": "Korpus",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "VOLTERRA",
@@ -748,14 +841,19 @@
 			"ru-RU": "\u0412\u041e\u041b\u042c\u0422\u0415\u0420\u0420\u0410",
 			"zh-Hans": "\u6c83\u5c14\u6cf0\u62c9",
 			"zh-Hant": "\u4f5b\u6cf0\u60f9"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"29": {
 		"name": "Crucible",
 		"sector": "Korpus",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "CRUCIBLE",
@@ -773,7 +871,11 @@
 			"ru-RU": "\u0413\u041e\u0420\u041d",
 			"zh-Hans": "\u7194\u7089",
 			"zh-Hant": "\u5769\u581d"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"30": {
 		"name": "Veil",
@@ -798,15 +900,17 @@
 			"ru-RU": "\u0412\u0423\u0410\u041b\u042c",
 			"zh-Hans": "\u5e37\u5e55",
 			"zh-Hant": "\u5e37\u5e55"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"31": {
 		"name": "Marre IV",
 		"sector": "Barnard",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -815,7 +919,7 @@
 			"pt-BR": "MARRE IV",
 			"de-DE": "MARRE IV",
 			"es-ES": "MARRE IV",
-			"fr-FR": "MARRE\u00a0IV",
+			"fr-FR": "MARRE IV",
 			"it-IT": "MARRE IV",
 			"ja-JP": "\u30de\u30fc\u30eb IV",
 			"ko-KO": "\ub9c8\ub808 IV",
@@ -825,14 +929,18 @@
 			"ru-RU": "\u041c\u0410\u0420\u0420 IV",
 			"zh-Hans": "\u9a6c\u5c14IV",
 			"zh-Hant": "\u99ac\u723eIV"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"32": {
 		"name": "Fort Sanctuary",
 		"sector": "Cancri",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -851,14 +959,18 @@
 			"ru-RU": "\u0424\u041e\u0420\u0422 \u0411\u0415\u0417\u041e\u041f\u0410\u0421\u041d\u041e\u0421\u0422\u0418",
 			"zh-Hans": "\u5e87\u62a4\u5821",
 			"zh-Hant": "\u8056\u6240\u5821"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"33": {
 		"name": "Seyshel Beach",
 		"sector": "Cancri",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "SEYSHEL BEACH",
@@ -876,15 +988,17 @@
 			"ru-RU": "\u0421\u0415\u0419\u0428\u0415\u041b\u042c\u0421\u041a\u0418\u0419 \u041f\u041b\u042f\u0416",
 			"zh-Hans": "\u585e\u820c\u5c14\u6d77\u6ee9",
 			"zh-Hant": "\u585e\u5e2d\u723e\u7058"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"34": {
 		"name": "Hellmire",
 		"sector": "Mirin",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -903,14 +1017,18 @@
 			"ru-RU": "\u0425\u0415\u041b\u041b\u041c\u0415\u0419\u0420",
 			"zh-Hans": "\u6d77\u5c14\u8fc8\u5c14",
 			"zh-Hant": "\u9ed1\u9ea5\u723e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"35": {
 		"name": "Effluvia",
 		"sector": "Cancri",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -929,14 +1047,17 @@
 			"ru-RU": "\u042d\u0424\u0424\u041b\u0423\u0412\u0418\u042f",
 			"zh-Hans": "\u827e\u8299\u9c81\u7ef4\u4e9a",
 			"zh-Hant": "\u827e\u4f5b\u9732\u7dad\u4e9e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"36": {
 		"name": "Solghast",
 		"sector": "Gothmar",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -955,14 +1076,18 @@
 			"ru-RU": "\u0421\u041e\u041b\u0413\u0410\u0421\u0422",
 			"zh-Hans": "\u7d22\u5c14\u52a0\u65af\u7279",
 			"zh-Hant": "\u7d22\u5609\u65af\u7279"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"37": {
 		"name": "Diluvia",
 		"sector": "Gothmar",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "DILUVIA",
@@ -980,15 +1105,17 @@
 			"ru-RU": "\u0414\u0418\u041b\u0423\u0412\u0418\u042f",
 			"zh-Hans": "\u8fea\u5362\u7ef4\u4e9a",
 			"zh-Hant": "\u8fea\u9732\u7dad\u4e9e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"38": {
 		"name": "Viridia Prime",
 		"sector": "Cantolus",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -1007,15 +1134,20 @@
 			"ru-RU": "\u0412\u0418\u0420\u0418\u0414\u0418\u042f-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u7ef4\u5c14\u4f0a\u8fea\u4e9a\u4e3b\u661f",
 			"zh-Hant": "\u7dad\u91cc\u8fea\u4e9e\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"39": {
 		"name": "Obari",
 		"sector": "Cantolus",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "OBARI",
@@ -1033,15 +1165,18 @@
 			"ru-RU": "\u041e\u0411\u0410\u0420\u0418",
 			"zh-Hans": "\u6b27\u5df4\u91cc",
 			"zh-Hant": "\u6b50\u5df4\u91cc"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"40": {
 		"name": "Myradesh",
 		"sector": "Idun",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -1060,14 +1195,18 @@
 			"ru-RU": "\u041c\u0418\u0420\u0410\u0414\u0415\u0428",
 			"zh-Hans": "\u7c73\u62c9\u6234\u4ec0",
 			"zh-Hant": "\u7c73\u62c9\u5fb7\u8a31"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"41": {
 		"name": "Atrama",
 		"sector": "Idun",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -1086,14 +1225,17 @@
 			"ru-RU": "\u0410\u0422\u0420\u0410\u041c\u0410",
 			"zh-Hans": "\u963f\u7279\u62c9\u739b",
 			"zh-Hant": "\u963f\u5353\u746a"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"42": {
 		"name": "Emeria",
 		"sector": "Kelvin",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -1112,15 +1254,18 @@
 			"ru-RU": "\u042d\u041c\u0415\u0420\u0418\u042f",
 			"zh-Hans": "\u57c3\u6885\u91cc\u4e9a",
 			"zh-Hant": "\u827e\u7f8e\u91cc\u4e9e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"43": {
 		"name": "Barabos",
 		"sector": "Marspira",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "BARABOS",
@@ -1138,15 +1283,19 @@
 			"ru-RU": "\u0411\u0410\u0420\u0410\u0411\u041e\u0421",
 			"zh-Hans": "\u5df4\u52d2\u535a\u65af",
 			"zh-Hant": "\u5df4\u62c9\u535a\u65af"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"44": {
 		"name": "Fenmire",
 		"sector": "Marspira",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "FENMIRE",
@@ -1164,15 +1313,18 @@
 			"ru-RU": "\u0424\u0415\u041d\u041c\u0415\u0419\u0420",
 			"zh-Hans": "\u8303\u8fc8\u5c14",
 			"zh-Hant": "\u82ac\u9ea5\u723e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"45": {
 		"name": "Mastia",
 		"sector": "Marspira",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -1191,14 +1343,20 @@
 			"ru-RU": "\u041c\u0410\u0421\u0422\u0418\u042f",
 			"zh-Hans": "\u739b\u65af\u8482\u4e9a",
 			"zh-Hant": "\u99ac\u65af\u63d0\u4e9e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"46": {
 		"name": "Shallus",
 		"sector": "Talus",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "SHALLUS",
@@ -1216,15 +1374,18 @@
 			"ru-RU": "\u0428\u0410\u041b\u041b\u0423\u0421",
 			"zh-Hans": "\u6c99\u52d2\u65af",
 			"zh-Hant": "\u6c99\u9732\u65af"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"47": {
 		"name": "Krakabos",
 		"sector": "Iptus",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "KRAKABOS",
@@ -1242,14 +1403,19 @@
 			"ru-RU": "\u041a\u0420\u0410\u041a\u0410\u0411\u041e\u0421",
 			"zh-Hans": "\u514b\u62c9\u514b\u535a\u65af",
 			"zh-Hant": "\u5361\u62c9\u5361\u535a"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"48": {
 		"name": "Iridica",
 		"sector": "Iptus",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "IRIDICA",
@@ -1267,14 +1433,17 @@
 			"ru-RU": "\u0418\u0420\u0418\u0414\u0418\u041a\u0410",
 			"zh-Hans": "\u827e\u4e3d\u8fea\u5361",
 			"zh-Hant": "\u4f0a\u68a8\u8fea\u5361"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"49": {
 		"name": "Azterra",
 		"sector": "Orion",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -1293,15 +1462,17 @@
 			"ru-RU": "\u0410\u0421\u0422\u0415\u0420\u0420\u0410",
 			"zh-Hans": "\u827e\u5b5c\u6cf0\u62c9",
 			"zh-Hant": "\u963f\u8332\u63d0\u62c9"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"50": {
 		"name": "Azur Secundus",
 		"sector": "Sten",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -1320,15 +1491,19 @@
 			"ru-RU": "\u0410\u0417\u0423\u0420 II",
 			"zh-Hans": "\u827e\u70ed\u5c14\u6b21\u661f",
 			"zh-Hant": "\u963f\u7956\u723e\u6b21\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"51": {
 		"name": "Ivis",
 		"sector": "Celeste",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "IVIS",
@@ -1346,14 +1521,18 @@
 			"ru-RU": "\u0410\u0419\u0412\u0418\u0421",
 			"zh-Hans": "\u827e\u7ef4\u65af",
 			"zh-Hant": "\u827e\u7dad\u65af"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"52": {
 		"name": "Slif",
 		"sector": "Celeste",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -1372,15 +1551,18 @@
 			"ru-RU": "\u0421\u041b\u0418\u0424",
 			"zh-Hans": "\u65af\u5229\u592b",
 			"zh-Hant": "\u53f2\u91cc\u592b"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"53": {
 		"name": "Caramoor",
 		"sector": "Korpus",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -1399,14 +1581,19 @@
 			"ru-RU": "\u041a\u0410\u0420\u0410\u041c\u0423\u0420",
 			"zh-Hans": "\u5f00\u52d2\u83ab\u5c14",
 			"zh-Hant": "\u51f1\u62c9\u7a46"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"54": {
 		"name": "Kharst",
 		"sector": "Gallux",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -1425,14 +1612,18 @@
 			"ru-RU": "\u041a\u0425\u0410\u0420\u0421\u0422",
 			"zh-Hans": "\u5580\u65af\u7279",
 			"zh-Hant": "\u54c8\u65af\u7279"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"55": {
 		"name": "Eukoria",
 		"sector": "Morgon",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "EUKORIA",
@@ -1450,14 +1641,17 @@
 			"ru-RU": "\u042e\u041a\u041e\u0420\u0418\u042f",
 			"zh-Hans": "\u6b27\u79d1\u91cc\u4e9a",
 			"zh-Hant": "\u6538\u79d1\u91cc\u4e9e"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"56": {
 		"name": "Myrium",
 		"sector": "Morgon",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -1476,14 +1670,18 @@
 			"ru-RU": "\u041c\u0418\u0420\u0418\u0423\u041c",
 			"zh-Hans": "\u6885\u91cc\u7fc1",
 			"zh-Hant": "\u7c73\u91cc\u70cf"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"57": {
 		"name": "Kerth Secundus",
 		"sector": "Rictus",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "KERTH SECUNDUS",
@@ -1501,15 +1699,18 @@
 			"ru-RU": "\u041a\u0415\u0420\u0422 II",
 			"zh-Hans": "\u514b\u65af\u6b21\u661f",
 			"zh-Hant": "\u514b\u65af\u6b21\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"58": {
 		"name": "Parsh",
 		"sector": "Rictus",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "PARSH",
@@ -1527,15 +1728,19 @@
 			"ru-RU": "\u041f\u0410\u0420\u0428",
 			"zh-Hans": "\u5e15\u5c14\u4ec0",
 			"zh-Hant": "\u5e15\u8a31"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"59": {
 		"name": "Reaf",
 		"sector": "Saleria",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "REAF",
@@ -1553,15 +1758,18 @@
 			"ru-RU": "\u0420\u0418\u0424",
 			"zh-Hans": "\u5229\u592b",
 			"zh-Hant": "\u91cc\u592b"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"60": {
 		"name": "Irulta",
 		"sector": "Saleria",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -1580,14 +1788,19 @@
 			"ru-RU": "\u0418\u0420\u0423\u041b\u0422\u0410",
 			"zh-Hans": "\u827e\u9c81\u5c14\u5854",
 			"zh-Hant": "\u4f0a\u9b6f\u5854"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"61": {
 		"name": "Emorath",
 		"sector": "Meridian",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "EMORATH",
@@ -1605,14 +1818,18 @@
 			"ru-RU": "\u042d\u041c\u041e\u0420\u0410\u0422",
 			"zh-Hans": "\u827e\u83ab\u62c9\u65af",
 			"zh-Hant": "\u57c3\u6469\u62c9"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"62": {
 		"name": "Ilduna Prime",
 		"sector": "Meridian",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "ILDUNA PRIME",
@@ -1630,15 +1847,17 @@
 			"ru-RU": "\u0418\u041b\u0414\u0423\u041d\u0410-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u4f0a\u5c14\u90fd\u7eb3\u4e3b\u661f",
 			"zh-Hant": "\u4f0a\u675c\u7d0d\u4e3b\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"63": {
 		"name": "Maw",
 		"sector": "Idun",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -1657,7 +1876,12 @@
 			"ru-RU": "\u0423\u0422\u0420\u041e\u0411\u0410",
 			"zh-Hans": "\u6df1\u6e0a",
 			"zh-Hant": "\u5de8\u5634"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"64": {
 		"name": "Meridia",
@@ -1682,14 +1906,17 @@
 			"ru-RU": "\u041c\u0415\u0420\u0418\u0414\u0418\u042f",
 			"zh-Hans": "\u9ed8\u91cc\u8fea\u4e9a",
 			"zh-Hant": "\u6885\u91cc\u8fea\u4e9e"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"65": {
 		"name": "Borea",
 		"sector": "Sagan",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -1708,14 +1935,18 @@
 			"ru-RU": "\u0411\u041e\u0420\u0415\u042f",
 			"zh-Hans": "\u535a\u745e\u4e9a",
 			"zh-Hant": "\u535a\u91cc\u4e9e"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"66": {
 		"name": "Curia",
 		"sector": "Marspira",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -1734,14 +1965,17 @@
 			"ru-RU": "\u041a\u0423\u0420\u0418\u042f",
 			"zh-Hans": "\u5c45\u91cc\u4e9a",
 			"zh-Hant": "\u5eab\u91cc\u4e9e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"67": {
 		"name": "Tarsh",
 		"sector": "Marspira",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -1760,14 +1994,18 @@
 			"ru-RU": "\u0422\u0410\u0420\u0428",
 			"zh-Hans": "\u5854\u5c14\u4ec0",
 			"zh-Hant": "\u5854\u8a31"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"68": {
 		"name": "Shelt",
 		"sector": "Talus",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "SHELT",
@@ -1785,15 +2023,17 @@
 			"ru-RU": "\u0428\u0415\u041b\u0422",
 			"zh-Hans": "\u8c22\u5c14\u7279",
 			"zh-Hant": "\u96ea\u723e\u7279"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"69": {
 		"name": "Imber",
 		"sector": "Talus",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -1812,15 +2052,18 @@
 			"ru-RU": "\u0418\u041c\u0411\u0415\u0420",
 			"zh-Hans": "\u56e0\u535a\u5c14",
 			"zh-Hant": "\u5370\u535a"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"70": {
 		"name": "Blistica",
 		"sector": "Gellert",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -1839,14 +2082,18 @@
 			"ru-RU": "\u0411\u041b\u0418\u0421\u0422\u0418\u041a\u0410",
 			"zh-Hans": "\u5e03\u91cc\u65af\u63d0\u5361",
 			"zh-Hant": "\u5e03\u91cc\u65af\u63d0\u5361"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"71": {
 		"name": "Ratch",
 		"sector": "Iptus",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -1865,14 +2112,17 @@
 			"ru-RU": "\u0420\u0410\u0422\u0427",
 			"zh-Hans": "\u62c9\u5947",
 			"zh-Hant": "\u5217\u66f2"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"72": {
 		"name": "Julheim",
 		"sector": "Nanos",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -1891,14 +2141,18 @@
 			"ru-RU": "\u042e\u041b\u042c\u0425\u0415\u0419\u041c",
 			"zh-Hans": "\u5c24\u5c14\u6d77\u59c6",
 			"zh-Hant": "\u7d04\u6d77\u59c6"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"73": {
 		"name": "Valgaard",
 		"sector": "Iptus",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -1917,14 +2171,17 @@
 			"ru-RU": "\u0412\u0410\u041b\u0413\u0410\u0410\u0420\u0414",
 			"zh-Hans": "\u74e6\u5c14\u52a0\u5fb7",
 			"zh-Hant": "\u74e6\u723e\u52a0\u5fb7"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"74": {
 		"name": "Arkturus",
 		"sector": "Arturion",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -1943,14 +2200,18 @@
 			"ru-RU": "\u0410\u0420\u041a\u0422\u0423\u0420",
 			"zh-Hans": "\u963f\u514b\u56fe\u52d2\u65af",
 			"zh-Hant": "\u4e9e\u514b\u571f\u9b6f\u65af"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"75": {
 		"name": "Esker",
 		"sector": "Falstaff",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -1969,14 +2230,18 @@
 			"ru-RU": "\u042d\u0421\u041a\u0415\u0420",
 			"zh-Hans": "\u827e\u65af\u514b\u5c14",
 			"zh-Hant": "\u57c3\u65af\u79d1"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"76": {
 		"name": "Terrek",
 		"sector": "Orion",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -1995,7 +2260,11 @@
 			"ru-RU": "\u0422\u0415\u0420\u0420\u0415\u041a",
 			"zh-Hans": "\u6cf0\u96f7\u514b",
 			"zh-Hant": "\u9435\u745e\u514b"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"77": {
 		"name": "Cirrus",
@@ -2020,14 +2289,17 @@
 			"ru-RU": "\u0421\u0418\u0420\u0420\u0423\u0421",
 			"zh-Hans": "\u5e0c\u52d2\u65af",
 			"zh-Hant": "\u932b\u745e\u65af"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"78": {
 		"name": "Crimsica",
 		"sector": "Draco",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2046,14 +2318,17 @@
 			"ru-RU": "\u041a\u0420\u0418\u041c\u0421\u0418\u041a\u0410",
 			"zh-Hans": "\u514b\u91cc\u59c6\u897f\u5361",
 			"zh-Hant": "\u514b\u91cc\u59c6\u932b\u5361"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"79": {
 		"name": "Heeth",
 		"sector": "Orion",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -2072,14 +2347,18 @@
 			"ru-RU": "\u0425\u0418\u0418\u0422",
 			"zh-Hans": "\u5e0c\u65af",
 			"zh-Hant": "\u5e0c\u65af"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"80": {
 		"name": "Veld",
 		"sector": "Orion",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2098,15 +2377,17 @@
 			"ru-RU": "\u0412\u0415\u041b\u042c\u0414",
 			"zh-Hans": "\u7ef4\u5c14\u5fb7",
 			"zh-Hant": "\u5a01\u723e\u5fb7"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"81": {
 		"name": "Alta V",
 		"sector": "Korpus",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -2115,7 +2396,7 @@
 			"pt-BR": "ALTA V",
 			"de-DE": "ALTA V",
 			"es-ES": "ALTA V",
-			"fr-FR": "ALTA\u00a0V",
+			"fr-FR": "ALTA V",
 			"it-IT": "ALTA V",
 			"ja-JP": "\u30a2\u30eb\u30bf V",
 			"ko-KO": "\uc54c\ud0c0 V",
@@ -2125,14 +2406,19 @@
 			"ru-RU": "\u0410\u041b\u042c\u0422\u0410 V",
 			"zh-Hans": "\u5965\u5c14\u5854V",
 			"zh-Hant": "\u6b50\u5854V"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"82": {
 		"name": "Ursica XI",
 		"sector": "Borgus",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "URSICA XI",
@@ -2140,7 +2426,7 @@
 			"pt-BR": "\u00daRSICA XI",
 			"de-DE": "URSICA XI",
 			"es-ES": "URSICA XI",
-			"fr-FR": "URSICA\u00a0XI",
+			"fr-FR": "URSICA XI",
 			"it-IT": "URSICA XI",
 			"ja-JP": "\u30a6\u30eb\u30b7\u30ab XI",
 			"ko-KO": "\uc6b0\ub974\uc2dc\uce74 XI",
@@ -2150,14 +2436,18 @@
 			"ru-RU": "\u0423\u0420\u0421\u0418\u041a\u0410 XI",
 			"zh-Hans": "\u5384\u897f\u5361XI",
 			"zh-Hant": "\u723e\u897f\u5361XI"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"83": {
 		"name": "Inari",
 		"sector": "Korpus",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "INARI",
@@ -2175,14 +2465,17 @@
 			"ru-RU": "\u0418\u041d\u0410\u0420\u0418",
 			"zh-Hans": "\u4f0a\u7eb3\u91cc",
 			"zh-Hant": "\u4f0a\u90a3\u91cc"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"84": {
 		"name": "Skaash",
 		"sector": "Ursa",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -2201,15 +2494,18 @@
 			"ru-RU": "\u0421\u041a\u0410\u0410\u0428",
 			"zh-Hans": "\u65af\u5361\u4ec0",
 			"zh-Hant": "\u53f2\u5361\u4ec0"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"85": {
 		"name": "Moradesh",
 		"sector": "Celeste",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -2228,14 +2524,19 @@
 			"ru-RU": "\u041c\u041e\u0420\u0410\u0414\u0415\u0428",
 			"zh-Hans": "\u83ab\u62c9\u6234\u4ec0",
 			"zh-Hant": "\u6469\u62c9\u5fb7\u8a31"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"86": {
 		"name": "Rasp",
 		"sector": "Gallux",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -2254,14 +2555,17 @@
 			"ru-RU": "\u0420\u0410\u0421\u041f",
 			"zh-Hans": "\u62c9\u65af\u666e",
 			"zh-Hant": "\u62c9\u65af\u666e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"87": {
 		"name": "Bashyr",
 		"sector": "Gallux",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -2280,15 +2584,17 @@
 			"ru-RU": "\u0411\u0410\u0428\u0418\u0420",
 			"zh-Hans": "\u5df4\u5e0c\u5c14",
 			"zh-Hant": "\u5df4\u5e0c\u723e"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"88": {
 		"name": "Regnus",
 		"sector": "Morgon",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -2307,14 +2613,18 @@
 			"ru-RU": "\u0420\u0415\u0413\u041d\u0423\u0421",
 			"zh-Hans": "\u96f7\u683c\u52aa\u65af",
 			"zh-Hant": "\u96f7\u683c\u7d0d"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"89": {
 		"name": "Mog",
 		"sector": "Morgon",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -2333,14 +2643,18 @@
 			"ru-RU": "\u041c\u041e\u0413",
 			"zh-Hans": "\u83ab\u683c",
 			"zh-Hant": "\u83ab\u683c"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"90": {
 		"name": "Valmox",
 		"sector": "Rictus",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2359,14 +2673,17 @@
 			"ru-RU": "\u0412\u0410\u041b\u042c\u041c\u041e\u041a\u0421",
 			"zh-Hans": "\u74e6\u5c14\u83ab\u514b\u65af",
 			"zh-Hant": "\u74e6\u723e\u6469\u65af"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"91": {
 		"name": "Iro",
 		"sector": "Rictus",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -2385,14 +2702,18 @@
 			"ru-RU": "\u0418\u0420\u041e",
 			"zh-Hans": "\u4f0a\u7f57",
 			"zh-Hant": "\u4f0a\u7f85"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"92": {
 		"name": "Grafmere",
 		"sector": "Rictus",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "GRAFMERE",
@@ -2410,14 +2731,17 @@
 			"ru-RU": "\u0413\u0420\u0410\u0424\u041c\u0415\u0420",
 			"zh-Hans": "\u683c\u62c9\u592b\u7c73\u5c14",
 			"zh-Hant": "\u683c\u5217\u592b\u7c73\u723e"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"93": {
 		"name": "New Stockholm",
 		"sector": "Hanzo",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -2436,15 +2760,18 @@
 			"ru-RU": "\u041d\u041e\u0412\u042b\u0419 \u0421\u0422\u041e\u041a\u0413\u041e\u041b\u042c\u041c",
 			"zh-Hans": "\u65b0\u65af\u5fb7\u54e5\u5c14\u6469",
 			"zh-Hant": "\u65b0\u65af\u5fb7\u54e5\u723e\u6469"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"94": {
 		"name": "Oasis",
 		"sector": "Rictus",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -2463,14 +2790,18 @@
 			"ru-RU": "\u041e\u0410\u0417\u0418\u0421",
 			"zh-Hans": "\u7eff\u6d32",
 			"zh-Hant": "\u7da0\u6d32"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"95": {
 		"name": "Genesis Prime",
 		"sector": "Rictus",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2489,15 +2820,17 @@
 			"ru-RU": "\u0413\u0415\u041d\u0415\u0417\u0418\u0421-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u521b\u4e16\u4e3b\u661f",
 			"zh-Hant": "\u5275\u4e16\u7d00\u4e3b\u661f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"96": {
 		"name": "Outpost 32",
 		"sector": "Saleria",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -2506,7 +2839,7 @@
 			"pt-BR": "POSTO AVAN\u00c7ADO 32",
 			"de-DE": "AUSSENPOSTEN 32",
 			"es-ES": "PUESTO DE AVANZADA 32",
-			"fr-FR": "AVANT-POSTE\u00a032",
+			"fr-FR": "AVANT-POSTE 32",
 			"it-IT": "AVAMPOSTO 32",
 			"ja-JP": "\u30a2\u30a6\u30c8\u30dd\u30b9\u30c832",
 			"ko-KO": "\uc544\uc6c3\ud3ec\uc2a4\ud2b8 32",
@@ -2516,14 +2849,19 @@
 			"ru-RU": "\u0410\u0412\u0410\u041d\u041f\u041e\u0421\u0422 32",
 			"zh-Hans": "32\u53f7\u54e8\u7ad9",
 			"zh-Hant": "32\u865f\u54e8\u7ad9"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"97": {
 		"name": "Calypso",
 		"sector": "Saleria",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -2542,14 +2880,17 @@
 			"ru-RU": "\u041a\u0410\u041b\u0418\u041f\u0421\u041e",
 			"zh-Hans": "\u5361\u5229\u666e\u7d22",
 			"zh-Hant": "\u5361\u5442\u666e\u7d22"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"98": {
 		"name": "Elysian Meadows",
 		"sector": "Guang",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2568,7 +2909,11 @@
 			"ru-RU": "\u041b\u0423\u0413\u0410 \u042d\u041b\u0418\u0417\u0418\u042f",
 			"zh-Hans": "\u57c3\u5f8b\u897f\u6602\u8349\u539f",
 			"zh-Hant": "\u4f0a\u9ece\u897f\u4e9e\u8349\u539f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"99": {
 		"name": "Alderidge Cove",
@@ -2593,14 +2938,18 @@
 			"ru-RU": "\u041f\u0415\u0429\u0415\u0420\u0410 \u0410\u041b\u042c\u0414\u0415\u0420\u0418\u0414\u0416",
 			"zh-Hans": "\u963f\u5c14\u5fb7\u91cc\u5947\u6e7e",
 			"zh-Hant": "\u963f\u5f97\u91cc\u6cbb\u7063"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"100": {
 		"name": "Trandor",
 		"sector": "Sten",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "TRANDOR",
@@ -2618,15 +2967,18 @@
 			"ru-RU": "\u0422\u0420\u0410\u041d\u0414\u041e\u0420",
 			"zh-Hans": "\u7279\u5170\u9053\u5c14",
 			"zh-Hant": "\u5ddd\u9438"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"101": {
 		"name": "East Iridium Trading Bay",
 		"sector": "Tarragon",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "EAST IRIDIUM TRADING BAY",
@@ -2634,7 +2986,7 @@
 			"pt-BR": "BA\u00cdA COMERCIAL DE IR\u00cdDIO ORIENTAL",
 			"de-DE": "EAST-IRIDIUM-HANDELSPOSTEN",
 			"es-ES": "PUERTO COMERCIAL DE IRIDIO ORIENTAL",
-			"fr-FR": "COMPTOIR\u00a0EST D'IRIDIUM",
+			"fr-FR": "COMPTOIR EST D'IRIDIUM",
 			"it-IT": "BAIA COMMERCIALE IRIDIUM EST",
 			"ja-JP": "\u30a4\u30fc\u30b9\u30c8\u30fb\u30a4\u30ea\u30b8\u30a6\u30e0\u30fb\u30c8\u30ec\u30fc\u30c9\u30d9\u30a4",
 			"ko-KO": "\uc774\uc2a4\ud2b8 \uc774\ub9ac\ub4d0 \ud2b8\ub808\uc774\ub529 \ubca0\uc774",
@@ -2644,14 +2996,18 @@
 			"ru-RU": "\u0412\u041e\u0421\u0422\u041e\u0427\u041d\u042b\u0419 \u0418\u0420\u0418\u0414\u0418\u0415\u0412\u042b\u0419 \u0422\u041e\u0420\u0413\u041e\u0412\u042b\u0419 \u0417\u0410\u041b\u0418\u0412",
 			"zh-Hans": "\u4e1c\u94f1\u8d38\u6613\u6e7e",
 			"zh-Hant": "\u6771\u92a5\u8cbf\u6613\u7063"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"102": {
 		"name": "Liberty Ridge",
 		"sector": "Meridian",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2670,15 +3026,17 @@
 			"ru-RU": "\u0425\u0420\u0415\u0411\u0415\u0422 \u0421\u0412\u041e\u0411\u041e\u0414\u042b",
 			"zh-Hans": "\u89e3\u653e\u5cad",
 			"zh-Hant": "\u81ea\u7531\u5c71\u810a"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"103": {
 		"name": "Baldrick Prime",
 		"sector": "Meridian",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -2697,15 +3055,19 @@
 			"ru-RU": "\u0411\u041e\u041b\u0414\u0420\u0418\u041a-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u5df4\u5c14\u5fb7\u91cc\u514b\u4e3b\u661f",
 			"zh-Hant": "\u67cf\u5fb7\u91cc\u514b\u4e3b\u661f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"104": {
 		"name": "The Weir",
 		"sector": "Theseus",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "THE WEIR",
@@ -2723,14 +3085,18 @@
 			"ru-RU": "\u0412\u0418\u0420",
 			"zh-Hans": "\u7ef4\u5c14",
 			"zh-Hant": "\u5a01\u723e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"105": {
 		"name": "Kuper",
 		"sector": "Theseus",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2749,14 +3115,18 @@
 			"ru-RU": "\u041a\u0423\u041f\u0415\u0420",
 			"zh-Hans": "\u5e93\u73c0",
 			"zh-Hant": "\u5eab\u67cf"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"106": {
 		"name": "Oslo Station",
 		"sector": "Sagan",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "OSLO STATION",
@@ -2774,15 +3144,17 @@
 			"ru-RU": "\u0421\u0422\u0410\u041d\u0426\u0418\u042f \u00ab\u041e\u0421\u041b\u041e\u00bb",
 			"zh-Hans": "\u5965\u65af\u9646\u7ad9",
 			"zh-Hant": "\u5967\u65af\u9678\u592a\u7a7a\u7ad9"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"107": {
 		"name": "P\u00f6pli IX",
 		"sector": "Xzar",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -2791,7 +3163,7 @@
 			"pt-BR": "P\u00d6PLI IX",
 			"de-DE": "P\u00d6PLI IX",
 			"es-ES": "P\u00d6PLI IX",
-			"fr-FR": "P\u00d6PLI\u00a0IX",
+			"fr-FR": "P\u00d6PLI IX",
 			"it-IT": "P\u00d6PLI IX",
 			"ja-JP": "\u30d1\u30fc\u30d7\u30ea\u30fc IX",
 			"ko-KO": "\ud440\ud50c\ub9ac IX",
@@ -2801,14 +3173,18 @@
 			"ru-RU": "\u041f\u0415\u041f\u041b\u0418 IX",
 			"zh-Hans": "\u73c0\u666e\u5229IX",
 			"zh-Hant": "\u6ce2\u666e\u91ccIX"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"108": {
 		"name": "Gunvald",
 		"sector": "Sagan",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -2827,14 +3203,17 @@
 			"ru-RU": "\u0413\u042e\u041d\u0412\u0410\u041b\u042c\u0414",
 			"zh-Hans": "\u53e4\u6069\u74e6\u5c14\u5fb7",
 			"zh-Hant": "\u53e4\u6069\u74e6\u5fb7"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"109": {
 		"name": "Dolph",
 		"sector": "Nanos",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -2853,14 +3232,18 @@
 			"ru-RU": "\u0414\u041e\u041b\u042c\u0424",
 			"zh-Hans": "\u591a\u5c14\u592b",
 			"zh-Hant": "\u591a\u592b"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"110": {
 		"name": "Bekvam III",
 		"sector": "Nanos",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "BEKVAM III",
@@ -2868,7 +3251,7 @@
 			"pt-BR": "BEKVAM III",
 			"de-DE": "BEKVAM III",
 			"es-ES": "BEKVAM III",
-			"fr-FR": "BEKVAM\u00a0III",
+			"fr-FR": "BEKVAM III",
 			"it-IT": "BEKVAM III",
 			"ja-JP": "\u30d9\u30af\u30f4\u30a1\u30e0 III",
 			"ko-KO": "\ubca0\ud06c\ubc24 III",
@@ -2878,14 +3261,18 @@
 			"ru-RU": "\u0411\u0415\u041a\u0412\u0410\u041c III",
 			"zh-Hans": "\u8d1d\u514b\u6e29III",
 			"zh-Hant": "\u5225\u514b\u6587III"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"111": {
 		"name": "Duma Tyr",
 		"sector": "Nanos",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "DUMA TYR",
@@ -2903,14 +3290,17 @@
 			"ru-RU": "\u0414\u0423\u041c\u0410 \u0422\u042e\u0420",
 			"zh-Hans": "\u675c\u9a6c\u63d0\u5c14",
 			"zh-Hant": "\u675c\u99ac\u63d0"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"112": {
 		"name": "Vernen Wells",
 		"sector": "Hydra",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -2929,7 +3319,11 @@
 			"ru-RU": "\u041a\u041e\u041b\u041e\u0414\u0426\u042b \u0412\u0415\u0420\u041d\u0415\u041d\u0410",
 			"zh-Hans": "\u4f5b\u519c\u4e95",
 			"zh-Hant": "\u5a01\u8fb2\u4e95"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"113": {
 		"name": "Aesir Pass",
@@ -2954,14 +3348,18 @@
 			"ru-RU": "\u041f\u0415\u0420\u0415\u0412\u0410\u041b \u0410\u0421\u041e\u0412",
 			"zh-Hans": "\u4e9a\u8428\u5173\u9698",
 			"zh-Hant": "\u57c3\u85a9\u9698"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"114": {
 		"name": "Aurora Bay",
 		"sector": "Valdis",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "AURORA BAY",
@@ -2979,7 +3377,11 @@
 			"ru-RU": "\u0417\u0410\u041b\u0418\u0412 \u0410\u0412\u0420\u041e\u0420\u042b",
 			"zh-Hans": "\u6781\u5149\u6e7e",
 			"zh-Hant": "\u6975\u5149\u7063"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"115": {
 		"name": "Penta",
@@ -3004,15 +3406,17 @@
 			"ru-RU": "\u041f\u0415\u041d\u0422\u0410",
 			"zh-Hans": "\u5f6d\u5854",
 			"zh-Hant": "\u4e94\u8292"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"116": {
 		"name": "Gaellivare",
 		"sector": "Talus",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -3031,14 +3435,18 @@
 			"ru-RU": "\u0415\u041b\u041b\u0418\u0412\u0410\u0420\u0415",
 			"zh-Hans": "\u8036\u5229\u74e6\u52d2",
 			"zh-Hant": "\u8036\u5229\u74e6"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"117": {
 		"name": "Vog-Sojoth",
 		"sector": "Tanis",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -3057,15 +3465,18 @@
 			"ru-RU": "\u0412\u041e\u0413-\u0421\u041e\u0419\u041e\u0422",
 			"zh-Hans": "\u4f5b\u6208\u7d22\u7ea6\u65af",
 			"zh-Hant": "\u6c83\u683c\u68ad\u60a0"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"118": {
 		"name": "Kirrik",
 		"sector": "Arturion",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -3084,15 +3495,18 @@
 			"ru-RU": "\u041a\u0418\u0420\u0420\u0418\u041a",
 			"zh-Hans": "\u57fa\u91cc\u514b",
 			"zh-Hant": "\u5947\u91cc\u514b"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"119": {
 		"name": "Mortax Prime",
 		"sector": "Arturion",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -3111,14 +3525,18 @@
 			"ru-RU": "\u041c\u041e\u0420\u0422\u0410\u041a\u0421-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u6469\u5c14\u5854\u514b\u65af\u4e3b\u661f",
 			"zh-Hant": "\u6469\u723e\u6cf0\u65af\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"120": {
 		"name": "Wilford Station",
 		"sector": "Arturion",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -3137,14 +3555,18 @@
 			"ru-RU": "\u0421\u0422\u0410\u041d\u0426\u0418\u042f \u00ab\u0423\u0418\u041b\u0424\u041e\u0420\u0414\u00bb",
 			"zh-Hans": "\u5a01\u5c14\u798f\u5fb7\u7ad9",
 			"zh-Hant": "\u5a01\u798f\u5fb7\u592a\u7a7a\u7ad9"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"121": {
 		"name": "Pioneer II",
 		"sector": "Arturion",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -3153,7 +3575,7 @@
 			"pt-BR": "PIONEIRO II",
 			"de-DE": "PIONEER II",
 			"es-ES": "PIONERO II",
-			"fr-FR": "PIONNIER\u00a0II",
+			"fr-FR": "PIONNIER II",
 			"it-IT": "PIONEER II",
 			"ja-JP": "\u30d1\u30a4\u30aa\u30cb\u30a2 II",
 			"ko-KO": "\ud30c\uc774\uc624\ub2c8\uc5b4 II",
@@ -3163,15 +3585,17 @@
 			"ru-RU": "\u041f\u0415\u0420\u0412\u041e\u041f\u0420\u041e\u0425\u041e\u0414\u0415\u0426 II",
 			"zh-Hans": "\u5148\u9a71II",
 			"zh-Hant": "\u5148\u92d2II"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"122": {
 		"name": "Erson Sands",
 		"sector": "Falstaff",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -3190,14 +3614,18 @@
 			"ru-RU": "\u041f\u0415\u0421\u041a\u0418 \u042d\u0420\u0421\u041e\u041d\u0410",
 			"zh-Hans": "\u5384\u5c14\u68ee\u6851\u5179",
 			"zh-Hant": "\u723e\u68ee\u6c99\u5730"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"123": {
 		"name": "Socorro III",
 		"sector": "Falstaff",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -3206,7 +3634,7 @@
 			"pt-BR": "SOCORRO III",
 			"de-DE": "SOCORRO III",
 			"es-ES": "SOCORRO III",
-			"fr-FR": "SOCORRO\u00a0III",
+			"fr-FR": "SOCORRO III",
 			"it-IT": "SOCORRO III",
 			"ja-JP": "\u30bd\u30b3\u30ed III",
 			"ko-KO": "\uc18c\ucf54\ub85c III",
@@ -3216,15 +3644,18 @@
 			"ru-RU": "\u0421\u041e\u041a\u041e\u0420\u0420\u041e III",
 			"zh-Hans": "\u7d22\u79d1\u7f57III",
 			"zh-Hant": "\u7d22\u79d1\u7f85III"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"124": {
 		"name": "Bore Rock",
 		"sector": "Falstaff",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "BORE ROCK",
@@ -3242,14 +3673,18 @@
 			"ru-RU": "\u0411\u0423\u0420\u041e\u0412\u041e\u0419 \u041a\u0410\u041c\u0415\u041d\u042c",
 			"zh-Hans": "\u535a\u5c14\u5ca9",
 			"zh-Hant": "\u4f2f\u723e\u5ca9"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"125": {
 		"name": "Fenrir III",
 		"sector": "Umlaut",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -3258,7 +3693,7 @@
 			"pt-BR": "FENRIR III",
 			"de-DE": "FENRIR III",
 			"es-ES": "FENRIR III",
-			"fr-FR": "FENRIR\u00a0III",
+			"fr-FR": "FENRIR III",
 			"it-IT": "FENRIR III",
 			"ja-JP": "\u30d5\u30a7\u30f3\u30ea\u30eb III",
 			"ko-KO": "\ud39c\ub9ac\ub974 III",
@@ -3268,14 +3703,18 @@
 			"ru-RU": "\u0424\u0415\u041d\u0420\u0418\u0420 III",
 			"zh-Hans": "\u82ac\u91cc\u5c14III",
 			"zh-Hant": "\u82ac\u91cc\u723eIII"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"126": {
 		"name": "Turing",
 		"sector": "Umlaut",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "TURING",
@@ -3293,14 +3732,18 @@
 			"ru-RU": "\u0422\u042c\u042e\u0420\u0418\u041d\u0413",
 			"zh-Hans": "\u56fe\u7075",
 			"zh-Hant": "\u5716\u9748"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"127": {
 		"name": "Angel's Venture",
 		"sector": "Orion",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "ANGEL'S VENTURE",
@@ -3318,14 +3761,17 @@
 			"ru-RU": "\u0410\u041d\u0413\u0415\u041b\u042c\u0421\u041a\u0418\u0419 \u0420\u0418\u0421\u041a",
 			"zh-Hans": "\u5929\u4f7f\u6295\u8d44",
 			"zh-Hant": "\u5929\u4f7f\u63a2\u96aa"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"128": {
 		"name": "Darius II",
 		"sector": "Borgus",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -3334,7 +3780,7 @@
 			"pt-BR": "D\u00c1RIO II",
 			"de-DE": "DARIUS II",
 			"es-ES": "DARIUS II",
-			"fr-FR": "DARIUS\u00a0II",
+			"fr-FR": "DARIUS II",
 			"it-IT": "DARIUS II",
 			"ja-JP": "\u30c0\u30ea\u30a6\u30b9 II",
 			"ko-KO": "\ub2e4\ub9ac\uc6b0\uc2a4 II",
@@ -3344,15 +3790,19 @@
 			"ru-RU": "\u0414\u0410\u0420\u0418\u0419 II",
 			"zh-Hans": "\u5927\u6d41\u58ebII",
 			"zh-Hant": "\u9054\u91cc\u723eII"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"129": {
 		"name": "Acamar IV",
 		"sector": "Jin Xi",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "ACAMAR IV",
@@ -3360,7 +3810,7 @@
 			"pt-BR": "ACAMAR IV",
 			"de-DE": "ACAMAR IV",
 			"es-ES": "ACAMAR IV",
-			"fr-FR": "ACAMAR\u00a0IV",
+			"fr-FR": "ACAMAR IV",
 			"it-IT": "ACAMAR IV",
 			"ja-JP": "\u30a2\u30ab\u30de\u30fc IV",
 			"ko-KO": "\uc544\uce74\ub9c8\ub974 IV",
@@ -3370,15 +3820,19 @@
 			"ru-RU": "\u0410\u041a\u0410\u041c\u0410\u0420 IV",
 			"zh-Hans": "\u5929\u56ed\u516dIV",
 			"zh-Hant": "\u5929\u5712\u516dIV"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"130": {
 		"name": "Achernar Secundus",
 		"sector": "Borgus",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "ACHERNAR SECUNDUS",
@@ -3396,14 +3850,18 @@
 			"ru-RU": "\u0410\u0425\u0415\u0420\u041d\u0410\u0420 II",
 			"zh-Hans": "\u6c34\u59d4\u4e00\u6b21\u661f",
 			"zh-Hant": "\u6c34\u59d4\u4e00\u6b21\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"131": {
 		"name": "Achird III",
 		"sector": "Borgus",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -3412,7 +3870,7 @@
 			"pt-BR": "ACHIRD III",
 			"de-DE": "ACHIRD III",
 			"es-ES": "ACHIRD III",
-			"fr-FR": "ACHIRD\u00a0III",
+			"fr-FR": "ACHIRD III",
 			"it-IT": "ACHIRD III",
 			"ja-JP": "\u30a2\u30d2\u30a2\u30fc\u30c9 III",
 			"ko-KO": "\uc544\ud0a4\ub4dc III",
@@ -3422,14 +3880,17 @@
 			"ru-RU": "\u0410\u0425\u0418\u0420\u0414 III",
 			"zh-Hans": "\u738b\u826f\u4e09III",
 			"zh-Hant": "\u738b\u826f\u4e09III"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"132": {
 		"name": "Acrab XI",
 		"sector": "Ursa",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -3438,7 +3899,7 @@
 			"pt-BR": "ACRAB XI",
 			"de-DE": "ACRAB XI",
 			"es-ES": "ACRAB XI",
-			"fr-FR": "ACRAB\u00a0XI",
+			"fr-FR": "ACRAB XI",
 			"it-IT": "ACRAB XI",
 			"ja-JP": "\u30a2\u30af\u30e9\u30d6 XI",
 			"ko-KO": "\uc544\ud06c\ub78d XI",
@@ -3448,14 +3909,18 @@
 			"ru-RU": "\u0410\u041a\u0420\u0410\u0411 XI",
 			"zh-Hans": "\u623f\u5bbf\u56dbXI",
 			"zh-Hant": "\u623f\u5bbf\u56dbXI"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"133": {
 		"name": "Acrux IX",
 		"sector": "Ursa",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "ACRUX IX",
@@ -3463,7 +3928,7 @@
 			"pt-BR": "ACRUX IX",
 			"de-DE": "ACRUX IX",
 			"es-ES": "ACRUX IX",
-			"fr-FR": "ACRUX\u00a0IX",
+			"fr-FR": "ACRUX IX",
 			"it-IT": "ACRUX IX",
 			"ja-JP": "\u30a2\u30af\u30eb\u30fc\u30b9 IX",
 			"ko-KO": "\uc544\ud06c\ub8e9\uc2a4 IX",
@@ -3473,14 +3938,18 @@
 			"ru-RU": "\u0410\u041a\u0420\u0423\u041a\u0421 IX",
 			"zh-Hans": "\u5341\u5b57\u67b6\u4e8cIX",
 			"zh-Hant": "\u5341\u5b57\u67b6\u4e8cIX"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"134": {
 		"name": "Acubens Prime",
 		"sector": "Gallux",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "ACUBENS PRIME",
@@ -3498,15 +3967,17 @@
 			"ru-RU": "\u0410\u041a\u0423\u0411\u0415\u041d\u0421-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u67f3\u5bbf\u589e\u4e09\u4e3b\u661f",
 			"zh-Hant": "\u67f3\u5bbf\u589e\u4e09\u4e3b\u661f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"135": {
 		"name": "Adhara",
 		"sector": "Gallux",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -3525,15 +3996,19 @@
 			"ru-RU": "\u042d\u0414\u0425\u0410\u0420\u0410",
 			"zh-Hans": "\u5f27\u77e2\u4e03",
 			"zh-Hant": "\u5f27\u77e2\u4e03"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"136": {
 		"name": "Afoyay Bay",
 		"sector": "Gallux",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "AFOYAY BAY",
@@ -3551,7 +4026,12 @@
 			"ru-RU": "\u0410\u0424\u041e\u0419\u042f-\u0411\u042d\u0419",
 			"zh-Hans": "\u827e\u798f\u4e9a\u6e7e",
 			"zh-Hant": "\u963f\u4f5b\u8036\u7063"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"137": {
 		"name": "Ain-5",
@@ -3576,14 +4056,17 @@
 			"ru-RU": "\u0410\u0419\u041d-5",
 			"zh-Hans": "\u6bd5\u5bbf\u4e005",
 			"zh-Hant": "\u7562\u5bbf\u4e005"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"138": {
 		"name": "Alairt III",
 		"sector": "Hanzo",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -3592,7 +4075,7 @@
 			"pt-BR": "ALAIRT III",
 			"de-DE": "ALAIRT III",
 			"es-ES": "ALAIRT III",
-			"fr-FR": "ALAIRT\u00a0III",
+			"fr-FR": "ALAIRT III",
 			"it-IT": "ALAIRT III",
 			"ja-JP": "\u30a2\u30e9\u30a4\u30a2\u30c8 III",
 			"ko-KO": "\uc54c\ub77c\uc774\ub974\ud2b8 III",
@@ -3602,14 +4085,18 @@
 			"ru-RU": "\u0410\u041b\u0410\u0418\u0420\u0422 III",
 			"zh-Hans": "\u827e\u5217\u5c14\u7279III",
 			"zh-Hant": "\u827e\u5217\u723e\u7279III"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"139": {
 		"name": "Alamak VII",
 		"sector": "Hanzo",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "ALAMAK VII",
@@ -3617,7 +4104,7 @@
 			"pt-BR": "ALAMAK VII",
 			"de-DE": "ALAMAK VII",
 			"es-ES": "ALAMAK VII",
-			"fr-FR": "ALAMAK\u00a0VII",
+			"fr-FR": "ALAMAK VII",
 			"it-IT": "ALAMAK VII",
 			"ja-JP": "\u30a2\u30e9\u30de\u30c3\u30af VII",
 			"ko-KO": "\uc54c\ub77c\ub9c9 VII",
@@ -3627,7 +4114,11 @@
 			"ru-RU": "\u0410\u041b\u0410\u041c\u0410\u041a VII",
 			"zh-Hans": "\u5929\u5927\u5c06\u519b\u4e00VII",
 			"zh-Hant": "\u5929\u5927\u5c07\u8ecd\u4e00VII"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"140": {
 		"name": "Alaraph",
@@ -3652,14 +4143,17 @@
 			"ru-RU": "\u0410\u041b\u0410\u0420\u0410\u0424",
 			"zh-Hans": "\u53f3\u6267\u6cd5",
 			"zh-Hant": "\u53f3\u57f7\u6cd5"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"141": {
 		"name": "Alathfar XI",
 		"sector": "Akira",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -3668,7 +4162,7 @@
 			"pt-BR": "ALATHFAR XI",
 			"de-DE": "ALATHFAR XI",
 			"es-ES": "ALATHFAR XI",
-			"fr-FR": "ALATHFAR\u00a0XI",
+			"fr-FR": "ALATHFAR XI",
 			"it-IT": "ALATHFAR XI",
 			"ja-JP": "\u30a2\u30e9\u30b9\u30d5\u30a1\u30eb XI",
 			"ko-KO": "\uc54c\ub77c\uc2a4\ud30c\ub974 XI",
@@ -3678,14 +4172,19 @@
 			"ru-RU": "\u0410\u041b\u0410\u0422\u0424\u0410\u0420 XI",
 			"zh-Hans": "\u7ec7\u5973\u589e\u4e09XI",
 			"zh-Hant": "\u7e54\u5973\u589e\u4e09XI"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"142": {
 		"name": "Andar",
 		"sector": "Akira",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "ANDAR",
@@ -3703,15 +4202,18 @@
 			"ru-RU": "\u042d\u041d\u0414\u0410\u0420",
 			"zh-Hans": "\u5b89\u8fbe\u5c14",
 			"zh-Hant": "\u5b89\u9054\u723e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"143": {
 		"name": "Asperoth Prime",
 		"sector": "Akira",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "ASPEROTH PRIME",
@@ -3729,15 +4231,19 @@
 			"ru-RU": "\u0410\u0421\u041f\u0415\u0420\u041e\u0422-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u963f\u65af\u4f69\u6d1b\u65af\u4e3b\u661f",
 			"zh-Hant": "\u57c3\u65af\u4f69\u52de\u4e3b\u661f"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"144": {
 		"name": "Bellatrix",
 		"sector": "Guang",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "BELLATRIX",
@@ -3755,14 +4261,18 @@
 			"ru-RU": "\u0411\u0415\u041b\u041b\u0410\u0422\u0420\u0418\u041a\u0421",
 			"zh-Hans": "\u53c2\u5bbf\u4e94",
 			"zh-Hant": "\u53c3\u5bbf\u4e94"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"145": {
 		"name": "Botein",
 		"sector": "Guang",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -3781,15 +4291,18 @@
 			"ru-RU": "\u0411\u041e\u0422\u0415\u0419\u041d",
 			"zh-Hans": "\u5929\u9634\u56db",
 			"zh-Hant": "\u5929\u9670\u56db"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"146": {
 		"name": "Osupsam",
 		"sector": "Tarragon",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -3808,14 +4321,19 @@
 			"ru-RU": "\u041e\u0421\u0423\u041f\u0421\u0410\u041c",
 			"zh-Hans": "\u6b27\u82cf\u666e\u68ee",
 			"zh-Hant": "\u6b50\u8607\u73ca"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"147": {
 		"name": "Brink-2",
 		"sector": "Tarragon",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -3834,14 +4352,18 @@
 			"ru-RU": "\u0411\u0420\u0418\u041d\u041a-2",
 			"zh-Hans": "\u5e03\u6797\u514b2",
 			"zh-Hant": "\u5e03\u6797\u514b2"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"148": {
 		"name": "Bunda Secundus",
 		"sector": "Tarragon",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "BUNDA SECUNDUS",
@@ -3859,15 +4381,17 @@
 			"ru-RU": "\u0411\u0423\u041d\u0414\u0410 II",
 			"zh-Hans": "\u5929\u5792\u57ce\u4e00\u6b21\u661f",
 			"zh-Hant": "\u5929\u58d8\u57ce\u4e00\u6b21\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"149": {
 		"name": "Canopus",
 		"sector": "Tarragon",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -3886,15 +4410,19 @@
 			"ru-RU": "\u041a\u0410\u041d\u041e\u041f\u0423\u0421",
 			"zh-Hans": "\u8001\u4eba",
 			"zh-Hant": "\u5361\u8afe\u666e\u65af"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"150": {
 		"name": "Caph",
 		"sector": "Theseus",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "CAPH",
@@ -3912,14 +4440,18 @@
 			"ru-RU": "\u041a\u0410\u0424",
 			"zh-Hans": "\u738b\u826f\u4e00",
 			"zh-Hant": "\u738b\u826f\u4e00"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"151": {
 		"name": "Castor",
 		"sector": "Theseus",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -3938,15 +4470,17 @@
 			"ru-RU": "\u041a\u0410\u0421\u0422\u041e\u0420",
 			"zh-Hans": "\u5317\u6cb3\u4e8c",
 			"zh-Hant": "\u5317\u6cb3\u4e8c"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"152": {
 		"name": "Durgen",
 		"sector": "Severin",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -3965,15 +4499,20 @@
 			"ru-RU": "\u0414\u0418\u0420\u0413\u0415\u041d",
 			"zh-Hans": "\u5fb7\u5c14\u6839",
 			"zh-Hant": "\u8fea\u723e\u91d1"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"153": {
 		"name": "Draupnir",
 		"sector": "Xzar",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "DRAUPNIR",
@@ -3991,7 +4530,12 @@
 			"ru-RU": "\u0414\u0420\u041e\u041f\u041d\u0418\u0420",
 			"zh-Hans": "\u5fb7\u7f57\u666e\u5c3c\u5c14",
 			"zh-Hant": "\u5fb7\u52de\u666e\u5c3c"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"154": {
 		"name": "Mort",
@@ -4016,14 +4560,17 @@
 			"ru-RU": "\u041c\u041e\u0420\u0422",
 			"zh-Hans": "\u83ab\u7279",
 			"zh-Hant": "\u6b7b\u4ea1\u865f\u89d2"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"155": {
 		"name": "Ingmar",
 		"sector": "Xzar",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -4042,14 +4589,17 @@
 			"ru-RU": "\u0418\u041d\u0413\u041c\u0410\u0420",
 			"zh-Hans": "\u82f1\u683c\u739b",
 			"zh-Hant": "\u56e0\u683c\u746a"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"156": {
 		"name": "Charbal-VII",
 		"sector": "Andromeda",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -4068,14 +4618,18 @@
 			"ru-RU": "\u0427\u0410\u0420\u0411\u041e\u041b-VII",
 			"zh-Hans": "\u67e5\u5df4\u5c14VII",
 			"zh-Hant": "\u67e5\u723e\u535aVII"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"157": {
 		"name": "Charon Prime",
 		"sector": "Andromeda",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -4094,14 +4648,18 @@
 			"ru-RU": "\u0425\u0410\u0420\u041e\u041d-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u5361\u620e\u4e3b\u661f",
 			"zh-Hant": "\u859b\u620e\u4e3b\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"158": {
 		"name": "Choepessa IV",
 		"sector": "Trigon",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "CHOEPESSA IV",
@@ -4109,7 +4667,7 @@
 			"pt-BR": "CHOEPESSA IV",
 			"de-DE": "CHOEPESSA IV",
 			"es-ES": "CHOEPESSA IV",
-			"fr-FR": "CHOEPESSA\u00a0IV",
+			"fr-FR": "CHOEPESSA IV",
 			"it-IT": "CHOEPESSA IV",
 			"ja-JP": "\u30b3\u30fc\u30da\u30c3\u30b5 IV",
 			"ko-KO": "\ucd08\uc5d0\ud398\uc0ac IV",
@@ -4119,15 +4677,17 @@
 			"ru-RU": "\u0425\u0415\u041f\u0415\u0421\u0421\u0410 IV",
 			"zh-Hans": "\u79d1\u57c3\u4f69\u8428IV",
 			"zh-Hant": "\u5bc7\u8036\u4f69\u838eIV"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"159": {
 		"name": "Choohe",
 		"sector": "Lacaille",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -4146,14 +4706,19 @@
 			"ru-RU": "\u0427\u0423\u0425\u0418",
 			"zh-Hans": "\u4e18\u4f0a",
 			"zh-Hant": "\u4e18\u4f0a"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"160": {
 		"name": "Chort Bay",
 		"sector": "Lacaille",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -4172,14 +4737,18 @@
 			"ru-RU": "\u0425\u041e\u0420\u0422-\u0411\u042d\u0419",
 			"zh-Hans": "\u96c0\u7279\u6e7e",
 			"zh-Hant": "\u96c0\u7279\u7063"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"161": {
 		"name": "Claorell",
 		"sector": "Tanis",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -4198,15 +4767,18 @@
 			"ru-RU": "\u041a\u041b\u0410\u041e\u0420\u0415\u041b\u041b",
 			"zh-Hans": "\u53ef\u6d1b\u5c14",
 			"zh-Hant": "\u514b\u52de\u745e"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"162": {
 		"name": "Clasa",
 		"sector": "Tanis",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "CLASA",
@@ -4224,14 +4796,19 @@
 			"ru-RU": "\u041a\u041b\u0410\u0421\u0410",
 			"zh-Hans": "\u514b\u62c9\u8428",
 			"zh-Hant": "\u514b\u62c9\u85a9"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"163": {
 		"name": "Demiurg",
 		"sector": "Tanis",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "DEMIURG",
@@ -4249,14 +4826,18 @@
 			"ru-RU": "\u0414\u0415\u041c\u0418\u0423\u0420\u0413",
 			"zh-Hans": "\u6234\u7c73\u5c14\u57fa",
 			"zh-Hant": "\u6234\u7c73\u723e\u683c"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"164": {
 		"name": "Deneb Secundus",
 		"sector": "Arturion",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "DENEB SECUNDUS",
@@ -4274,15 +4855,18 @@
 			"ru-RU": "\u0414\u0415\u041d\u0415\u0411 II",
 			"zh-Hans": "\u5929\u6d25\u56db\u6b21\u661f",
 			"zh-Hant": "\u5929\u6d25\u56db\u6b21\u661f"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"165": {
 		"name": "Electra Bay",
 		"sector": "Arturion",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "ELECTRA BAY",
@@ -4300,14 +4884,18 @@
 			"ru-RU": "\u042d\u041b\u0415\u041a\u0422\u0420\u0410-\u0411\u042d\u0419",
 			"zh-Hans": "\u6634\u5bbf\u4e00\u6e7e",
 			"zh-Hant": "\u6634\u5bbf\u4e00\u7063"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"166": {
 		"name": "Enuliale",
 		"sector": "L'estrade",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -4326,14 +4914,17 @@
 			"ru-RU": "\u042d\u041d\u0423\u041b\u0418\u0410\u041b\u0415",
 			"zh-Hans": "\u5b89\u52aa\u529b\u4e9a",
 			"zh-Hant": "\u57c3\u52aa\u91cc\u963f\u96f7"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"167": {
 		"name": "Epsilon Phoencis VI",
 		"sector": "L'estrade",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -4342,7 +4933,7 @@
 			"pt-BR": "EPSILON PHOENCIS VI",
 			"de-DE": "EPSILON PHOENCIS VI",
 			"es-ES": "EPSILON PHOENCIS VI",
-			"fr-FR": "EPSILON PHOENCIS\u00a0VI",
+			"fr-FR": "EPSILON PHOENCIS VI",
 			"it-IT": "EPSILON PHOENCIS VI",
 			"ja-JP": "\u30a8\u30d7\u30b7\u30ed\u30f3\u30fb\u30d5\u30a3\u30fc\u30f3\u30b7\u30b9 VI",
 			"ko-KO": "\uc5e1\uc2e4\ub860 \ud3ec\uc5d4\uc2dc\uc2a4 VI",
@@ -4352,15 +4943,18 @@
 			"ru-RU": "\u042d\u041f\u0421\u0418\u041b\u041e\u041d-\u0424\u0418\u041d\u0421\u0418\u0421 VI",
 			"zh-Hans": "\u827e\u666e\u65af\u6797\u82ac\u8d5b\u65afVI",
 			"zh-Hant": "\u827e\u666e\u65af\u6797\u82ac\u8cfd\u65afVI"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"168": {
 		"name": "Erata Prime",
 		"sector": "Umlaut",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -4379,14 +4973,19 @@
 			"ru-RU": "\u042d\u0420\u0410\u0422\u0410-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u827e\u62c9\u7279\u4e3b\u661f",
 			"zh-Hant": "\u57c3\u62c9\u4ed6\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"169": {
 		"name": "Estanu",
 		"sector": "Draco",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "ESTANU",
@@ -4404,14 +5003,17 @@
 			"ru-RU": "\u042d\u0421\u0422\u0410\u041d\u0423",
 			"zh-Hans": "\u4f0a\u65af\u5854\u52aa",
 			"zh-Hant": "\u57c3\u65af\u5854\u52aa"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"170": {
 		"name": "Fori Prime",
 		"sector": "Draco",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -4430,15 +5032,18 @@
 			"ru-RU": "\u0424\u041e\u0420\u0418-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u4f5b\u91cc\u4e3b\u661f",
 			"zh-Hant": "\u4f5b\u91cc\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"171": {
 		"name": "Gacrux",
 		"sector": "Jin Xi",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "GACRUX",
@@ -4456,14 +5061,18 @@
 			"ru-RU": "\u0413\u0410\u041a\u0420\u0423\u041a\u0421",
 			"zh-Hans": "\u5341\u5b57\u67b6\u4e00",
 			"zh-Hant": "\u5341\u5b57\u67b6\u4e00"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"172": {
 		"name": "Gar Haren",
 		"sector": "Jin Xi",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -4482,14 +5091,17 @@
 			"ru-RU": "\u0413\u0410\u0420-\u0425\u0410\u0420\u0415\u041d",
 			"zh-Hans": "\u8f67\u5c14\u54c8\u4f26",
 			"zh-Hant": "\u8ecb\u723e\u54c8\u502b"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"173": {
 		"name": "Gatria",
 		"sector": "Jin Xi",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -4508,14 +5120,17 @@
 			"ru-RU": "\u0413\u0410\u0422\u0420\u0418\u042f",
 			"zh-Hans": "\u76d6\u5c14\u5d14\u4e9a",
 			"zh-Hant": "\u84cb\u723e\u5d14\u4e9e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"174": {
 		"name": "Gemma",
 		"sector": "Ursa",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -4534,15 +5149,17 @@
 			"ru-RU": "\u0413\u0415\u041c\u041c\u0410",
 			"zh-Hans": "\u8d2f\u7d22\u56db",
 			"zh-Hant": "\u8cab\u7d22\u56db"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"175": {
 		"name": "Grand Errant",
 		"sector": "Farsight",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -4561,14 +5178,18 @@
 			"ru-RU": "\u0413\u0420\u0410\u041d\u0414 \u042d\u0420\u0420\u0410\u041d\u0422",
 			"zh-Hans": "\u5927\u827e\u4f26\u7279",
 			"zh-Hant": "\u5927\u827e\u502b\u7279"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"176": {
 		"name": "Hadar",
 		"sector": "Ferris",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -4587,7 +5208,12 @@
 			"ru-RU": "\u0425\u0410\u0414\u0410\u0420",
 			"zh-Hans": "\u9a6c\u8179\u4e00",
 			"zh-Hant": "\u99ac\u8179\u4e00"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"177": {
 		"name": "Haka",
@@ -4612,15 +5238,18 @@
 			"ru-RU": "\u0425\u0410\u041a\u0410",
 			"zh-Hans": "\u54c8\u5361",
 			"zh-Hant": "\u54c8\u5361"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"178": {
 		"name": "Haldus",
 		"sector": "Ferris",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "HALDUS",
@@ -4638,14 +5267,19 @@
 			"ru-RU": "\u0425\u0410\u041b\u042c\u0414\u0423\u0421",
 			"zh-Hans": "\u6d77\u5fb7\u65af",
 			"zh-Hant": "\u54c8\u90fd\u65af"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"179": {
 		"name": "Halies Port",
 		"sector": "Leo",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "HALIES PORT",
@@ -4663,15 +5297,17 @@
 			"ru-RU": "\u041f\u041e\u0420\u0422-\u0413\u0410\u041b\u042c\u0415",
 			"zh-Hans": "\u6d77\u5229\u65af\u6e2f",
 			"zh-Hant": "\u6d77\u5229\u65af\u6e2f"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"180": {
 		"name": "Herthon Secundus",
 		"sector": "Ferris",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -4690,14 +5326,18 @@
 			"ru-RU": "\u0425\u0410\u0420\u0422\u041e\u041d II",
 			"zh-Hans": "\u8d6b\u5c14\u677e\u6b21\u661f",
 			"zh-Hant": "\u8d6b\u677e\u6b21\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"181": {
 		"name": "Hesoe Prime",
 		"sector": "Rigel",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -4716,15 +5356,18 @@
 			"ru-RU": "\u0425\u0415\u0421\u041e\u042d-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u6d77\u7d22\u4e3b\u661f",
 			"zh-Hant": "\u8d6b\u7d22\u4e3b\u661f"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"182": {
 		"name": "Heze Bay",
 		"sector": "Hanzo",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -4743,15 +5386,20 @@
 			"ru-RU": "\u0425\u0415\u0417\u0415-\u0411\u042d\u0419",
 			"zh-Hans": "\u89d2\u5bbf\u4e8c\u6e7e",
 			"zh-Hant": "\u89d2\u5bbf\u4e8c\u7063"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"183": {
 		"name": "Hort",
 		"sector": "Rigel",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "HORT",
@@ -4769,15 +5417,18 @@
 			"ru-RU": "\u0425\u041e\u0420\u0422",
 			"zh-Hans": "\u970d\u5c14\u7279",
 			"zh-Hant": "\u970d\u7279"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"184": {
 		"name": "Hydrobius",
 		"sector": "Omega",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -4796,15 +5447,18 @@
 			"ru-RU": "\u0413\u0418\u0414\u0420\u041e\u0411\u0418\u0423\u0421",
 			"zh-Hans": "\u6d77\u5fb7\u7f57\u6bd5\u4e9a\u65af",
 			"zh-Hant": "\u54c8\u5353\u7562\u4e9e\u65af"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"185": {
 		"name": "Karlia",
 		"sector": "Omega",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -4823,15 +5477,18 @@
 			"ru-RU": "\u041a\u0410\u0420\u041b\u0418\u042f",
 			"zh-Hans": "\u5361\u5229\u4e9a",
 			"zh-Hant": "\u5361\u91cc\u4e9e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"186": {
 		"name": "Keid",
 		"sector": "Akira",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -4850,14 +5507,19 @@
 			"ru-RU": "\u041a\u0415\u0419\u0414",
 			"zh-Hans": "\u4e5d\u5dde\u6b8a\u53e3\u589e\u4e03",
 			"zh-Hant": "\u4e5d\u5dde\u6b8a\u53e3\u589e\u5341\u4e00"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"187": {
 		"name": "Khandark",
 		"sector": "Guang",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -4876,14 +5538,17 @@
 			"ru-RU": "\u0425\u0410\u041d\u0414\u0410\u0420\u041a",
 			"zh-Hans": "\u52d8\u8fbe\u5c14\u514b",
 			"zh-Hant": "\u53ef\u6c57\u9054\u514b"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"188": {
 		"name": "Klaka 5",
 		"sector": "Alstrad",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -4892,7 +5557,7 @@
 			"pt-BR": "KLAKA 5",
 			"de-DE": "KLAKA 5",
 			"es-ES": "KLAKA 5",
-			"fr-FR": "KLAKA\u00a05",
+			"fr-FR": "KLAKA 5",
 			"it-IT": "KLAKA 5",
 			"ja-JP": "\u30af\u30e9\u30ab\uff15",
 			"ko-KO": "\ud074\ub77c\uce74 5",
@@ -4902,15 +5567,17 @@
 			"ru-RU": "\u041a\u041b\u0410\u041a\u0410 5",
 			"zh-Hans": "\u514b\u62c9\u53615",
 			"zh-Hant": "\u514b\u62c9\u53615\u865f"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"189": {
 		"name": "Kneth Port",
 		"sector": "Alstrad",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -4929,14 +5596,18 @@
 			"ru-RU": "\u041f\u041e\u0420\u0422-\u041a\u041d\u0415\u0422",
 			"zh-Hans": "\u514b\u5948\u65af\u6e2f",
 			"zh-Hant": "\u514b\u6d85\u65af\u6e2f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"190": {
 		"name": "Kraz",
 		"sector": "Alstrad",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -4955,14 +5626,17 @@
 			"ru-RU": "\u041a\u0420\u0410\u0417",
 			"zh-Hans": "\u8f78\u5bbf\u56db",
 			"zh-Hant": "\u8eeb\u5bbf\u56db"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"191": {
 		"name": "Kuma",
 		"sector": "Hawking",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -4981,15 +5655,17 @@
 			"ru-RU": "\u041a\u0423\u041c\u0410",
 			"zh-Hans": "\u5929\u68d3\u4e8c",
 			"zh-Hant": "\u5929\u9f8d\u5ea7"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"192": {
 		"name": "Lastofe",
 		"sector": "Theseus",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -5008,14 +5684,19 @@
 			"ru-RU": "\u041b\u0410\u0421\u0422\u041e\u0424",
 			"zh-Hans": "\u8d56\u65af\u6597\u592b",
 			"zh-Hant": "\u62c9\u65af\u6258"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"193": {
 		"name": "Leng Secundus",
 		"sector": "Quintus",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -5034,14 +5715,19 @@
 			"ru-RU": "\u041b\u0415\u041d\u0413 II",
 			"zh-Hans": "\u84dd\u6069\u6b21\u661f",
 			"zh-Hant": "\u96f7\u6069\u6b21\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"194": {
 		"name": "Lesath",
 		"sector": "Lacaille",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "LESATH",
@@ -5059,14 +5745,17 @@
 			"ru-RU": "\u041b\u0415\u0421\u0410\u0422",
 			"zh-Hans": "\u5c3e\u5bbf\u516b",
 			"zh-Hant": "\u5c3e\u5bbf\u516b"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"195": {
 		"name": "Maia",
 		"sector": "Severin",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -5085,14 +5774,17 @@
 			"ru-RU": "\u041c\u0410\u0419\u042f",
 			"zh-Hans": "\u6634\u5bbf\u56db",
 			"zh-Hant": "\u6634\u5bbf\u56db"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"196": {
 		"name": "Malevelon Creek",
 		"sector": "Severin",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -5111,15 +5803,17 @@
 			"ru-RU": "\u041c\u0410\u041b\u0415\u0412\u0415\u041b\u041e\u041d-\u041a\u0420\u0418\u041a",
 			"zh-Hans": "\u9ea6\u62c9\u82ac\u8499\u6cb3",
 			"zh-Hant": "\u99ac\u52d2\u7dad\u9686\u6eaa"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"197": {
 		"name": "Mantes",
 		"sector": "Xzar",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -5138,14 +5832,18 @@
 			"ru-RU": "\u041c\u0410\u041d\u0422\u0415\u0421",
 			"zh-Hans": "\u8499\u7279\u65af",
 			"zh-Hant": "\u66fc\u63d0\u65af"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"198": {
 		"name": "Marfark",
 		"sector": "Andromeda",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -5164,14 +5862,19 @@
 			"ru-RU": "\u041c\u0410\u0420\u0424\u0410\u0420\u041a",
 			"zh-Hans": "\u739b\u5c14\u6cd5\u514b",
 			"zh-Hant": "\u746a\u723e\u6cd5\u514b"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"199": {
 		"name": "Martale",
 		"sector": "Andromeda",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "MARTALE",
@@ -5189,15 +5892,18 @@
 			"ru-RU": "\u041c\u0410\u0420\u0422\u0410\u041b\u0415",
 			"zh-Hans": "\u739b\u5c14\u7279",
 			"zh-Hant": "\u99ac\u5854\u723e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"200": {
 		"name": "Matar Bay",
 		"sector": "Andromeda",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "MATAR BAY",
@@ -5215,15 +5921,18 @@
 			"ru-RU": "\u041c\u0410\u0422\u0410\u0420-\u0411\u042d\u0419",
 			"zh-Hans": "\u739b\u5854",
 			"zh-Hant": "\u746a\u5854\u7063"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"201": {
 		"name": "Meissa",
 		"sector": "Ymir",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -5242,14 +5951,18 @@
 			"ru-RU": "\u041c\u0415\u0419\u0421\u0421\u0410",
 			"zh-Hans": "\u89dc\u5bbf\u4e00",
 			"zh-Hant": "\u89dc\u5bbf\u4e00"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"202": {
 		"name": "Mekbuda",
 		"sector": "Valdis",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -5268,15 +5981,17 @@
 			"ru-RU": "\u041c\u0415\u041a\u0411\u0423\u0414\u0410",
 			"zh-Hans": "\u4e95\u5bbf\u4e03",
 			"zh-Hant": "\u4e95\u5bbf\u4e03"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"203": {
 		"name": "Menkent",
 		"sector": "Hydra",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -5295,14 +6010,18 @@
 			"ru-RU": "\u041c\u0415\u041d\u041a\u0415\u041d\u0422",
 			"zh-Hans": "\u5e93\u697c\u4e09",
 			"zh-Hant": "\u5eab\u6a13\u4e09"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"204": {
 		"name": "Merak",
 		"sector": "Valdis",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -5321,14 +6040,17 @@
 			"ru-RU": "\u041c\u0415\u0420\u0410\u041a",
 			"zh-Hans": "\u5317\u6597\u4e8c",
 			"zh-Hant": "\u5317\u6597\u4e8c"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"205": {
 		"name": "Merga IV",
 		"sector": "Valdis",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -5337,7 +6059,7 @@
 			"pt-BR": "MERGA IV",
 			"de-DE": "MERGA IV",
 			"es-ES": "MERGA IV",
-			"fr-FR": "MERGA\u00a0IV",
+			"fr-FR": "MERGA IV",
 			"it-IT": "MERGA IV",
 			"ja-JP": "\u30e1\u30eb\u30ac IV",
 			"ko-KO": "\uba54\ub974\uac00 IV",
@@ -5347,14 +6069,17 @@
 			"ru-RU": "\u041c\u0410\u0420\u0413\u0410 IV",
 			"zh-Hans": "\u7384\u6208\u589e\u4e8cIV",
 			"zh-Hant": "\u7384\u6208\u589e\u4e8cIV"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"206": {
 		"name": "Minchir",
 		"sector": "Gellert",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -5373,15 +6098,18 @@
 			"ru-RU": "\u041c\u0418\u041d\u0425\u0418\u0420",
 			"zh-Hans": "\u654f\u5207\u5c14",
 			"zh-Hant": "\u654f\u96c0\u7279"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"207": {
 		"name": "Mintoria",
 		"sector": "Gellert",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "MINTORIA",
@@ -5399,14 +6127,19 @@
 			"ru-RU": "\u041c\u0418\u041d\u0422\u041e\u0420\u0418\u042f",
 			"zh-Hans": "\u654f\u6258\u745e\u4e9a",
 			"zh-Hant": "\u654f\u6258\u91cc\u4e9e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"208": {
 		"name": "Mordia 9",
 		"sector": "Hawking",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "MORDIA 9",
@@ -5414,7 +6147,7 @@
 			"pt-BR": "MORDIA 9",
 			"de-DE": "MORDIA 9",
 			"es-ES": "MORDIA 9",
-			"fr-FR": "MORDIA\u00a09",
+			"fr-FR": "MORDIA 9",
 			"it-IT": "MORDIA 9",
 			"ja-JP": "\u30e2\u30eb\u30c7\u30a3\u30a2\uff19",
 			"ko-KO": "\ubaa8\ub974\ub514\uc544 9",
@@ -5424,15 +6157,18 @@
 			"ru-RU": "\u041c\u041e\u0420\u0414\u0418\u042f-9",
 			"zh-Hans": "\u6469\u5e1d\u4e9a9",
 			"zh-Hant": "\u6469\u723e\u8fea\u4e9e9\u865f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"209": {
 		"name": "Nabatea Secundus",
 		"sector": "L'estrade",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "NABATEA SECUNDUS",
@@ -5450,15 +6186,18 @@
 			"ru-RU": "\u041d\u0410\u041d\u0411\u0410\u0422\u0415\u042f II",
 			"zh-Hans": "\u90a3\u8d1d\u5854\u6b21\u661f",
 			"zh-Hant": "\u7d0d\u5df4\u5fd2\u4e9e\u6b21\u661f"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"210": {
 		"name": "Navi VII",
 		"sector": "L'estrade",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -5467,7 +6206,7 @@
 			"pt-BR": "NAVI VII",
 			"de-DE": "NAVI VII",
 			"es-ES": "NAVI VII",
-			"fr-FR": "NAVI\u00a0VII",
+			"fr-FR": "NAVI VII",
 			"it-IT": "NAVI VII",
 			"ja-JP": "\u30ca\u30d3 VII",
 			"ko-KO": "\ub098\ube44 VII",
@@ -5477,7 +6216,12 @@
 			"ru-RU": "\u041d\u0410\u0412\u0418 VII",
 			"zh-Hans": "\u9601\u9053\u4e8c",
 			"zh-Hant": "\u5948\u7dadVII"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"211": {
 		"name": "Nivel 43",
@@ -5492,7 +6236,7 @@
 			"pt-BR": "N\u00cdVEL 43",
 			"de-DE": "NIVEL 43",
 			"es-ES": "NIVEL 43",
-			"fr-FR": "NIVEL\u00a043",
+			"fr-FR": "NIVEL 43",
 			"it-IT": "Nivel 43",
 			"ja-JP": "\u30cb\u30d9\u30eb43",
 			"ko-KO": "\ub2c8\ubca8 43",
@@ -5502,15 +6246,18 @@
 			"ru-RU": "\u041d\u0418\u0412\u0415\u041b\u042c-43",
 			"zh-Hans": "\u5c3c\u7ef4\u5c1443",
 			"zh-Hant": "\u5c3c\u5a01\u723e43\u865f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"212": {
 		"name": "Oshaune",
 		"sector": "Mirin",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "OSHAUNE",
@@ -5528,14 +6275,18 @@
 			"ru-RU": "\u041e\u0428\u041e\u041d\u0415",
 			"zh-Hans": "\u6b27\u7ecd\u6069",
 			"zh-Hant": "\u6b50\u590f\u70cf"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"213": {
 		"name": "Overgoe Prime",
 		"sector": "Sten",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -5554,7 +6305,11 @@
 			"ru-RU": "\u041e\u0412\u0415\u0420\u0413\u041e-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u6b27\u7ef4\u679c\u4e3b\u661f",
 			"zh-Hant": "\u6b50\u7dad\u52fe\u4e3b\u661f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"214": {
 		"name": "Pandion-XXIV",
@@ -5579,15 +6334,17 @@
 			"ru-RU": "\u041f\u0410\u041d\u0414\u0418\u041e\u041d XXIV",
 			"zh-Hans": "\u5e15\u72c4\u6069XXIV",
 			"zh-Hant": "\u6f58\u8fea\u6069XXIV"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"215": {
 		"name": "Partion",
 		"sector": "Sten",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -5606,14 +6363,18 @@
 			"ru-RU": "\u041f\u0410\u0420\u0422\u0418\u041e\u041d",
 			"zh-Hans": "\u5e15\u5c14\u6668",
 			"zh-Hant": "\u5e15\u4f0a\u6069"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"216": {
 		"name": "Peacock",
 		"sector": "Sten",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -5632,15 +6393,17 @@
 			"ru-RU": "\u041f\u0418\u041a\u041e\u041a",
 			"zh-Hans": "\u5b54\u96c0\u5341\u4e00",
 			"zh-Hant": "\u5b54\u96c0\u5341\u4e00"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"217": {
 		"name": "Phact Bay",
 		"sector": "Jin Xi",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -5659,15 +6422,20 @@
 			"ru-RU": "\u0424\u0410\u041a\u0422-\u0411\u042d\u0419",
 			"zh-Hans": "\u4e08\u4eba\u4e00\u6e7e",
 			"zh-Hant": "\u4e08\u4eba\u4e00\u7063"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"218": {
 		"name": "Pherkad Secundus",
 		"sector": "Farsight",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "PHERKAD SECUNDUS",
@@ -5685,15 +6453,18 @@
 			"ru-RU": "\u0424\u0415\u0420\u041a\u0410\u0414 II",
 			"zh-Hans": "\u5317\u6781\u4e00\u6b21\u661f",
 			"zh-Hant": "\u5317\u6975\u4e00\u6b21\u661f"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"219": {
 		"name": "Polaris Prime",
 		"sector": "Farsight",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -5712,15 +6483,18 @@
 			"ru-RU": "\u041f\u041e\u041b\u042f\u0420\u0418\u0421-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u5317\u6781\u661f\u4e3b\u661f",
 			"zh-Hant": "\u5317\u6975\u661f\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"220": {
 		"name": "Pollux 31",
 		"sector": "Farsight",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -5729,7 +6503,7 @@
 			"pt-BR": "P\u00d3LUX 31",
 			"de-DE": "POLLUX 31",
 			"es-ES": "POLLUX 31",
-			"fr-FR": "POLLUX\u00a031",
+			"fr-FR": "POLLUX 31",
 			"it-IT": "POLLUX 31",
 			"ja-JP": "\u30dd\u30e9\u30c3\u30af\u30b931",
 			"ko-KO": "\ud3f4\ub8e9\uc2a4 31",
@@ -5739,14 +6513,18 @@
 			"ru-RU": "\u041f\u041e\u041b\u041b\u0423\u041a\u0421-31",
 			"zh-Hans": "\u5317\u6cb3\u4e0931",
 			"zh-Hant": "\u5317\u6cb3\u4e0931\u865f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"221": {
 		"name": "Prasa",
 		"sector": "Farsight",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -5765,15 +6543,17 @@
 			"ru-RU": "\u041f\u0420\u0410\u0421\u0410",
 			"zh-Hans": "\u666e\u62c9\u8428",
 			"zh-Hant": "\u666e\u62c9\u85a9"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"222": {
 		"name": "Propus",
 		"sector": "Leo",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -5792,14 +6572,20 @@
 			"ru-RU": "\u041f\u0420\u041e\u041f\u0423\u0421",
 			"zh-Hans": "\u4e94\u8bf8\u4faf\u4e09",
 			"zh-Hant": "\u4e94\u8af8\u4faf\u4e09"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"223": {
 		"name": "Ras Algethi",
 		"sector": "Leo",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "RAS ALGETHI",
@@ -5817,14 +6603,17 @@
 			"ru-RU": "\u0420\u0410\u0421-\u0410\u041b\u042c\u0413\u0415\u0422\u0418",
 			"zh-Hans": "\u5e1d\u5ea7",
 			"zh-Hant": "\u5e1d\u5ea7"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"224": {
 		"name": "RD-4",
 		"sector": "Rigel",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -5843,15 +6632,17 @@
 			"ru-RU": "\u0410\u0420\u0414\u0418-4",
 			"zh-Hans": "RD4",
 			"zh-Hant": "RD-4"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"225": {
 		"name": "Rogue 5",
 		"sector": "Rigel",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -5860,7 +6651,7 @@
 			"pt-BR": "INSURGENTE 5",
 			"de-DE": "ROGUE 5",
 			"es-ES": "RENEGADO 5",
-			"fr-FR": "ROGUE\u00a05",
+			"fr-FR": "ROGUE 5",
 			"it-IT": "ROGUE 5",
 			"ja-JP": "\u30ed\u30fc\u30b0\uff15",
 			"ko-KO": "\ub85c\uadf8 5",
@@ -5870,14 +6661,18 @@
 			"ru-RU": "\u0420\u041e\u0423\u0413 5",
 			"zh-Hans": "\u7f57\u683c5",
 			"zh-Hant": "\u883b\u91ce5\u865f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"226": {
 		"name": "Rirga Bay",
 		"sector": "Rigel",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -5896,15 +6691,19 @@
 			"ru-RU": "\u0420\u0418\u0420\u0413\u0410-\u0411\u042d\u0419",
 			"zh-Hans": "\u91cc\u5c14\u52a0\u6e7e",
 			"zh-Hant": "\u91cc\u723e\u52a0\u7063"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"227": {
 		"name": "Seasse",
 		"sector": "Omega",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "SEASSE",
@@ -5922,14 +6721,18 @@
 			"ru-RU": "\u0421\u0418\u042d\u0421\u0421",
 			"zh-Hans": "\u897f\u65af",
 			"zh-Hant": "\u897f\u5e0c"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"228": {
 		"name": "Senge 23",
 		"sector": "Omega",
 		"biome": "sandy_mineral",
 		"environmentals": [
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -5938,7 +6741,7 @@
 			"pt-BR": "SENGE 23",
 			"de-DE": "SENGE 23",
 			"es-ES": "SENGE 23",
-			"fr-FR": "SENGAY\u00a023",
+			"fr-FR": "SENGAY 23",
 			"it-IT": "SENGE 23",
 			"ja-JP": "\u30bb\u30f3\u30b2\u30a423",
 			"ko-KO": "\uc13c\uc81c 23",
@@ -5948,14 +6751,17 @@
 			"ru-RU": "\u0421\u0415\u041d\u0416\u0415-23",
 			"zh-Hans": "\u65b0\u620823",
 			"zh-Hant": "\u4ed9\u84cb23\u865f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"229": {
 		"name": "Setia",
 		"sector": "Omega",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -5974,14 +6780,17 @@
 			"ru-RU": "\u0421\u0415\u0422\u0418\u042f",
 			"zh-Hans": "\u8d5b\u63d0\u4e9a",
 			"zh-Hant": "\u8cfd\u63d0\u4e9e"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"230": {
 		"name": "Shete",
 		"sector": "Xi Tauri",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -6000,14 +6809,18 @@
 			"ru-RU": "\u0428\u0415\u0422\u0415",
 			"zh-Hans": "\u8d5b\u7279",
 			"zh-Hant": "\u897f\u6cf0"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"231": {
 		"name": "Siemnot",
 		"sector": "Xi Tauri",
 		"biome": "primordial_blue",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -6026,14 +6839,17 @@
 			"ru-RU": "\u0421\u0418\u041c\u041d\u041e\u0422",
 			"zh-Hans": "\u5e2d\u59c6\u7eb3\u7279",
 			"zh-Hant": "\u661f\u7d0d\u7279"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"232": {
 		"name": "Sirius",
 		"sector": "Xi Tauri",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -6052,7 +6868,11 @@
 			"ru-RU": "\u0421\u0418\u0420\u0418\u0423\u0421",
 			"zh-Hans": "\u5929\u72fc\u661f",
 			"zh-Hant": "\u5929\u72fc\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"233": {
 		"name": "Skat Bay",
@@ -6077,15 +6897,17 @@
 			"ru-RU": "\u0421\u041a\u0410\u0422-\u0411\u042d\u0419",
 			"zh-Hans": "\u65af\u5361\u7279\u6e7e",
 			"zh-Hant": "\u53f2\u5361\u7279\u7063"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"234": {
 		"name": "Spherion",
 		"sector": "Quintus",
 		"biome": "primordial_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms",
 			"volcanic_activity"
 		],
 		"names": {
@@ -6104,14 +6926,19 @@
 			"ru-RU": "\u0421\u0424\u0415\u0420\u0418\u041e\u041d",
 			"zh-Hans": "\u65af\u98de\u5229\u6602",
 			"zh-Hant": "\u53f2\u98db\u91cc\u6602"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"235": {
 		"name": "Stor Tha Prime",
 		"sector": "Quintus",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "STOR THA PRIME",
@@ -6129,14 +6956,17 @@
 			"ru-RU": "\u0421\u0422\u041e\u0420 \u0422\u0410-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u65af\u7279\u8428\u4e3b\u661f",
 			"zh-Hant": "\u53f2\u6258\u5854\u4e3b\u661f"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"236": {
 		"name": "Stout",
 		"sector": "Quintus",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -6155,15 +6985,18 @@
 			"ru-RU": "\u0421\u0422\u0410\u0423\u0422",
 			"zh-Hans": "\u65af\u56fe\u5c14\u7279",
 			"zh-Hant": "\u65af\u6735\u723e\u7279"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"237": {
 		"name": "Termadon",
 		"sector": "Quintus",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "TERMADON",
@@ -6181,14 +7014,19 @@
 			"ru-RU": "\u0422\u0415\u0420\u041c\u041e\u0414\u041e\u041d",
 			"zh-Hans": "\u7279\u5c14\u739b\u767b",
 			"zh-Hant": "\u5854\u746a\u767b"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"238": {
 		"name": "Tibit",
 		"sector": "Severin",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "TIBIT",
@@ -6206,14 +7044,17 @@
 			"ru-RU": "\u0422\u0418\u0411\u0418\u0422",
 			"zh-Hans": "\u63d0\u6bd4\u7279",
 			"zh-Hant": "\u5824\u6bd4\u7279"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"239": {
 		"name": "Tien Kwan",
 		"sector": "Theseus",
-		"biome": "arctic_glacier_tien_kwan",
+		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -6232,7 +7073,11 @@
 			"ru-RU": "\u0422\u042c\u0415\u041d-\u041a\u0412\u0410\u041d",
 			"zh-Hans": "\u5929\u5173",
 			"zh-Hant": "\u5929\u95dc"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"240": {
 		"name": "Troost",
@@ -6257,14 +7102,17 @@
 			"ru-RU": "\u0422\u0420\u0423\u0421\u0422",
 			"zh-Hans": "\u7279\u9c81\u65af\u7279",
 			"zh-Hant": "\u695a\u65af\u7279"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
 	},
 	"241": {
 		"name": "Ubanea",
 		"sector": "Severin",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -6283,15 +7131,17 @@
 			"ru-RU": "\u0423\u0411\u0410\u041d\u0415\u042f",
 			"zh-Hans": "\u4e4c\u5df4\u5c3c\u4e9a",
 			"zh-Hant": "\u70cf\u5df4\u5167\u4e9e"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"242": {
 		"name": "Ustotu",
 		"sector": "Trigon",
 		"biome": "sandy_spiky",
 		"environmentals": [
-			"intense_heat",
-			"normal_temp",
 			"tremors"
 		],
 		"names": {
@@ -6310,14 +7160,18 @@
 			"ru-RU": "\u0423\u0421\u0422\u041e\u0422\u0423",
 			"zh-Hans": "\u4f0d\u65af\u7279\u56fe",
 			"zh-Hant": "\u70cf\u65af\u6258\u5716"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	},
 	"243": {
 		"name": "Vandalon IV",
 		"sector": "Trigon",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -6326,7 +7180,7 @@
 			"pt-BR": "VANDALON IV",
 			"de-DE": "VANDALON IV",
 			"es-ES": "VANDALON IV",
-			"fr-FR": "VANDALON\u00a0IV",
+			"fr-FR": "VANDALON IV",
 			"it-IT": "VANDALON IV",
 			"ja-JP": "\u30f4\u30a1\u30f3\u30c0\u30ed\u30f3 IV",
 			"ko-KO": "\ubc18\ub2ec\ub860 IV",
@@ -6336,15 +7190,19 @@
 			"ru-RU": "\u0412\u0410\u041d\u0414\u0410\u041b\u041e\u041d IV",
 			"zh-Hans": "\u4e07\u8fbe\u9686IV",
 			"zh-Hant": "\u51e1\u9054\u502bIV"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"244": {
 		"name": "Varylia 5",
 		"sector": "Trigon",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "VARYLIA 5",
@@ -6352,7 +7210,7 @@
 			"pt-BR": "VARYLIA 5",
 			"de-DE": "VARYLIA 5",
 			"es-ES": "VARYLIA 5",
-			"fr-FR": "VARYLIA\u00a05",
+			"fr-FR": "VARYLIA 5",
 			"it-IT": "VARYLIA 5",
 			"ja-JP": "\u30f4\u30a1\u30ea\u30ea\u30a2\uff15",
 			"ko-KO": "\ubc14\ub9b4\ub9ac\uc544 5",
@@ -6362,14 +7220,18 @@
 			"ru-RU": "\u0412\u0410\u0420\u0418\u041b\u0418\u042f-5",
 			"zh-Hans": "\u74e6\u745e\u62c9\u4e9a5",
 			"zh-Hant": "\u74e6\u91cc\u4e9e5\u865f"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"245": {
 		"name": "Wasat",
 		"sector": "Ymir",
 		"biome": "sandy_acid",
 		"environmentals": [
-			"normal_temp",
 			"acid_storms"
 		],
 		"names": {
@@ -6388,14 +7250,18 @@
 			"ru-RU": "\u0412\u0410\u0421\u0410\u0422",
 			"zh-Hans": "\u5929\u6a3d\u4e8c",
 			"zh-Hant": "\u5929\u6a3d\u4e8c"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"normal_temp",
+			"acid_storms"
+		]
 	},
 	"246": {
 		"name": "Vega Bay",
 		"sector": "Ymir",
 		"biome": "arctic_glacier_base",
 		"environmentals": [
-			"extreme_cold",
 			"blizzards"
 		],
 		"names": {
@@ -6414,15 +7280,18 @@
 			"ru-RU": "\u0412\u0415\u0413\u0410-\u0411\u042d\u0419",
 			"zh-Hans": "\u7ec7\u5973\u4e00\u6e7e",
 			"zh-Hant": "\u7e54\u5973\u4e00\u7063"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold",
+			"blizzards"
+		]
 	},
 	"247": {
 		"name": "Wezen",
 		"sector": "Ymir",
 		"biome": "moor_arid",
 		"environmentals": [
-			"normal_temp",
-			"intense_heat",
 			"fire_tornadoes"
 		],
 		"names": {
@@ -6441,14 +7310,19 @@
 			"ru-RU": "\u0412\u0415\u0417\u0415\u041d",
 			"zh-Hans": "\u5f27\u77e2\u4e00",
 			"zh-Hant": "\u5f27\u77e2\u4e00"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
 	},
 	"248": {
 		"name": "Vindemitarix Prime",
 		"sector": "Valdis",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "VINDEMITARIX PRIME",
@@ -6466,15 +7340,18 @@
 			"ru-RU": "\u0412\u0418\u041d\u0414\u0415\u041c\u0418\u0422\u0410\u0420\u0418\u041a\u0421-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u6587\u5fb7\u7c73\u5854\u91cc\u514b\u65af\u4e3b\u661f",
 			"zh-Hant": "\u6eab\u5fb7\u7c73\u5854\u91cc\u4e3b\u661f"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"249": {
 		"name": "X-45",
 		"sector": "Ymir",
 		"biome": "swamp_base",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "X-45",
@@ -6492,14 +7369,18 @@
 			"ru-RU": "\u042d\u041a\u0421-45",
 			"zh-Hans": "X45",
 			"zh-Hant": "X-45"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"250": {
 		"name": "Yed Prior",
 		"sector": "Tanis",
 		"biome": "moor_red",
 		"environmentals": [
-			"normal_temp",
 			"ion_storms"
 		],
 		"names": {
@@ -6518,14 +7399,18 @@
 			"ru-RU": "\u0419\u0415\u0414-\u041f\u0420\u0418\u041e\u0420",
 			"zh-Hans": "\u5929\u5e02\u53f3\u57a3\u4e5d",
 			"zh-Hant": "\u5929\u5e02\u53f3\u57a3\u4e5d"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"251": {
 		"name": "Zefia",
 		"sector": "Tanis",
 		"biome": "primordial_purple",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "ZEFIA",
@@ -6543,14 +7428,17 @@
 			"ru-RU": "\u0417\u0415\u0424\u0418\u042f",
 			"zh-Hans": "\u8d5b\u98de\u4e9a",
 			"zh-Hant": "\u6fa4\u83f2\u4e9e"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"252": {
 		"name": "Zosma",
 		"sector": "Gellert",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -6569,15 +7457,17 @@
 			"ru-RU": "\u0417\u041e\u0421\u041c\u0410",
 			"zh-Hans": "\u592a\u5fae\u53f3\u57a3\u4e94",
 			"zh-Hant": "\u592a\u5fae\u53f3\u57a3\u4e94"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"253": {
 		"name": "Zzaniah Prime",
 		"sector": "Gellert",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -6596,14 +7486,19 @@
 			"ru-RU": "\u0417\u0410\u041d\u0418\u042f-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u85cf\u5c3c\u4e9a\u4e3b\u661f",
 			"zh-Hant": "\u8d0a\u4f0a\u4e9e\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"254": {
 		"name": "Skitter",
 		"sector": "Hawking",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"normal_temp",
 			"thick_fog"
 		],
 		"names": {
@@ -6622,14 +7517,17 @@
 			"ru-RU": "\u0421\u041a\u0418\u0422\u0422\u0415\u0420",
 			"zh-Hans": "\u65af\u57fa\u7279",
 			"zh-Hant": "\u65af\u5176\u7279"
-		}
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"255": {
 		"name": "Euphoria III",
 		"sector": "Hawking",
 		"biome": "sandy_moon",
 		"environmentals": [
-			"extreme_cold",
 			"meteor_storms"
 		],
 		"names": {
@@ -6638,7 +7536,7 @@
 			"pt-BR": "EUPHORIA III",
 			"de-DE": "EUPHORIA III",
 			"es-ES": "EUFORIA III",
-			"fr-FR": "EUPHORIA\u00a0III",
+			"fr-FR": "EUPHORIA III",
 			"it-IT": "EUPHORIA III",
 			"ja-JP": "\u30e6\u30fc\u30d5\u30a9\u30ea\u30a2 III",
 			"ko-KO": "\uc720\ud3ec\ub9ac\uc544 III",
@@ -6648,15 +7546,17 @@
 			"ru-RU": "\u042d\u0419\u0424\u041e\u0420\u0418\u042f III",
 			"zh-Hans": "\u6b27\u798f\u5229\u4e9aIII",
 			"zh-Hant": "\u6b61\u5febIII"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	},
 	"256": {
 		"name": "Diaspora X",
 		"sector": "L'estrade",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -6665,7 +7565,7 @@
 			"pt-BR": "DI\u00c1SPORA X",
 			"de-DE": "DIASPORA X",
 			"es-ES": "DI\u00c1SPORA X",
-			"fr-FR": "DIASPORA\u00a0X",
+			"fr-FR": "DIASPORA X",
 			"it-IT": "DIASPORA X",
 			"ja-JP": "\u30c7\u30a3\u30a2\u30b9\u30dd\u30e9 X",
 			"ko-KO": "\ub514\uc544\uc2a4\ud3ec\ub77c X",
@@ -6675,15 +7575,20 @@
 			"ru-RU": "\u0414\u0418\u0410\u0421\u041f\u041e\u0420\u0410 X",
 			"zh-Hans": "\u5927\u6d41\u6563X",
 			"zh-Hant": "\u50d1\u5c45X"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"257": {
 		"name": "Gemstone Bluffs",
 		"sector": "L'estrade",
 		"biome": "moor_baseplanet",
 		"environmentals": [
-			"normal_temp",
-			"rainstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "GEMSTONE BLUFFS",
@@ -6701,15 +7606,18 @@
 			"ru-RU": "\u0421\u0410\u041c\u041e\u0426\u0412\u0415\u0422\u041d\u042b\u0415 \u0423\u0422\u0415\u0421\u042b",
 			"zh-Hans": "\u5b9d\u77f3\u5d16",
 			"zh-Hant": "\u5bf6\u77f3\u5d16"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"258": {
 		"name": "Zagon Prime",
 		"sector": "Mirin",
 		"biome": "sandy_base",
 		"environmentals": [
-			"intense_heat",
-			"extreme_cold",
 			"sandstorms"
 		],
 		"names": {
@@ -6728,14 +7636,20 @@
 			"ru-RU": "\u0417\u0410\u0413\u041e\u041d-\u041f\u0420\u0410\u0419\u041c",
 			"zh-Hans": "\u624e\u8d21\u4e3b\u661f",
 			"zh-Hant": "\u5091\u8ca2\u4e3b\u661f"
-		}
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
 	},
 	"259": {
 		"name": "Omicron",
 		"sector": "L'estrade",
 		"biome": "moor_tundra",
 		"environmentals": [
-			"normal_temp"
+			"none"
 		],
 		"names": {
 			"en-US": "OMICRON",
@@ -6753,14 +7667,18 @@
 			"ru-RU": "\u041e\u041c\u0418\u041a\u0420\u041e\u041d",
 			"zh-Hans": "\u5965\u5bc6\u514b\u620e",
 			"zh-Hant": "\u6b50\u7c73\u514b\u6717"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"260": {
 		"name": "Cyberstan",
 		"sector": "Valdis",
 		"biome": "arctic_glacier_coldrocky",
 		"environmentals": [
-			"extreme_cold"
+			"none"
 		],
 		"names": {
 			"en-US": "CYBERSTAN",
@@ -6778,6 +7696,10 @@
 			"ru-RU": "\u041a\u0418\u0411\u0415\u0420\u0421\u0422\u0410\u041d",
 			"zh-Hans": "\u751f\u5316\u65af\u5766",
 			"zh-Hant": "\u751f\u5316\u65af\u5766"
-		}
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
 	}
 }
