@@ -2368,5 +2368,42 @@
 		"speed": 500,
 		"stamina_regen": 100,
 		"passive": 9
-	}
+	},
+	"4033534167": {
+		"name": "PH-56 Jaguar",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	},
+	"600891740": {
+		"name": "PH-56 Jaguar",
+		"type": 1,
+		"slot": 2,
+		"armor_rating": 100,
+		"speed": 500,
+		"stamina_regen": 100,
+		"passive": 10
+	},
+	"3739746472": {
+		"name": "CE-101 Guerilla Gorilla",
+		"type": 2,
+		"slot": 2,
+		"armor_rating": 150,
+		"speed": 450,
+		"stamina_regen": 50,
+		"passive": 6
+	},
+	"2310126051": {
+		"name": "CE-101 Guerilla Gorilla",
+		"type": 1,
+		"slot": 0,
+		"armor_rating": 100,
+		"speed": 100,
+		"stamina_regen": 100,
+		"passive": 0
+	}	
+
 }
