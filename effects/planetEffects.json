@@ -86,7 +86,17 @@
 	},
 	"1222": {
 		"galacticEffectId": 1222,
-		"name": "INCREASED REINFORCEMENT BUDGET",
-		"description": "Increases the number of available reinforcements."
+		"name": "UNKNOWN EFFECT REINFORCEMENT BUDGET?",
+		"description": "(probably) Increases the number of available reinforcements."
+	},
+	"1228": {
+		"galacticEffectId": 1288,
+		"name": "Unknown Meridia Effect",
+		"description": "Effect unknown, it just suddenly appeared on Meridia on 2024-12-2."
+	},
+	"1232": {
+		"galacticEffectId": 1232,
+		"name": "FACTORY HUB",
+		"description": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
 	}
 }
