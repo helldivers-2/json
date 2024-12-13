@@ -43,5 +43,10 @@
 		"name": "Truth Enforcers",
 		"id": "truth_enforcers",
 		"credits_to_unlock": 1000
+	},
+	"9": {
+		"name": "Urban Legends",
+		"id": "urban_legends",
+		"credits_to_unlock": 1000
 	}
 }
