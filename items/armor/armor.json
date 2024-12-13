@@ -2371,6 +2371,7 @@
 	},
 	"4033534167": {
 		"name": "PH-56 Jaguar",
+		"description": "'Prowl like a jaguar, strike like a viper.'—Motto of the storied SEAF special operations unit whose real exploits were portrayed in the classic comic book series 'Tales of the Viper Commandos.'",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2380,6 +2381,7 @@
 	},
 	"600891740": {
 		"name": "PH-56 Jaguar",
+		"description": "'Prowl like a jaguar, strike like a viper.'—Motto of the storied SEAF special operations unit whose real exploits were portrayed in the classic comic book series 'Tales of the Viper Commandos.'",
 		"type": 1,
 		"slot": 2,
 		"armor_rating": 100,
@@ -2389,6 +2391,7 @@
 	},
 	"3739746472": {
 		"name": "CE-101 Guerilla Gorilla",
+		"description": "Heavily insulated from animal bites, enemy fire, and the histrionic diatribes of anarchists.",
 		"type": 2,
 		"slot": 2,
 		"armor_rating": 150,
@@ -2398,6 +2401,7 @@
 	},
 	"2310126051": {
 		"name": "CE-101 Guerilla Gorilla",
+		"description": "Heavily insulated from animal bites, enemy fire, and the histrionic diatribes of anarchists.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2407,6 +2411,7 @@
 	},
 	"1": {
 		"name": "SR-24 Street Scout",
+		"description": "This armor's nostalgic color scheme brings to mind beloved trappings of colonial yesteryear: concrete frontier domiciles, slate-colored civilian jumpsuits, and Space Settlers' Pie.",
 		"type": 0,
 		"slot": 2,
 		"armor_rating": 50,
@@ -2416,6 +2421,7 @@
 	},
 	"23": {
 		"name": "SR-24 Street Scout",
+		"description": "This armor's nostalgic color scheme brings to mind beloved trappings of colonial yesteryear: concrete frontier domiciles, slate-colored civilian jumpsuits, and Space Settlers' Pie.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2425,6 +2431,7 @@
 	},
 	"3": {
 		"name": "Greatcloak of Rebar Resolve",
+		"description": "Inside the collar is embroidered: 'Wherever I may plant my shield, know that I will never yield.' and 'machine washable'.",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
@@ -2434,6 +2441,7 @@
 	},
 	"12": {
 		"name": "SR-18 Roadblock",
+		"description": "The crest on this armor's shoulder shows friendlies that safety is near, and foes that they have reached the end of the road.",
 		"type": 1,
 		"slot": 0,
 		"armor_rating": 100,
@@ -2443,6 +2451,7 @@
 	},
 	"13": {
 		"name": "SR-18 Roadblock",
+		"description": "The crest on this armor's shoulder shows friendlies that safety is near, and foes that they have reached the end of the road.",
 		"type": 2,
 		"slot": 2,
 		"armor_rating": 150,
