@@ -492,5 +492,20 @@
 			2,
 			5
 		]
+	},
+	"106": {
+		"name": "StA-52 Assault Rifle",
+		"description": "An assault rifle with a high-capacity drum magazine, good for providing sustained fire. Produced by Stäl Arms.",
+		"type": 1,
+		"damage": 70,
+		"capacity": 56,
+		"recoil": 19,
+		"fire_rate": 790,
+		"fire_mode": [
+			2
+		],
+		"traits": [
+			1
+		]
 	}
 }

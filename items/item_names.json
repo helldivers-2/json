@@ -1562,5 +1562,21 @@
 	"2310126051": {
 		"name": "CE-101 Guerilla Gorilla",
 		"mix_id": "1128708923"
-	}	
+	},
+	"101": {
+		"name": "AC-1 Dutiful",
+		"mix_id": "101"
+	},
+	"102": {
+		"name": "AC-1 Dutiful",
+		"mix_id": "102"
+	},
+	"103": {
+		"name": "Strength in Our Arms",
+		"mix_id": "103"
+	},
+	"106": {
+		"name": "StA-52 Assault Rifle",
+		"mix_id": "106"
+	}
 }
