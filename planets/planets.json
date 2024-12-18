@@ -655,8 +655,7 @@
 		"sector": "Kelvin",
 		"biome": "primordial_base",
 		"environmentals": [
-			"volcanic_activity",
-			"rainstorms"
+			"volcanic_activity"
 		],
 		"names": {
 			"en-US": "ZEGEMA PARADISE",
@@ -674,7 +673,12 @@
 			"ru-RU": "\u0417\u0415\u0413\u0415\u041c\u0421\u041a\u0418\u0419 \u0420\u0410\u0419",
 			"zh-Hans": "\u6cfd\u683c\u9a6c\u4e50\u571f",
 			"zh-Hant": "\u6fa4\u84cb\u746a\u5929\u5802"
-		}
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp",
+			"rainstorms"
+		]
 	},
 	"23": {
 		"name": "Providence",
@@ -699,7 +703,11 @@
 			"ru-RU": "\u041f\u0420\u041e\u0412\u0418\u0414\u0415\u041d\u0418\u0415",
 			"zh-Hans": "\u666e\u7f57\u7ef4\u767b\u65af",
 			"zh-Hant": "\u666e\u7f85\u7dad\u767b\u65af"
-		}
+		},
+		"type": "moor",
+		"weather_effects": [
+			"normal_temp"
+		]
 	},
 	"24": {
 		"name": "Primordia",
