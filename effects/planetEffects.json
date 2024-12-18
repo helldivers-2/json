@@ -90,7 +90,7 @@
 		"description": "(probably) Increases the number of available reinforcements."
 	},
 	"1228": {
-		"galacticEffectId": 1288,
+		"galacticEffectId": 1228,
 		"name": "Unknown Meridia Effect",
 		"description": "Effect unknown, it just suddenly appeared on Meridia on 2024-12-2."
 	},
