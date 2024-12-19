@@ -54,5 +54,9 @@
 	"13": {
 		"name": "Unflinching",
 		"description": "Helps prevent Helldivers from flinching when hit."
+	},
+	"15": {
+		"name": "Acclimated",
+		"description": "Provides 50% resistance to fire, gas, acid, and electrical damage."
 	}
 }
