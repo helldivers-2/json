@@ -2461,6 +2461,7 @@
 	},
 	"14": {
 		"name": "Holder of the Yellow Line",
+		"description": "",
 		"type": 1,
 		"slot": 1,
 		"armor_rating": 100,
