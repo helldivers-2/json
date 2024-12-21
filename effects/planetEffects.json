@@ -86,13 +86,18 @@
 	},
 	"1222": {
 		"galacticEffectId": 1222,
-		"name": "UNKNOWN EFFECT REINFORCEMENT BUDGET?",
+		"name": "UNKNOWN EFFECT- LIKELY REINFORCEMENT BUDGET?",
 		"description": "(probably) Increases the number of available reinforcements."
 	},
 	"1228": {
 		"galacticEffectId": 1228,
-		"name": "Unknown Meridia Effect",
-		"description": "Effect unknown, it just suddenly appeared on Meridia on 2024-12-2."
+		"name": "MERIDIAN BLACK HOLE (old map marker)",
+		"description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid.  This galactic scar is all that remains."
+	},
+	"1229": {
+		"galacticEffectId": 1229,
+		"name": "MERIDIAN BLACK HOLE",
+		"description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid.  This galactic scar is all that remains."
 	},
 	"1232": {
 		"galacticEffectId": 1232,
