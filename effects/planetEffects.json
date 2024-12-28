@@ -103,5 +103,10 @@
 		"galacticEffectId": 1232,
 		"name": "FACTORY HUB",
 		"description": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
+	},
+	"1234": {
+		"galacticEffectId": 1234,
+		"name": "CENTER OF SCIENCE",
+		"description": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
 	}
 }
