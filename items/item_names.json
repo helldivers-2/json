@@ -1562,5 +1562,81 @@
 	"2310126051": {
 		"name": "CE-101 Guerilla Gorilla",
 		"mix_id": "1128708923"
-	}	
+	},
+	"1": {
+		"name": "SR-24 Street Scout",
+		"mix_id": "1"
+	},
+	"23": {
+		"name": "SR-24 Street Scout",
+		"mix_id": "23"
+	},
+	"3": {
+		"name": "Greatcloak of Rebar Resolve",
+		"mix_id": "3"
+	},
+	"4": {
+		"name": "Rebar Resolve",
+		"mix_id": "4"
+	},
+	"6": {
+		"name": "CQC-19 Stun Lance",
+		"mix_id": "6"
+	},
+	"7": {
+		"name": "Directional Shield",
+		"mix_id": "7"
+	},
+	"8": {
+		"name": "Concrete Jungle Hellpod Pattern",
+		"mix_id": "8"
+	},
+	"9": {
+		"name": "Armed Resupply Pods",
+		"mix_id": "9"
+	},
+	"10": {
+		"name": "Flame Sentry",
+		"mix_id": "10"
+	},
+	"11": {
+		"name": "Concrete Jungle Shuttle Pattern",
+		"mix_id": "11"
+	},
+	"12": {
+		"name": "SR-18 Roadblock",
+		"mix_id": "12"
+	},
+	"13": {
+		"name": "SR-18 Roadblock",
+		"mix_id": "13"
+	},
+	"14": {
+		"name": "Holder of the Yellow Line",
+		"mix_id": "14"
+	},
+	"16": {
+		"name": "Holder of the Yellow Line",
+		"mix_id": "16"
+	},
+	"17": {
+		"name": "Concrete Jungle Vehicle Pattern",
+		"mix_id": "17"
+	},
+	"19": {
+		"name": "This is Democracy",
+		"mix_id": "19"
+	},
+	"20": {
+		"name": "Super Pedestrian",
+		"mix_id": "20"
+	},
+	"21": {
+		"name": "Anti-Tank Emplacement",
+		"mix_id": "21"
+	},
+	"22": {
+		"name": "Concrete Jungle Exosuit Pattern",
+		"mix_id": "22"
+	}
 }
