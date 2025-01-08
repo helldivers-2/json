@@ -108,5 +108,10 @@
 		"galacticEffectId": 1234,
 		"name": "CENTER OF SCIENCE",
 		"description": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
+	},
+	"1236": {
+		"galacticEffectId": 1236,
+		"name": "CENTER FOR CIVILIAN SURVEILLANCE AND SAFETY",
+		"description": "The Ministry of Truth analyzes citizens' activity, speech, data, DNA, RNA, and neural topology here."
 	}
 }
