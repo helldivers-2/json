@@ -1222,9 +1222,9 @@
 	"2006219485": {
 		"name": "FS-11 Executioner",
 		"description": "Popularized by actor Chip Messiter, who wore this in the action-rom-com-musical 'Lost My Heart to a Man in a Helmet.'",
-		"type": 1,
+		"type": 2,
 		"slot": 2,
-		"armor_rating": 100,
+		"armor_rating": 150,
 		"speed": 450,
 		"stamina_regen": 50,
 		"passive": 3
