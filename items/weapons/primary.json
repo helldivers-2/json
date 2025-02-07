@@ -452,7 +452,7 @@
 		"recoil": 120,
 		"fire_rate": 80,
 		"fire_mode": [
-		    0
+			0
 		],
 		"traits": [
 			1,
@@ -469,9 +469,9 @@
 		"recoil": 44,
 		"fire_rate": 490,
 		"fire_mode": [
-		    0,
-		    1,
-		    2
+			0,
+			1,
+			2
 		],
 		"traits": [
 			2
