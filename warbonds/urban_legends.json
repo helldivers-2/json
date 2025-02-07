@@ -1,0 +1,105 @@
+{
+    "1": {
+        "medals_to_unlock": 0,
+        "items": [
+            {
+                "item_id": 1,
+                "medal_cost": 40
+            },
+            {
+                "item_id": 23,
+                "medal_cost": 30
+            },
+            {
+                "item_id": 3,
+                "medal_cost": 8
+            },
+            {
+                "item_id": 4,
+                "medal_cost": 2
+            },
+            {
+                "item_id": 4219002488,
+                "medal_cost": 7
+            },
+            {
+                "item_id": 6,
+                "medal_cost": 30
+            },
+            {
+                "item_id": 7,
+                "medal_cost": 75
+            },
+            {
+                "item_id": 8,
+                "medal_cost": 20
+            }
+        ]
+    },
+    "2": {
+        "medals_to_unlock": 160,
+        "items": [
+            {
+                "item_id": 9,
+                "medal_cost": 55
+            },
+            {
+                "item_id": 10,
+                "medal_cost": 85
+            },
+            {
+                "item_id": 11,
+                "medal_cost": 50
+            },
+            {
+                "item_id": 12,
+                "medal_cost": 35
+            },
+            {
+                "item_id": 13,
+                "medal_cost": 45
+            },
+            {
+                "item_id": 14,
+                "medal_cost": 20
+            },
+            {
+                "item_id": 4219002488,
+                "medal_cost": 12
+            },
+            {
+                "item_id": 16,
+                "medal_cost": 5
+            }
+        ]
+    },
+    "3": {
+        "medals_to_unlock": 250,
+        "items": [
+            {
+                "item_id": 17,
+                "medal_cost": 55
+            },
+            {
+                "item_id": 4219002488,
+                "medal_cost": 32
+            },
+            {
+                "item_id": 19,
+                "medal_cost": 50
+            },
+            {
+                "item_id": 20,
+                "medal_cost": 20
+            },
+            {
+                "item_id": 21,
+                "medal_cost": 110
+            },
+            {
+                "item_id": 22,
+                "medal_cost": 50
+            }
+        ]
+    }
+}

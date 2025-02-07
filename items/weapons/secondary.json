@@ -156,5 +156,19 @@
 			6,
 			10
 		]
+	},
+	"6": {
+		"name": "CQC-19 Stun Lance",
+		"description": "A melee weapon tipped with electrified prongs that temporarily stun targets. Can be wielded one-handed.",
+		"damage": 0,
+		"capacity": 0,
+		"recoil": 8,
+		"fire_rate": 0,
+		"fire_mode": [],
+		"traits": [
+			1,
+			4,
+			12
+		]
 	}
 }
