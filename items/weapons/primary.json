@@ -492,5 +492,50 @@
 			2,
 			5
 		]
+	},
+	"106": {
+		"name": "StA-52 Assault Rifle",
+		"description": "An assault rifle with a high-capacity drum magazine, good for providing sustained fire. Produced by Stäl Arms.",
+		"type": 1,
+		"damage": 70,
+		"capacity": 56,
+		"recoil": 19,
+		"fire_rate": 790,
+		"fire_mode": [
+			2
+		],
+		"traits": [
+			1
+		]
+	},
+	"107": {
+		"name": "StA-11 SMG",
+		"description": "A submachine gun with a helical-feed magazine, which gives the weapon a higher ammo capacity while making it more front-heavy. Produced by Stäl Arms.",
+		"type": 3,
+		"damage": 65,
+		"capacity": 48,
+		"recoil": 13,
+		"fire_rate": 1050,
+		"fire_mode": [],
+		"traits": [
+			1,
+			4
+		]
+	},
+	"108": {
+		"name": "PLAS-39 Accelerator Rifle",
+		"description": "A high-precision burst-fire plasma rifle that must be charged to fire.",
+		"type": 9,
+		"damage": 350,
+		"capacity": 9,
+		"recoil": 3,
+		"fire_rate": 550,
+		"fire_mode": [
+			0
+		],
+		"traits": [
+			2,
+			6
+		]
 	}
 }

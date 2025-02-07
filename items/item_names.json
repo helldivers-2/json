@@ -1638,5 +1638,37 @@
 	"22": {
 		"name": "Concrete Jungle Exosuit Pattern",
 		"mix_id": "22"
+	},
+	"101": {
+		"name": "AC-1 Dutiful",
+		"mix_id": "101"
+	},
+	"102": {
+		"name": "AC-1 Dutiful",
+		"mix_id": "102"
+	},
+	"103": {
+		"name": "Strength in Our Arms",
+		"mix_id": "103"
+	},
+	"104": {
+		"name": "AC-2 Obedient",
+		"mix_id": "104"
+	},
+	"105": {
+		"name": "AC-2 Obedient",
+		"mix_id": "105"
+	},
+	"106": {
+		"name": "StA-52 Assault Rifle",
+		"mix_id": "106"
+	},
+	"107": {
+		"name": "StA-11 SMG",
+		"mix_id": "107"
+	},
+	"108": {
+		"name": "PLAS-39 Accelerator Rifle",
+		"mix_id": "108"
 	}
 }
