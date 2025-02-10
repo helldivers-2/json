@@ -58,5 +58,9 @@
 	"14": {
 		"name": "Siege-ready",
 		"description": "Increases reload speed of primary weapons by 30%. \n Increases ammo capacity of primary weapons by 20%."
+	},
+	"15": {
+		"name": "Acclimated",
+		"description": "Provides 50% resistance to fire, gas, acid, and electrical damage."
 	}
 }
