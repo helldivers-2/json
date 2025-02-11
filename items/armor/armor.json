@@ -2469,7 +2469,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"@TODO - Armor itemID": {
+	"200": {
 		"name": "B-22 Model Citizen",
 		"description": "Gifted to Helldivers whose civilian lives were distinguished by exemplary citizenship, patriotism, and service to the Federation.",
 		"type": 1,
@@ -2479,7 +2479,7 @@
 		"stamina_regen": 100,
 		"passive": 9
 	},
-	"@TODO - Helmet itemID": {
+	"201": {
 		"name": "B-22 Model Citizen",
 		"description": "Gifted to Helldivers whose civilian lives were distinguished by exemplary citizenship, patriotism, and service to the Federation.",
 		"type": 1,
@@ -2489,7 +2489,7 @@
 		"stamina_regen": 100,
 		"passive": 0
 	},
-	"@TODO - Cloak itemID": {
+	"202": {
 		"name": "Eye of Freedom",
 		"description": "A mark of stalwart loyalty bestowed only to those who have proved themselves worthy through unquestioning dedication.",
 		"type": 1,
