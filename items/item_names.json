@@ -1638,5 +1638,17 @@
 	"22": {
 		"name": "Concrete Jungle Exosuit Pattern",
 		"mix_id": "22"
+	},
+	"@TODO - Armor itemID": {
+		"name": "B-22 Model Citizen",
+		"mix_id": "@TODO - Armor itemID"
+	},
+	"@TODO - Helmet itemID": {
+		"name": "B-22 Model Citizen",
+		"mix_id": "@TODO - Helmet itemID"
+	},
+	"@TODO - Cloak itemID": {
+		"name": "Eye of Freedom",
+		"mix_id": "@TODO - Cloak itemID"
 	}
 }
