@@ -1638,5 +1638,17 @@
 	"22": {
 		"name": "Concrete Jungle Exosuit Pattern",
 		"mix_id": "22"
+	},
+	"200": {
+		"name": "B-22 Model Citizen",
+		"mix_id": "200"
+	},
+	"201": {
+		"name": "B-22 Model Citizen",
+		"mix_id": "201"
+	},
+	"202": {
+		"name": "Eye of Freedom",
+		"mix_id": "202"
 	}
 }
