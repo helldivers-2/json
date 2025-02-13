@@ -99,6 +99,11 @@
 		"name": "MERIDIAN BLACK HOLE",
 		"description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid.  This galactic scar is all that remains."
 	},
+	"1230": {
+		"galacticEffectId": 1230,
+		"name": "MERIDIAN BLACK HOLE",
+		"description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid. This galactic scar is all that remains. Advisory: volatile spacetime fluctuations currently prohibit FTL travel to the Meridian Black Hole."
+	},
 	"1232": {
 		"galacticEffectId": 1232,
 		"name": "FACTORY HUB",
@@ -114,10 +119,29 @@
 		"name": "CENTER FOR CIVILIAN SURVEILLANCE AND SAFETY",
 		"description": "The Ministry of Truth analyzes citizens' activity, speech, data, DNA, RNA, and neural topology here."
 	},
-	"1239":{
+	"1238": {
+		"galacticEffectId": 1238,
+		"name": "OPERATIONAL SUPPORT",
+		"description": "The presence of the DSS near this planet provides a slight boost to <i=1>Liberation Campaign</i> progress."
+	},
+	"1239": {
 		"galacticEffectId": 1239,
 		"name": "JET BRIGADE FACTORIES",
 		"description": "Vertically enhanced Jet Brigade soldiers are produced here."
-
+	},
+	"1240": {
+		"galacticEffectId": 1240,
+		"name": "VERGE OF DESTRUCTION",
+		"description": "This planet is under threat of destruction."
+	},
+	"1241": {
+		"galacticEffectId": 1241,
+		"name": "FRACTURED PLANET",
+		"description": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake."
+	},
+	"1242": {
+		"galacticEffectId": 1242,
+		"name": "MOVING SINGULARITY",
+		"description": "The singluarity is moving and is estimated to impact Super Earth."
 	}
 }
