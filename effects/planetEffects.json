@@ -141,8 +141,8 @@
 	},
 	"1242": {
 		"galacticEffectId": 1242,
-		"name": "MOVING WORLD",
-		"description": "This world is moving and is estimated to impact Super Earth."
+		"name": "MOVING PLANET",
+		"description": "This planet is moving and is estimated to impact Super Earth."
 	},
 	"1245":{
 		"galacticEffectId": 1245,
