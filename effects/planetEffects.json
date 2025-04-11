@@ -56,12 +56,12 @@
 	},
 	"1202": {
 		"galacticEffectId": 1202,
-		"name": "THE JET BRIGADE",
+		"name": "THE JET BRIGADE (Enemies)",
 		"description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
 	},
 	"1203": {
 		"galacticEffectId": 1203,
-		"name": "THE JET BRIGADE 2",
+		"name": "THE JET BRIGADE",
 		"description": "The Automatons have deployed a new series of specialized models on this planet. These upgraded bots utilize stolen Jump Pack technology, heartlessly pillaged from the bodies of fallen Helldivers and reverse-engineered into something nearly unrecognizeable."
 	},
 	"1204": {
@@ -144,10 +144,25 @@
 		"name": "MOVING PLANET",
 		"description": "This planet is moving and is estimated to impact Super Earth."
 	},
+	"1244": {
+		"galacticEffectId": 1244,
+		"name": "PREDATOR STRAIN (Enemies)",
+		"description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+	},
 	"1245": {
 		"galacticEffectId": 1245,
 		"name": "PREDATOR STRAIN",
 		"description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
+	},
+	"1246": {
+		"galacticEffectId": 1246,
+		"name": "CAMPAIGN BLOCKER",
+		"description": "Campaigns cannot be launched."
+	},
+	"1248": {
+		"galacticEffectId": 1248,
+		"name": "THE INCINERATION CORPS (Enemies)",
+		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
 	},
 	"1249": {
 		"galacticEffectId": 1249,
