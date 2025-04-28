@@ -172,7 +172,7 @@
 	"1268": {
 		"galacticEffectId": 1268,
 		"name": "NEGATIVE ENERGY LABORATORY",
-        "icon": "Science",
+		"icon": "Science",
 		"description": "Scientists without fear of implosion or spaghettification study negative energy here."
 	}
 }
