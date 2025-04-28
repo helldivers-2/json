@@ -144,8 +144,8 @@
 		"name": "MOVING PLANET",
 		"description": "This planet is moving and is estimated to impact Super Earth."
 	},
-	"1244": {
-		"galacticEffectId": 1244,
+	"1243": {
+		"galacticEffectId": 1243,
 		"name": "PREDATOR STRAIN (Enemies)",
 		"description": "A Gloom-enhanced strain of Terminids has been reported on this planet. SEAF patrols have been lured into ambushes, and picked off by unseen assailants. Every ounce of a Helldiver's superior senses will be required to hunt down this dangerous threat."
 	},
@@ -168,5 +168,11 @@
 		"galacticEffectId": 1249,
 		"name": "THE INCINERATION CORPS",
 		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+	},
+	"1268": {
+		"galacticEffectId": 1268,
+		"name": "NEGATIVE ENERGY LABORATORY",
+        "icon": "Science",
+		"description": "Scientists without fear of implosion or spaghettification study negative energy here."
 	}
 }
