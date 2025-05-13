@@ -173,5 +173,11 @@
 		"galacticEffectId": 1268,
 		"name": "NEGATIVE ENERGY LABORATORY",
 		"description": "Scientists without fear of implosion or spaghettification study negative energy here."
+	},
+	"1269": {
+		"galacticEffectId": 1269,
+		"name": "The Great Host",
+		"description": "The Illuminate invasion fleet, constructed in secret behind the veil of the Meridian Wormhole. It is headed for Super Earth itself."
 	}
+}
 }
