@@ -1,30 +1,354 @@
 {
-	"550918906": {
-		"name": "Equality-on-Sea",
-		"description": "Named for the historic conference where Humanity was found to be the most Equal species in the Galaxy."
+	"1450378707": {
+		"name": "DEMOCRACY ALWAYS",
+		"description": 0
 	},
-	"1199462527": {
-		"name": "Rememberance",
-		"description": "Risen from the ashes of an ancient city, Rememberance is a monument to the Perseverance of Humankind."
+	"3047952158": {
+		"name": "ERIDANI",
+		"description": 0
 	},
-	"4196558004": {
-		"name": "Eagleopolis",
-		"description": "This Great Heart of Commerce is renowned galaxy-wide for its Grand Shopping Malls and Splendorous Entertainment Centers."
+	"388939768": {
+		"name": "CURRENCY",
+		"description": 0
 	},
-	"502504685": {
-		"name": "Port Mercy",
+	"40424972": {
+		"name": "NEW NEWTONVILLE",
+		"description": 0
+	},
+	"4074113490": {
+		"name": "OL' OLDHAM",
+		"description": 0
+	},
+	"3971221179": {
+		"name": "TIMELY",
+		"description": 0
+	},
+	"1742311464": {
+		"name": "APPROVAL CITY",
+		"description": 0
+	},
+	"2442773505": {
+		"name": "OLD BRANCH",
+		"description": 0
+	},
+	"697437667": {
+		"name": "GREATER STOROUSE",
+		"description": 0
+	},
+	"3544673664": {
+		"name": "NEW STOROUSE",
+		"description": 0
+	},
+	"1113954777": {
+		"name": "SHED",
+		"description": 0
+	},
+	"922173032": {
+		"name": "FREE TRADE",
+		"description": 0
+	},
+	"1901330633": {
+		"name": "KESUMA",
+		"description": 0
+	},
+	"652334299": {
+		"name": "UNGU",
+		"description": 0
+	},
+	"1828899431": {
+		"name": "NO COMPOUND",
+		"description": 0
+	},
+	"4285037151": {
+		"name": "FILIBUSTER",
+		"description": 0
+	},
+	"1385387467": {
+		"name": "PORTE LIBERTÉ",
+		"description": 0
+	},
+	"2138319503": {
+		"name": "UNDERVATTEN",
+		"description": 0
+	},
+	"3561629139": {
+		"name": "NEW TOKYO",
+		"description": 0
+	},
+	"1950110047": {
+		"name": "LEMURIA RISING",
+		"description": 0
+	},
+	"3469965537": {
+		"name": "PIONEER'S DREAM",
+		"description": 0
+	},
+	"1160890675": {
+		"name": "BASE CAMP 8",
+		"description": 0
+	},
+	"4044698017": {
+		"name": "LIL'OME",
+		"description": 0
+	},
+	"984866218": {
+		"name": "GRAND-CHÂTEAU",
+		"description": 0
+	},
+	"852394558": {
+		"name": "KURRI KURRI",
+		"description": 0
+	},
+	"377873298": {
+		"name": "ANNWN",
+		"description": 0
+	},
+	"2630104082": {
+		"name": "AGARTHA",
+		"description": 0
+	},
+	"1530854024": {
+		"name": "KSHIRA SAGARA",
+		"description": 0
+	},
+	"1287526826": {
+		"name": "BUJU",
+		"description": 0
+	},
+	"4021487696": {
+		"name": "FARMHANDSTOWN",
+		"description": 0
+	},
+	"519542991": {
+		"name": "FORT BOUNTY",
+		"description": 0
+	},
+	"1317124802": {
+		"name": "FUTURIA",
+		"description": 0
+	},
+	"2877143882": {
+		"name": "NEW DA NANG",
+		"description": 0
+	},
+	"639795111": {
+		"name": "PHAM'S SITE",
+		"description": 0
+	},
+	"3859281135": {
+		"name": "OLD CHEMLAND",
+		"description": 0
+	},
+	"1240828295": {
+		"name": "LOKAHEIM",
+		"description": 0
+	},
+	"1590013046": {
+		"name": "PSEUDOTOPIA",
+		"description": 0
+	},
+	"39061960": {
+		"name": "FAMEWOLF PEAK",
+		"description": 0
+	},
+	"2125910265": {
+		"name": "OTARU'S PLEDGE",
+		"description": 0
+	},
+	"2289872695": {
+		"name": "XIAMEN ANEW",
+		"description": 0
+	},
+	"3456331593": {
+		"name": "MUNITION CITY",
+		"description": 0
+	},
+	"2229296153": {
+		"name": "GREATFORT",
+		"description": 0
+	},
+	"1884893382": {
+		"name": "ALTONBURG",
+		"description": 0
+	},
+	"3312976148": {
+		"name": "ERSATZ",
+		"description": 0
+	},
+	"3018257385": {
+		"name": "MALLSTRIP NODES",
+		"description": 0
+	},
+	"139067024": {
+		"name": "BIRTH",
+		"description": 0
+	},
+	"3803442803": {
+		"name": "RECON HEIGHTS",
+		"description": 0
+	},
+	"1175978820": {
+		"name": "SILO A",
+		"description": 0
+	},
+	"446859034": {
+		"name": "VOTER'S FALLOW",
+		"description": 0
+	},
+	"528516751": {
+		"name": "SCHOLAR'S MOOR",
+		"description": 0
+	},
+	"3917987635": {
+		"name": "BLESTRAIL",
+		"description": 0
+	},
+	"3048790682": {
+		"name": "HILDOARA CENTRAL",
+		"description": 0
+	},
+	"1618113473": {
+		"name": "VANQUISHMENT",
+		"description": 0
+	},
+	"2739611268": {
+		"name": "FREECREST",
+		"description": 0
+	},
+	"349718378": {
+		"name": "RESPITE",
+		"description": 0
+	},
+	"1504908438": {
+		"name": "QUASAR",
+		"description": 0
+	},
+	"1965029649": {
+		"name": "SYZYGY",
+		"description": 0
+	},
+	"2729642364": {
+		"name": "OLD DOVE",
+		"description": 0
+	},
+	"4243714681": {
+		"name": "BRNO",
+		"description": 0
+	},
+	"3172437623": {
+		"name": "NEW EAGLE",
+		"description": 0
+	},
+	"3068676143": {
+		"name": "VILHELMINA DOROTHEA FREDRIKA",
+		"description": 0
+	},
+	"904567460": {
+		"name": "MOGO PLAINS",
+		"description": 0
+	},
+	"1833634039": {
+		"name": "KALASATAMA PORT",
+		"description": 0
+	},
+	"2577686246": {
+		"name": "HANDAKAS",
+		"description": 0
+	},
+	"2664661790": {
+		"name": "HAKU CITY",
+		"description": 0
+	},
+	"1310303443": {
+		"name": "PORT MERCY",
 		"description": "Since sheltering millions of loyal refugees in the Last Great War, Port Mercy has been a safe haven for any class-A citizen in need."
 	},
-	"1750980320": {
-		"name": "Prosperity City",
+	"93423489": {
+		"name": "EQUALITY-ON-SEA",
+		"description": "Named for the historic conference where Humanity was found to be the most Equal species in the Galaxy."
+	},
+	"1718744431": {
+		"name": "PROSPERITY CITY",
 		"description": "Home to the Democratic Council, our proud Capital is a beacon of Progress, Productivity, and Patriotism."
 	},
-	"3958784315": {
-		"name": "Administrative Center 02",
+	"1214321579": {
+		"name": "ADMINISTRATIVE CENTER 02",
 		"description": "Each form and application that passes through the hallowed halls of AdminCen is emblazoned with the Stamp of Ages, and should be given a place of honor in the home."
 	},
-	"391918492": {
-		"name": "York Supreme",
+	"3714547494": {
+		"name": "EAGLEOPOLIS",
+		"description": "This Great Heart of Commerce is renowned galaxy-wide for its Grand Shopping Malls and Splendorous Entertainment Centers."
+	},
+	"3392328313": {
+		"name": "REMEMBRANCE",
+		"description": "Risen from the ashes of an ancient city, Rememberance is a monument to the Perseverance of Humankind."
+	},
+	"3744552251": {
+		"name": "YORK SUPREME",
 		"description": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them."
+	},
+	"3176134548": {
+		"name": "NYA SKELLEFTEA",
+		"description": 0
+	},
+	"3284181985": {
+		"name": "ÖDESHÖGRE",
+		"description": 0
+	},
+	"4025926882": {
+		"name": "GOTHENBURG III",
+		"description": 0
+	},
+	"2371935436": {
+		"name": "CHATOYANT",
+		"description": 0
+	},
+	"1871705663": {
+		"name": "CARBONDALE",
+		"description": 0
+	},
+	"2130002305": {
+		"name": "PERIWINKLE MILLS",
+		"description": 0
+	},
+	"1500792327": {
+		"name": "NEW KATHMANDU",
+		"description": 0
+	},
+	"164683834": {
+		"name": "PO'S RAVENNA",
+		"description": 0
+	},
+	"4221212180": {
+		"name": "REBELSGRAVE",
+		"description": 0
+	},
+	"3196029437": {
+		"name": "REFORMED-BY-TRUTH",
+		"description": 0
+	},
+	"3109165831": {
+		"name": "OBEDIENCE",
+		"description": 0
+	},
+	"2184623455": {
+		"name": "CLE ELUM REDIVIVA",
+		"description": 0
+	},
+	"3447495636": {
+		"name": "LAELIA",
+		"description": 0
+	},
+	"3312768549": {
+		"name": "SCARLET HAVEN",
+		"description": 0
+	},
+	"2217780661": {
+		"name": "EDWARD'S GRAVE",
+		"description": 0
+	},
+	"2323589213": {
+		"name": "LIGHT-OF-LIBERTY",
+		"description": 0
 	}
 }
