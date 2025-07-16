@@ -367,6 +367,18 @@
 		"name": "YORK SUPREME",
 		"description": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them."
 	},
+	"316170794": {
+		"name": "FORTITUDE",
+		"description": ""
+	},
+	"3921926208": {
+		"name": "FREEDOM'S TORCH",
+		"description": ""
+	},
+	"281317935": {
+		"name": "FEARLESS HOLLOW",
+		"description": ""
+	},
 	"4187567384": {
 		"name": "NYA SKELLEFTEA",
 		"description": ""
@@ -415,6 +427,18 @@
 		"name": "SEQUIM",
 		"description": ""
 	},
+	"4253491601": {
+		"name": "ONSEN",
+		"description": ""
+	},
+	"1061744043": {
+		"name": "GIRI",
+		"description": ""
+	},
+	"3878380748": {
+		"name": "SAPPORO",
+		"description": ""
+	},
 	"4151302370": {
 		"name": "CLE ELUM REDIVIVA",
 		"description": ""
@@ -449,6 +473,14 @@
 	},
 	"311758306": {
 		"name": "LIGHT-OF-LIBERTY",
+		"description": ""
+	},
+	"4264188855": {
+		"name": "MIRAGE",
+		"description": ""
+	},
+	"2563609963": {
+		"name": "DRYWELL",
 		"description": ""
 	}
 }
