@@ -179,6 +179,14 @@
 		"name": "BUJU",
 		"description": ""
 	},
+	"741084747": {
+		"name": "EIGHTRINGS",
+		"description": ""
+	},
+	"521454425": {
+		"name": "BROKER'S WEALTH",
+		"description": ""
+	},
 	"16522331": {
 		"name": "FARMHANDSTOWN",
 		"description": ""
@@ -201,6 +209,18 @@
 	},
 	"523284406": {
 		"name": "OLD CHEMLAND",
+		"description": ""
+	},
+	"1415969325": {
+		"name": "BRAWFERMLAND",
+		"description": ""
+	},
+	"832046850": {
+		"name": "NEW ABERDEEN",
+		"description": ""
+	},
+	"2006541056": {
+		"name": "SAORSA GLEN",
 		"description": ""
 	},
 	"2057457464": {
@@ -227,6 +247,14 @@
 		"name": "MUNITION CITY",
 		"description": ""
 	},
+	"3900513024": {
+		"name": "VÁHTJER",
+		"description": ""
+	},
+	"4038285524": {
+		"name": "MALMBERGET",
+		"description": ""
+	},
 	"3964263469": {
 		"name": "ALTONBURG",
 		"description": ""
@@ -241,6 +269,18 @@
 	},
 	"2591044773": {
 		"name": "BIRTH",
+		"description": ""
+	},
+	"3188612954": {
+		"name": "FORT SANGUINE",
+		"description": ""
+	},
+	"1329166626": {
+		"name": "KNIGHT'S HONOR",
+		"description": ""
+	},
+	"1039071856": {
+		"name": "SEVENSEAL",
 		"description": ""
 	},
 	"119875523": {
@@ -295,6 +335,46 @@
 		"name": "FREECREST",
 		"description": ""
 	},
+	"1501066740": {
+		"name": "LIFEBLOOD",
+		"description": ""
+	},
+	"829716394": {
+		"name": "REQUIEM",
+		"description": ""
+	},
+	"4162876257": {
+		"name": "DIVER'S REST",
+		"description": ""
+	},
+	"3421372928": {
+		"name": "SONGGUO CUN",
+		"description": ""
+	},
+	"4087006817": {
+		"name": "XIN FUZHOU",
+		"description": ""
+	},
+	"1199071894": {
+		"name": "PARRHESIA",
+		"description": ""
+	},
+	"2853318855": {
+		"name": "ISEGORIA",
+		"description": ""
+	},
+	"3513777986": {
+		"name": "SEORAKSAN",
+		"description": ""
+	},
+	"3910908375": {
+		"name": "GYEONGSEONG",
+		"description": ""
+	},
+	"2409136536": {
+		"name": "SAPPHIRE LAKE",
+		"description": ""
+	},
 	"3263317504": {
 		"name": "RESPITE",
 		"description": ""
@@ -329,6 +409,14 @@
 	},
 	"1599927394": {
 		"name": "KALASATAMA PORT",
+		"description": ""
+	},
+	"2788606019": {
+		"name": "RESILIENCE",
+		"description": ""
+	},
+	"539875676": {
+		"name": "HOT GATES",
 		"description": ""
 	},
 	"2024755529": {
@@ -367,6 +455,26 @@
 		"name": "YORK SUPREME",
 		"description": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them."
 	},
+	"316170794": {
+		"name": "FORTITUDE",
+		"description": ""
+	},
+	"3921926208": {
+		"name": "FREEDOM'S TORCH",
+		"description": ""
+	},
+	"281317935": {
+		"name": "FEARLESS HOLLOW",
+		"description": ""
+	},
+	"579852265": {
+		"name": "FOUNDRY",
+		"description": ""
+	},
+	"1999301409": {
+		"name": "STEEL RESOLVE",
+		"description": ""
+	},
 	"4187567384": {
 		"name": "NYA SKELLEFTEA",
 		"description": ""
@@ -391,6 +499,14 @@
 		"name": "PERIWINKLE MILLS",
 		"description": ""
 	},
+	"2936987719": {
+		"name": "FREEDOM ETERNAL",
+		"description": ""
+	},
+	"1468847276": {
+		"name": "NUOVA ROMA",
+		"description": ""
+	},
 	"770916674": {
 		"name": "NEW KATHMANDU",
 		"description": ""
@@ -413,6 +529,18 @@
 	},
 	"3036848565": {
 		"name": "SEQUIM",
+		"description": ""
+	},
+	"4253491601": {
+		"name": "ONSEN",
+		"description": ""
+	},
+	"1061744043": {
+		"name": "GIRI",
+		"description": ""
+	},
+	"3878380748": {
+		"name": "SAPPORO",
 		"description": ""
 	},
 	"4151302370": {
@@ -449,6 +577,14 @@
 	},
 	"311758306": {
 		"name": "LIGHT-OF-LIBERTY",
+		"description": ""
+	},
+	"4264188855": {
+		"name": "MIRAGE",
+		"description": ""
+	},
+	"2563609963": {
+		"name": "DRYWELL",
 		"description": ""
 	}
 }
