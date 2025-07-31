@@ -5,6 +5,6 @@
 	"4": "unit_id",
 	"5": "item_id",
 	"9": "difficulty",
-	"11": "liberate",
-	"12": "planet_index"
+	"11": "location_type",
+	"12": "location_index"
 }
