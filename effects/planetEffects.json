@@ -1,8 +1,198 @@
 {
+	"1127": {
+		"galacticEffectId": 1127,
+		"name": "ARSENAL AUGMENTATION: EAGLE 500KG BOMB",
+		"description": "High Command has authorized the temporary addition of the Eagle 500kg Bomb Stratagem to all Helldiver loadouts."
+	},
+	"1128": {
+		"galacticEffectId": 1128,
+		"name": "ARSENAL AUGMENTATION: EAGLE 500KG BOMB",
+		"description": "High Command has authorized the temporary addition of the Eagle 500kg Bomb Stratagem to all Helldiver loadouts."
+	},
+	"1129": {
+		"galacticEffectId": 1129,
+		"name": "ARSENAL AUGMENTATION: SH-32 SHIELD GENERATOR PACK",
+		"description": "High Command has authorized the temporary addition of the SH-32 Shield Generator Pack Stratagem to all Helldiver loadouts."
+	},
+	"1130": {
+		"galacticEffectId": 1130,
+		"name": "ARSENAL AUGMENTATION: A/ARC-3 TESLA TOWER",
+		"description": "High Command has authorized the temporary addition of the A/ARC-3 Tesla Tower Stratagem to all Helldiver loadouts."
+	},
+	"1133": {
+		"galacticEffectId": 1133,
+		"name": "ARSENAL AUGMENTATION: A/M-12 MORTAR SENTRY",
+		"description": "High Command has authorized the temporary addition of the A/M-12 Mortar Sentry Stratagem to all Helldiver loadouts."
+	},
+	"1137": {
+		"galacticEffectId": 1137,
+		"name": "ARSENAL AUGMENTATION: RS-422 RAILGUN",
+		"description": "High Command has authorized the temporary addition of the RS-422 Railgun Stratagem to all Helldiver loadouts."
+	},
+	"1139": {
+		"galacticEffectId": 1139,
+		"name": "ARSENAL AUGMENTATION: EAGLE NAPALM AIRSTRIKE",
+		"description": "High Command has authorized the temporary addition of the Eagle Napalm Airstrike Stratagem to all Helldiver loadouts."
+	},
+	"1142": {
+		"galacticEffectId": 1142,
+		"name": "ARSENAL AUGMENTATION: EAGLE 500KG BOMB",
+		"description": "High Command has authorized the temporary addition of the Eagle 500kg Bomb Stratagem to all Helldiver loadouts."
+	},
+	"1143": {
+		"galacticEffectId": 1143,
+		"name": "ARSENAL AUGMENTATION: MG-43 MACHINE GUN",
+		"description": "High Command has authorized the temporary addition of the MG-43 Machine Gun Stratagem to all Helldiver loadouts."
+	},
+	"1145": {
+		"galacticEffectId": 1145,
+		"name": "ARSENAL AUGMENTATION: ORBITAL LASER",
+		"description": "High Command has authorized the temporary addition of the Orbital Laser Stratagem to all Helldiver loadouts."
+	},
+	"1147": {
+		"galacticEffectId": 1147,
+		"name": "ARSENAL AUGMENTATION: ORBITAL EMS STRIKE",
+		"description": "High Command has authorized the temporary addition of the Orbital EMS Strike Stratagem to all Helldiver loadouts."
+	},
+	"1148": {
+		"galacticEffectId": 1148,
+		"name": "ARSENAL AUGMENTATION: EXO-45 PATRIOT EXOSUIT",
+		"description": "High Command has authorized the temporary addition of the EXO-45 Patriot Exosuit Stratagem to all Helldiver loadouts."
+	},
+	"1149": {
+		"galacticEffectId": 1149,
+		"name": "ARSENAL AUGMENTATION: LIFT-850 JUMP PACK",
+		"description": "High Command has authorized the temporary addition of the LIFT-850 Jump Pack Stratagem to all Helldiver loadouts."
+	},
+	"1150": {
+		"galacticEffectId": 1150,
+		"name": "ARSENAL AUGMENTATION: B-1 SUPPLY PACK",
+		"description": "High Command has authorized the temporary addition of the B-1 Supply Pack Stratagem to all Helldiver loadouts."
+	},
+	"1152": {
+		"galacticEffectId": 1152,
+		"name": "ARSENAL AUGMENTATION: APW-1 ANTI-MATERIEL RIFLE",
+		"description": "High Command has authorized the temporary addition of the APW-1 Anti-Materiel Rifle Stratagem to all Helldiver loadouts."
+	},
+	"1153": {
+		"galacticEffectId": 1153,
+		"name": "ARSENAL AUGMENTATION: RS-422 RAILGUN",
+		"description": "High Command has authorized the temporary addition of the RS-422 Railgun Stratagem to all Helldiver loadouts."
+	},
+	"1154": {
+		"galacticEffectId": 1154,
+		"name": "ARSENAL AUGMENTATION: ORBITAL RAILCANNON STRIKE",
+		"description": "High Command has authorized the temporary addition of the Orbital Railcannon Strike Stratagem to all Helldiver loadouts."
+	},
+	"1155": {
+		"galacticEffectId": 1155,
+		"name": "ARSENAL AUGMENTATION: AC-8 AUTOCANNON",
+		"description": "High Command has authorized the temporary addition of the AC-8 Autocannon Stratagem to all Helldiver loadouts."
+	},
+	"1156": {
+		"galacticEffectId": 1156,
+		"name": "ARSENAL AUGMENTATION: EAGLE 110MM ROCKET PODS",
+		"description": "High Command has authorized the temporary addition of the Eagle 110mm Rocket Pods Stratagem to all Helldiver loadouts."
+	},
+	"1160": {
+		"galacticEffectId": 1160,
+		"name": "ARSENAL AUGMENTATION: ORBITAL EMS STRIKE",
+		"description": "High Command has authorized the temporary addition of the Orbital EMS Strike Stratagem to all Helldiver loadouts."
+	},
+	"1161": {
+		"galacticEffectId": 1161,
+		"name": "ARSENAL AUGMENTATION: EAGLE NAPALM AIRSTRIKE",
+		"description": "High Command has authorized the temporary addition of the Eagle Napalm Airstrike Stratagem to all Helldiver loadouts."
+	},
+	"1162": {
+		"galacticEffectId": 1162,
+		"name": "ARSENAL AUGMENTATION: EXO-45 PATRIOT EXOSUIT",
+		"description": "High Command has authorized the temporary addition of the EXO-45 Patriot Exosuit Stratagem to all Helldiver loadouts."
+	},
+	"1163": {
+		"galacticEffectId": 1163,
+		"name": "ARSENAL AUGMENTATION: EAGLE 110MM ROCKET PODS",
+		"description": "High Command has authorized the temporary addition of the Eagle 110mm Rocket Pods Stratagem to all Helldiver loadouts."
+	},
+	"1165": {
+		"galacticEffectId": 1165,
+		"name": "ARSENAL AUGMENTATION: LIFT-850 JUMP PACK",
+		"description": "High Command has authorized the temporary addition of the LIFT-850 Jump Pack Stratagem to all Helldiver loadouts."
+	},
+	"1166": {
+		"galacticEffectId": 1166,
+		"name": "ARSENAL AUGMENTATION: EAGLE 500KG BOMB",
+		"description": "High Command has authorized the temporary addition of the Eagle 500kg Bomb Stratagem to all Helldiver loadouts."
+	},
+	"1167": {
+		"galacticEffectId": 1167,
+		"name": "ARSENAL AUGMENTATION: FLAM-40 FLAMETHROWER",
+		"description": "High Command has authorized the temporary addition of the FLAM-40 Flamethrower Stratagem to all Helldiver loadouts."
+	},
+	"1168": {
+		"galacticEffectId": 1168,
+		"name": "ARSENAL AUGMENTATION: LAS-98 LASER CANNON",
+		"description": "High Command has authorized the temporary addition of the LAS-98 Laser Cannon Stratagem to all Helldiver loadouts."
+	},
+	"1169": {
+		"galacticEffectId": 1169,
+		"name": "ARSENAL AUGMENTATION: EAT-17 EXPENDABLE ANTI-TANK",
+		"description": "High Command has authorized the temporary addition of the EAT-17 Expendable Anti-Tank Stratagem to all Helldiver loadouts."
+	},
+	"1170": {
+		"galacticEffectId": 1170,
+		"name": "ARSENAL AUGMENTATION: RL-77 AIRBURST ROCKET LAUNCHER",
+		"description": "High Command has authorized the temporary addition of the RL-77 Airburst Rocket Launcher Stratagem to all Helldiver loadouts."
+	},
+	"1171": {
+		"galacticEffectId": 1171,
+		"name": "ARSENAL AUGMENTATION: MD-17 ANTI-TANK MINES",
+		"description": "High Command has authorized the temporary addition of the MD-17 Anti-Tank Mines Stratagem to all Helldiver loadouts."
+	},
+	"1172": {
+		"galacticEffectId": 1172,
+		"name": "ARSENAL AUGMENTATION: ORBITAL GAS STRIKE",
+		"description": "High Command has authorized the temporary addition of the Orbital Gas Strike Stratagem to all Helldiver loadouts."
+	},
+	"1173": {
+		"galacticEffectId": 1173,
+		"name": "ARSENAL AUGMENTATION: EXO-49 EMANCIPATOR EXOSUIT",
+		"description": "High Command has authorized the temporary addition of the EXO-49 Emancipator Exosuit Stratagem to all Helldiver loadouts."
+	},
+	"1174": {
+		"galacticEffectId": 1174,
+		"name": "ARSENAL AUGMENTATION: A/M-12 MORTAR SENTRY",
+		"description": "High Command has authorized the temporary addition of the A/M-12 Mortar Sentry Stratagem to all Helldiver loadouts."
+	},
+	"1175": {
+		"galacticEffectId": 1175,
+		"name": "ARSENAL AUGMENTATION: A/G-16 GATLING SENTRY",
+		"description": "High Command has authorized the temporary addition of the A/G-16 Gatling Sentry Stratagem to all Helldiver loadouts."
+	},
 	"1177": {
 		"galacticEffectId": 1177,
 		"name": "Black Hole",
 		"description": "This planet has been turned into a black hole."
+	},
+	"1179": {
+		"galacticEffectId": 1179,
+		"name": "ARSENAL AUGMENTATION: AC-8 AUTOCANNON",
+		"description": "High Command has authorized the temporary addition of the AC-8 Autocannon Stratagem to all Helldiver loadouts."
+	},
+	"1181": {
+		"galacticEffectId": 1181,
+		"name": "ARSENAL AUGMENTATION: MLS-4X COMMANDO",
+		"description": "High Command has authorized the temporary addition of the MLS-4X Commando Stratagem to all Helldiver loadouts."
+	},
+	"1184": {
+		"galacticEffectId": 1184,
+		"name": "ARSENAL AUGMENTATION: MD-I4 INCENDIARY MINES",
+		"description": "High Command has authorized the temporary addition of the MD-I4 Incendiary Mines Stratagem to all Helldiver loadouts."
+	},
+	"1185": {
+		"galacticEffectId": 1185,
+		"name": "ARSENAL AUGMENTATION: MD-6 ANTI-PERSONNEL MINEFIELD",
+		"description": "High Command has authorized the temporary addition of the MD-6 Anti-Personnel Minefield Stratagem to all Helldiver loadouts."
 	},
 	"1186": {
 		"galacticEffectId": 1186,
@@ -29,6 +219,11 @@
 		"name": "Gloom Border",
 		"description": "This world is on the border of the interstellar wall of gloom."
 	},
+	"1194": {
+		"galacticEffectId": 1194,
+		"name": "ARSENAL AUGMENTATION: ORBITAL NAPALM BARRAGE",
+		"description": "High Command has authorized the temporary addition of the Orbital Napalm Barrage Stratagem to all Helldiver loadouts."
+	},
 	"1195": {
 		"galacticEffectId": 1195,
 		"name": "DSS Construction Site- Phase 1",
@@ -53,6 +248,11 @@
 		"galacticEffectId": 1199,
 		"name": "DSS Construction Site- Phase 2",
 		"description": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet’s populace has centupled, and all the Galaxy can feel their democratic fervor."
+	},
+	"1200": {
+		"galacticEffectId": 1200,
+		"name": "ARSENAL AUGMENTATION: A/ARC-3 TESLA TOWER",
+		"description": "High Command has authorized the temporary addition of the A/ARC-3 Tesla Tower Stratagem to all Helldiver loadouts."
 	},
 	"1202": {
 		"galacticEffectId": 1202,
@@ -79,6 +279,11 @@
 		"name": "TERMINID RESEARCH PRESERVE",
 		"description": "Terminids are held safely within massive compounts on this planet for study and E-710 extraction."
 	},
+	"1207": {
+		"galacticEffectId": 1207,
+		"name": "ARSENAL AUGMENTATION: E/MG-101 HMG EMPLACEMENT",
+		"description": "High Command has authorized the temporary addition of the E/MG-101 HMG Emplacement Stratagem to all Helldiver loadouts."
+	},
 	"1217": {
 		"galacticEffectId": 1217,
 		"name": "DEMOCRACY SPACE STATION",
@@ -88,6 +293,16 @@
 		"galacticEffectId": 1222,
 		"name": "UNKNOWN EFFECT- LIKELY REINFORCEMENT BUDGET?",
 		"description": "(probably) Increases the number of available reinforcements."
+	},
+	"1226": {
+		"galacticEffectId": 1226,
+		"name": "ARSENAL AUGMENTATION: FAF-14 SPEAR",
+		"description": "High Command has authorized the temporary addition of the FAF-14 Spear Stratagem to all Helldiver loadouts."
+	},
+	"1227": {
+		"galacticEffectId": 1227,
+		"name": "ARSENAL AUGMENTATION: MG-43 MACHINE GUN",
+		"description": "High Command has authorized the temporary addition of the MG-43 Machine Gun Stratagem to all Helldiver loadouts."
 	},
 	"1228": {
 		"galacticEffectId": 1228,
@@ -104,15 +319,30 @@
 		"name": "MERIDIAN BLACK HOLE",
 		"description": "The prosperous Meridia was corrupted into a Terminid Supercolony, necessitating its destruction using the mysterious Dark Fluid. This galactic scar is all that remains. Advisory: volatile spacetime fluctuations currently prohibit FTL travel to the Meridian Black Hole."
 	},
+	"1231": {
+		"galacticEffectId": 1231,
+		"name": "ARSENAL AUGMENTATION: MD-8 GAS MINES",
+		"description": "High Command has authorized the temporary addition of the MD-8 Gas Mines Stratagem to all Helldiver loadouts."
+	},
 	"1232": {
 		"galacticEffectId": 1232,
 		"name": "FACTORY HUB",
 		"description": "The hard workers on this planet produce goods vital to the war effort, as well as to the prosperity of Super Earth."
 	},
+	"1233": {
+		"galacticEffectId": 1233,
+		"name": "ARSENAL AUGMENTATION: STA-X3 W.A.S.P. LAUNCHER",
+		"description": "High Command has authorized the temporary addition of the StA-X3 W.A.S.P. Launcher Stratagem to all Helldiver loadouts."
+	},
 	"1234": {
 		"galacticEffectId": 1234,
 		"name": "CENTER OF SCIENCE",
 		"description": "On this planet, the Ministry of Science's best and brightest work on their next breakthrough."
+	},
+	"1235": {
+		"galacticEffectId": 1235,
+		"name": "ARSENAL AUGMENTATION: MD-17 ANTI-TANK MINES",
+		"description": "High Command has authorized the temporary addition of the MD-17 Anti-Tank Mines Stratagem to all Helldiver loadouts."
 	},
 	"1236": {
 		"galacticEffectId": 1236,
@@ -159,6 +389,11 @@
 		"name": "CAMPAIGN BLOCKER",
 		"description": "Campaigns cannot be launched."
 	},
+	"1247": {
+		"galacticEffectId": 1247,
+		"name": "ARSENAL AUGMENTATION: MD-8 GAS MINES",
+		"description": "High Command has authorized the temporary addition of the MD-8 Gas Mines Stratagem to all Helldiver loadouts."
+	},
 	"1248": {
 		"galacticEffectId": 1248,
 		"name": "THE INCINERATION CORPS (Enemies)",
@@ -168,6 +403,26 @@
 		"galacticEffectId": 1249,
 		"name": "THE INCINERATION CORPS",
 		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+	},
+	"1254": {
+		"galacticEffectId": 1254,
+		"name": "ARSENAL AUGMENTATION: MG-206 HEAVY MACHINE GUN",
+		"description": "High Command has authorized the temporary addition of the MG-206 Heavy Machine Gun Stratagem to all Helldiver loadouts."
+	},
+	"1256": {
+		"galacticEffectId": 1256,
+		"name": "ARSENAL AUGMENTATION: E/GL-21 GRENADIER BATTLEMENT",
+		"description": "High Command has authorized the temporary addition of the E/GL-21 Grenadier Battlement Stratagem to all Helldiver loadouts."
+	},
+	"1263": {
+		"galacticEffectId": 1263,
+		"name": "ARSENAL AUGMENTATION: M-105 STALWART",
+		"description": "High Command has authorized the temporary addition of the M-105 Stalwart Stratagem to all Helldiver loadouts."
+	},
+	"1267": {
+		"galacticEffectId": 1267,
+		"name": "ARSENAL AUGMENTATION: ORBITAL GAS STRIKE",
+		"description": "High Command has authorized the temporary addition of the Orbital Gas Strike Stratagem to all Helldiver loadouts."
 	},
 	"1268": {
 		"galacticEffectId": 1268,
@@ -179,6 +434,36 @@
 		"name": "The Great Host",
 		"description": "The Illuminate invasion fleet, constructed in secret behind the veil of the Meridian Wormhole. It is headed for Super Earth itself."
 	},
+	"1274": {
+		"galacticEffectId": 1274,
+		"name": "ARSENAL AUGMENTATION: M-105 STALWART",
+		"description": "High Command has authorized the temporary addition of the M-105 Stalwart Stratagem to all Helldiver loadouts."
+	},
+	"1276": {
+		"galacticEffectId": 1276,
+		"name": "ARSENAL AUGMENTATION: FX-12 SHIELD GENERATOR RELAY",
+		"description": "High Command has authorized the temporary addition of the FX-12 Shield Generator Relay Stratagem to all Helldiver loadouts."
+	},
+	"1277": {
+		"galacticEffectId": 1277,
+		"name": "ARSENAL AUGMENTATION: ORBITAL NAPALM BARRAGE",
+		"description": "High Command has authorized the temporary addition of the Orbital Napalm Barrage Stratagem to all Helldiver loadouts."
+	},
+	"1279": {
+		"galacticEffectId": 1279,
+		"name": "ARSENAL AUGMENTATION: M-102 FAST RECONNAISSANCE VEHICLE",
+		"description": "High Command has authorized the temporary addition of the M-102 Fast Reconnaissance Vehicle Stratagem to all Helldiver loadouts."
+	},
+	"1280": {
+		"galacticEffectId": 1280,
+		"name": "ARSENAL AUGMENTATION: ORBITAL SMOKE STRIKE",
+		"description": "High Command has authorized the temporary addition of the Orbital Smoke Strike Stratagem to all Helldiver loadouts."
+	},
+	"1281": {
+		"galacticEffectId": 1281,
+		"name": "ARSENAL AUGMENTATION: EAGLE SMOKE STRIKE",
+		"description": "High Command has authorized the temporary addition of the Eagle Smoke Strike Stratagem to all Helldiver loadouts."
+	},
 	"1282": {
 		"galacticEffectId": 1282,
 		"name": "HELLDIVER TRAINING FACILITIES",
@@ -188,6 +473,11 @@
 		"galacticEffectId": 1283,
 		"name": "FACTORY STRIDER SURGE",
 		"description": "Significantly higher Factory Strider numbers have been observed on this planet."
+	},
+	"1284": {
+		"galacticEffectId": 1284,
+		"name": "ARSENAL AUGMENTATION: GR-8 RECOILLESS RIFLE",
+		"description": "High Command has authorized the temporary addition of the GR-8 Recoilless Rifle Stratagem to all Helldiver loadouts."
 	},
 	"1285": {
 		"galacticEffectId": 1285,
