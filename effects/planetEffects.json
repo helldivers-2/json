@@ -284,6 +284,11 @@
 		"name": "ARSENAL AUGMENTATION: E/MG-101 HMG EMPLACEMENT",
 		"description": "High Command has authorized the temporary addition of the E/MG-101 HMG Emplacement Stratagem to all Helldiver loadouts."
 	},
+	"1214": {
+		"galacticEffectId": 1214,
+		"name": "PLANETARY BOMBARDMENT",
+		"description": "Progress in Liberation Campaigns is accelerated."
+	},
 	"1217": {
 		"galacticEffectId": 1217,
 		"name": "DEMOCRACY SPACE STATION",
@@ -349,6 +354,11 @@
 		"name": "CENTER FOR CIVILIAN SURVEILLANCE AND SAFETY",
 		"description": "The Ministry of Truth analyzes citizens' activity, speech, data, DNA, RNA, and neural topology here."
 	},
+	"1237": {
+		"galacticEffectId": 1237,
+		"name": "ARSENAL AUGMENTATION: ORBITAL 380MM HE BARRAGE",
+		"description": "High Command has authorized the temporary addition of the Orbital 380mm HE Barrage Stratagem to all Helldiver loadouts."
+	},
 	"1238": {
 		"galacticEffectId": 1238,
 		"name": "OPERATIONAL SUPPORT",
@@ -413,6 +423,16 @@
 		"galacticEffectId": 1256,
 		"name": "ARSENAL AUGMENTATION: E/GL-21 GRENADIER BATTLEMENT",
 		"description": "High Command has authorized the temporary addition of the E/GL-21 Grenadier Battlement Stratagem to all Helldiver loadouts."
+	},
+	"1261": {
+		"galacticEffectId": 1261,
+		"name": "EXOSUIT RESERVES",
+		"description": "The presence of the DSS near this planet provides a -35% cooldown reduction to the EXO-45 Patriot Exosuit stratagem."
+	},
+	"1262": {
+		"galacticEffectId": 1262,
+		"name": "EXOSUIT RESERVES",
+		"description": "The presence of the DSS near this planet provides a -35% cooldown reduction to the EXO-49 Emancipator Exosuit stratagem."
 	},
 	"1263": {
 		"galacticEffectId": 1263,
@@ -488,7 +508,7 @@
 		"galacticEffectId": 1286,
 		"name": "NEW HOPE CONSTRUCTION SITE",
 		"description": "One of 3 Maximum Security Cities is under construction here."
-	},	
+	},
 	"1287": {
 		"galacticEffectId": 1287,
 		"name": "NEW HOPE CITY",
