@@ -484,9 +484,29 @@
 		"name": "IMPALER RAMPAGE",
 		"description": "Significantly higher Impaler numbers have been observed on this planet."
 	},
+	"1286": {
+		"galacticEffectId": 1286,
+		"name": "NEW HOPE CONSTRUCTION SITE",
+		"description": "One of 3 Maximum Security Cities is under construction here."
+	},	
+	"1287": {
+		"galacticEffectId": 1287,
+		"name": "NEW HOPE CITY",
+		"description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation."
+	},
 	"1288": {
 		"galacticEffectId": 1288,
 		"name": "SPORE BURST SCAVENGER RAMPAGE",
 		"description": "Significantly increased levels of Spore Burst Scavengers have been reported on this planet."
+	},
+	"1291": {
+		"galacticEffectId": 1291,
+		"name": "NEW ASPIRATION CITY",
+		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+	},
+	"1292": {
+		"galacticEffectId": 1292,
+		"name": "NEW YEARNING CITY",
+		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
 	}
 }
