@@ -286,8 +286,8 @@
 	},
 	"1214": {
 		"galacticEffectId": 1214,
-		"name": "PLANETARY BOMBARDMENT",
-		"description": "Progress in Liberation Campaigns is accelerated."
+		"name": "LIBERATION CAMPAIGN ACCELERATION",
+		"description": "Progress in Liberation Campaigns is accelerated by 150%."
 	},
 	"1217": {
 		"galacticEffectId": 1217,
