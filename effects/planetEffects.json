@@ -311,8 +311,8 @@
 	},
 	"1222": {
 		"galacticEffectId": 1222,
-		"name": "UNKNOWN EFFECT- LIKELY REINFORCEMENT BUDGET?",
-		"description": "(probably) Increases the number of available reinforcements."
+		"name": "Regen Override",
+		"description": "Regen Rate is set to a fixed 10000 per hour."
 	},
 	"1226": {
 		"galacticEffectId": 1226,
