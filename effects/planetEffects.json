@@ -284,10 +284,20 @@
 		"name": "ARSENAL AUGMENTATION: E/MG-101 HMG EMPLACEMENT",
 		"description": "High Command has authorized the temporary addition of the E/MG-101 HMG Emplacement Stratagem to all Helldiver loadouts."
 	},
+	"1209": {
+		"galacticEffectId": 1209,
+		"name": "EAGLE STORM",
+		"description": "The DSS deploys <i=1>Eagle Strafing Runs</i> during missions."
+	},
 	"1210": {
 		"galacticEffectId": 1210,
 		"name": "ORBITAL BLOCKADE",
 		"description": "<i=1>Hellpod Space Optimization</i> Booster is automatically active for all missions."
+	},
+	"1212": {
+		"galacticEffectId": 1212,
+		"name": "EAGLE STORM (Marker)",
+		"description": "Map marker for the Eagle Storm effect."
 	},
 	"1213": {
 		"galacticEffectId": 1213,
@@ -303,6 +313,11 @@
 		"galacticEffectId": 1215,
 		"name": "ORBITAL BLOCKADE",
 		"description": "<i=1>Defense Campaigns</i> cannot originate from this planet."
+	},
+	"1216": {
+		"galacticEffectId": 1216,
+		"name": "EAGLE STORM",
+		"description": "Enemy progress in <i=1>Defense Campaigns</i> is slowed."
 	},
 	"1217": {
 		"galacticEffectId": 1217,
