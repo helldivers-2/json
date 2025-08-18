@@ -563,5 +563,10 @@
 		"galacticEffectId": 1292,
 		"name": "NEW YEARNING CITY",
 		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+	},
+	"1293": {
+		"galacticEffectId": 1293,
+		"name": "CHARGER RAMPAGE",
+		"description": "Significantly increased levels of Chargers have been reported on this planet."
 	}
 }
