@@ -283,6 +283,18 @@
 		"name": "BIRTH",
 		"description": ""
 	},
+	"1897395642": {
+		"name": "GRAFSART",
+		"description": ""
+	},
+	"3626214155": {
+		"name": "GRAFSWALLIT",
+		"description": ""
+	},
+	"3851016682": {
+		"name": "GRAFSEAD",
+		"description": ""
+	},
 	"3188612954": {
 		"name": "FORT SANGUINE",
 		"description": ""
@@ -328,7 +340,7 @@
 		"description": ""
 	},
 	"3373033616": {
-		"name": "MORSKE OKO",
+		"name": "MORSKIE OKO",
 		"description": ""
 	},
 	"4028778105": {
@@ -387,8 +399,28 @@
 		"name": "SAPPHIRE LAKE",
 		"description": ""
 	},
+	"3849073717": {
+		"name": "PILOT'S BERTH",
+		"description": ""
+	},
+	"2098963156": {
+		"name": "PLETHORA",
+		"description": ""
+	},
+	"1428185423": {
+		"name": "ANTBOOT",
+		"description": ""
+	},
 	"3263317504": {
 		"name": "RESPITE",
+		"description": ""
+	},
+	"511490869": {
+		"name": "PORUGU",
+		"description": ""
+	},
+	"2491531357": {
+		"name": "PADOSAN",
 		"description": ""
 	},
 	"2541809256": {
@@ -437,6 +469,18 @@
 	},
 	"2190098981": {
 		"name": "HAKU CITY",
+		"description": ""
+	},
+	"3205582835": {
+		"name": "ACCOUNTANT GRAEBER",
+		"description": ""
+	},
+	"1201038992": {
+		"name": "BEACHVIEW",
+		"description": ""
+	},
+	"334066640": {
+		"name": "THE VILLAS",
 		"description": ""
 	},
 	"502504685": {
