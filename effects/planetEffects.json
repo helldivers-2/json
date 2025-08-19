@@ -569,4 +569,10 @@
 		"name": "CHARGER RAMPAGE",
 		"description": "Significantly increased levels of Chargers have been reported on this planet."
 	}
+	,
+	"1295": {
+		"galacticEffectId": 1295,
+		"name": "TYRANNY PARK 2",
+		"description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders."
+	}
 }
