@@ -326,8 +326,8 @@
 	},
 	"1222": {
 		"galacticEffectId": 1222,
-		"name": "UNKNOWN EFFECT- LIKELY REINFORCEMENT BUDGET?",
-		"description": "(probably) Increases the number of available reinforcements."
+		"name": "Regen Override",
+		"description": "Regen Rate is set to a fixed 10000 per hour."
 	},
 	"1226": {
 		"galacticEffectId": 1226,
@@ -568,5 +568,10 @@
 		"galacticEffectId": 1293,
 		"name": "CHARGER RAMPAGE",
 		"description": "Significantly increased levels of Chargers have been reported on this planet."
+	},
+	"1295": {
+		"galacticEffectId": 1295,
+		"name": "TYRANNY PARK 2",
+		"description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders."
 	}
 }
