@@ -15,6 +15,10 @@
 		"name": "Black Hole",
 		"description": "The planet is gone, the ultimate price to pay in the war for humanity's survival."
 	},
+	"bug_hiveworld": {
+		"name": "Hive World",
+		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny."
+	},
 	"moor_arid": {
 		"name": "Scorched Moor",
 		"description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
