@@ -23,9 +23,10 @@
 			"zh-Hans": "\u8d85\u7ea7\u5730\u7403",
 			"zh-Hant": "\u8d85\u7d1a\u5730\u7403"
 		},
-		"type": "primordial",
+		"type": "none",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"rainstorms"
 		]
 	},
 	"1": {
@@ -6263,7 +6264,7 @@
 	"212": {
 		"name": "Oshaune",
 		"sector": "Mirin",
-		"biome": "moor_baseplanet",
+		"biome": "bug_hiveworld",
 		"environmentals": [
 			"none"
 		],
@@ -6284,10 +6285,9 @@
 			"zh-Hans": "\u6b27\u7ecd\u6069",
 			"zh-Hant": "\u6b50\u590f\u70cf"
 		},
-		"type": "moor",
+		"type": "bug",
 		"weather_effects": [
-			"normal_temp",
-			"rainstorms"
+			"normal_temp"
 		]
 	},
 	"213": {
@@ -7624,9 +7624,9 @@
 	"258": {
 		"name": "Zagon Prime",
 		"sector": "Mirin",
-		"biome": "sandy_base",
+		"biome": "bug_hiveworld",
 		"environmentals": [
-			"sandstorms"
+			"none"
 		],
 		"names": {
 			"en-US": "ZAGON PRIME",
@@ -7645,17 +7645,15 @@
 			"zh-Hans": "\u624e\u8d21\u4e3b\u661f",
 			"zh-Hant": "\u5091\u8ca2\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "bug",
 		"weather_effects": [
-			"intense_heat",
-			"extreme_cold",
-			"sandstorms"
+			"normal_temp"
 		]
 	},
 	"259": {
 		"name": "Omicron",
 		"sector": "L'estrade",
-		"biome": "moor_tundra",
+		"biome": "bug_hiveworld",
 		"environmentals": [
 			"none"
 		],
@@ -7676,7 +7674,7 @@
 			"zh-Hans": "\u5965\u5bc6\u514b\u620e",
 			"zh-Hant": "\u6b50\u7c73\u514b\u6717"
 		},
-		"type": "moor",
+		"type": "bug",
 		"weather_effects": [
 			"normal_temp"
 		]

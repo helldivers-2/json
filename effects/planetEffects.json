@@ -573,5 +573,15 @@
 		"galacticEffectId": 1295,
 		"name": "TYRANNY PARK 2",
 		"description": "The extensive Terminid enclosures here allow scientists to study Terminid behavior, and civilians to take pictures with Brood Commanders."
+	},
+	"1303": {
+		"galacticEffectId": 1303,
+		"name": "Rupture Strain",
+		"description": "A deadly strain of ground-bursting Terminids is present on this planet."
+	},
+	"1304": {
+		"galacticEffectId": 1304,
+		"name": "OUTPOST ALPHA",
+		"description": "The first manned site established in Gloom-infested space."
 	}
 }
