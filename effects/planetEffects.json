@@ -607,12 +607,12 @@
 	"1310": {
 		"galacticEffectId": 1310,
 		"name": "RUPTURE STRAIN",
-		"description": "Terminid Dragonroaches menace the skies of this planet."
+		"description": "A deadly strain of ground-bursting Terminids is present on this planet."
 	},
 	"1311": {
 		"galacticEffectId": 1311,
 		"name": "HIVE WORLD",
-		"description": "Terminid Dragonroaches menace the skies of this planet."
+		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
 	}
 	
 }
