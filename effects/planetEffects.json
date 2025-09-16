@@ -613,6 +613,11 @@
 		"galacticEffectId": 1311,
 		"name": "HIVE WORLD",
 		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+	},
+	"1324 ": {
+		"galacticEffectId": 1324,
+		"name": "ULTRAMAFIC MINE",
+		"description": "A mine extracting platinum from deep-seated deposits of igneous rock."
 	}
 	
 }
