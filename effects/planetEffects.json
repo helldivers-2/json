@@ -576,12 +576,48 @@
 	},
 	"1303": {
 		"galacticEffectId": 1303,
-		"name": "Rupture Strain",
+		"name": "RUPTURE STRAIN (ENEMIES)",
 		"description": "A deadly strain of ground-bursting Terminids is present on this planet."
 	},
 	"1304": {
 		"galacticEffectId": 1304,
 		"name": "OUTPOST ALPHA",
 		"description": "The first manned site established in Gloom-infested space."
+	},
+	"1306": {
+		"galacticEffectId": 1306,
+		"name": "DRAGONROACHES (Enemies)",
+		"description": "Terminid Dragonroaches menace the skies of this planet."
+	},
+	"1307": {
+		"galacticEffectId": 1307,
+		"name": "HIVE LORDS (Enemies)",
+		"description": "Terminid Hive Lords have been detected on this planet."
+	},
+	"1308": {
+		"galacticEffectId": 1308,
+		"name": "HIVE LORDS",
+		"description": "Terminid Hive Lords have been detected on this planet."
+	},
+	"1309": {
+		"galacticEffectId": 1309,
+		"name": "DRAGONROACHES",
+		"description": "Terminid Dragonroaches menace the skies of this planet."
+	},
+	"1310": {
+		"galacticEffectId": 1310,
+		"name": "RUPTURE STRAIN",
+		"description": "A deadly strain of ground-bursting Terminids is present on this planet."
+	},
+	"1311": {
+		"galacticEffectId": 1311,
+		"name": "HIVE WORLD",
+		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+	},
+	"1324 ": {
+		"galacticEffectId": 1324,
+		"name": "ULTRAMAFIC MINE",
+		"description": "A mine extracting platinum from deep-seated deposits of igneous rock."
 	}
+	
 }
