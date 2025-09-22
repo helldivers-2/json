@@ -31,12 +31,32 @@
 		"name": "OLD BRANCH",
 		"description": ""
 	},
+	"1411801971": {
+		"name": "VICTORY",
+		"description": ""
+	},
+	"2368444431": {
+		"name": "CELEBRATION",
+		"description": ""
+	},
 	"3106360883": {
 		"name": "TRAITOR'S END",
 		"description": ""
 	},
 	"2547946895": {
 		"name": "STRENGTH",
+		"description": ""
+	},
+	"983151377": {
+		"name": "WALKAWAY",
+		"description": ""
+	},
+	"3607786620": {
+		"name": "SLAYER CITY",
+		"description": ""
+	},
+	"3161124521": {
+		"name": "QZ-4",
 		"description": ""
 	},
 	"755864726": {
@@ -71,6 +91,14 @@
 		"name": "FILIBUSTER",
 		"description": ""
 	},
+	"2876102528": {
+		"name": "PERMACURIS",
+		"description": ""
+	},
+	"1143862620": {
+		"name": "HANGAR 6",
+		"description": ""
+	},
 	"1097134956": {
 		"name": "PORTE LIBERTÉ",
 		"description": ""
@@ -91,12 +119,76 @@
 		"name": "EAGLEMOUNT",
 		"description": ""
 	},
+	"3039275068": {
+		"name": "COMMUNEFALLS",
+		"description": ""
+	},
+	"2650088088": {
+		"name": "FAMILY GROVE",
+		"description": ""
+	},
+	"4014866766": {
+		"name": "FUTURE PRIDE",
+		"description": ""
+	},
+	"321980142": {
+		"name": "SETTLER'S HONOR",
+		"description": ""
+	},
 	"2143424881": {
 		"name": "CONVENIENCE",
 		"description": ""
 	},
 	"2895050350": {
 		"name": "FIREFLY MEADOWS",
+		"description": ""
+	},
+	"4099883014": {
+		"name": "WALNUT ACRES",
+		"description": ""
+	},
+	"4237135854": {
+		"name": "VAULT CITY",
+		"description": ""
+	},
+	"3510978126": {
+		"name": "ZONE 3",
+		"description": ""
+	},
+	"647996051": {
+		"name": "GIRD",
+		"description": ""
+	},
+	"1874705974": {
+		"name": "REGISTER",
+		"description": ""
+	},
+	"799267053": {
+		"name": "TVENNE BOTTOMS",
+		"description": ""
+	},
+	"3885625492": {
+		"name": "LIFESWORTH",
+		"description": ""
+	},
+	"2659108161": {
+		"name": "LOGISTICS HUB 232-B",
+		"description": ""
+	},
+	"2185475541": {
+		"name": "DIVER'S GLORY",
+		"description": ""
+	},
+	"1322103873": {
+		"name": "BARREN WARD",
+		"description": ""
+	},
+	"4132827034": {
+		"name": "EAGLECRY",
+		"description": ""
+	},
+	"2544875580": {
+		"name": "HUNTER'S BLUFF",
 		"description": ""
 	},
 	"1761215575": {
@@ -187,12 +279,64 @@
 		"name": "BUJU",
 		"description": ""
 	},
+	"2345167795": {
+		"name": "PINESWOLD",
+		"description": ""
+	},
+	"2146650468": {
+		"name": "DARROWSHOME",
+		"description": ""
+	},
+	"2180989349": {
+		"name": "GRACIOUS LIBERTY",
+		"description": ""
+	},
+	"1063822606": {
+		"name": "LUSCIOUS LIBERTY",
+		"description": ""
+	},
+	"3385219022": {
+		"name": "COUNCILLOR RORA",
+		"description": ""
+	},
 	"741084747": {
 		"name": "EIGHTRINGS",
 		"description": ""
 	},
 	"521454425": {
 		"name": "BROKER'S WEALTH",
+		"description": ""
+	},
+	"2193235528": {
+		"name": "BRIGHT WING",
+		"description": ""
+	},
+	"1447639542": {
+		"name": "WEST BROKER",
+		"description": ""
+	},
+	"1013683905": {
+		"name": "INTEREST",
+		"description": ""
+	},
+	"1523836342": {
+		"name": "WASTEMOUNT",
+		"description": ""
+	},
+	"3775882537": {
+		"name": "ESCAPADE",
+		"description": ""
+	},
+	"2185109890": {
+		"name": "LOGISTICS HUB 188-B",
+		"description": ""
+	},
+	"1946203146": {
+		"name": "NEW PARADISE",
+		"description": ""
+	},
+	"997505218": {
+		"name": "GREATER INVESTMENT",
 		"description": ""
 	},
 	"1193052974": {
@@ -223,6 +367,18 @@
 		"name": "OLD CHEMLAND",
 		"description": ""
 	},
+	"4039645448": {
+		"name": "MINE 902",
+		"description": ""
+	},
+	"130236915": {
+		"name": "EPH",
+		"description": ""
+	},
+	"3291554432": {
+		"name": "HEART FLATS",
+		"description": ""
+	},
 	"1415969325": {
 		"name": "BRAWFERMLAND",
 		"description": ""
@@ -247,9 +403,25 @@
 		"name": "FAMEWOLF PEAK",
 		"description": ""
 	},
+	"1759245992": {
+		"name": "NEKK POND",
+		"description": ""
+	},
+	"1791361107": {
+		"name": "LAGERLÖF CITY",
+		"description": ""
+	},
 	"27836851": {
 		"name": "NEW YEARNING CITY",
 		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+	},
+	"3309151713": {
+		"name": "BARRACKSBURG",
+		"description": ""
+	},
+	"2004207949": {
+		"name": "HAVEN",
+		"description": ""
 	},
 	"2557369266": {
 		"name": "OTARU'S PLEDGE",
@@ -266,6 +438,18 @@
 	"1239520232": {
 		"name": "NEW HOPE CITY",
 		"description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation."
+	},
+	"4059243365": {
+		"name": "HOPESHIRE",
+		"description": ""
+	},
+	"786534585": {
+		"name": "REDFIELD",
+		"description": ""
+	},
+	"1838126407": {
+		"name": "DEMOCRACY'S LANDING",
+		"description": ""
 	},
 	"3900513024": {
 		"name": "VÁHTJER",
@@ -303,6 +487,58 @@
 		"name": "GRAFSEAD",
 		"description": ""
 	},
+	"1623710024": {
+		"name": "NEW VICTORY",
+		"description": ""
+	},
+	"1603459330": {
+		"name": "FREE APARTMENTS",
+		"description": ""
+	},
+	"3455957267": {
+		"name": "FRESH ORCHARDS",
+		"description": ""
+	},
+	"1514913854": {
+		"name": "EXCITEMENT",
+		"description": ""
+	},
+	"451637988": {
+		"name": "SERVITUDE",
+		"description": ""
+	},
+	"1002278606": {
+		"name": "WEST MANAGEMENT",
+		"description": ""
+	},
+	"1479079406": {
+		"name": "EAST REST",
+		"description": ""
+	},
+	"860486103": {
+		"name": "ALIGNMENT",
+		"description": ""
+	},
+	"314025568": {
+		"name": "PENSCEWT",
+		"description": ""
+	},
+	"2391484056": {
+		"name": "EAGLE'S LIKENESS",
+		"description": ""
+	},
+	"3185820932": {
+		"name": "CONSENSUS",
+		"description": ""
+	},
+	"2232171610": {
+		"name": "OLD CONUNDRUM",
+		"description": ""
+	},
+	"3194418120": {
+		"name": "RESOLVE",
+		"description": ""
+	},
 	"472831334": {
 		"name": "UNANIMITY",
 		"description": ""
@@ -311,8 +547,44 @@
 		"name": "UNISON",
 		"description": ""
 	},
+	"3491570579": {
+		"name": "ON-EARSAHOU",
+		"description": ""
+	},
+	"2519594311": {
+		"name": "CLOCKSTOP",
+		"description": ""
+	},
+	"3212629027": {
+		"name": "MAGNITUDE",
+		"description": ""
+	},
 	"3184875338": {
 		"name": "GENERATORSVILLE",
+		"description": ""
+	},
+	"1654362284": {
+		"name": "SARAH SWIFT DAM",
+		"description": ""
+	},
+	"1168572634": {
+		"name": "EAST EMBANKMENT",
+		"description": ""
+	},
+	"2719536576": {
+		"name": "DEEPWELL",
+		"description": ""
+	},
+	"2689075072": {
+		"name": "GREATER ATLANTEAN POWER PLANT",
+		"description": ""
+	},
+	"2751322458": {
+		"name": "GUNPOWDER MEADOWS",
+		"description": ""
+	},
+	"2741839635": {
+		"name": "INVESTMENT",
 		"description": ""
 	},
 	"3188612954": {
@@ -325,6 +597,22 @@
 	},
 	"1039071856": {
 		"name": "SEVENSEAL",
+		"description": ""
+	},
+	"967684667": {
+		"name": "LIBER-TEA TOWNSHIP",
+		"description": ""
+	},
+	"1161514581": {
+		"name": "DYER STREETS",
+		"description": ""
+	},
+	"1915702028": {
+		"name": "COZY FLATS",
+		"description": ""
+	},
+	"3021776166": {
+		"name": "HUMANITY",
 		"description": ""
 	},
 	"119875523": {
@@ -347,6 +635,30 @@
 		"name": "ADNAN",
 		"description": ""
 	},
+	"12564835": {
+		"name": "GARAGE DUNE",
+		"description": ""
+	},
+	"2939223654": {
+		"name": "DYN ALPHA 534-2",
+		"description": ""
+	},
+	"3585703392": {
+		"name": "GRAPESHOT",
+		"description": ""
+	},
+	"1688960258": {
+		"name": "ICE BEND",
+		"description": ""
+	},
+	"2509774688": {
+		"name": "OLUFSEN'S FOOTPRINT",
+		"description": ""
+	},
+	"1136017261": {
+		"name": "OLD HEARTH CITY",
+		"description": ""
+	},
 	"4221006651": {
 		"name": "SCHOLAR'S MOOR",
 		"description": ""
@@ -357,6 +669,58 @@
 	},
 	"3066706899": {
 		"name": "HILDOARA CENTRAL",
+		"description": ""
+	},
+	"2293980636": {
+		"name": "SHELTER",
+		"description": ""
+	},
+	"3179108272": {
+		"name": "ADAM PARK",
+		"description": ""
+	},
+	"581000702": {
+		"name": "OLD INTERNMENTS",
+		"description": ""
+	},
+	"3612551140": {
+		"name": "HEATHERFIELD",
+		"description": ""
+	},
+	"1854961214": {
+		"name": "VENERATION",
+		"description": ""
+	},
+	"2712707536": {
+		"name": "DARKWELL",
+		"description": ""
+	},
+	"945140203": {
+		"name": "STACY",
+		"description": ""
+	},
+	"1101206164": {
+		"name": "PERSISTENCE",
+		"description": ""
+	},
+	"2007842501": {
+		"name": "HABITAT RED-2",
+		"description": ""
+	},
+	"2581434266": {
+		"name": "INTREPIDNESS",
+		"description": ""
+	},
+	"2418052824": {
+		"name": "DEBTOR'S DOWNS",
+		"description": ""
+	},
+	"3710473299": {
+		"name": "PIT 8",
+		"description": ""
+	},
+	"2095568588": {
+		"name": "NEW PENG",
 		"description": ""
 	},
 	"660742724": {
@@ -395,12 +759,36 @@
 		"name": "DIVER'S REST",
 		"description": ""
 	},
+	"2187047436": {
+		"name": "DISCOVERY GLEN",
+		"description": ""
+	},
+	"3368734830": {
+		"name": "TOIL",
+		"description": ""
+	},
+	"3677320822": {
+		"name": "RIZIO'S VISION",
+		"description": ""
+	},
 	"3421372928": {
 		"name": "SONGGUO CUN",
 		"description": ""
 	},
 	"4087006817": {
 		"name": "XIN FUZHOU",
+		"description": ""
+	},
+	"4065420956": {
+		"name": "SETTLEMENT 7",
+		"description": ""
+	},
+	"1820689153": {
+		"name": "MT MONUMENT",
+		"description": ""
+	},
+	"1119186435": {
+		"name": "STRONGFORT",
 		"description": ""
 	},
 	"1199071894": {
@@ -411,12 +799,28 @@
 		"name": "ISEGORIA",
 		"description": ""
 	},
+	"480136851": {
+		"name": "WORKHOUSE 239-C",
+		"description": ""
+	},
+	"176090569": {
+		"name": "ABUNDANCE",
+		"description": ""
+	},
 	"3513777986": {
 		"name": "SEORAKSAN",
 		"description": ""
 	},
 	"3910908375": {
 		"name": "GYEONGSEONG",
+		"description": ""
+	},
+	"137264955": {
+		"name": "ANDROS GAMMA",
+		"description": ""
+	},
+	"2300653457": {
+		"name": "ANDROS DELTA",
 		"description": ""
 	},
 	"2409136536": {
@@ -435,8 +839,68 @@
 		"name": "ANTBOOT",
 		"description": ""
 	},
+	"697775752": {
+		"name": "SKAR'S GARDENS",
+		"description": ""
+	},
+	"3895412065": {
+		"name": "FOUR CROWNS",
+		"description": ""
+	},
+	"3553590218": {
+		"name": "RINKTOWN",
+		"description": ""
+	},
+	"248027603": {
+		"name": "PROSPERITY",
+		"description": ""
+	},
 	"3263317504": {
 		"name": "RESPITE",
+		"description": ""
+	},
+	"4269009782": {
+		"name": "EXO CITY",
+		"description": ""
+	},
+	"867139136": {
+		"name": "CHAIRMAN OYESLLO",
+		"description": ""
+	},
+	"3625692119": {
+		"name": "CHAIRMAN OKOTE",
+		"description": ""
+	},
+	"1062239247": {
+		"name": "HOMESTEAD HILL",
+		"description": ""
+	},
+	"2140217517": {
+		"name": "YATAKHANE 263",
+		"description": ""
+	},
+	"1058460461": {
+		"name": "NEW HEARTH CITY",
+		"description": ""
+	},
+	"2519745557": {
+		"name": "LACED STRAIT",
+		"description": ""
+	},
+	"2252336577": {
+		"name": "QUENCH",
+		"description": ""
+	},
+	"2298034348": {
+		"name": "HARDY",
+		"description": ""
+	},
+	"1653634596": {
+		"name": "OBSERVATORY 6",
+		"description": ""
+	},
+	"3342871593": {
+		"name": "ADVENTURE",
 		"description": ""
 	},
 	"511490869": {
@@ -495,6 +959,70 @@
 		"name": "HAKU CITY",
 		"description": ""
 	},
+	"3950276676": {
+		"name": "CAMP LEIGHTON",
+		"description": ""
+	},
+	"3687523144": {
+		"name": "NON-PARTISAN",
+		"description": ""
+	},
+	"2592017616": {
+		"name": "XIRAN'S CLAIM",
+		"description": ""
+	},
+	"3283689576": {
+		"name": "CORNUCOPOLIS",
+		"description": ""
+	},
+	"3493472115": {
+		"name": "MOBERG'S DREAM",
+		"description": ""
+	},
+	"873089075": {
+		"name": "GROWL",
+		"description": ""
+	},
+	"3272102382": {
+		"name": "SUPERIORITY",
+		"description": ""
+	},
+	"3109135198": {
+		"name": "MEMORIALS",
+		"description": ""
+	},
+	"2069832250": {
+		"name": "QUELLED DISSENT",
+		"description": ""
+	},
+	"4101984974": {
+		"name": "INDEPENDENCE",
+		"description": ""
+	},
+	"2832454199": {
+		"name": "MESSAGER'S MESA",
+		"description": ""
+	},
+	"1690681912": {
+		"name": "BOPSFIELD",
+		"description": ""
+	},
+	"1668618298": {
+		"name": "DIPLOMACY",
+		"description": ""
+	},
+	"622301006": {
+		"name": "ABUNDANCE BLUFF",
+		"description": ""
+	},
+	"1068853940": {
+		"name": "MINERAL'S END",
+		"description": ""
+	},
+	"297388908": {
+		"name": "SHOTGUN SUMMIT",
+		"description": ""
+	},
 	"706797536": {
 		"name": "PEOPLE'S HAND",
 		"description": ""
@@ -507,12 +1035,40 @@
 		"name": "HUMAN WILL",
 		"description": ""
 	},
+	"452138560": {
+		"name": "BLIGHTSMURK",
+		"description": ""
+	},
+	"1842220312": {
+		"name": "LASTOME",
+		"description": ""
+	},
+	"2285651547": {
+		"name": "LOOKOUT",
+		"description": ""
+	},
+	"3862302711": {
+		"name": "PEASE",
+		"description": ""
+	},
+	"3164536732": {
+		"name": "SEASSEFYRE",
+		"description": ""
+	},
 	"1273177678": {
 		"name": "EXALT",
 		"description": ""
 	},
 	"3320001654": {
 		"name": "EAGLESTAR ETERNAL",
+		"description": ""
+	},
+	"2617273113": {
+		"name": "PRAVOGRAD",
+		"description": ""
+	},
+	"1108939907": {
+		"name": "BRAVERY",
 		"description": ""
 	},
 	"3205582835": {
@@ -529,6 +1085,70 @@
 	},
 	"491224618": {
 		"name": "NEW ALEXANDRIA",
+		"description": ""
+	},
+	"2472296828": {
+		"name": "HOLL",
+		"description": ""
+	},
+	"3911522018": {
+		"name": "KILLJOY TOWN",
+		"description": ""
+	},
+	"1613437962": {
+		"name": "GRAVITAS",
+		"description": ""
+	},
+	"3644870667": {
+		"name": "DOGTOWN",
+		"description": ""
+	},
+	"521646997": {
+		"name": "BEEFBURG",
+		"description": ""
+	},
+	"2849889311": {
+		"name": "LUXE POINT",
+		"description": ""
+	},
+	"2106184075": {
+		"name": "SHADY OAKS",
+		"description": ""
+	},
+	"1543050297": {
+		"name": "DOSTOINSTVO",
+		"description": ""
+	},
+	"2130828005": {
+		"name": "GLOBULUS",
+		"description": ""
+	},
+	"1701644792": {
+		"name": "ORBSHAM",
+		"description": ""
+	},
+	"2727770200": {
+		"name": "VERVE",
+		"description": ""
+	},
+	"3042839498": {
+		"name": "PEDIS",
+		"description": ""
+	},
+	"1447385649": {
+		"name": "DIGITI",
+		"description": ""
+	},
+	"1289084629": {
+		"name": "MINERAL REFINEMENT WORKS",
+		"description": ""
+	},
+	"540250241": {
+		"name": "ORESINK",
+		"description": ""
+	},
+	"1633627715": {
+		"name": "VIBRANCY",
 		"description": ""
 	},
 	"502504685": {
@@ -569,6 +1189,14 @@
 	},
 	"281317935": {
 		"name": "FEARLESS HOLLOW",
+		"description": ""
+	},
+	"1562611653": {
+		"name": "SCALD",
+		"description": ""
+	},
+	"3839797397": {
+		"name": "REWA",
 		"description": ""
 	},
 	"579852265": {
@@ -647,6 +1275,10 @@
 		"name": "SAPPORO",
 		"description": ""
 	},
+	"3130397378": {
+		"name": "PERSEVERANCE",
+		"description": ""
+	},
 	"4151302370": {
 		"name": "CLE ELUM REDIVIVA",
 		"description": ""
@@ -665,6 +1297,22 @@
 	},
 	"763067932": {
 		"name": "ANNE'S VIGIL",
+		"description": ""
+	},
+	"1312916665": {
+		"name": "GREATWOOD MILLS",
+		"description": ""
+	},
+	"4192092503": {
+		"name": "FODDER GORGE",
+		"description": ""
+	},
+	"468034602": {
+		"name": "BIRCHVILLE",
+		"description": ""
+	},
+	"807761309": {
+		"name": "PROGRESS",
 		"description": ""
 	},
 	"4179557814": {
@@ -689,6 +1337,18 @@
 	},
 	"2563609963": {
 		"name": "DRYWELL",
+		"description": ""
+	},
+	"3455315905": {
+		"name": "NEW COB",
+		"description": ""
+	},
+	"518148662": {
+		"name": "GENE",
+		"description": ""
+	},
+	"2775422932": {
+		"name": "STARPASS",
 		"description": ""
 	}
 }
