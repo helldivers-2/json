@@ -7707,5 +7707,50 @@
 		"weather_effects": [
 			"extreme_cold"
 		]
+	},
+	"261": {
+		"name": "Fury",
+		"sector": "Xzar",
+		"biome": "magma_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "FURY"
+		},
+		"type": "magma",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"262": {
+		"name": "K",
+		"sector": "Trigon",
+		"biome": "magma_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "K"
+		},
+		"type": "magma",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"266": {
+		"name": "Mox",
+		"sector": "Trigon",
+		"biome": "magma_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "Mox"
+		},
+		"type": "magma",
+		"weather_effects": [
+			"normal_temp"
+		]
 	}
 }
