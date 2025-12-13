@@ -614,10 +614,14 @@
 		"name": "HIVE WORLD",
 		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
 	},
-	"1324 ": {
+	"1324": {
 		"galacticEffectId": 1324,
 		"name": "ULTRAMAFIC MINE",
 		"description": "A mine extracting platinum from deep-seated deposits of igneous rock."
+	},
+	"1342": {
+		"galacticEffectId": 1342,
+		"name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
+		"description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
 	}
-	
 }
