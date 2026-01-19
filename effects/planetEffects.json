@@ -623,5 +623,10 @@
 		"galacticEffectId": 1342,
 		"name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
 		"description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
+	},
+	"1352":{
+		"galacticEffectId": 1352,
+		"name": "CONVENTIONAL BLACK HOLE",
+		"description": "This former planet is now nothing but a normal, stable black hole."
 	}
 }
