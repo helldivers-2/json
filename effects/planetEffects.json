@@ -628,72 +628,72 @@
 		"galacticEffectId": 1352,
 		"name": "CONVENTIONAL BLACK HOLE",
 		"description": "This former planet is now nothing but a normal, stable black hole."
-	}
+	},
 	"1353":{
 		"galacticEffectId": 1353,
 		"name": "DATA CENTER",
 		"description": "The Automatons store large amounts of encrypted information here."
-	}
+	},
 	"1354":{
 		"galacticEffectId": 1354,
 		"name": "HEAVY ARMOR SURGE (ENEMIES)",
 		"description": "Prepare to counter high numbers of heavily armored enemies."
-	}
+	},
 	"1355":{
 		"galacticEffectId": 1355,
 		"name": "HEAVY ARMOR SURGE",
 		"description": "Prepare to counter high numbers of heavily armored enemies."
-	}
+	},
 	"1356":{
 		"galacticEffectId": 1356,
 		"name": "HULK SURGE (ENEMIES)",
 		"description": "High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies."
-	}
+	},
 	"1357":{
 		"galacticEffectId": 1357,
 		"name": "HULK SURGE",
 		"description": "High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies."
-	}
+	},
 	"1358":{
 		"galacticEffectId": 1358,
 		"name": "DEVASTATOR SURGE (ENEMIES)",
 		"description": "The Automatons have deployed high numbers of Devastators to this planet."
-	}
+	},
 	"1359":{
 		"galacticEffectId": 1359,
 		"name": "DEVASTATOR SURGE",
 		"description": "The Automatons have deployed high numbers of Devastators to this planet."
-	}
+	},
 	"1360":{
 		"galacticEffectId": 1360,
 		"name": "CYBORGS (ENEMIES)",
 		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
-	}
+	},
 	"1361":{
 		"galacticEffectId": 1361,
 		"name": "CYBORGS",
 		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies."
-	}
+	},
 	"1363":{
 		"galacticEffectId": 1363,
 		"name": "PILOT SHORTAGE",
 		"description": "Extraction takes 30 additional seconds."
-	}
+	},
 	"1364":{
 		"galacticEffectId": 1364,
 		"name": "AERIAL DOMINANCE",
 		"description": "Extraction takes 30 seconds less."
-	}
+	},
 	"1365":{
 		"galacticEffectId": 1365,
 		"name": "ORBITAL FLUCTUATIONS",
 		"description": "All Orbital Stratagems have an increased cooldown."
-	}
+	},
 	"1366":{
 		"galacticEffectId": 1366,
 		"name": "LESS BATTLEFIELD AMMO",
 		"description": "Battlefield pickups contain 50% less ammo."
-	}
+	},
 	"1367":{
 		"galacticEffectId": 1367,
 		"name": "MEDICAL SUPPLY STRAIN",
