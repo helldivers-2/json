@@ -247,7 +247,7 @@
 	"1199": {
 		"galacticEffectId": 1199,
 		"name": "DSS Construction Site- Phase 2",
-		"description": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet’s populace has centupled, and all the Galaxy can feel their democratic fervor."
+		"description": "Democracy Space Station construction is well underway. The local economy is flourishing as the planet's populace has centupled, and all the Galaxy can feel their democratic fervor."
 	},
 	"1200": {
 		"galacticEffectId": 1200,
@@ -293,6 +293,11 @@
 		"galacticEffectId": 1210,
 		"name": "ORBITAL BLOCKADE",
 		"description": "<i=1>Hellpod Space Optimization</i> Booster is automatically active for all missions."
+	},
+	"1211": {
+		"galacticEffectId": 1211,
+		"name": "PLANETARY BOMBARDMENT",
+		"description": "The DSS fires nonstop orbital bombardments from its suite of 77 PRESIDENTIAL-Class Cannons, providing planetwide artillery support and accelerating liberation efforts. Temporarily, also increases Reinforcement Budget by +1 per squad member and augments all loadouts with FX-12 Shield Generator Relay Stratagem."
 	},
 	"1212": {
 		"galacticEffectId": 1212,
@@ -448,6 +453,11 @@
 		"galacticEffectId": 1249,
 		"name": "THE INCINERATION CORPS",
 		"description": "An Automaton unit equipped with flame throwers and incendiary ammunition is active on this planet. These wanton arsonists will not rest until they have razed all that humankind holds dear."
+	},
+	"1252": {
+		"galacticEffectId": 1252,
+		"name": "FRACTURED PLANET",
+		"description": "All that remains of a planet torn apart by the Meridian singularity. A solemn reminder of the desolation Tyranny leaves in its wake."
 	},
 	"1254": {
 		"galacticEffectId": 1254,
@@ -619,14 +629,44 @@
 		"name": "ULTRAMAFIC MINE",
 		"description": "A mine extracting platinum from deep-seated deposits of igneous rock."
 	},
+	"1329": {
+		"galacticEffectId": 1329,
+		"name": "LIBERTY DAY CELEBRATION",
+		"description": "Super Earth, our home, is the center of Liberty Day Festivities. Together, all citizens can watch on television the annual Defense Parade, the Justice Executions, and of course, the Freedom Fireworks. \n\nOn this special day, Helldivers are encouraged to visit Super Earth and watch this year's fireworks from their Super Destroyers."
+	},
 	"1342": {
 		"galacticEffectId": 1342,
 		"name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
 		"description": "This planet-wide ultra-high-security facility provides ample space for the secure confinement of terrorist dissidents until they are fully rehabilitated and re-educated."
 	},
-	"1352":{
+	"1344": {
+		"galacticEffectId": 1344,
+		"name": "PANDORA BASE",
+		"description": "The top-secret site where augmentations to the DSS are constructed."
+	},
+	"1352": {
 		"galacticEffectId": 1352,
 		"name": "CONVENTIONAL BLACK HOLE",
 		"description": "This former planet is now nothing but a normal, stable black hole."
+	},
+	"1353": {
+		"galacticEffectId": 1353,
+		"name": "DATA CENTER",
+		"description": "The Automatons store large amounts of encrypted information here."
+	},
+	"1355": {
+		"galacticEffectId": 1355,
+		"name": "HEAVY ARMOR SURGE",
+		"description": "Prepare to counter high numbers of heavily armored enemies."
+	},
+	"1357": {
+		"galacticEffectId": 1357,
+		"name": "HULK SURGE",
+		"description": "High numbers of enemy Hulks have been reported on this planet. Prepare to counter heavily armored enemies."
+	},
+	"1359": {
+		"galacticEffectId": 1359,
+		"name": "DEVASTATOR SURGE",
+		"description": "The Automatons have deployed high numbers of Devastators to this planet."
 	}
 }
