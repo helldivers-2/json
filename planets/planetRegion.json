@@ -299,6 +299,38 @@
 		"name": "PROMINENCE",
 		"description": ""
 	},
+	"2340207578": {
+		"name": "AUTONOMY",
+		"description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Rapid insertion protocols will restrict deployment ammunition."
+	},
+	"2577020579": {
+		"name": "SOLIDARITET",
+		"description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Anti-air fixtures will hamper Pelican extraction."
+	},
+	"1512842277": {
+		"name": "OMNIPARITUS",
+		"description": "Roughly translates to \"Destroy Freedom At All Costs.\" Significant conventional SEAF assaults will be required to support an offensive here, straining ammunition resources."
+	},
+	"2634960640": {
+		"name": "LURZA",
+		"description": "Monuments in this Megafactory twist history to valorize the supposed resolve of Cyborgs to \"endure\" Super Earth's benevolent attempts to rehabilitate them. \n\nAnti-air defenses will hinder Eagle operations."
+	},
+	"3404329179": {
+		"name": "CAMRAT FOR",
+		"description": "This Megafactory contains significant Automaton production facilities. Anti-orbital defenses will tax Super Destroyer resources, resulting in longer orbital cooldowns."
+	},
+	"2735744233": {
+		"name": "STAR KIELD",
+		"description": "Roughly translates to \"All Humans Must Die.\" One of the largest Megafactories on Cyberstan. A critical military production node. Defended by the Jet Brigade."
+	},
+	"1475859103": {
+		"name": "URSOOT NINE",
+		"description": "Likely one of the earliest Megafactories to be constructed on Cyberstan. The most significant producer of Cyborg combatants. Defended by the Incineration Corps."
+	},
+	"3380242454": {
+		"name": "TRANSCENDENCE",
+		"description": "The first and most well-defended Megafactory. The nexus of Cyborg command. Its destruction will trigger the collapse of the enemy's defenses on Cyberstan. Expect extreme resistance."
+	},
 	"1050611219": {
 		"name": "BUJU",
 		"description": ""
@@ -401,6 +433,66 @@
 	},
 	"3291554432": {
 		"name": "HEART FLATS",
+		"description": ""
+	},
+	"2300130357": {
+		"name": "OMA PEMMA",
+		"description": ""
+	},
+	"1235784042": {
+		"name": "GEM LICKET",
+		"description": ""
+	},
+	"3756959393": {
+		"name": "KELLA METAMORPH",
+		"description": ""
+	},
+	"3732722501": {
+		"name": "EVOLUTION PLATS",
+		"description": ""
+	},
+	"1230494439": {
+		"name": "UTOPIA VAREN",
+		"description": ""
+	},
+	"3603744514": {
+		"name": "INDUSTRY ALLATEED",
+		"description": ""
+	},
+	"3600431647": {
+		"name": "TECHOLOCKY",
+		"description": ""
+	},
+	"3216000044": {
+		"name": "MASKIN",
+		"description": ""
+	},
+	"3212687176": {
+		"name": "PERSISTENCE GATE",
+		"description": ""
+	},
+	"1881788943": {
+		"name": "SAMEN-STARK",
+		"description": ""
+	},
+	"1878476075": {
+		"name": "TECHNOLOCKIA ALLATEED",
+		"description": ""
+	},
+	"3495232119": {
+		"name": "OMA PEMMA",
+		"description": ""
+	},
+	"4248413283": {
+		"name": "GEM LICKET",
+		"description": ""
+	},
+	"3311068219": {
+		"name": "GEMSTELLE GENERATOR",
+		"description": ""
+	},
+	"1122447002": {
+		"name": "SAMEN-STARK",
 		"description": ""
 	},
 	"1415969325": {

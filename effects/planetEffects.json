@@ -668,5 +668,15 @@
 		"galacticEffectId": 1359,
 		"name": "DEVASTATOR SURGE",
 		"description": "The Automatons have deployed high numbers of Devastators to this planet."
+	},
+	"1360": {
+		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
+		"galacticEffectId": 1360,
+		"name": "CYBORGS (Enemies)"
+	},
+	"1361": {
+		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
+		"galacticEffectId": 1361,
+		"name": "CYBORGS"
 	}
 }
