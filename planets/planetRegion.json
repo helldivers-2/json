@@ -455,8 +455,8 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			1512842277,
-			2634960640
+			"1512842277",
+			"2634960640"
 		]
 	},
 	"2577020579": {
@@ -465,8 +465,8 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			1512842277,
-			3404329179
+			"1512842277",
+			"3404329179"
 		]
 	},
 	"1512842277": {
@@ -475,8 +475,8 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			2735744233,
-			1475859103
+			"2735744233",
+			"1475859103"
 		]
 	},
 	"2634960640": {
@@ -485,7 +485,7 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			2735744233
+			"2735744233"
 		]
 	},
 	"3404329179": {
@@ -494,8 +494,8 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			1475859103,
-			297843856
+			"1475859103",
+			"297843856"
 		]
 	},
 	"2735744233": {
@@ -504,7 +504,7 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			3380242454
+			"3380242454"
 		]
 	},
 	"1475859103": {
@@ -513,7 +513,7 @@
 		"region_faction": "Automation",
 		"layout": "Cyberstan Megafactory",
 		"regions_connected_to": [
-			3380242454
+			"3380242454"
 		]
 	},
 	"3380242454": {
