@@ -1,1470 +1,2229 @@
 {
 	"324613052": {
 		"name": "DEMOCRACY ALWAYS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"855833074": {
 		"name": "ERIDANI",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"559843220": {
 		"name": "CURRENCY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1578230839": {
 		"name": "NEW NEWTONVILLE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2762012044": {
 		"name": "OL' OLDHAM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2634421583": {
 		"name": "TIMELY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1872830438": {
 		"name": "APPROVAL CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1978368732": {
 		"name": "OLD BRANCH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1411801971": {
 		"name": "VICTORY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2368444431": {
 		"name": "CELEBRATION",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3106360883": {
 		"name": "TRAITOR'S END",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2547946895": {
 		"name": "STRENGTH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"983151377": {
 		"name": "WALKAWAY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3607786620": {
 		"name": "SLAYER CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3161124521": {
 		"name": "QZ-4",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1068743995": {
 		"name": "SENATOR PEAKS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1338066975": {
 		"name": "WORKSONG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3896987202": {
 		"name": "SEVERITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"755864726": {
 		"name": "GREATER STOROUSE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2258293610": {
 		"name": "NEW STOROUSE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3006088005": {
 		"name": "SHED",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"476417027": {
 		"name": "FREE TRADE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1023474728": {
 		"name": "KESUMA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2696938432": {
 		"name": "UNGU",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1344426011": {
 		"name": "NO COMPOUND",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4127238767": {
 		"name": "FILIBUSTER",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2876102528": {
 		"name": "PERMACURIS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1143862620": {
 		"name": "HANGAR 6",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1097134956": {
 		"name": "PORTE LIBERTÉ",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1702672301": {
 		"name": "UNDERVATTEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2919580452": {
 		"name": "NEW TOKYO",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2541292675": {
 		"name": "ASPEN HILLS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2500124294": {
 		"name": "MEGACORPUS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2033316867": {
 		"name": "BATU BELIG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2903117961": {
 		"name": "EAGLEMOUNT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3039275068": {
 		"name": "COMMUNEFALLS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2650088088": {
 		"name": "FAMILY GROVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4014866766": {
 		"name": "FUTURE PRIDE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"321980142": {
 		"name": "SETTLER'S HONOR",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2143424881": {
 		"name": "CONVENIENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2895050350": {
 		"name": "FIREFLY MEADOWS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4099883014": {
 		"name": "WALNUT ACRES",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4237135854": {
 		"name": "VAULT CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3510978126": {
 		"name": "ZONE 3",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"647996051": {
 		"name": "GIRD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1874705974": {
 		"name": "REGISTER",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"799267053": {
 		"name": "TVENNE BOTTOMS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3885625492": {
 		"name": "LIFESWORTH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2659108161": {
 		"name": "LOGISTICS HUB 232-B",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2185475541": {
 		"name": "DIVER'S GLORY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1322103873": {
 		"name": "BARREN WARD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4132827034": {
 		"name": "EAGLECRY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2544875580": {
 		"name": "HUNTER'S BLUFF",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1761215575": {
 		"name": "EASTCLEFT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4204734822": {
 		"name": "KINABATANGAN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1725242014": {
 		"name": "DOWNPOUR",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1028801816": {
 		"name": "LEMURIA RISING",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3634134154": {
 		"name": "PIONEER'S DREAM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1762725992": {
 		"name": "BASE CAMP 8",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"457233553": {
 		"name": "AIDESVILLE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4121418923": {
 		"name": "HILJAISUUS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"400630653": {
 		"name": "KALASATAMA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1017291850": {
 		"name": "YDINKESKUSTA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3028191212": {
 		"name": "MAJOSYRI",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3841350324": {
 		"name": "QUASAR",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3647907388": {
 		"name": "ZENITH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4051063223": {
 		"name": "SYCAMORE GARDENS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2332413862": {
 		"name": "KODIAK FALLS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3568007842": {
 		"name": "VOTING DISTRICT F-012357",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1032709433": {
 		"name": "LIL'OME",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1161134727": {
 		"name": "LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH II",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1178227778": {
 		"name": "KURRI KURRI",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3116199682": {
 		"name": "ANNWN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3175334400": {
 		"name": "AGARTHA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"718092071": {
 		"name": "PROMINENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2340207578": {
 		"name": "AUTONOMY",
-		"description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Rapid insertion protocols will restrict deployment ammunition."
+		"description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Rapid insertion protocols will restrict deployment ammunition.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"1512842277",
+			"2634960640"
+		]
 	},
 	"2577020579": {
 		"name": "SOLIDARITET",
-		"description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Anti-air fixtures will hamper Pelican extraction."
+		"description": "High Command has identified this Megafactory as one of two potential beachheads for the invasion of Cyberstan. Anti-air fixtures will hamper Pelican extraction.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"1512842277",
+			"3404329179"
+		]
 	},
 	"1512842277": {
 		"name": "OMNIPARITUS",
-		"description": "Roughly translates to \"Destroy Freedom At All Costs.\" Significant conventional SEAF assaults will be required to support an offensive here, straining ammunition resources."
+		"description": "Roughly translates to \"Destroy Freedom At All Costs.\" Significant conventional SEAF assaults will be required to support an offensive here, straining ammunition resources.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"2735744233",
+			"1475859103"
+		]
 	},
 	"2634960640": {
 		"name": "LURZA",
-		"description": "Monuments in this Megafactory twist history to valorize the supposed resolve of Cyborgs to \"endure\" Super Earth's benevolent attempts to rehabilitate them. \n\nAnti-air defenses will hinder Eagle operations."
+		"description": "Monuments in this Megafactory twist history to valorize the supposed resolve of Cyborgs to \"endure\" Super Earth's benevolent attempts to rehabilitate them. \n\nAnti-air defenses will hinder Eagle operations.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"2735744233"
+		]
 	},
 	"3404329179": {
 		"name": "CAMRAT FOR",
-		"description": "This Megafactory contains significant Automaton production facilities. Anti-orbital defenses will tax Super Destroyer resources, resulting in longer orbital cooldowns."
+		"description": "This Megafactory contains significant Automaton production facilities. Anti-orbital defenses will tax Super Destroyer resources, resulting in longer orbital cooldowns.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"1475859103",
+			"297843856"
+		]
 	},
 	"2735744233": {
 		"name": "STAR KIELD",
-		"description": "Roughly translates to \"All Humans Must Die.\" One of the largest Megafactories on Cyberstan. A critical military production node. Defended by the Jet Brigade."
+		"description": "Roughly translates to \"All Humans Must Die.\" One of the largest Megafactories on Cyberstan. A critical military production node. Defended by the Jet Brigade.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"3380242454"
+		]
 	},
 	"1475859103": {
 		"name": "URSOOT NINE",
-		"description": "Likely one of the earliest Megafactories to be constructed on Cyberstan. The most significant producer of Cyborg combatants. Defended by the Incineration Corps."
+		"description": "Likely one of the earliest Megafactories to be constructed on Cyberstan. The most significant producer of Cyborg combatants. Defended by the Incineration Corps.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory",
+		"regions_connected_to": [
+			"3380242454"
+		]
 	},
 	"3380242454": {
 		"name": "TRANSCENDENCE",
-		"description": "The first and most well-defended Megafactory. The nexus of Cyborg command. Its destruction will trigger the collapse of the enemy's defenses on Cyberstan. Expect extreme resistance."
+		"description": "The first and most well-defended Megafactory. The nexus of Cyborg command. Its destruction will trigger the collapse of the enemy's defenses on Cyberstan. Expect extreme resistance.",
+		"region_faction": "Automaton",
+		"region_type": "Cyberstan Megafactory"
 	},
 	"1050611219": {
 		"name": "BUJU",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2345167795": {
 		"name": "PINESWOLD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2146650468": {
 		"name": "DARROWSHOME",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2180989349": {
 		"name": "GRACIOUS LIBERTY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1063822606": {
 		"name": "LUSCIOUS LIBERTY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3385219022": {
 		"name": "COUNCILLOR RORA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"741084747": {
 		"name": "EIGHTRINGS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"521454425": {
 		"name": "BROKER'S WEALTH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2193235528": {
 		"name": "BRIGHT WING",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1447639542": {
 		"name": "WEST BROKER",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1013683905": {
 		"name": "INTEREST",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1523836342": {
 		"name": "WASTEMOUNT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3775882537": {
 		"name": "ESCAPADE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2185109890": {
 		"name": "LOGISTICS HUB 188-B",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1946203146": {
 		"name": "NEW PARADISE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"997505218": {
 		"name": "GREATER INVESTMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1193052974": {
 		"name": "NEW ASPIRATION CITY",
-		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"16522331": {
 		"name": "FARMHANDSTOWN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"167295516": {
 		"name": "FORT BOUNTY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4275209727": {
 		"name": "FUTURIA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"905823730": {
 		"name": "NEW DA NANG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1676064266": {
 		"name": "PHAM'S SITE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"523284406": {
 		"name": "OLD CHEMLAND",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4039645448": {
 		"name": "MINE 902",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"130236915": {
 		"name": "EPH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3291554432": {
 		"name": "HEART FLATS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2300130357": {
 		"name": "OMA PEMMA",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"1235784042": {
 		"name": "GEM LICKET",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3756959393": {
 		"name": "KELLA METAMORPH",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3732722501": {
 		"name": "EVOLUTION PLATS",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"1230494439": {
 		"name": "UTOPIA VAREN",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3603744514": {
 		"name": "INDUSTRY ALLATEED",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3600431647": {
 		"name": "TECHOLOCKY",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3216000044": {
 		"name": "MASKIN",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3212687176": {
 		"name": "PERSISTENCE GATE",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"1881788943": {
 		"name": "SAMEN-STARK",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"1878476075": {
 		"name": "TECHNOLOCKIA ALLATEED",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3495232119": {
 		"name": "OMA PEMMA",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"4248413283": {
 		"name": "GEM LICKET",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"3311068219": {
 		"name": "GEMSTELLE GENERATOR",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"1122447002": {
 		"name": "SAMEN-STARK",
-		"description": ""
+		"description": "",
+		"region_faction": "Automaton",
+		"region_type": "Megafactory"
 	},
 	"1415969325": {
 		"name": "BRAWFERMLAND",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"832046850": {
 		"name": "NEW ABERDEEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2006541056": {
 		"name": "SAORSA GLEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2057457464": {
 		"name": "LOKAHEIM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"189783404": {
 		"name": "PSEUDOTOPIA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3342476592": {
 		"name": "FAMEWOLF PEAK",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1759245992": {
 		"name": "NEKK POND",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1791361107": {
 		"name": "LAGERLÖF CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"27836851": {
 		"name": "NEW YEARNING CITY",
-		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation."
+		"description": "One of 3 Maximum Security Cities. Impregnable to Tyranny; the future of the Federation.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3309151713": {
 		"name": "BARRACKSBURG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2004207949": {
 		"name": "HAVEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2557369266": {
 		"name": "OTARU'S PLEDGE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3540948886": {
 		"name": "XIAMEN ANEW",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"991650372": {
 		"name": "MUNITION CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1239520232": {
 		"name": "NEW HOPE CITY",
-		"description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation."
+		"description": "The flagship Maximum Security City. Impregnable to Tyranny; the future of the Federation.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4059243365": {
 		"name": "HOPESHIRE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"786534585": {
 		"name": "REDFIELD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1838126407": {
 		"name": "DEMOCRACY'S LANDING",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3900513024": {
 		"name": "VÁHTJER",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4038285524": {
 		"name": "MALMBERGET",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3964263469": {
 		"name": "ALTONBURG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3067104866": {
 		"name": "ERSATZ",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2507971325": {
 		"name": "MALLSTRIP NODES",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2591044773": {
 		"name": "BIRTH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1897395642": {
 		"name": "GRAFSART",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3626214155": {
 		"name": "GRAFSWALLIT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3851016682": {
 		"name": "GRAFSEAD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1623710024": {
 		"name": "NEW VICTORY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1603459330": {
 		"name": "FREE APARTMENTS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3455957267": {
 		"name": "FRESH ORCHARDS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1514913854": {
 		"name": "EXCITEMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"451637988": {
 		"name": "SERVITUDE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1002278606": {
 		"name": "WEST MANAGEMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1479079406": {
 		"name": "EAST REST",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"860486103": {
 		"name": "ALIGNMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"314025568": {
 		"name": "PENSCEWT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2391484056": {
 		"name": "EAGLE'S LIKENESS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3185820932": {
 		"name": "CONSENSUS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2232171610": {
 		"name": "OLD CONUNDRUM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3194418120": {
 		"name": "RESOLVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"472831334": {
 		"name": "UNANIMITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"874781515": {
 		"name": "UNISON",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3491570579": {
 		"name": "ON-EARSAHOU",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2519594311": {
 		"name": "CLOCKSTOP",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3212629027": {
 		"name": "MAGNITUDE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3184875338": {
 		"name": "GENERATORSVILLE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1654362284": {
 		"name": "SARAH SWIFT DAM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1168572634": {
 		"name": "EAST EMBANKMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2719536576": {
 		"name": "DEEPWELL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2689075072": {
 		"name": "GREATER ATLANTEAN POWER PLANT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2751322458": {
 		"name": "GUNPOWDER MEADOWS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2741839635": {
 		"name": "INVESTMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3188612954": {
 		"name": "FORT SANGUINE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1329166626": {
 		"name": "KNIGHT'S HONOR",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1039071856": {
 		"name": "SEVENSEAL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"967684667": {
 		"name": "LIBER-TEA TOWNSHIP",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1161514581": {
 		"name": "DYER STREETS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1915702028": {
 		"name": "COZY FLATS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3021776166": {
 		"name": "HUMANITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"119875523": {
 		"name": "RECON HEIGHTS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"586167831": {
 		"name": "SILO A",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3054618608": {
 		"name": "VOTER'S FALLOW",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3034375188": {
 		"name": "FROSTOWN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"786867005": {
 		"name": "ADNAN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"12564835": {
 		"name": "GARAGE DUNE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2939223654": {
 		"name": "DYN ALPHA 534-2",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3585703392": {
 		"name": "GRAPESHOT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1688960258": {
 		"name": "ICE BEND",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2509774688": {
 		"name": "OLUFSEN'S FOOTPRINT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1136017261": {
 		"name": "OLD HEARTH CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4221006651": {
 		"name": "SCHOLAR'S MOOR",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"484247622": {
 		"name": "BLESTRAIL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3066706899": {
 		"name": "HILDOARA CENTRAL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2293980636": {
 		"name": "SHELTER",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3179108272": {
 		"name": "ADAM PARK",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"581000702": {
 		"name": "OLD INTERNMENTS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3612551140": {
 		"name": "HEATHERFIELD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1854961214": {
 		"name": "VENERATION",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2712707536": {
 		"name": "DARKWELL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"945140203": {
 		"name": "STACY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1101206164": {
 		"name": "PERSISTENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2007842501": {
 		"name": "HABITAT RED-2",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2581434266": {
 		"name": "INTREPIDNESS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2418052824": {
 		"name": "DEBTOR'S DOWNS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3710473299": {
 		"name": "PIT 8",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2095568588": {
 		"name": "NEW PENG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"660742724": {
 		"name": "SERENITY SUMMIT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3373033616": {
 		"name": "MORSKIE OKO",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4028778105": {
 		"name": "CRYSTAL SLOPES",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1000010048": {
 		"name": "BUCU'S REST",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2231267715": {
 		"name": "VANQUISHMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1954581243": {
 		"name": "FREECREST",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1501066740": {
 		"name": "LIFEBLOOD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"829716394": {
 		"name": "REQUIEM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4162876257": {
 		"name": "DIVER'S REST",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2187047436": {
 		"name": "DISCOVERY GLEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3368734830": {
 		"name": "TOIL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3677320822": {
 		"name": "RIZIO'S VISION",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3421372928": {
 		"name": "SONGGUO CUN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4087006817": {
 		"name": "XIN FUZHOU",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4065420956": {
 		"name": "SETTLEMENT 7",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1820689153": {
 		"name": "MT MONUMENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1119186435": {
 		"name": "STRONGFORT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1199071894": {
 		"name": "PARRHESIA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2853318855": {
 		"name": "ISEGORIA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"480136851": {
 		"name": "WORKHOUSE 239-C",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"176090569": {
 		"name": "ABUNDANCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3513777986": {
 		"name": "SEORAKSAN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3910908375": {
 		"name": "GYEONGSEONG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"137264955": {
 		"name": "ANDROS GAMMA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2300653457": {
 		"name": "ANDROS DELTA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2409136536": {
 		"name": "SAPPHIRE LAKE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3849073717": {
 		"name": "PILOT'S BERTH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2098963156": {
 		"name": "PLETHORA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1428185423": {
 		"name": "ANTBOOT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"697345425": {
 		"name": "SKAR'S GARDENS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3895412065": {
 		"name": "FOUR CROWNS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3553590218": {
 		"name": "RINKTOWN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"248027603": {
 		"name": "PROSPERITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3263317504": {
 		"name": "RESPITE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4269009782": {
 		"name": "EXO CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"867139136": {
 		"name": "CHAIRMAN OYESLLO",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3625692119": {
 		"name": "CHAIRMAN OKOTE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1062239247": {
 		"name": "HOMESTEAD HILL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2140217517": {
 		"name": "YATAKHANE 263",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1058460461": {
 		"name": "NEW HEARTH CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2519745557": {
 		"name": "LACED STRAIT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2252336577": {
 		"name": "QUENCH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2298034348": {
 		"name": "HARDY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1653634596": {
 		"name": "OBSERVATORY 6",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3342871593": {
 		"name": "ADVENTURE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"511490869": {
 		"name": "PORUGU",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2491531357": {
 		"name": "PADOSAN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2541809256": {
 		"name": "QUASAR",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3858818769": {
 		"name": "SYZYGY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2253802431": {
 		"name": "OLD DOVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"481340922": {
 		"name": "BRNO",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1121037205": {
 		"name": "NEW EAGLE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3550784979": {
 		"name": "VILHELMINA DOROTHEA FREDRIKA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"974467043": {
 		"name": "MOGO PLAINS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1599927394": {
 		"name": "KALASATAMA PORT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2788606019": {
 		"name": "RESILIENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"539875676": {
 		"name": "HOT GATES",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2024755529": {
 		"name": "HANDAKAS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2190098981": {
 		"name": "HAKU CITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3950276676": {
 		"name": "CAMP LEIGHTON",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3687523144": {
 		"name": "NON-PARTISAN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2592017616": {
 		"name": "XIRAN'S CLAIM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3283689576": {
 		"name": "CORNUCOPOLIS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3493472115": {
 		"name": "MOBERG'S DREAM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"873089075": {
 		"name": "GROWL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3272102382": {
 		"name": "SUPERIORITY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3109135198": {
 		"name": "MEMORIALS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2069832250": {
 		"name": "QUELLED DISSENT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4101984974": {
 		"name": "INDEPENDENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2832454199": {
 		"name": "MESSAGER'S MESA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1690681912": {
 		"name": "BOPSFIELD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1668618298": {
 		"name": "DIPLOMACY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"622301006": {
 		"name": "ABUNDANCE BLUFF",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1068853940": {
 		"name": "MINERAL'S END",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"297388908": {
 		"name": "SHOTGUN SUMMIT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"706797536": {
 		"name": "PEOPLE'S HAND",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2184145680": {
 		"name": "TOPSOIL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2126832849": {
 		"name": "HUMAN WILL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"452138560": {
 		"name": "BLIGHTSMURK",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1842220312": {
 		"name": "LASTOME",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2285651547": {
 		"name": "LOOKOUT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3862302711": {
 		"name": "PEASE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3164536732": {
 		"name": "SEASSEFYRE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1273177678": {
 		"name": "EXALT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3320001654": {
 		"name": "EAGLESTAR ETERNAL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2617273113": {
 		"name": "PRAVOGRAD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1108939907": {
 		"name": "BRAVERY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3205582835": {
 		"name": "ACCOUNTANT GRAEBER",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1201038992": {
 		"name": "BEACHVIEW",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"334066640": {
 		"name": "THE VILLAS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"491224618": {
 		"name": "NEW ALEXANDRIA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2472296828": {
 		"name": "HOLL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3911522018": {
 		"name": "KILLJOY TOWN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1613437962": {
 		"name": "GRAVITAS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3644870667": {
 		"name": "DOGTOWN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"521646997": {
 		"name": "BEEFBURG",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2849889311": {
 		"name": "LUXE POINT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2106184075": {
 		"name": "SHADY OAKS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1543050297": {
 		"name": "DOSTOINSTVO",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2130828005": {
 		"name": "GLOBULUS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1701644792": {
 		"name": "ORBSHAM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2727770200": {
 		"name": "VERVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3042839498": {
 		"name": "PEDIS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1447385649": {
 		"name": "DIGITI",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1289084629": {
 		"name": "MINERAL REFINEMENT WORKS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"540250241": {
 		"name": "ORESINK",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1633627715": {
 		"name": "VIBRANCY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"502504685": {
 		"name": "PORT MERCY",
-		"description": "Since sheltering millions of loyal refugees in the Last Great War, Port Mercy has been a safe haven for any class-A citizen in need."
+		"description": "Since sheltering millions of loyal refugees in the Last Great War, Port Mercy has been a safe haven for any class-A citizen in need.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"550918906": {
 		"name": "EQUALITY-ON-SEA",
-		"description": "Named for the historic conference where Humanity was found to be the most Equal species in the Galaxy."
+		"description": "Named for the historic conference where Humanity was found to be the most Equal species in the Galaxy.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1750980320": {
 		"name": "PROSPERITY CITY",
-		"description": "Home to the Democratic Council, our proud Capital is a beacon of Progress, Productivity, and Patriotism."
+		"description": "Home to the Democratic Council, our proud Capital is a beacon of Progress, Productivity, and Patriotism.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3958784315": {
 		"name": "ADMINISTRATIVE CENTER 02",
-		"description": "Each form and application that passes through the hallowed halls of AdminCen is emblazoned with the Stamp of Ages, and should be given a place of honor in the home."
+		"description": "Each form and application that passes through the hallowed halls of AdminCen is emblazoned with the Stamp of Ages, and should be given a place of honor in the home.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4196558004": {
 		"name": "EAGLEOPOLIS",
-		"description": "This Great Heart of Commerce is renowned galaxy-wide for its Grand Shopping Malls and Splendorous Entertainment Centers."
+		"description": "This Great Heart of Commerce is renowned galaxy-wide for its Grand Shopping Malls and Splendorous Entertainment Centers.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1199462527": {
 		"name": "REMEMBRANCE",
-		"description": "Risen from the ashes of an ancient city, Rememberance is a monument to the Perseverance of Humankind."
+		"description": "Risen from the ashes of an ancient city, Rememberance is a monument to the Perseverance of Humankind.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"391918492": {
 		"name": "YORK SUPREME",
-		"description": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them."
+		"description": "Following the Great York Conundrum, one City rose above the rest, pledging to hold its Hand over all other Yorks, so that no more blood be spilt between them.",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"316170794": {
 		"name": "FORTITUDE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3921926208": {
 		"name": "FREEDOM'S TORCH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"281317935": {
 		"name": "FEARLESS HOLLOW",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1562611653": {
 		"name": "SCALD",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3839797397": {
 		"name": "REWA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"579852265": {
 		"name": "FOUNDRY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1999301409": {
 		"name": "STEEL RESOLVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4187567384": {
 		"name": "NYA SKELLEFTEA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"687069999": {
 		"name": "ÖDESHÖGRE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1123715107": {
 		"name": "GOTHENBURG III",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3924472281": {
 		"name": "CHATOYANT",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3263074211": {
 		"name": "CARBONDALE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3090254958": {
 		"name": "PERIWINKLE MILLS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2936987719": {
 		"name": "FREEDOM ETERNAL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1468847276": {
 		"name": "NUOVA ROMA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"770916674": {
 		"name": "NEW KATHMANDU",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3147829923": {
 		"name": "PO'S RAVENNA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1713282699": {
 		"name": "REBELSGRAVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"438247765": {
 		"name": "REFORMED-BY-TRUTH",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3363260441": {
 		"name": "OBEDIENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3036848565": {
 		"name": "SEQUIM",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4253491601": {
 		"name": "ONSEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1061744043": {
 		"name": "GIRI",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3878380748": {
 		"name": "SAPPORO",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3130397378": {
 		"name": "PERSEVERANCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4151302370": {
 		"name": "CLE ELUM REDIVIVA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"649934138": {
 		"name": "LAELIA",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"873382628": {
 		"name": "BLACKVEIN MINES",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1365889454": {
 		"name": "BENEVOLENCE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"763067932": {
 		"name": "ANNE'S VIGIL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1312916665": {
 		"name": "GREATWOOD MILLS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4192092503": {
 		"name": "FODDER GORGE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"468034602": {
 		"name": "BIRCHVILLE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"807761309": {
 		"name": "PROGRESS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4179557814": {
 		"name": "HAERSTVIK",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1954453569": {
 		"name": "SCARLET HAVEN",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"1451291824": {
 		"name": "EDWARD'S GRAVE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"311758306": {
 		"name": "LIGHT-OF-LIBERTY",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"4264188855": {
 		"name": "MIRAGE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2563609963": {
 		"name": "DRYWELL",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"3455315905": {
 		"name": "NEW COB",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"518148662": {
 		"name": "GENE",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	},
 	"2775422932": {
 		"name": "STARPASS",
-		"description": ""
+		"description": "",
+		"region_faction": "Super Earth",
+		"region_type": "Metropolis"
 	}
 }
