@@ -678,5 +678,40 @@
 		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
 		"galacticEffectId": 1361,
 		"name": "CYBORGS"
-	}
+	},
+	"1373": {
+		"galacticEffectId": 1373,
+		"name": "CLASS 1 EXOSTORM",
+		"description": "Isolated Exostorm pockets are materializing across the planet and rapidly gaining momentum."
+	},
+	"1374": {
+		"galacticEffectId": 1374,
+		"name": "CLASS 2 EXOSTORM",
+		"description": "Exostorm fronts are coalescing into a dense system that threatens to engulf the entire planet."
+	},
+	"1375": {
+		"galacticEffectId": 1375,
+		"name": "CLASS 3 EXOSTORM",
+		"description": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
+	},
+	"1377": {
+        "galacticEffectId": 1377,
+        "name": "MINDLESS MASSES (Enemies)",
+        "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+    },
+    "1378": {
+        "galacticEffectId": 1378,
+        "name": "MINDLESS MASSES",
+        "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+    },
+    "1379": {
+        "galacticEffectId": 1379,
+        "name": "APPROPRIATORS",
+        "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+    },
+    "1380": {
+        "galacticEffectId": 1380,
+        "name": "APPROPRIATORS (Enemies)",
+        "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+    }
 }
