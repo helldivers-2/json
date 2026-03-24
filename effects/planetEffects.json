@@ -694,6 +694,11 @@
 		"name": "CLASS 3 EXOSTORM",
 		"description": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
 	},
+	"1376":{
+		"galacticEffectId": 1376,
+        "name": "The Void",
+        "description": "This world is enveloped by The Void."
+	},
 	"1377": {
         "galacticEffectId": 1377,
         "name": "MINDLESS MASSES (Enemies)",
