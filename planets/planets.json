@@ -7752,5 +7752,52 @@
 		"weather_effects": [
 			"normal_temp"
 		]
+	},
+	"267": {
+		"name": "Big Rock",
+		"sector": "Sten",
+		"biome": "arctic_glacier_coldrocky",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "Big Rock"
+		},
+		"type": "arctic",
+		"weather_effects": [
+			"extreme_cold"
+		]
+	},
+	"268": {
+		"name": "Luxuriant",
+		"sector": "Jin Xi",
+		"biome": "sandy_base",
+		"environmentals": [
+			"sandstorms"
+		],
+		"names": {
+			"en-US": "Luxuriant"
+		},
+		"type": "sandy",
+		"weather_effects": [
+			"intense_heat",
+			"extreme_cold",
+			"sandstorms"
+		]
+	},
+	"269": {
+		"name": "Brilliance",
+		"sector": "Orion",
+		"biome": "primordial_blue",
+		"environmentals": [
+			"ion_storms"
+		],
+		"names": {
+			"en-US": "Brilliance"
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"normal_temp"
+		]
 	}
 }
