@@ -7763,7 +7763,7 @@
         "names": {
             "en-US": "Big Rock"
         },
-        "type": "bug ^_^ 13",
+        "type": "oasis",
         "weather_effects": [
             "none"
         ]
@@ -7778,7 +7778,7 @@
         "names": {
             "en-US": "Luxuriant"
         },
-        "type": "count ^_^ 14",
+        "type": "deciduous",
         "weather_effects": [
             "none"
         ]
@@ -7793,7 +7793,7 @@
         "names": {
             "en-US": "Brilliance"
         },
-        "type": "count ^_^ 14",
+        "type": "deciduous",
         "weather_effects": [
             "none"
         ]
