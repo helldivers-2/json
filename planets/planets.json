@@ -7682,7 +7682,7 @@
 	"260": {
 		"name": "Cyberstan",
 		"sector": "Valdis",
-		"biome": "arctic_glacier_coldrocky",
+		"biome": "cyberstan",
 		"environmentals": [
 			"none"
 		],
