@@ -19,6 +19,18 @@
 		"name": "Hive World",
 		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny."
 	},
+	"cyberstan": {
+		"name": "Cyberstan Megafactory",
+		"description": "Cyberstan, once again, forms the axis of the Cyborg Legion's insurrection. Massive Megafactories cover its surface, churning out mechanical armies and weapons of mass extinction."
+	},
+	"deciduous_base": {
+		"name": "Deciduous Forest",
+		"description": "Description is a placeholder"
+	},
+	"magma_base": {
+		"name": "Magma",
+		"description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
+	},
 	"moor_arid": {
 		"name": "Scorched Moor",
 		"description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
@@ -34,6 +46,10 @@
 	"moor_tundra": {
 		"name": "Tundra",
 		"description": "A perennially chilly climate has allowed short, colorful shrubs to flourish across this planet's surface."
+	},
+	"oasis_base": {
+		"name": "Desert Oasis",
+		"description": "Description is a placeholder"
 	},
 	"primordial_base": {
 		"name": "Volcanic Jungle",
@@ -86,10 +102,6 @@
 	"swamp_haunted": {
 		"name": "Haunted Swamp",
 		"description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-	},
-	"magma_base": {
-		"name": "Magma",
-		"description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
 	},
 	"unknown": {
 		"name": "Unknown",
