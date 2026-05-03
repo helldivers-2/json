@@ -7791,7 +7791,8 @@
             "none"
         ],
         "names": {
-            "en-US": "Brilliance"
+            "en-US": "Brilliance",
+			"it-IT": "Splendor"
         },
         "type": "deciduous",
         "weather_effects": [
