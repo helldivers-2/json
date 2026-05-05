@@ -718,5 +718,10 @@
         "galacticEffectId": 1380,
         "name": "APPROPRIATORS (Enemies)",
         "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+    },
+    "1386": {
+        "galacticEffectId": 1386,
+        "name": "SPORE BURST STRAIN",
+        "description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
     }
 }

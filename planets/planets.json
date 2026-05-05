@@ -23,7 +23,7 @@
 			"zh-Hans": "\u8d85\u7ea7\u5730\u7403",
 			"zh-Hant": "\u8d85\u7d1a\u5730\u7403"
 		},
-		"type": "none",
+		"type": "super_earth",
 		"weather_effects": [
 			"normal_temp",
 			"rainstorms"
@@ -53,7 +53,7 @@
 			"zh-Hans": "\u514b\u4f26\u8fbe\u65afII",
 			"zh-Hant": "\u514b\u9023\u9054\u65afII"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -114,7 +114,7 @@
 			"zh-Hans": "\u5be1\u5987\u6e2f",
 			"zh-Hant": "\u5be1\u5a66\u6e2f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -172,7 +172,7 @@
 			"zh-Hans": "\u76ae\u4f26V",
 			"zh-Hant": "\u76ae\u502bV"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -202,7 +202,7 @@
 			"zh-Hans": "\u6c34\u7011\u4e3b\u661f",
 			"zh-Hant": "\u7011\u5e03\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -231,7 +231,7 @@
 			"zh-Hans": "\u6cfd\u4e9a\u9c81\u6208\u897f\u4e9a",
 			"zh-Hant": "\u6fa4\u4e9e\u9b6f\u54e5\u897f\u4e9e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -261,7 +261,7 @@
 			"zh-Hans": "\u8fbe\u7f57\u65af\u6ce2\u7279",
 			"zh-Hant": "\u9054\u7f85\u65af\u6e2f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -350,7 +350,7 @@
 			"zh-Hans": "\u523b\u8033\u67cf\u6d1b\u65afIIIc",
 			"zh-Hant": "\u585e\u4f2f\u62c9\u65afIIIc"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -557,7 +557,7 @@
 			"zh-Hans": "\u5e7d\u7075",
 			"zh-Hant": "\u5e7d\u9748"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -774,7 +774,7 @@
 		"sector": "Celeste",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "NUBLARIA I",
@@ -795,7 +795,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"27": {
@@ -891,7 +892,7 @@
 		"sector": "Barnard",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "VEIL",
@@ -1057,7 +1058,7 @@
 			"zh-Hans": "\u827e\u8299\u9c81\u7ef4\u4e9a",
 			"zh-Hant": "\u827e\u4f5b\u9732\u7dad\u4e9e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -1067,7 +1068,7 @@
 		"sector": "Gothmar",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "SOLGHAST",
@@ -1088,7 +1089,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"37": {
@@ -1144,7 +1146,7 @@
 			"zh-Hans": "\u7ef4\u5c14\u4f0a\u8fea\u4e9a\u4e3b\u661f",
 			"zh-Hant": "\u7dad\u91cc\u8fea\u4e9e\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -1205,7 +1207,7 @@
 			"zh-Hans": "\u7c73\u62c9\u6234\u4ec0",
 			"zh-Hant": "\u7c73\u62c9\u5fb7\u8a31"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -1216,7 +1218,7 @@
 		"sector": "Idun",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "ATRAMA",
@@ -1237,7 +1239,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"42": {
@@ -1264,7 +1267,7 @@
 			"zh-Hans": "\u57c3\u6885\u91cc\u4e9a",
 			"zh-Hant": "\u827e\u7f8e\u91cc\u4e9e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -1353,7 +1356,7 @@
 			"zh-Hans": "\u739b\u65af\u8482\u4e9a",
 			"zh-Hant": "\u99ac\u65af\u63d0\u4e9e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -1472,7 +1475,7 @@
 			"zh-Hans": "\u827e\u5b5c\u6cf0\u62c9",
 			"zh-Hant": "\u963f\u8332\u63d0\u62c9"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -1501,7 +1504,7 @@
 			"zh-Hans": "\u827e\u70ed\u5c14\u6b21\u661f",
 			"zh-Hant": "\u963f\u7956\u723e\u6b21\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -1561,7 +1564,7 @@
 			"zh-Hans": "\u65af\u5229\u592b",
 			"zh-Hant": "\u53f2\u91cc\u592b"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -1591,7 +1594,7 @@
 			"zh-Hans": "\u5f00\u52d2\u83ab\u5c14",
 			"zh-Hant": "\u51f1\u62c9\u7a46"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -1680,7 +1683,7 @@
 			"zh-Hans": "\u6885\u91cc\u7fc1",
 			"zh-Hant": "\u7c73\u91cc\u70cf"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -1975,7 +1978,7 @@
 			"zh-Hans": "\u5c45\u91cc\u4e9a",
 			"zh-Hant": "\u5eab\u91cc\u4e9e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -1985,7 +1988,7 @@
 		"sector": "Marspira",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "TARSH",
@@ -2006,7 +2009,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"68": {
@@ -2103,7 +2107,7 @@
 		"sector": "Iptus",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "RATCH",
@@ -2124,7 +2128,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"72": {
@@ -2240,7 +2245,7 @@
 			"zh-Hans": "\u827e\u65af\u514b\u5c14",
 			"zh-Hant": "\u57c3\u65af\u79d1"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -2270,7 +2275,7 @@
 			"zh-Hans": "\u6cf0\u96f7\u514b",
 			"zh-Hant": "\u9435\u745e\u514b"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -2280,7 +2285,7 @@
 		"sector": "Orion",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "CIRRUS",
@@ -2504,7 +2509,7 @@
 			"zh-Hans": "\u65af\u5361\u4ec0",
 			"zh-Hant": "\u53f2\u5361\u4ec0"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -2534,7 +2539,7 @@
 			"zh-Hans": "\u83ab\u62c9\u6234\u4ec0",
 			"zh-Hant": "\u6469\u62c9\u5fb7\u8a31"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -2565,7 +2570,7 @@
 			"zh-Hans": "\u62c9\u65af\u666e",
 			"zh-Hant": "\u62c9\u65af\u666e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -2575,7 +2580,7 @@
 		"sector": "Gallux",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "BASHYR",
@@ -2596,7 +2601,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"88": {
@@ -2693,7 +2699,7 @@
 		"sector": "Rictus",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "IRO",
@@ -2714,7 +2720,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"92": {
@@ -2859,7 +2866,7 @@
 			"zh-Hans": "32\u53f7\u54e8\u7ad9",
 			"zh-Hant": "32\u865f\u54e8\u7ad9"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -2890,7 +2897,7 @@
 			"zh-Hans": "\u5361\u5229\u666e\u7d22",
 			"zh-Hant": "\u5361\u5442\u666e\u7d22"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -2929,7 +2936,7 @@
 		"sector": "Guang",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "ALDERIDGE COVE",
@@ -3242,7 +3249,7 @@
 			"zh-Hans": "\u591a\u5c14\u592b",
 			"zh-Hant": "\u591a\u592b"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -3329,7 +3336,7 @@
 			"zh-Hans": "\u4f5b\u519c\u4e95",
 			"zh-Hant": "\u5a01\u8fb2\u4e95"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -3339,7 +3346,7 @@
 		"sector": "Hydra",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "AESIR PASS",
@@ -3397,7 +3404,7 @@
 		"sector": "Lacaille",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "PENTA",
@@ -3535,7 +3542,7 @@
 			"zh-Hans": "\u6469\u5c14\u5854\u514b\u65af\u4e3b\u661f",
 			"zh-Hant": "\u6469\u723e\u6cf0\u65af\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -3565,7 +3572,7 @@
 			"zh-Hans": "\u5a01\u5c14\u798f\u5fb7\u7ad9",
 			"zh-Hant": "\u5a01\u798f\u5fb7\u592a\u7a7a\u7ad9"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -3595,7 +3602,7 @@
 			"zh-Hans": "\u5148\u9a71II",
 			"zh-Hant": "\u5148\u92d2II"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -3624,7 +3631,7 @@
 			"zh-Hans": "\u5384\u5c14\u68ee\u6851\u5179",
 			"zh-Hant": "\u723e\u68ee\u6c99\u5730"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -3635,7 +3642,7 @@
 		"sector": "Falstaff",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "SOCORRO III",
@@ -3656,7 +3663,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"124": {
@@ -3713,7 +3721,7 @@
 			"zh-Hans": "\u82ac\u91cc\u5c14III",
 			"zh-Hant": "\u82ac\u91cc\u723eIII"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -3800,7 +3808,7 @@
 			"zh-Hans": "\u5927\u6d41\u58ebII",
 			"zh-Hant": "\u9054\u91cc\u723eII"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -3890,7 +3898,7 @@
 			"zh-Hans": "\u738b\u826f\u4e09III",
 			"zh-Hant": "\u738b\u826f\u4e09III"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -4047,7 +4055,7 @@
 		"sector": "Hanzo",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "AIN-5",
@@ -4134,7 +4142,7 @@
 		"sector": "Akira",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "ALARAPH",
@@ -4301,7 +4309,7 @@
 			"zh-Hans": "\u5929\u9634\u56db",
 			"zh-Hant": "\u5929\u9670\u56db"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -4331,7 +4339,7 @@
 			"zh-Hans": "\u6b27\u82cf\u666e\u68ee",
 			"zh-Hant": "\u6b50\u8607\u73ca"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -4420,7 +4428,7 @@
 			"zh-Hans": "\u8001\u4eba",
 			"zh-Hant": "\u5361\u8afe\u666e\u65af"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -4480,7 +4488,7 @@
 			"zh-Hans": "\u5317\u6cb3\u4e8c",
 			"zh-Hant": "\u5317\u6cb3\u4e8c"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -4509,7 +4517,7 @@
 			"zh-Hans": "\u5fb7\u5c14\u6839",
 			"zh-Hant": "\u8fea\u723e\u91d1"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -4551,7 +4559,7 @@
 		"sector": "Xzar",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "MORT",
@@ -4628,7 +4636,7 @@
 			"zh-Hans": "\u67e5\u5df4\u5c14VII",
 			"zh-Hant": "\u67e5\u723e\u535aVII"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -4716,7 +4724,7 @@
 			"zh-Hans": "\u4e18\u4f0a",
 			"zh-Hant": "\u4e18\u4f0a"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -4747,7 +4755,7 @@
 			"zh-Hans": "\u96c0\u7279\u6e7e",
 			"zh-Hant": "\u96c0\u7279\u7063"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -4777,7 +4785,7 @@
 			"zh-Hans": "\u53ef\u6d1b\u5c14",
 			"zh-Hant": "\u514b\u52de\u745e"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -4983,7 +4991,7 @@
 			"zh-Hans": "\u827e\u62c9\u7279\u4e3b\u661f",
 			"zh-Hant": "\u57c3\u62c9\u4ed6\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -5042,7 +5050,7 @@
 			"zh-Hans": "\u4f5b\u91cc\u4e3b\u661f",
 			"zh-Hant": "\u4f5b\u91cc\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -5082,7 +5090,7 @@
 		"sector": "Jin Xi",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "GAR HAREN",
@@ -5103,7 +5111,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"173": {
@@ -5229,7 +5238,7 @@
 		"sector": "Leo",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "HAKA",
@@ -5396,7 +5405,7 @@
 			"zh-Hans": "\u89d2\u5bbf\u4e8c\u6e7e",
 			"zh-Hant": "\u89d2\u5bbf\u4e8c\u7063"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -5457,7 +5466,7 @@
 			"zh-Hans": "\u6d77\u5fb7\u7f57\u6bd5\u4e9a\u65af",
 			"zh-Hant": "\u54c8\u5353\u7562\u4e9e\u65af"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -5517,7 +5526,7 @@
 			"zh-Hans": "\u4e5d\u5dde\u6b8a\u53e3\u589e\u4e03",
 			"zh-Hant": "\u4e5d\u5dde\u6b8a\u53e3\u589e\u5341\u4e00"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -5529,7 +5538,7 @@
 		"sector": "Guang",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "KHANDARK",
@@ -5550,7 +5559,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"188": {
@@ -5558,7 +5568,7 @@
 		"sector": "Alstrad",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "KLAKA 5",
@@ -5579,7 +5589,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"189": {
@@ -5636,7 +5647,7 @@
 			"zh-Hans": "\u8f78\u5bbf\u56db",
 			"zh-Hant": "\u8eeb\u5bbf\u56db"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -5665,7 +5676,7 @@
 			"zh-Hans": "\u5929\u68d3\u4e8c",
 			"zh-Hant": "\u5929\u9f8d\u5ea7"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -5694,7 +5705,7 @@
 			"zh-Hans": "\u8d56\u65af\u6597\u592b",
 			"zh-Hant": "\u62c9\u65af\u6258"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -5725,7 +5736,7 @@
 			"zh-Hans": "\u84dd\u6069\u6b21\u661f",
 			"zh-Hant": "\u96f7\u6069\u6b21\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -5784,7 +5795,7 @@
 			"zh-Hans": "\u6634\u5bbf\u56db",
 			"zh-Hant": "\u6634\u5bbf\u56db"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -5991,7 +6002,7 @@
 			"zh-Hans": "\u4e95\u5bbf\u4e03",
 			"zh-Hant": "\u4e95\u5bbf\u4e03"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -6060,7 +6071,7 @@
 		"sector": "Valdis",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "MERGA IV",
@@ -6081,7 +6092,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"206": {
@@ -6237,7 +6249,7 @@
 		"sector": "Mirin",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "NIVEL 43",
@@ -6324,7 +6336,7 @@
 		"sector": "Jin Xi",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "PANDION-XXIV",
@@ -6431,7 +6443,7 @@
 			"zh-Hans": "\u4e08\u4eba\u4e00\u6e7e",
 			"zh-Hant": "\u4e08\u4eba\u4e00\u7063"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -6492,7 +6504,7 @@
 			"zh-Hans": "\u5317\u6781\u661f\u4e3b\u661f",
 			"zh-Hant": "\u5317\u6975\u661f\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -6552,7 +6564,7 @@
 			"zh-Hans": "\u666e\u62c9\u8428",
 			"zh-Hant": "\u666e\u62c9\u85a9"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -6581,7 +6593,7 @@
 			"zh-Hans": "\u4e94\u8bf8\u4faf\u4e09",
 			"zh-Hant": "\u4e94\u8af8\u4faf\u4e09"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -6641,7 +6653,7 @@
 			"zh-Hans": "RD4",
 			"zh-Hant": "RD-4"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -6700,7 +6712,7 @@
 			"zh-Hans": "\u91cc\u5c14\u52a0\u6e7e",
 			"zh-Hant": "\u91cc\u723e\u52a0\u7063"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -6760,7 +6772,7 @@
 			"zh-Hans": "\u65b0\u620823",
 			"zh-Hant": "\u4ed9\u84cb23\u865f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp"
 		]
@@ -6770,7 +6782,7 @@
 		"sector": "Omega",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "SETIA",
@@ -6791,7 +6803,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"230": {
@@ -6818,7 +6831,7 @@
 			"zh-Hans": "\u8d5b\u7279",
 			"zh-Hant": "\u897f\u6cf0"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -6877,7 +6890,7 @@
 			"zh-Hans": "\u5929\u72fc\u661f",
 			"zh-Hant": "\u5929\u72fc\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -6887,7 +6900,7 @@
 		"sector": "Xi Tauri",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "SKAT BAY",
@@ -7092,7 +7105,7 @@
 		"sector": "Trigon",
 		"biome": "primordial_dead",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "TROOST",
@@ -7169,7 +7182,7 @@
 			"zh-Hans": "\u4f0d\u65af\u7279\u56fe",
 			"zh-Hant": "\u70cf\u65af\u6258\u5716"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"normal_temp"
@@ -7259,7 +7272,7 @@
 			"zh-Hans": "\u5929\u6a3d\u4e8c",
 			"zh-Hant": "\u5929\u6a3d\u4e8c"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"normal_temp",
 			"acid_storms"
@@ -7466,7 +7479,7 @@
 			"zh-Hans": "\u592a\u5fae\u53f3\u57a3\u4e94",
 			"zh-Hant": "\u592a\u5fae\u53f3\u57a3\u4e94"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -7495,7 +7508,7 @@
 			"zh-Hans": "\u85cf\u5c3c\u4e9a\u4e3b\u661f",
 			"zh-Hant": "\u8d0a\u4f0a\u4e9e\u4e3b\u661f"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -7507,7 +7520,7 @@
 		"sector": "Hawking",
 		"biome": "swamp_haunted",
 		"environmentals": [
-			"thick_fog"
+			"none"
 		],
 		"names": {
 			"en-US": "SKITTER",
@@ -7528,7 +7541,8 @@
 		},
 		"type": "swamp",
 		"weather_effects": [
-			"normal_temp"
+			"normal_temp",
+			"thick_fog"
 		]
 	},
 	"255": {
@@ -7555,7 +7569,7 @@
 			"zh-Hans": "\u6b27\u798f\u5229\u4e9aIII",
 			"zh-Hant": "\u6b61\u5febIII"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"extreme_cold"
 		]
@@ -7584,7 +7598,7 @@
 			"zh-Hans": "\u5927\u6d41\u6563X",
 			"zh-Hant": "\u50d1\u5c45X"
 		},
-		"type": "sandy",
+		"type": "desert",
 		"weather_effects": [
 			"intense_heat",
 			"extreme_cold",
@@ -7720,7 +7734,7 @@
 		},
 		"type": "magma",
 		"weather_effects": [
-			"normal_temp"
+			"intense_heat"
 		]
 	},
 	"262": {
@@ -7735,7 +7749,7 @@
 		},
 		"type": "magma",
 		"weather_effects": [
-			"normal_temp"
+			"intense_heat"
 		]
 	},
 	"266": {
@@ -7750,52 +7764,85 @@
 		},
 		"type": "magma",
 		"weather_effects": [
+			"intense_heat"
+		]
+	},
+	"267": {
+		"name": "Big Rock",
+		"sector": "Sten",
+		"biome": "oasis_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "Big Rock"
+		},
+		"type": "oasis",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
+	},
+	"268": {
+		"name": "Luxuriant",
+		"sector": "Jin Xi",
+		"biome": "deciduous_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "Luxuriant"
+		},
+		"type": "forest",
+		"weather_effects": [
 			"normal_temp"
 		]
 	},
-    "267": {
-        "name": "Big Rock",
-        "sector": "Sten",
-        "biome": "oasis_base",
-        "environmentals": [
-            "none"
-        ],
-        "names": {
-            "en-US": "Big Rock"
-        },
-        "type": "oasis",
-        "weather_effects": [
-            "none"
-        ]
-    },
-    "268": {
-        "name": "Luxuriant",
-        "sector": "Jin Xi",
-        "biome": "deciduous_base",
-        "environmentals": [
-            "none"
-        ],
-        "names": {
-            "en-US": "Luxuriant"
-        },
-        "type": "deciduous",
-        "weather_effects": [
-            "none"
-        ]
-    },
-    "269": {
-        "name": "Brilliance",
-        "sector": "Orion",
-        "biome": "deciduous_base",
-        "environmentals": [
-            "none"
-        ],
-        "names": {
-            "en-US": "Brilliance"
-        },
-        "type": "deciduous",
-        "weather_effects": [
-            "none"
-        ]
-    }
+	"269": {
+		"name": "Brilliance",
+		"sector": "Orion",
+		"biome": "deciduous_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "Brilliance"
+		},
+		"type": "forest",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"270": {
+		"name": "FRONTERIA",
+		"sector": "Umlaut",
+		"biome": "oasis_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "FRONTERIA"
+		},
+		"type": "oasis",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
+	},
+	"271": {
+		"name": "ZYGOS",
+		"sector": "Orion",
+		"biome": "oasis_base",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "ZYGOS"
+		},
+		"type": "oasis",
+		"weather_effects": [
+			"normal_temp",
+			"intense_heat"
+		]
+	}
 }
