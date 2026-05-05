@@ -25,7 +25,7 @@
 	},
 	"deciduous_base": {
 		"name": "Deciduous Forest",
-		"description": "Description is a placeholder"
+		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
 	},
 	"magma_base": {
 		"name": "Magma",
@@ -49,7 +49,7 @@
 	},
 	"oasis_base": {
 		"name": "Desert Oasis",
-		"description": "Description is a placeholder"
+		"description": "Rolling dunes across a beatiful beach world. (UNOFFICIAL) "
 	},
 	"primordial_base": {
 		"name": "Volcanic Jungle",
