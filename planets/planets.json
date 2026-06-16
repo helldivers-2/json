@@ -7956,5 +7956,63 @@
 			"normal_temp",
 			"intense_heat"
 		]
+	},
+	"272": {
+		"name": "BASQUINE VIII",
+		"sector": "Rigel",
+		"biome": "deciduous_fall",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "BASQUINE VIII",
+			"en-GB": "BASQUINE VIII",
+			"pt-BR": "BASQUINE VIII",
+			"de-DE": "BASQUINE VIII",
+			"es-ES": "BASQUINE VIII",
+			"fr-FR": "BASQUINE VIII",
+			"it-IT": "BASQUINE VIII",
+			"ja-JP": "\u30d0\u30b9\u30ad\u30fc\u30f3 VIII",
+			"ko-KO": "\ubc14\uc2a4\ud038 VIII",
+			"ms-MY": "BASQU\u00cdN VIII",
+			"pl-PL": "BASQUINE VIII",
+			"pt-PT": "BASQUINE VIII",
+			"ru-RU": "\u0411\u0410\u0421\u041a\u0421\u041a\u0410\u042f VIII",
+			"zh-Hans": "\u5df4\u65af\u91d1VIII",
+			"zh-Hant": "\u5df4\u65af\u594eVIII"
+		},
+		"type": "forest",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"273": {
+		"name": "SANGIS",
+		"sector": "Omega",
+		"biome": "deciduous_fall",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "SANGIS",
+			"en-GB": "SANGIS",
+			"pt-BR": "SANGIS",
+			"de-DE": "SANGIS",
+			"es-ES": "SANGIS",
+			"fr-FR": "SANGIS",
+			"it-IT": "SANGIS",
+			"ja-JP": "\u30b5\u30f3\u30b8\u30b9",
+			"ko-KO": "\uc0c1\uc81c\uc2a4",
+			"ms-MY": "SANGIS",
+			"pl-PL": "SANGIS",
+			"pt-PT": "SANGIS",
+			"ru-RU": "\u0421\u0410\u041d\u0413\u0418\u0421",
+			"zh-Hans": "\u8d64\u8840",
+			"zh-Hant": "\u8840\u8272"
+		},
+		"type": "forest",
+		"weather_effects": [
+			"normal_temp"
+		]
 	}
 }

@@ -27,6 +27,10 @@
 		"name": "Deciduous Forest",
 		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
 	},
+	"deciduous_fall": {
+		"name": "Deciduous Autumn Forest",
+		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
+	},
 	"magma_base": {
 		"name": "Magma",
 		"description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
