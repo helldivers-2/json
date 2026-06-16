@@ -7898,7 +7898,7 @@
 		]
 	},
 	"270": {
-		"name": "FRONTERIA",
+		"name": "Fronteria",
 		"sector": "Umlaut",
 		"biome": "oasis_base",
 		"environmentals": [
@@ -7928,7 +7928,7 @@
 		]
 	},
 	"271": {
-		"name": "ZYGOS",
+		"name": "Zygos",
 		"sector": "Orion",
 		"biome": "oasis_base",
 		"environmentals": [
@@ -7958,7 +7958,7 @@
 		]
 	},
 	"272": {
-		"name": "BASQUINE VIII",
+		"name": "Basquine VIII",
 		"sector": "Rigel",
 		"biome": "deciduous_fall",
 		"environmentals": [
@@ -7987,7 +7987,7 @@
 		]
 	},
 	"273": {
-		"name": "SANGIS",
+		"name": "Sangis",
 		"sector": "Omega",
 		"biome": "deciduous_fall",
 		"environmentals": [
