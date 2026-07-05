@@ -1,0 +1,19 @@
+name: Notify API repo of data update
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger update in API repo
+        env:
+          GH_TOKEN: ${{ secrets.API_DISPATCH_TOKEN }}
+        run: |
+          curl -sSf -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/helldivers-2/api/dispatches \
+            -d '{"event_type":"json-data-updated","client_payload":{"sha":"${{ github.sha }}"}}'
