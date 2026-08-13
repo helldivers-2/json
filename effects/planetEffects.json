@@ -700,30 +700,30 @@
 		"description": "This world is enveloped by The Void."
 	},
 	"1377": {
-		"galacticEffectId": 1377,
-		"name": "MINDLESS MASSES (Enemies)",
-		"description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-	},
-	"1378": {
-		"galacticEffectId": 1378,
-		"name": "MINDLESS MASSES",
-		"description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-	},
-	"1379": {
-		"galacticEffectId": 1379,
-		"name": "APPROPRIATORS",
-		"description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-	},
-	"1380": {
-		"galacticEffectId": 1380,
-		"name": "APPROPRIATORS (Enemies)",
-		"description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-	},
-	"1386": {
-		"galacticEffectId": 1386,
-		"name": "SPORE BURST STRAIN",
-		"description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-	},
+        "galacticEffectId": 1377,
+        "name": "MINDLESS MASSES (Enemies)",
+        "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+    },
+    "1378": {
+        "galacticEffectId": 1378,
+        "name": "MINDLESS MASSES",
+        "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+    },
+    "1379": {
+        "galacticEffectId": 1379,
+        "name": "APPROPRIATORS",
+        "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+    },
+    "1380": {
+        "galacticEffectId": 1380,
+        "name": "APPROPRIATORS (Enemies)",
+        "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+    },
+    "1386": {
+        "galacticEffectId": 1386,
+        "name": "SPORE BURST STRAIN",
+        "description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+    },
 	"1387": {
 		"galacticEffectId": 1387,
 		"name": "COMMUNICATIONS ARRAY",
