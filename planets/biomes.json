@@ -23,9 +23,17 @@
 		"name": "Cyberstan Megafactory",
 		"description": "Cyberstan, once again, forms the axis of the Cyborg Legion's insurrection. Massive Megafactories cover its surface, churning out mechanical armies and weapons of mass extinction."
 	},
+	"deciduous_autumn": {
+		"name": "Deciduous Autumn Forest",
+		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
+	},
 	"deciduous_base": {
 		"name": "Deciduous Forest",
 		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
+	},
+	"deciduous_crimson": {
+		"name": "ACCESS DENIED",
+		"description": "THIS BIOME IS UNKNOWN AT THIS TIME"
 	},
 	"deciduous_fall": {
 		"name": "Deciduous Autumn Forest",
@@ -74,6 +82,10 @@
 	"primordial_purple": {
 		"name": "Ethereal Jungle",
 		"description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+	},
+	"rift_active": {
+		"name": "ACCESS DENIED",
+		"description": "THIS BIOME IS UNKNOWN AT THIS TIME"
 	},
 	"sandy_acid": {
 		"name": "Acidic Badlands",
