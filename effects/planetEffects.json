@@ -634,6 +634,11 @@
 		"name": "LIBERTY DAY CELEBRATION",
 		"description": "Super Earth, our home, is the center of Liberty Day Festivities. Together, all citizens can watch on television the annual Defense Parade, the Justice Executions, and of course, the Freedom Fireworks. \n\nOn this special day, Helldivers are encouraged to visit Super Earth and watch this year's fireworks from their Super Destroyers."
 	},
+	"1330": {
+		"galacticEffectId": 1330,
+		"name": "fireworks",
+		"description": "Description not present"
+	},
 	"1342": {
 		"galacticEffectId": 1342,
 		"name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
@@ -679,6 +684,11 @@
 		"galacticEffectId": 1361,
 		"name": "CYBORGS"
 	},
+	"1362": {
+		"galacticEffectId": 1362,
+		"name": "bot_battle_intense",
+		"description": "Description not present"
+	},
 	"1373": {
 		"galacticEffectId": 1373,
 		"name": "CLASS 1 EXOSTORM",
@@ -694,36 +704,36 @@
 		"name": "CLASS 3 EXOSTORM",
 		"description": "The Exostorm has reached critical mass, enveloping the planet in an ominous tempest that defies atmospheric physics."
 	},
-	"1376":{
+	"1376": {
 		"galacticEffectId": 1376,
-        "name": "The Void",
-        "description": "This world is enveloped by The Void."
+		"name": "The Void",
+		"description": "This world is enveloped by The Void."
 	},
 	"1377": {
-        "galacticEffectId": 1377,
-        "name": "MINDLESS MASSES (Enemies)",
-        "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-    },
-    "1378": {
-        "galacticEffectId": 1378,
-        "name": "MINDLESS MASSES",
-        "description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
-    },
-    "1379": {
-        "galacticEffectId": 1379,
-        "name": "APPROPRIATORS",
-        "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-    },
-    "1380": {
-        "galacticEffectId": 1380,
-        "name": "APPROPRIATORS (Enemies)",
-        "description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
-    },
-    "1386": {
-        "galacticEffectId": 1386,
-        "name": "SPORE BURST STRAIN",
-        "description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
-    },
+		"galacticEffectId": 1377,
+		"name": "MINDLESS MASSES (Enemies)",
+		"description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+	},
+	"1378": {
+		"galacticEffectId": 1378,
+		"name": "MINDLESS MASSES",
+		"description": "The Illuminate are converting large numbers of Super Earth citizens into Voteless-type enemies on this planet. Prepare to face a twisted, indoctrinated horde."
+	},
+	"1379": {
+		"galacticEffectId": 1379,
+		"name": "APPROPRIATORS",
+		"description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+	},
+	"1380": {
+		"galacticEffectId": 1380,
+		"name": "APPROPRIATORS (Enemies)",
+		"description": "The Illuminate are deploying only their own kind to this planet, a clear indication of the operation's importance and/or xenophobic nature. Prepare to face foot soldiers, drones, and piloted mechanical constructs."
+	},
+	"1386": {
+		"galacticEffectId": 1386,
+		"name": "SPORE BURST STRAIN",
+		"description": "A mutation causes Terminids on this planet to generate excess hormonal spores, which drive other similarly mutated Terminids into a frenzy. Prepare to face enemies that bolster each others' speed."
+	},
 	"1387": {
 		"galacticEffectId": 1387,
 		"name": "COMMUNICATIONS ARRAY",
@@ -733,5 +743,30 @@
 		"galacticEffectId": 1395,
 		"name": "TERMINID CONTROL SYSTEM+",
 		"description": "On this planet, a network of Termicide-dispensing towers repels Terminids emerging from the Gloom."
+	},
+	"1400": {
+		"galacticEffectId": 1400,
+		"name": "Heavy SEAF Presence",
+		"description": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+	},
+	"1401": {
+		"galacticEffectId": 1401,
+		"name": "Heavy SEAF Presence (Enemies)",
+		"description": "Conventional SEAF forces are heavily deployed across this planet, and may directly support Helldiver missions."
+	},
+	"1402": {
+		"galacticEffectId": 1402,
+		"name": "VOTE SNATCHERS (Enemies)",
+		"description": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+	},
+	"1403": {
+		"galacticEffectId": 1403,
+		"name": "VOTE SNATCHERS",
+		"description": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
+	},
+	"1407": {
+		"galacticEffectId": 1407,
+		"name": "VOID GATEWAY",
+		"description": "This planet serves as a connective point between this galaxy and the Void, allowing travel between the two spaces."
 	}
 }
