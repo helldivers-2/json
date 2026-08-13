@@ -634,11 +634,6 @@
 		"name": "LIBERTY DAY CELEBRATION",
 		"description": "Super Earth, our home, is the center of Liberty Day Festivities. Together, all citizens can watch on television the annual Defense Parade, the Justice Executions, and of course, the Freedom Fireworks. \n\nOn this special day, Helldivers are encouraged to visit Super Earth and watch this year's fireworks from their Super Destroyers."
 	},
-	"1330": {
-		"galacticEffectId": 1330,
-		"name": "fireworks",
-		"description": "Description not present"
-	},
 	"1342": {
 		"galacticEffectId": 1342,
 		"name": "CENTER FOR THE CONFINEMENT OF DISSIDENCE (CECOD)",
@@ -683,11 +678,6 @@
 		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
 		"galacticEffectId": 1361,
 		"name": "CYBORGS"
-	},
-	"1362": {
-		"galacticEffectId": 1362,
-		"name": "bot_battle_intense",
-		"description": "Description not present"
 	},
 	"1373": {
 		"galacticEffectId": 1373,
