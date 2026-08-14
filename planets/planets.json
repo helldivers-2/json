@@ -7803,7 +7803,7 @@
 	},
 	"274": {
 		"name": "UVP ALPHA",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "deciduous_crimson",
 		"environmentals": [
 			"none"
@@ -7831,7 +7831,7 @@
 	},
 	"275": {
 		"name": "UVP GAMMA",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "oasis_bleak",
 		"environmentals": [
 			"none"
@@ -7860,7 +7860,7 @@
 	},
 	"276": {
 		"name": "VOID SOURCE PLANET",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "rift_active",
 		"environmentals": [
 			"none"
@@ -7876,7 +7876,7 @@
 	},
 	"277": {
 		"name": "UVP DELTA",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "swamp_haunted",
 		"environmentals": [
 			"none"
@@ -7905,7 +7905,7 @@
 	},
 	"278": {
 		"name": "UVP ALPHA Voidling",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "deciduous_crimson",
 		"environmentals": [
 			"none"
@@ -7933,7 +7933,7 @@
 	},
 	"279": {
 		"name": "UVP BETA",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "primordial_dead",
 		"environmentals": [
 			"none"
@@ -7961,7 +7961,7 @@
 	},
 	"280": {
 		"name": "Senge 23 Voidling",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "sandy_mineral",
 		"environmentals": [
 			"tremors"
@@ -7989,7 +7989,7 @@
 	},
 	"281": {
 		"name": "Hydrobius Voidling",
-		"sector": "Unknown",
+		"sector": "Void",
 		"biome": "sandy_spiky",
 		"environmentals": [
 			"tremors"
