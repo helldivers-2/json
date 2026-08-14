@@ -63,6 +63,10 @@
 		"name": "Desert Oasis",
 		"description": "Rolling dunes across a beatiful beach world. (UNOFFICIAL) "
 	},
+	"oasis_bleak": {
+		"name": "FILLIN",
+		"description": 3583266258
+	},
 	"primordial_base": {
 		"name": "Volcanic Jungle",
 		"description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."

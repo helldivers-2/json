@@ -7828,5 +7828,192 @@
 		"weather_effects": [
 			"normal_temp"
 		]
+	},
+	"275": {
+		"name": "UVP GAMMA ",
+		"sector": "TBD",
+		"biome": "oasis_bleak",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "UVP GAMMA",
+			"en-GB": "UVP GAMMA",
+			"pt-BR": "UVP GAMA",
+			"de-DE": "ULP GAMMA",
+			"es-ES": "UVP GAMMA",
+			"fr-FR": "UVP GAMMA",
+			"it-IT": "UVP GAMMA",
+			"ja-JP": "UVP\u30ac\u30f3\u30de",
+			"ko-KO": "UVP \uac10\ub9c8",
+			"ms-MY": "UVP GAMMA",
+			"pl-PL": "NPP GAMMA",
+			"pt-PT": "UVP GAMA",
+			"ru-RU": "\u041d\u041f\u0411 \u00ab\u0413\u0410\u041c\u041c\u0410\u00bb",
+			"zh-Hant": "UVP\u4f3d\u746a"
+		},
+		"type": "oasis",
+		"weather_effects": [
+			"normal_temp",
+			"sandstorms"
+		]
+	},
+	"276": {
+		"name": "VOID SOURCE PLANET ",
+		"sector": "TBD",
+		"biome": "rift_active",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "VOID SOURCE PLANET",
+			"en-GB": "VOID SOURCE PLANET"
+		},
+		"type": "grassland",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"277": {
+		"name": "UVP DELTA ",
+		"sector": "TBD",
+		"biome": "swamp_haunted",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "UVP DELTA",
+			"en-GB": "KEPLER-390b",
+			"pt-BR": "UVP DELTA",
+			"de-DE": "ULP DELTA",
+			"es-ES": "UVP DELTA",
+			"fr-FR": "UVP DELTA",
+			"it-IT": "UVP DELTA",
+			"ja-JP": "UVP\u30c7\u30eb\u30bf",
+			"ko-KO": "UVP \ub378\ud0c0",
+			"ms-MY": "UVP DELTA",
+			"pl-PL": "NPP DELTA",
+			"pt-PT": "UVP DELTA",
+			"ru-RU": "\u041d\u041f\u0411 \u00ab\u0414\u0415\u041b\u042c\u0422\u0410\u00bb",
+			"zh-Hant": "UVP\u5fb7\u723e\u5854"
+		},
+		"type": "swamp",
+		"weather_effects": [
+			"normal_temp",
+			"thick_fog"
+		]
+	},
+	"278": {
+		"name": "UVP ALPHA ",
+		"sector": "TBD",
+		"biome": "deciduous_crimson",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "UVP ALPHA",
+			"en-GB": "UVP ALPHA",
+			"pt-BR": "UVP ALFA",
+			"de-DE": "ULP ALPHA",
+			"es-ES": "UVP ALFA",
+			"fr-FR": "UVP ALPHA",
+			"it-IT": "UVP ALFA",
+			"ja-JP": "UVP\u30a2\u30eb\u30d5\u30a1",
+			"ko-KO": "UVP \uc54c\ud30c",
+			"ms-MY": "UVP ALFA",
+			"pl-PL": "NPP ALFA",
+			"pt-PT": "UVP ALFA",
+			"ru-RU": "\u041d\u041f\u0411 \u00ab\u0410\u041b\u042c\u0424\u0410\u00bb",
+			"zh-Hant": "UVP\u963f\u723e\u6cd5"
+		},
+		"type": "forest",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"279": {
+		"name": "UVP BETA ",
+		"sector": "TBD",
+		"biome": "primordial_dead",
+		"environmentals": [
+			"none"
+		],
+		"names": {
+			"en-US": "UVP BETA",
+			"en-GB": "UVP BETA",
+			"pt-BR": "UVP BETA",
+			"de-DE": "ULP BETA",
+			"es-ES": "UVP BETA",
+			"fr-FR": "UVP B\u00caTA",
+			"it-IT": "UVP BETA",
+			"ja-JP": "UVP\u30d9\u30fc\u30bf",
+			"ko-KO": "UVP \ubca0\ud0c0",
+			"ms-MY": "UVP BETA",
+			"pl-PL": "NPP BETA",
+			"pt-PT": "UVP BETA",
+			"ru-RU": "\u041d\u041f\u0411 \u00ab\u0411\u0415\u0422\u0410\u00bb",
+			"zh-Hant": "UVP\u8c9d\u5854"
+		},
+		"type": "primordial",
+		"weather_effects": [
+			"thick_fog"
+		]
+	},
+	"280": {
+		"name": "SENGE 23 ",
+		"sector": "TBD",
+		"biome": "sandy_mineral",
+		"environmentals": [
+			"tremors"
+		],
+		"names": {
+			"en-US": "SENGE 23",
+			"en-GB": "SENGE 23",
+			"pt-BR": "SENGE 23",
+			"de-DE": "SENGE 23",
+			"es-ES": "SENGE 23",
+			"fr-FR": "SENGAY\u00a023",
+			"it-IT": "SENGE 23",
+			"ja-JP": "\u30bb\u30f3\u30b2\u30a423",
+			"ko-KO": "\uc13c\uac8c\uc774 23",
+			"ms-MY": "SENGE 23",
+			"pl-PL": "SENGE 23",
+			"pt-PT": "SENGE 23",
+			"ru-RU": "\u0421\u0415\u041d\u0416\u0415-23",
+			"zh-Hant": "\u4ed9\u84cb23\u865f"
+		},
+		"type": "desert",
+		"weather_effects": [
+			"normal_temp"
+		]
+	},
+	"281": {
+		"name": "HYDROBIUS ",
+		"sector": "TBD",
+		"biome": "sandy_spiky",
+		"environmentals": [
+			"tremors"
+		],
+		"names": {
+			"en-US": "HYDROBIUS",
+			"en-GB": "HYDROBIUS",
+			"pt-BR": "HYDROBIUS",
+			"de-DE": "HYDROBIUS",
+			"es-ES": "HYDROBIUS",
+			"fr-FR": "HYDROBIUS",
+			"it-IT": "HYDROBIUS",
+			"ja-JP": "\u30cf\u30a4\u30c9\u30ed\u30d3\u30a6\u30b9",
+			"ko-KO": "\ud558\uc774\ub4dc\ub85c\ube44\uc6b0\uc2a4",
+			"ms-MY": "HYDROBIUS",
+			"pl-PL": "HYDROBIUS",
+			"pt-PT": "HYDROBIUS",
+			"ru-RU": "\u0413\u0418\u0414\u0420\u041e\u0411\u0418\u0423\u0421",
+			"zh-Hant": "\u54c8\u5353\u7562\u4e9e\u65af"
+		},
+		"type": "desert",
+		"weather_effects": [
+			"intense_heat",
+			"normal_temp"
+		]
 	}
 }
