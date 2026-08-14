@@ -7746,7 +7746,7 @@
 		]
 	},
 	"264": {
-		"name": "NEW INSIGHT ",
+		"name": "NEW INSIGHT",
 		"sector": "TBD",
 		"biome": "magma_base",
 		"environmentals": [
@@ -7774,7 +7774,7 @@
 		]
 	},
 	"265": {
-		"name": "WAYWARD ",
+		"name": "WAYWARD",
 		"sector": "TBD",
 		"biome": "magma_base",
 		"environmentals": [
@@ -7802,8 +7802,8 @@
 		]
 	},
 	"274": {
-		"name": "UVP ALPHA ",
-		"sector": "TBD",
+		"name": "UVP ALPHA",
+		"sector": "Unknown",
 		"biome": "deciduous_crimson",
 		"environmentals": [
 			"none"
@@ -7830,8 +7830,8 @@
 		]
 	},
 	"275": {
-		"name": "UVP GAMMA ",
-		"sector": "TBD",
+		"name": "UVP GAMMA",
+		"sector": "Unknown",
 		"biome": "oasis_bleak",
 		"environmentals": [
 			"none"
@@ -7859,8 +7859,8 @@
 		]
 	},
 	"276": {
-		"name": "VOID SOURCE PLANET ",
-		"sector": "TBD",
+		"name": "VOID SOURCE PLANET",
+		"sector": "Unknown",
 		"biome": "rift_active",
 		"environmentals": [
 			"none"
@@ -7875,8 +7875,8 @@
 		]
 	},
 	"277": {
-		"name": "UVP DELTA ",
-		"sector": "TBD",
+		"name": "UVP DELTA",
+		"sector": "Unknown",
 		"biome": "swamp_haunted",
 		"environmentals": [
 			"none"
@@ -7904,8 +7904,8 @@
 		]
 	},
 	"278": {
-		"name": "UVP ALPHA ",
-		"sector": "TBD",
+		"name": "UVP ALPHA The Second",
+		"sector": "Unknown",
 		"biome": "deciduous_crimson",
 		"environmentals": [
 			"none"
@@ -7932,8 +7932,8 @@
 		]
 	},
 	"279": {
-		"name": "UVP BETA ",
-		"sector": "TBD",
+		"name": "UVP BETA",
+		"sector": "Unknown",
 		"biome": "primordial_dead",
 		"environmentals": [
 			"none"
@@ -7960,8 +7960,8 @@
 		]
 	},
 	"280": {
-		"name": "SENGE 23 ",
-		"sector": "TBD",
+		"name": "Senge 23 Voidling",
+		"sector": "Unknown",
 		"biome": "sandy_mineral",
 		"environmentals": [
 			"tremors"
@@ -7988,8 +7988,8 @@
 		]
 	},
 	"281": {
-		"name": "HYDROBIUS ",
-		"sector": "TBD",
+		"name": "Hydrobius Voidling",
+		"sector": "Unknown",
 		"biome": "sandy_spiky",
 		"environmentals": [
 			"tremors"
