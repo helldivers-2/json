@@ -32,8 +32,8 @@
 		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
 	},
 	"deciduous_crimson": {
-		"name": "ACCESS DENIED",
-		"description": "THIS BIOME IS UNKNOWN AT THIS TIME"
+		"name": "Deciduous Crimson Forest",
+		"description": "Description pending"
 	},
 	"deciduous_fall": {
 		"name": "Deciduous Autumn Forest",
@@ -62,6 +62,10 @@
 	"oasis_base": {
 		"name": "Desert Oasis",
 		"description": "Rolling dunes across a beatiful beach world. (UNOFFICIAL) "
+	},
+	"oasis_bleak": {
+		"name": "Bleak Oasis",
+		"description": "Description pending"
 	},
 	"primordial_base": {
 		"name": "Volcanic Jungle",
