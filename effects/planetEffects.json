@@ -764,6 +764,11 @@
 		"name": "VOID GATEWAY",
 		"description": "This planet serves as a connective point between this galaxy and the Void, allowing travel between the two spaces."
 	},
+	"1412": {
+		"galacticEffectId": 1412,
+		"name": "ANOMALY LOCATION",
+		"description": "All readings, or the notable lack thereof, indicate that the source of the Void anomaly is located here. All effort must go to enabling FTL travel to these coordinates."
+	},
 	"1413": {
 		"galacticEffectId": 1413,
 		"name": "INVASION FLEET (Enemies)",
