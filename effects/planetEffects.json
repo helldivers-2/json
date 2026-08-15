@@ -754,9 +754,24 @@
 		"name": "VOTE SNATCHERS",
 		"description": "The Illuminate have unleashed the next wave of their democratically voided thralls on this planet. Expect violent voter suppression tactics."
 	},
+	"1406": {
+		"galacticEffectId": 1406,
+		"name": "SIDEBOARD VOID",
+		"description": "This planet is within a SIDEBOARD area, specifically SIDEBOARD VOID"
+	},
 	"1407": {
 		"galacticEffectId": 1407,
 		"name": "VOID GATEWAY",
 		"description": "This planet serves as a connective point between this galaxy and the Void, allowing travel between the two spaces."
+	},
+	"1413": {
+		"galacticEffectId": 1413,
+		"name": "INVASION FLEET (Enemies)",
+		"description": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+	},
+	"1414": {
+		"galacticEffectId": 1414,
+		"name": "INVASION FLEET",
+		"description": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
 	}
 }
