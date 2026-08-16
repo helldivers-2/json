@@ -7802,7 +7802,7 @@
 		]
 	},
 	"274": {
-		"name": "UVP Alpha",
+		"name": "UVP ALPHA (Unused)",
 		"sector": "TBD",
 		"biome": "deciduous_crimson",
 		"environmentals": [
@@ -7861,6 +7861,7 @@
 	"276": {
 		"name": "VOID SOURCE PLANET",
 		"sector": "Void",
+		"alias": "Anomalous Location",
 		"biome": "rift_active",
 		"environmentals": [
 			"none"
