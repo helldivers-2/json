@@ -7830,7 +7830,7 @@
 		]
 	},
 	"275": {
-		"name": "UVP Gamma (Void)",
+		"name": "UVP Gamma - Void",
 		"sector": "Void",
 		"biome": "oasis_bleak",
 		"environmentals": [
@@ -7876,7 +7876,7 @@
 		]
 	},
 	"277": {
-		"name": "UVP Delta (Void)",
+		"name": "UVP Delta - Void",
 		"sector": "Void",
 		"biome": "swamp_haunted",
 		"environmentals": [
@@ -7905,7 +7905,7 @@
 		]
 	},
 	"278": {
-		"name": "UVP Alpha (Void)",
+		"name": "UVP Alpha - Void",
 		"sector": "Void",
 		"biome": "deciduous_crimson",
 		"environmentals": [
@@ -7933,7 +7933,7 @@
 		]
 	},
 	"279": {
-		"name": "UVP Beta (Void)",
+		"name": "UVP Beta - Void",
 		"sector": "Void",
 		"biome": "primordial_dead",
 		"environmentals": [
@@ -7961,7 +7961,7 @@
 		]
 	},
 	"280": {
-		"name": "Senge 23 (Void)",
+		"name": "Senge 23 - Void",
 		"sector": "Void",
 		"biome": "sandy_mineral",
 		"environmentals": [
@@ -7989,7 +7989,7 @@
 		]
 	},
 	"281": {
-		"name": "Hydrobius (Void)",
+		"name": "Hydrobius - Void",
 		"sector": "Void",
 		"biome": "sandy_spiky",
 		"environmentals": [
