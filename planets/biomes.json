@@ -24,7 +24,7 @@
 		"description": "Cyberstan, once again, forms the axis of the Cyborg Legion's insurrection. Massive Megafactories cover its surface, churning out mechanical armies and weapons of mass extinction."
 	},
 	"deciduous_autumn": {
-		"name": "Deciduous Autumn Forest",
+		"name": "Autumn Forest",
 		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
 	},
 	"deciduous_base": {
@@ -32,12 +32,12 @@
 		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
 	},
 	"deciduous_crimson": {
-		"name": "Deciduous Crimson Forest",
-		"description": "Description pending"
+		"name": "Crimson Forest",
+		"description": "Twisted trees bear unearthly white petals which fall like snow upon a sea of cherry-red grass. (Unoffical Description!)"
 	},
 	"deciduous_fall": {
-		"name": "Deciduous Autumn Forest",
-		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (UNOFFICIAL)"
+		"name": "Autumn Forest",
+		"description": "Broadleaf woodlands spread across rolling hills, broken by shallow waters that wind through mossy logs, flowers, and stone. (Unoffical Description!)"
 	},
 	"magma_base": {
 		"name": "Magma",
@@ -61,11 +61,11 @@
 	},
 	"oasis_base": {
 		"name": "Desert Oasis",
-		"description": "Rolling dunes across a beatiful beach world. (UNOFFICIAL) "
+		"description": "Rolling dunes across a beatiful beach world.  (Unoffical Description!) "
 	},
 	"oasis_bleak": {
 		"name": "Bleak Oasis",
-		"description": "Description pending"
+		"description": "Dry, windswept dunes trudge on under an eerie halflight, broken only by clusters of struggling palms crouching limply over shallow oases.  (Unoffical Description!)"
 	},
 	"primordial_base": {
 		"name": "Volcanic Jungle",
@@ -88,8 +88,8 @@
 		"description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
 	},
 	"rift_active": {
-		"name": "ACCESS DENIED",
-		"description": "THIS BIOME IS UNKNOWN AT THIS TIME"
+		"name": "Void Forest",
+		"description": "Seasse when horrifically twisted by the void."
 	},
 	"sandy_acid": {
 		"name": "Acidic Badlands",
