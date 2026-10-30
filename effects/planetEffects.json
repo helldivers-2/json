@@ -778,5 +778,20 @@
 		"galacticEffectId": 1414,
 		"name": "INVASION FLEET",
 		"description": "The main invasion fleet of the Illuminate, from arrogant Overseers to throngs of brainwashed Super Earth civilians, are present on this planet. Exterminate on sight or else risk violent resistance, or worse, treasonous propaganda."
+	},
+	"1418": {
+		"galacticEffectId": 1418,
+		"name": "Force Evacuation",
+		"description": "Super Earth is currently evacuating personnel from this planet."
+	},
+	"1430": {
+		"galacticEffectId": 1430,
+		"name": "CAUSTIC STRAIN (Enemies)",
+		"description": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
+	},
+	"1431": {
+		"galacticEffectId": 1431,
+		"name": "CAUSTIC STRAIN",
+		"description": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
 	}
 }
