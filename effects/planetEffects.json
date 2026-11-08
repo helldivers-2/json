@@ -793,5 +793,20 @@
 		"galacticEffectId": 1431,
 		"name": "CAUSTIC STRAIN",
 		"description": "A strain of Terminids with highly alkaline bile sacs have infested this planet. Prepare to face enemies that discharge corrosive fluids and burst violently upon death."
+	},
+	"1432": {
+		"galacticEffectId": 1432,
+		"name": "HIVE WORLD",
+		"description": "This planet has been completely infested by the Terminids, transformed inside and out into a hive of Tyranny. It is a source of Gloom spores."
+	},
+	"1433": {
+		"galacticEffectId": 1433,
+		"name": "NOXIOUS STRAIN",
+		"description": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
+	},
+	"1434": {
+		"galacticEffectId": 1434,
+		"name": "NOXIOUS STRAIN (Enemies)",
+		"description": "A strain of Terminids with toxin-secreting glands is lurking on this planet. Prepare to face enemies that strike with incapacitating venom."
 	}
 }
